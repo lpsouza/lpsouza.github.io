@@ -1,0 +1,110 @@
+# main text of home
+name: Luiz Pereira de Souza Filho
+bio: Tecnólogo em Segurança da Informação, consultor em Cloud Computing, desenvolvedor Web-Mobile e professor.
+
+# twitter summary info
+description: Tecnólogo em Segurança da Informação, consultor em Cloud Computing, desenvolvedor Web-Mobile e professor.
+
+# if it's an external image, update below for true
+# better with square images
+external-image: true
+picture: https://www.gravatar.com/avatar/ce87a4c115c24ba10709878170134546?s=150
+
+# If you want to include your resume, set to true
+# and specify source (external or local).
+resume: true
+resume-external: true
+resume-url: https://www.linkedin.com/in/lpsouza/
+
+# url: https://luizsouza.com.br
+# url: https://lpsouza.github.io
+url: http://127.0.0.1:4000
+
+permalink: /:title/
+
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
+
+# To enable piwik tracking, supply your url & site ID below
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+# if you don't want comments in your posts, leave categories empty
+disqus:
+  shortname: luiz-souza # enter this from your disqus account
+  categories: [blog] # only show disqus for posts that have these categories
+
+# if you don't have any of social below, comment the line
+# facebook: lpsouza
+twitter: lpsouza
+google: LuizPereiraDeSouzaFilho
+instagram: lpsouza
+# pinterest: lpsouza
+# linkedin: lpsouza
+# youtube: lpsouza
+# spotify: lpsouza
+github: lpsouza
+# gitlab: ???
+# lastfm: lpsouza
+# stackoverflow: ???
+# quora: ???
+# reddit: ???
+medium: lpsouza
+# vimeo: lpsouza
+# lanyrd: ???
+email: lpsouza@gmail.com
+
+authors:
+    lpsouza:
+        name: Luiz Pereira de Souza Filho
+        bio: Absorvendo a cultura devops desde 1997, hoje engenheiro de computação em núvem na <a href="https://umbler.com">Umbler</a> e professor no curso técnico em informática na <a href="https://ienh.com.br">IENH</a>.
+        external-image: true
+        picture: https://www.gravatar.com/avatar/ce87a4c115c24ba10709878170134546?s=150
+        twitter: lpsouza
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: large
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: false
+
+# if you don't need "about" or "blog", comment them out below
+about: true
+blog: true
+
+# do you want to show the "read time" of the posts?
+read-time: true
+
+# do you want to show the "tags" inside the posts?
+show-tags: true
+
+# related posts inside a post?
+related: true
+
+# Display links for next and previous posts for the specified categories
+post-advance-links: []
+
+# show author block at the end of a post ?
+show-author: true
+
+# do you want some animations?
+animation: false
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
+
+whitelist:
+  - jekyll-seo-tag
+
+jekyll-mentions:
+    base_url: https://github.com

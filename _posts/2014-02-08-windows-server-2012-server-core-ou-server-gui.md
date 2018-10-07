@@ -1,0 +1,54 @@
+---
+id: 1299
+title: 'Windows Server 2012: Server Core ou Server GUI?'
+date: 2014-02-08T20:39:06+00:00
+author: lpsouza
+layout: post
+guid: http://ihcenter.com.br/luizsouza/?p=1299
+permalink: /2014/02/08/windows-server-2012-server-core-ou-server-gui/
+image: /wp-content/uploads/2014/02/IC2357571.png
+headerImage: false
+star: false
+category: blog
+categories:
+  - TIC
+tags:
+  - Computadores
+  - Fica a dica
+  - Informática
+  - PowerShell
+  - Server
+  - Server Core
+  - Server GUI
+  - Windows
+  - Windows Server
+  - Windows Server 2012
+---
+Estou configurando um servidor no meu notebook (máquina virtual no Hyper-V) e me deparei com a questão de qual tipo de instalação deveria escolher, a _Server Core_ ou a _Server GUI_? Primeiro, vamos entender o que cada uma impacta na instalação:<!--more-->
+
+**Server GUI**: É a versão que todos conhecem do servidor, isto é, vem completa a interface de administração. Em resumo, é a velha carinha de qualquer Windows que conhecemos (na realidade, o Server 2012 tem uma cara mais simples do Windows 8).
+
+**Server Core**: Uma versão de instalação criada desde o Server 2008, onde apenas um prompt de comando é colocado como interação do usuário. Lembra muito a ideia de um linux server (normalmente apenas em modo console).
+
+Ok, mas porque uma ou porque a outra? Depende do uso do servidor. Vamos a um exemplo: Um servidor apenas para banco de dados SQL Server, não precisamos de uma tela com iniciar e tudo mais. Outro exemplo: Um servidor de RDS (Remote Desktop Services), bom, preciso inicialmente de um desktop, por tanto um servidor completo.
+
+Agora, quanto ao primeiro exemplo, você pode pensar: &#8220;Tá, mas ter ou não ter interface desktop no servidor tanto faz!&#8221; E já te digo que faz diferença sim! Esse conceito de &#8220;Server Core&#8221; vem do linux, que por sua vez tem uma performance muito boa, e muito se dá justamente porque ele nativamente não tem infra estrutura de desktop. Então, normalmente ganho seus 2 Gb de espaço em disco, e o uso da memória, que não precisa de informações gráficas (quase).
+
+Disse logo acima, que o tipo &#8220;Server Core&#8221; veio desde o Windows Server 2008, mas também um problema assim: Ou um, ou outro! Problema que no Server 2012 eles arrumaram! (Coisa boa!) Em resumo, tanto faz a instalação que tu colocar no inicio, tem como converter em na outra!
+
+Como faz isso? PowerShell!
+
+Para fazer essas mudanças, podemos usar os comandos Install-WindowsFeature e Uninstall-WindowsFeature, junto com as features abaixo:
+
+  * _Server-Gui-Mgmt-Infra_: Interface Mínima do Servidor
+  * _Server-Gui-Shell_: Interface básica desktop
+  * _Desktop-Experience_: Interface com experiência do usuário (fica quase como um Windows 8)
+
+Então, os comandos ficam:
+
+  * Server Core: _Uninstall-WindowsFeature Server-Gui-Mgmt-Infra -Restart_
+  * Server GUI: _Install-WindowsFeature Server-Gui-Mgmt-Infra,Server-Gui-Shell –Restart_
+
+<span style="line-height: 1.5;">E está aí, agora podemos usar o modo Server GUI para instalar tudo que precisa e depois mudar para o modo Server Core! Microsoft a cada atualização está melhorando mais! (Daí é eu postar isso, uma atualização do Windows Update me detona a instalação! &#8211; Brincadeira!) 😛</span>
+
+via <a title="Opções de Instalação do Windows Server [Microsoft]" href="http://technet.microsoft.com/pt-br/library/hh831786.aspx" target="_blank">Opções de Instalação do Windows Server</a>
