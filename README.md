@@ -2,7 +2,7 @@
 
 This repository contains the files of my humble website!
 
-My website has originally created with Wordpress and i have have a hard work to migrate to Jekyll!
+My website was originally created with Wordpress and i have a hard work to migrate to Jekyll!
 
 ## Working in progress
 
