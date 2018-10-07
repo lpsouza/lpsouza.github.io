@@ -17,8 +17,8 @@ resume-external: true
 resume-url: https://www.linkedin.com/in/lpsouza/
 
 # url: https://luizsouza.com.br
-# url: https://lpsouza.github.io
-url: http://127.0.0.1:4000
+url: https://lpsouza.github.io
+# url: http://127.0.0.1:4000
 
 permalink: /:title/
 
