@@ -27,9 +27,9 @@ tags:
   - Update
   - Upgrade
 ---
-<img class="alignnone size-medium wp-image-439" src="http://ihcenter.com.br/luizsouza/files/2010/09/era-digital-300x213.jpg" alt="" width="300" height="213" />
+<img class="alignnone size-medium wp-image-439" src="wp-content/upload/2010/09/era-digital-300x213.jpg" alt="" width="300" height="213" />
 
-Como estamos na &#8220;Era Digital&#8221;, foi necessário rever os velhos ditados existentes e adaptá-los a nova realidade. Veja abaixo&#8230;.
+Como estamos na "Era Digital", foi necessário rever os velhos ditados existentes e adaptá-los a nova realidade. Veja abaixo....
   
 1. A pressa é inimiga da conexão.
   
@@ -59,7 +59,7 @@ Como estamos na &#8220;Era Digital&#8221;, foi necessário rever os velhos ditad
   
 14. Quem com vírus infecta, com vírus será infectado.
   
-15. Quem envia o que quer, recebe o que não quer&#8230;
+15. Quem envia o que quer, recebe o que não quer...
   
 16. Quem não tem banda larga, caça com modem.
   
@@ -75,4 +75,4 @@ Como estamos na &#8220;Era Digital&#8221;, foi necessário rever os velhos ditad
   
 22. Aluno de informática não cola, faz backup.
   
-23. Na informática nada se perde nada se cria. Tudo se copia&#8230; E depois se cola.
+23. Na informática nada se perde nada se cria. Tudo se copia... E depois se cola.

@@ -25,8 +25,8 @@ tags:
   - Spellfire
   - Wordpress
 ---
-Bom, este nem é um projeto tãããoo novo assim, é na realidade um projeto &#8220;pausado&#8221; que resolvi retomar com meus amigos da rua, amantes de RPG e Spellfire &#8211; Master the Magic.
+Bom, este nem é um projeto tãããoo novo assim, é na realidade um projeto "pausado" que resolvi retomar com meus amigos da rua, amantes de RPG e Spellfire - Master the Magic.
 
-A idéia é simples: Ser um blog referencia a histórias de RPG que nossa turma passa na mesa de jogo, e discutir regras de Spellfire. Mas nesse papo de discutir regras, é no quesito de regras originais, e questões pertinentes, não ficar inventando regras com a desculpa de &#8220;melhorar a jogabilidade&#8221; deste super TCG!
+A idéia é simples: Ser um blog referencia a histórias de RPG que nossa turma passa na mesa de jogo, e discutir regras de Spellfire. Mas nesse papo de discutir regras, é no quesito de regras originais, e questões pertinentes, não ficar inventando regras com a desculpa de "melhorar a jogabilidade" deste super TCG!
 
 Bom, conheçam mais aqui: <a href="http://spellfire.com.br" target="_blank">http://spellfire.com.br</a>

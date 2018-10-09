@@ -30,18 +30,18 @@ tags:
 ---
 Agora a pouco liguei meu notebook no meu Windows 10, já que fazia uns dias que só estava usando o meu Linux e quando fui abrir meu Google Chrome, me deparei com esta mensagem abaixo:
 
-&#8220;A aplicação não pôde ser inicializado corretamente (0xc0000018). Clique em OK para fechar o aplicativo.&#8221;
+"A aplicação não pôde ser inicializado corretamente (0xc0000018). Clique em OK para fechar o aplicativo."
 
-Bom, logo pensei: Bah! O Chrome corrompeu! Vou abrir o Edge para verificar isso no Google&#8230; E para a minha surpresa, também deu o mesmo erro! E adivinhem se o Internet Explorer não estava apresentando o mesmo erro?!??
+Bom, logo pensei: Bah! O Chrome corrompeu! Vou abrir o Edge para verificar isso no Google... E para a minha surpresa, também deu o mesmo erro! E adivinhem se o Internet Explorer não estava apresentando o mesmo erro?!??
 
-Então via smartphone, achei esta solução: [Fixing &#8220;the application was unable to start correctly (0xc0000018)&#8221; in Windows](http://www.ghacks.net/2015/10/16/fixing-the-application-was-unable-to-start-correctly-0xc0000018-in-windows/).
+Então via smartphone, achei esta solução: [Fixing "the application was unable to start correctly (0xc0000018)" in Windows](http://www.ghacks.net/2015/10/16/fixing-the-application-was-unable-to-start-correctly-0xc0000018-in-windows/).
 
 A solução para mim foi um pouco diferente do que ele comenta no post, mas foi o caminho da solução:
 
   1. Abra o executar e digite: regedit (e clique em OK).
   2. Confirme que você quer executar o Regedit.
   3. Navegue nas pastas até HKEY\_LOCAL\_MACHINE\SOFTWARE\Wow6432Node\­Microsoft\WindowsNT\CurrentVersion\Windo­­ws
-  4. Localize a chave &#8220;APPINIT_DLLS&#8221;, <del>dê um duplo clique e delete todos os caracteres</del> delete esta chave.
+  4. Localize a chave "APPINIT_DLLS", <del>dê um duplo clique e delete todos os caracteres</del> delete esta chave.
 
 Reiniciando o computador, consegui acesso a todos os executáveis que estavam dando erro de acesso!
 

@@ -27,7 +27,7 @@ tags:
 Bah, quer algo mais prático do que navegar no youtube sem abrir o navegador?
 
 <p style="text-align: center">
-  <a href="http://tecnoblog.net/87067/youtube-ubuntu/"><img src='http://ihcenter.com.br/luizsouza/files/2012/01/Screenshot-at-2012-01-02-155617-600x387.png' alt='' /></a>
+  <a href="http://tecnoblog.net/87067/youtube-ubuntu/"><img src='wp-content/upload/2012/01/Screenshot-at-2012-01-02-155617-600x387.png' alt='' /></a>
 </p>
 
 Então nem vamos perder mais tempo:

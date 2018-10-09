@@ -28,7 +28,7 @@ tags:
 &nbsp;
 
 <p style="text-align: center">
-  <a href="https://www.pwc.com/br/giss2012"><img src='http://ihcenter.com.br/luizsouza/files/2011/12/giss-2012-capa.jpg' alt='' /></a>
+  <a href="https://www.pwc.com/br/giss2012"><img src='wp-content/upload/2011/12/giss-2012-capa.jpg' alt='' /></a>
 </p>
 
 > Como as empresas estão conduzindo a segurança da informação em momentos de instabilidade econômica? Para responder a essa pergunta, a PwC, em conjunto com a CIO Magazine e a CSO Magazine, divulga a nona edição da Pesquisa Global de Segurança da Informação 2012. Mais de 9.600 executivos de 138 países participaram do estudo. O Brasil teve uma participação relativa de 10% nesta edição, o que representou um salto significativo em comparação à edição anterior.

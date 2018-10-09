@@ -30,8 +30,8 @@ tags:
 > 
 > A reportagem é de Benedetto Vecchi, publicada no jornal Il Manifesto, 26-09-2010. A tradução é de Moisés Sbardelotto.
 > 
-> Mobilizações e protestos que provocaram, até o momento, uma rápida ordem de retirada da Sociedade de Mountain View e da sua aliada Verizon. Porém, o princípio da neutralidade da rede não é só violado porque faltam regras &#8220;globais&#8221; certas, mas também porque se intensificaram as intervenções de alguns Estados soberanos para censurar a rede, justamente quando a Internet está se tornando uma mídia verdadeiramente global.
+> Mobilizações e protestos que provocaram, até o momento, uma rápida ordem de retirada da Sociedade de Mountain View e da sua aliada Verizon. Porém, o princípio da neutralidade da rede não é só violado porque faltam regras "globais" certas, mas também porque se intensificaram as intervenções de alguns Estados soberanos para censurar a rede, justamente quando a Internet está se tornando uma mídia verdadeiramente global.
 > 
-> (&#8230;)
+> (...)
 
-via [IHU &#8211; Instituto Humanitas Unisinos](http://www.ihu.unisinos.br/index.php?option=com_noticias&Itemid=18&task=detalhe&id=36838).
+via [IHU - Instituto Humanitas Unisinos](http://www.ihu.unisinos.br/index.php?option=com_noticias&Itemid=18&task=detalhe&id=36838).

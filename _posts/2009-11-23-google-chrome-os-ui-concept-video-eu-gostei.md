@@ -1,6 +1,6 @@
 ---
 id: 270
-title: 'Google Chrome OS UI Concept Video &#8211; Eu gostei!'
+title: 'Google Chrome OS UI Concept Video - Eu gostei!'
 date: 2009-11-23T22:23:32+00:00
 author: lpsouza
 layout: post
@@ -29,6 +29,6 @@ tags:
 ---
 Esse video vale ver em tela cheia!!! (HD)
 
-Parece que realmente vai ser um SO muito pratico para maquinas &#8220;leves&#8221;, como os Netbooks!
+Parece que realmente vai ser um SO muito pratico para maquinas "leves", como os Netbooks!
 
 Apreciem sem moderação!!!

@@ -30,7 +30,7 @@ tags:
 </p>
 
 <p style="text-align: justify">
-  Ok! Mas hoje isso muda! Li na internet, para ser mais exato um artigo sobre hamachi no slackware na página &#8220;Feel slack mood&#8221;, com o título: &#8220;<a href="http://nitrogl.blogspot.com.br/2012/04/free-hamachi-gui-client-for-linux.html" target="_blank">Free Hamachi GUI Client for Linux</a>&#8220;. Tá certo que lendo, não parece que isso iria mudar meu problema aqui na Universidade, mas&#8230; No tópico &#8220;Making hamachi usable behind an http proxy&#8221;, me bateu uma idéia!
+  Ok! Mas hoje isso muda! Li na internet, para ser mais exato um artigo sobre hamachi no slackware na página "Feel slack mood", com o título: "<a href="http://nitrogl.blogspot.com.br/2012/04/free-hamachi-gui-client-for-linux.html" target="_blank">Free Hamachi GUI Client for Linux</a>". Tá certo que lendo, não parece que isso iria mudar meu problema aqui na Universidade, mas... No tópico "Making hamachi usable behind an http proxy", me bateu uma idéia!
 </p>
 
 <p style="text-align: justify">

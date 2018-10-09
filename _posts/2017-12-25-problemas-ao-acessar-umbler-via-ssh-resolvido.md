@@ -28,17 +28,17 @@ tags:
   - Umbler
   - Windows
 ---
-Faz alguns meses que estou usando a [Umbler](https://app.umbler.com/u/0jrm3d6k) como meu provedor de hospedagem de sites (ué? Tu não tinha um provedor próprio? a [IHCenter](https://ihcenter.com.br/)? &#8211; É, tinha&#8230; Essa fica para outro post!) e uma coisa muito legal que esta equipe do coala fornecesse é o acesso via SSH, tornando muito mais prática a vida do desenvolvedor de raiz! Pois muito bem, para configurar é extremamente simples, indo apenas pelo painel de controle deles (chamado carinhosamente de APP) e com alguns clicks, tanto em Windows, quanto Linux ou até mesmo MAC, vocês configuram este tipo de acesso. Ah sim! Sugiro configurar com uso de chave pública, porque permite configurações de publicação com uso de GIT (Próprio, Github ou Bitbucket)!
+Faz alguns meses que estou usando a [Umbler](https://app.umbler.com/u/0jrm3d6k) como meu provedor de hospedagem de sites (ué? Tu não tinha um provedor próprio? a [IHCenter](https://ihcenter.com.br/)? - É, tinha... Essa fica para outro post!) e uma coisa muito legal que esta equipe do coala fornecesse é o acesso via SSH, tornando muito mais prática a vida do desenvolvedor de raiz! Pois muito bem, para configurar é extremamente simples, indo apenas pelo painel de controle deles (chamado carinhosamente de APP) e com alguns clicks, tanto em Windows, quanto Linux ou até mesmo MAC, vocês configuram este tipo de acesso. Ah sim! Sugiro configurar com uso de chave pública, porque permite configurações de publicação com uso de GIT (Próprio, Github ou Bitbucket)!
 
-**Se você não quer ler toda a história, vá direto na &#8220;Receita de bolo&#8221;! 😉**
+**Se você não quer ler toda a história, vá direto na "Receita de bolo"! 😉**
 
-Ok, eis que configurei e tudo estava indo bem, até chegar no meu primeiro acesso, usando o Windows 10 e o sistema &#8220;Ubuntu on Windows&#8221; (esse papo também merece um post próprio) fui usar o programa ssh e aí&#8230; Caboom! Erro!
+Ok, eis que configurei e tudo estava indo bem, até chegar no meu primeiro acesso, usando o Windows 10 e o sistema "Ubuntu on Windows" (esse papo também merece um post próprio) fui usar o programa ssh e aí... Caboom! Erro!
 
 `Unable to negotiate with X.X.X.X port X: no matching host key type found. Their offer: ssh-dss`
 
 E aí?!?? O que foi? Como aconteceu? Mazem?!??
 
-Ok, entendendo de Google Translator, o erro diz: &#8220;Não foi possível negociar com  X.X.X.X porta X: nenhum tipo de chave de host correspondente encontrado. Sua oferta: ssh-dss&#8221;. Bom, erro é na forma de negociar a criptografia com a Umbler! E agora?!?? Em uma breve pesquisa na internet achei esse post no askubuntu com título: _SSH returns: no matching host key type found. Their offer: ssh-dss_. E lá temos [esta resposta](https://askubuntu.com/a/836064): _The version of OpenSSH included in 16.04 disables ssh-dss_. Que numa tradução tosca de minha parte (without Google Translate agora) quer dizer: A versão do OpenSSH inclusa na versão 16.04 desabilitou o ssh-dss.
+Ok, entendendo de Google Translator, o erro diz: "Não foi possível negociar com  X.X.X.X porta X: nenhum tipo de chave de host correspondente encontrado. Sua oferta: ssh-dss". Bom, erro é na forma de negociar a criptografia com a Umbler! E agora?!?? Em uma breve pesquisa na internet achei esse post no askubuntu com título: _SSH returns: no matching host key type found. Their offer: ssh-dss_. E lá temos [esta resposta](https://askubuntu.com/a/836064): _The version of OpenSSH included in 16.04 disables ssh-dss_. Que numa tradução tosca de minha parte (without Google Translate agora) quer dizer: A versão do OpenSSH inclusa na versão 16.04 desabilitou o ssh-dss.
 
 **Receita de bolo!**
 

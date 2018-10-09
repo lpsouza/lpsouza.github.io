@@ -1,6 +1,6 @@
 ---
 id: 240
-title: 'Aviso aos navegantes do meu blog&#8230;'
+title: 'Aviso aos navegantes do meu blog...'
 date: 2009-10-09T14:20:06+00:00
 author: lpsouza
 layout: post

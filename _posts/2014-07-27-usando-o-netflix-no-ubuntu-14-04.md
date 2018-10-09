@@ -30,7 +30,7 @@ tags:
   - Windows
   - Wine
 ---
-Estou usando o **Ubuntu 14.04** no meu note e a tempos queria usar o Netflix nele, mas como para usar, precisa do <a title="Silverlight" href="http://pt.wikipedia.org/wiki/Silverlight" target="_blank">Silverlight</a> e este é proprietário da Microsoft, fica um pouco complicado&#8230; Será?
+Estou usando o **Ubuntu 14.04** no meu note e a tempos queria usar o Netflix nele, mas como para usar, precisa do <a title="Silverlight" href="http://pt.wikipedia.org/wiki/Silverlight" target="_blank">Silverlight</a> e este é proprietário da Microsoft, fica um pouco complicado... Será?
 
 Pesquisei na internet e encontrei um artigo bem legal no **Viva o Linux**, mas como todo o bom artigo para linux, nunca está 100% completo. Seja porque ele fala para instalar em uma versão, e tu está usando outra, ou porque tu não tem a biblioteca que o autor do artigo tinha quando escreveu, ou simplesmente porque ele esqueceu de algum passo. Isso não é relevante, porque eu fui atras e completei as lacunas!
 

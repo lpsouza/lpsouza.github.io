@@ -28,7 +28,7 @@ Dica boa!
 > _Se você está com o drive do sistema cheio e não quer particionar o HD, é possível mudar o local padrão de instalação de aplicativos no Windows. Basta mexer em um item no Registro. Para isso, rode o comando regedit e navegue, no lado esquerdo da janela, ao item HKEY\_LOCAL\_MACHINE > Software > Microsoft > Windows > CurrentVersion. Clique duas vezes em ProgramFilesDir e tecle uma nova pasta (que também pode ser em um drive diferente). Com isso, os programas serão instalados normalmente no diretório escolhido. Lembre-se de que mudanças no Registro podem comprometer o funcionamento do computador. Portanto, é recomendável fazer um backup do Registro antes de qualquer alteração e saber como recuperá-lo em caso de problemas._
 
 <p style="text-align: center">
-  <a href="http://info.abril.com.br/dicas/windows/mude-o-lugar-dos-programas-no-windows.shtml"><img src='http://ihcenter.com.br/luizsouza/files/2009/09/mude-o-local-dos-programas-20090904002122.jpg' alt='' /></a>
+  <a href="http://info.abril.com.br/dicas/windows/mude-o-lugar-dos-programas-no-windows.shtml"><img src='wp-content/upload/2009/09/mude-o-local-dos-programas-20090904002122.jpg' alt='' /></a>
 </p>
 
-via [Troque os programas de lugar &#8211; Dicas INFO &#8211; INFO Online](http://info.abril.com.br/dicas/windows/mude-o-lugar-dos-programas-no-windows.shtml).
+via [Troque os programas de lugar - Dicas INFO - INFO Online](http://info.abril.com.br/dicas/windows/mude-o-lugar-dos-programas-no-windows.shtml).

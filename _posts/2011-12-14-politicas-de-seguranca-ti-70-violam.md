@@ -24,7 +24,7 @@ tags:
   - SegInfo
   - Tecnologia
 ---
-Artigo de Maurício Renner conta um pouco de como as políticas de segurança na TI não estão sendo cumpridas. Os motivos são diversos (contando até &#8220;esquecimento&#8221;).
+Artigo de Maurício Renner conta um pouco de como as políticas de segurança na TI não estão sendo cumpridas. Os motivos são diversos (contando até "esquecimento").
 
 > Sete em cada dez profissionais admitiram violar políticas de TI com frequências variadas, segundo um levantamento feito pela Cisco com 2,8 mil universitários e jovens profissionais em 14 países, incluindo o Brasil. O levantamento Cisco Connected World Technology traz más notícias para os responsáveis pelas políticas de segurança de TI. Três em cada cinco profissionais 61% afirmam não serem responsável pela proteção de informações e dispositivos, acreditando que o departamento de TI e/ou provedores de serviços devem ser responsáveis por isso. Já no Brasil, 50% dos entrevistados acreditam ser responsáveis pela segurança de informações e dispositivos.
 

@@ -32,7 +32,7 @@ Imagino que o discador para o modo telefone deva ser um software para Windows XP
 Mas aqui está o brinquedo.. Leiam, procurem, morram de rir, etc..
 
 <p style="text-align: center">
-  <a href="http://francksalcebeck.blogspot.com/2009/09/celular-windows-xp.html"><img src='http://ihcenter.com.br/luizsouza/files/2009/09/XPPhone.jpg' alt='' /></a>
+  <a href="http://francksalcebeck.blogspot.com/2009/09/celular-windows-xp.html"><img src='wp-content/upload/2009/09/XPPhone.jpg' alt='' /></a>
 </p>
 
 > _CPU： AMD Super Mobile CPU_

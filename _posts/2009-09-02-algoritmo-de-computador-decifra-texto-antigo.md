@@ -25,4 +25,4 @@ A ideia de estudar Ciência da Computação foi pra isso.. (Momento [[wiki|Starg
 
 > _Pesquisadores de Israel desenvolveram um programa capaz de decifrar textos antigos anteriormente ilegíveis, abrindo caminho a um serviço de busca em estilo Google para documentos históricos.O programa utiliza um algoritmo de reconhecimento de padrões semelhante ao aplicado pelas organizações policiais para identificar e comparar impressões digitais._
 
-via [Algoritmo de computador decifra texto antigo &#8211; INFO Online &#8211; 02/09/2009](http://info.abril.com.br/noticias/ti/algoritmo-de-computador-decifra-texto-antigo-02092009-18.shl).
+via [Algoritmo de computador decifra texto antigo - INFO Online - 02/09/2009](http://info.abril.com.br/noticias/ti/algoritmo-de-computador-decifra-texto-antigo-02092009-18.shl).

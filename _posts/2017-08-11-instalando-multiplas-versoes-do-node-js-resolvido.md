@@ -26,7 +26,7 @@ tags:
   - Versions
   - Versões
 ---
-Eu nunca sei qual versão do Node.JS usar&#8230; A mais recente, onde tenho um monte de implementações novas como chamadas async, ou se uso a versão LTS e mantenho &#8220;tudo compatível&#8221;&#8230; Pois então, esse dilema é parte da minha vida de desenvolvedor em casa, onde sempre que posso uso a versão mais recente, mas quando vou usar algo de terceiro, como um ionic da vida, sempre tenho que desinstalar a versão mais recente e instalar a LTS.
+Eu nunca sei qual versão do Node.JS usar... A mais recente, onde tenho um monte de implementações novas como chamadas async, ou se uso a versão LTS e mantenho "tudo compatível"... Pois então, esse dilema é parte da minha vida de desenvolvedor em casa, onde sempre que posso uso a versão mais recente, mas quando vou usar algo de terceiro, como um ionic da vida, sempre tenho que desinstalar a versão mais recente e instalar a LTS.
 
 Ok, mas será que não existe um meio mais fácil?!?? Para usuários Linux e Mac, existia o NVM (Node Version Manager), mas nunca funcionou bem no seu port para Windows. Pois bem, parece que agora ele voa! 😀
 

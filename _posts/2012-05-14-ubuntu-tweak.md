@@ -24,7 +24,7 @@ tags:
   - Tweak
   - Ubuntu
 ---
-Desde a atualização do meu Ubuntu para o 12.04 eu perdi a barbada de mexer na minha tela de login (remover pontos do fundo, mudar o fundo, desligar o som, etc). Antes da 12.04 usava um script maneiro criado pelo <a title="Simple LightDM Manager: Altere o login do novo Ubuntu!" href="http://ubuntued.info/simple-lightdm-manager-altere-o-login-do-novo-ubuntu" target="_blank">Cláudio Novais (Ubuntued)</a>, o Simple LightDM. Em alguns minutos pesquisando na internet, achei um artigo no site Ask Ubuntu, o [How do I install Ubuntu-Tweak?](http://askubuntu.com/questions/75454/how-do-i-install-ubuntu-tweak), e vi que ele pode acessar as informações do login e desabilitar som, mudar logo, etc&#8230;
+Desde a atualização do meu Ubuntu para o 12.04 eu perdi a barbada de mexer na minha tela de login (remover pontos do fundo, mudar o fundo, desligar o som, etc). Antes da 12.04 usava um script maneiro criado pelo <a title="Simple LightDM Manager: Altere o login do novo Ubuntu!" href="http://ubuntued.info/simple-lightdm-manager-altere-o-login-do-novo-ubuntu" target="_blank">Cláudio Novais (Ubuntued)</a>, o Simple LightDM. Em alguns minutos pesquisando na internet, achei um artigo no site Ask Ubuntu, o [How do I install Ubuntu-Tweak?](http://askubuntu.com/questions/75454/how-do-i-install-ubuntu-tweak), e vi que ele pode acessar as informações do login e desabilitar som, mudar logo, etc...
 
 Bom, na realidade dá pra fazer muito mais coisas do que alem do login. Citando algumas:
 
@@ -38,12 +38,12 @@ Bom, na realidade dá pra fazer muito mais coisas do que alem do login. Citando 
   * Mostrar/Esconder/Renomear icones do Computador, Home, Lixeira ou Rede
   * Diversos efeitos no Compiz
   * Configurações do Nautilus
-  * etc&#8230;
+  * etc...
 
 Lembro que peguei essas informações no site oficial: <a title="Ubuntu Tweak" href="http://ubuntu-tweak.com" target="_blank">http://ubuntu-tweak.com</a>
 
 <p style="text-align: center">
-  <a href="http://askubuntu.com/questions/75454/how-do-i-install-ubuntu-tweak"><img src="http://ihcenter.com.br/luizsouza/files/2012/05/JpVyu.png" alt="" /></a>
+  <a href="http://askubuntu.com/questions/75454/how-do-i-install-ubuntu-tweak"><img src="wp-content/upload/2012/05/JpVyu.png" alt="" /></a>
 </p>
 
 Sendo assim, vamos a receita de bolo:

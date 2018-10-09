@@ -43,4 +43,4 @@ Não entendeu ainda porque seu provedor mudou a porta de envio de mensagens? Aqu
 > 
 > _Num dos e-mails enviados aos assinantes nas últimas semanas, ao qual o IDG Now! teve acesso, o provedor forneceu as instruções para reconfigurações de SMTP e POP, justificando que “a mudança nas configurações tem por objetivo aprimorar o combate a spams, conforme acordo do UOL com o Comitê Gestor da Internet”._
 
-via [O mistério da porta 25: por que provedores bloqueiam o acesso? &#8211; Internet &#8211; IDG Now!](http://idgnow.uol.com.br/internet/2010/01/08/o-misterio-da-porta-25-por-que-provedores-bloqueiam-o-acesso/).
+via [O mistério da porta 25: por que provedores bloqueiam o acesso? - Internet - IDG Now!](http://idgnow.uol.com.br/internet/2010/01/08/o-misterio-da-porta-25-por-que-provedores-bloqueiam-o-acesso/).

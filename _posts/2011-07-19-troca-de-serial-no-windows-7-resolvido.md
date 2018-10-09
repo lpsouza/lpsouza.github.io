@@ -34,13 +34,13 @@ Então pesquisando pela internet achei essa solução muito boa e simples, usand
 
 Ok, mas o que esse tal de slmgr tem de tão especial? Simples, no colégio que trabalho, criamos uma tabela de seriais, depois quando precisamos formatar uma maquina ou padronizar uma instalação de aplicativo, bastamos mudar a imagem dos windows 7, clonar todas a maquinas e usar os seguintes comandos:
 
-> slmgr –upk  
+> slmgr -upk  
 > Para remover a chave e ativação da imagem.
 > 
 > slmgr -ipk <chave original do computador>  
 > Para instalar a chave original do computador que clonamos.
 > 
-> slmgr –ato  
+> slmgr -ato  
 > Para re-ativar a chave, e por fim,
 > 
 > slgmr -xpr  

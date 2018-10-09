@@ -40,11 +40,11 @@ Um exemplo de script:
 
 > if [ $1 -lt 10 ]; then
   
-> echo &#8220;Número menor que 10&#8221;
+> echo "Número menor que 10"
   
 > else
   
-> echo &#8220;Número igual ou maior que 10&#8221;
+> echo "Número igual ou maior que 10"
   
 > fi
 

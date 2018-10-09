@@ -27,9 +27,9 @@ Olá pessoal!
 
 Ontem tive um problema no meu _smartphone_ (atualmente, <a href="http://www.lge.com/br/celular/aparelhos/LG-smartphone-P970.jsp" target="_blank">LG Optimus Black</a> c/ <a href="http://www.cyanogenmod.com/" target="_blank">CyanogenMod</a> 7.2.0 stable) e depois de descobrir a solução (sem nem olhar no nosso oráculo Google) pensei em compartilhar aqui, até porque o procedimento foi bem simples.
 
-**Primeiro, senta que lá vem história&#8230;**
+**Primeiro, senta que lá vem história...**
 
-Ontem de manhã eu acordei e foi me arrumar para trabalhar, quando saia de casa e colocava meu _smarphone_ para tocar música, quando para minha surpresa, ele indicava que não havia música. Ok, então resolvi ir no meu Gerenciador de Arquivos (<a href="http://play.google.com/store/apps/details?id=xcxin.filexpert" target="_blank">File Expert</a>) e não é que estava lá as músicas? Reparei que o mesmo ocorria com as minhas imagens. Como foi um dia corrido ontem, eu acabei deixando esse problema para depois&#8230;
+Ontem de manhã eu acordei e foi me arrumar para trabalhar, quando saia de casa e colocava meu _smarphone_ para tocar música, quando para minha surpresa, ele indicava que não havia música. Ok, então resolvi ir no meu Gerenciador de Arquivos (<a href="http://play.google.com/store/apps/details?id=xcxin.filexpert" target="_blank">File Expert</a>) e não é que estava lá as músicas? Reparei que o mesmo ocorria com as minhas imagens. Como foi um dia corrido ontem, eu acabei deixando esse problema para depois...
 
 Hoje, como não precisaria trabalhar pela manhã, eu resolvi fuçar no _smartphone_ para ver o que aconteceu e para minha surpresa, apareceu fotos! Mas as que tirei ontem no trabalho! Ok, então logo pensei que deveria ser algo em algum _<a href="http://pt.wikipedia.org/wiki/Cache" target="_blank">cache</a>_ que o Android lê, para acelerar a exibição das imagens em miniaturas e informações básicas das MP3!
 
@@ -39,6 +39,6 @@ Achei uma pasta dentro de DCIM no meu cartão de memória com o gerenciador de a
 
 **Explicação**
 
-Bom, porque deletei essa pasta? _Thumbnail_ em inglês é miniaturas, e como estava na pasta DCIM (onde ele grava as fotos), logo pensei que esse era o tal _cache_ do Android para fotos&#8230; Agora, porque ele arrumou minhas MP3 se elas ficam no diretório Music? Isso agora é totalmente intuitivo e não tenho embasamento teórico, por tanto, especulação pura: Como deletei uma pasta de cache, deve ter acionado no Android um &#8220;estado de pânico&#8221;, onde ele então para ajustar o erro interno, começou a refazer todos os caches dele.
+Bom, porque deletei essa pasta? _Thumbnail_ em inglês é miniaturas, e como estava na pasta DCIM (onde ele grava as fotos), logo pensei que esse era o tal _cache_ do Android para fotos... Agora, porque ele arrumou minhas MP3 se elas ficam no diretório Music? Isso agora é totalmente intuitivo e não tenho embasamento teórico, por tanto, especulação pura: Como deletei uma pasta de cache, deve ter acionado no Android um "estado de pânico", onde ele então para ajustar o erro interno, começou a refazer todos os caches dele.
 
 Era isso! Mais um problema resolvido! Bora pra outro! 😉

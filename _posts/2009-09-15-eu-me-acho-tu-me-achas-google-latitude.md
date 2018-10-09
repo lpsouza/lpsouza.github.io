@@ -1,6 +1,6 @@
 ---
 id: 177
-title: 'Eu me acho, tu me achas! &#8211; Google Latitude'
+title: 'Eu me acho, tu me achas! - Google Latitude'
 date: 2009-09-15T16:20:27+00:00
 author: lpsouza
 layout: post

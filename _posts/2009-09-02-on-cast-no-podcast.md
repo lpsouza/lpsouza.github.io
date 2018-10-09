@@ -1,6 +1,6 @@
 ---
 id: 128
-title: 'On cast&#8230; No podcast!'
+title: 'On cast... No podcast!'
 date: 2009-09-02T21:42:38+00:00
 author: lpsouza
 layout: post

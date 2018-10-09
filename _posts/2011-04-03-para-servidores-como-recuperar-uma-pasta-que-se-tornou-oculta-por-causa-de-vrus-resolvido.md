@@ -35,7 +35,7 @@ Enfim, tentei de tudo quanto foi maneira recuperar a pasta em seu estado origina
 
 Ok, isso até hoje, quando achei um artigo interressante que descrevia como resolver o problema, e então compartilho com vocês agora! 🙂
 
-> hey try this. i am sure your problem will be solved. I too have tried this&#8230;&#8230;&#8230;
+> hey try this. i am sure your problem will be solved. I too have tried this.........
   
 > start->Run->cmd
   

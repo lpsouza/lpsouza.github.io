@@ -29,7 +29,7 @@ tags:
   - SDK
 ---
 <p style="text-align: center">
-  <a href="http://www.androidbrasilprojetos.org/tutoriais/instalando-e-configurando-o-android-sdkeclipse/"><img src="http://ihcenter.com.br/luizsouza/files/2012/07/eclipse-android.png" alt="" /></a>
+  <a href="http://www.androidbrasilprojetos.org/tutoriais/instalando-e-configurando-o-android-sdkeclipse/"><img src="wp-content/upload/2012/07/eclipse-android.png" alt="" /></a>
 </p>
 
 Sou usuário de NetBeans a um tempo já para meus projetos em PHP e seus amigos HTML, CSS e JS. Depois de muito apanhar para colocar o desenvolvimento para Android para funcionar nele, resolvi pensar em mudar de plataforma IDE. Então veio em minhas pesquisas que o melhor IDE para desenvolver para Android era o Eclipse (até porque o plugin dele é mantido pelo pessoal do Google). Mas logo pensei: Tá, mas será que preciso ser tão radical e mudar meu uso do NetBeans totalmente para Eclipse?? A resposta veio em um post chamado <a title="Eclipse vs NetBeans IDE for php, css, html, javascript" href="http://mahmudahsan.wordpress.com/2009/01/25/eclipse-vs-netbeans-ide-for-php/" target="_blank">Eclipse vs NetBeans IDE for php, css, html, javascript</a>, onde claramente se mostra a superioridade do NetBeans para o desenvolvimento em plataforma Web.

@@ -33,12 +33,12 @@ Desde que iniciei minha vida nas nuvens (cloud computing ou cloud services), uma
   1. A maneira mais fácil de ter uma imagem de sistema operacional para qualquer configuração de máquina
   2. Como prever um espaço em disco para swap em um disco que nem sabemos qual tamanho vai ter? 🙂
 
-Então uma boa prática quando falamos em nuvem e ambiente Linux, é configurar a memória swap! Mas e a áreas de disco? Preciso de outro HD virtual só para isso? Mais custos? &#8211; Calma! Vamos a fatos que nos permitem criar uma área de swap de maneira fácil e prática de mover, aumentar ou diminuir (bem conceitos de nuvem)!
+Então uma boa prática quando falamos em nuvem e ambiente Linux, é configurar a memória swap! Mas e a áreas de disco? Preciso de outro HD virtual só para isso? Mais custos? - Calma! Vamos a fatos que nos permitem criar uma área de swap de maneira fácil e prática de mover, aumentar ou diminuir (bem conceitos de nuvem)!
 
   * Podemos criar uma área de swap em arquivo, então, dependendo podemos usar as partições que temos disponiveis
-  * Usar swap é sempre interessante, justamente em ambientes que podem sofrer &#8220;bursts&#8221; (pequenos surtos de uso intenso de memória) inesperados (outro conceito de nuvem)
+  * Usar swap é sempre interessante, justamente em ambientes que podem sofrer "bursts" (pequenos surtos de uso intenso de memória) inesperados (outro conceito de nuvem)
   * Para um datacenter de alto desempenho (ambiente esperado em provedores de nuvem) trabalhar com área de disco ou arquivo é _quase_ a mesma coisa
-  * Alguns datacenters (eu conheço apenas a [Microsoft Azure](https://azure.microsoft.com)), que permitem ter um &#8220;disco temporário&#8221;, que foi concebido exatamente para fins de cache ou swap de aplicações
+  * Alguns datacenters (eu conheço apenas a [Microsoft Azure](https://azure.microsoft.com)), que permitem ter um "disco temporário", que foi concebido exatamente para fins de cache ou swap de aplicações
 
 Ok, vamos a **receita de bolo**:
 

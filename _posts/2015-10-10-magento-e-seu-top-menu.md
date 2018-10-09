@@ -26,7 +26,7 @@ tags:
 ---
 Estive trabalhando em um projeto de personalização de menu do Magento e percebi uma questão muito chata dele: A documentação oficial é muito fraca! 🙁
 
-Com isso tive que pesquisar na internet para entender os objetos que o Magento me libera para customizar e foi uma briga feia!! Até que achei uma explicação muito simples no link <a href="http://www.w3bdeveloper.com/how-to/generate-magento-top-menu-navigation-html-menu-this-gethtml-level-top/" rel="nofollow"><em>Generate Magento top menu navigation html [$_menu = $this->getHtml(&#8216;level-top&#8217;)]</em></a>.
+Com isso tive que pesquisar na internet para entender os objetos que o Magento me libera para customizar e foi uma briga feia!! Até que achei uma explicação muito simples no link <a href="http://www.w3bdeveloper.com/how-to/generate-magento-top-menu-navigation-html-menu-this-gethtml-level-top/" rel="nofollow"><em>Generate Magento top menu navigation html [$_menu = $this->getHtml('level-top')]</em></a>.
 
 Depois de ler e fazer meus testes, resumi o código para remover a linha `<?php $_menu = $this->getHtml('level-top') ?>` e adicionar:
 

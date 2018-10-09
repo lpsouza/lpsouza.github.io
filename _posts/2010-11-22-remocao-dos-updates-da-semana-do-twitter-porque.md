@@ -27,7 +27,7 @@ tags:
   - Wordpress
 ---
 Bom, depois de testar essa solução para WordPress, vi que não há muito sentido em copiar meus posts do Twitter pra cá..    
-Pelo menos esses &#8220;resumos diário&#8221; ou &#8220;resumos semanais&#8221;..    
+Pelo menos esses "resumos diário" ou "resumos semanais"..    
 Para quem gostou, ou quer publicar seu post diretamente no Twitter (como eu faço), o canivete suiço pra isso é o Twitter Tools.    
 Quer instalar ele? Simples: Vá em Plugins > Adicionar novo > Termo: Twitter Tools. Pronto! (Vale lembrar que para instalar apps tu precisa ter direitos de escrever na pasta de plugins ou saber a senha do FTP do seu site (feature muito bacana do WordPress).    
 Bom, fica a dica e estarei apagando os resumos do meu site! 

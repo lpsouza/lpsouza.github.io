@@ -40,27 +40,27 @@ No meu caso tive um agravante: apt-add-repository não roda na versão server, e
 > 
 > Agora, com o repositório adicionado e atualizado, abra o Synaptic Package Manager e procure os pacotes do PHP:
 > 
-> [<img src="http://ihcenter.com.br/luizsouza/files/2012/01/synaptic-php.jpg" alt="" width="500" height="150" />](http://ihcenter.com.br/luizsouza/files/2012/01/synaptic-php.jpg)
+> [<img src="wp-content/upload/2012/01/synaptic-php.jpg" alt="" width="500" height="150" />](wp-content/upload/2012/01/synaptic-php.jpg)
 > 
-> Caso esteja utilizando o Ubuntu 11.04 (Natty), é agora que precisamos fazer um rapido ajuste. Vá para Settings -> Repositories e clique em Editar no repositório que adicionamos. Agora troque a palavra &#8220;natty&#8221; por &#8220;maverick&#8221;. Depois de fechar, dê um apt-get update.
+> Caso esteja utilizando o Ubuntu 11.04 (Natty), é agora que precisamos fazer um rapido ajuste. Vá para Settings -> Repositories e clique em Editar no repositório que adicionamos. Agora troque a palavra "natty" por "maverick". Depois de fechar, dê um apt-get update.
 > 
 > [<img src="http://luizsouza.com.br/wp-content/uploads/2012/01/synaptic-repo-version.jpg" alt="" width="419" height="389" />](http://www.alexweber.com.br/tutoriais/como-instalar-php-52-ubuntu-1010-maverick-1104-natty)
 > 
-> Se, como eu, não conseguiu ver as versões 5.2.17 do PHP, olhe mais de perto&#8230; selecione um pacote com prefixo &#8220;php5&#8221; e clique em &#8220;Properties&#8221;:
+> Se, como eu, não conseguiu ver as versões 5.2.17 do PHP, olhe mais de perto... selecione um pacote com prefixo "php5" e clique em "Properties":
 > 
-> [<img src="http://ihcenter.com.br/luizsouza/files/2012/01/synaptic-php-versions.jpg" alt="" width="382" height="352" />](http://www.alexweber.com.br/tutoriais/como-instalar-php-52-ubuntu-1010-maverick-1104-natty)
+> [<img src="wp-content/upload/2012/01/synaptic-php-versions.jpg" alt="" width="382" height="352" />](http://www.alexweber.com.br/tutoriais/como-instalar-php-52-ubuntu-1010-maverick-1104-natty)
 > 
-> Beleza, então o pacote correto está aí, mas por algum motivo o Synaptic não quer instalá-lo&#8230; a solução é forçá-lo a instalar esta versão: selecione o item e clique no menu &#8220;Package -> Force Version&#8221;.
+> Beleza, então o pacote correto está aí, mas por algum motivo o Synaptic não quer instalá-lo... a solução é forçá-lo a instalar esta versão: selecione o item e clique no menu "Package -> Force Version".
 > 
-> [<img src="http://ihcenter.com.br/luizsouza/files/2012/01/synaptic-php-force.jpg" alt="" width="392" height="181" />](http://www.alexweber.com.br/tutoriais/como-instalar-php-52-ubuntu-1010-maverick-1104-natty)
+> [<img src="wp-content/upload/2012/01/synaptic-php-force.jpg" alt="" width="392" height="181" />](http://www.alexweber.com.br/tutoriais/como-instalar-php-52-ubuntu-1010-maverick-1104-natty)
 > 
-> Beleza, agora o Synaptic aceita instalar a versão que queremos, a 5.2.17! Agora só falta um passo importante: bloquear a versão para que ela não seja atualizada automaticamente para a 5.3. Após instalar cada item, clique no menu &#8220;Package -> Lock Version&#8221;.
+> Beleza, agora o Synaptic aceita instalar a versão que queremos, a 5.2.17! Agora só falta um passo importante: bloquear a versão para que ela não seja atualizada automaticamente para a 5.3. Após instalar cada item, clique no menu "Package -> Lock Version".
 > 
-> [<img src="http://ihcenter.com.br/luizsouza/files/2012/01/synaptic-php-locked.jpg" alt="" width="500" height="100" />](http://www.alexweber.com.br/tutoriais/como-instalar-php-52-ubuntu-1010-maverick-1104-natty)
+> [<img src="wp-content/upload/2012/01/synaptic-php-locked.jpg" alt="" width="500" height="100" />](http://www.alexweber.com.br/tutoriais/como-instalar-php-52-ubuntu-1010-maverick-1104-natty)
 > 
 > Conclusão
 > 
-> Pronto! Até que é fácil né? Para evitar problemas, instale os pacotes nesta ordem: &#8220;libapache2-mod-php5&#8221;, &#8220;php5-common&#8221;, &#8220;php5-cli&#8221; e depois o resto.
+> Pronto! Até que é fácil né? Para evitar problemas, instale os pacotes nesta ordem: "libapache2-mod-php5", "php5-common", "php5-cli" e depois o resto.
 > 
 > Espero que tenha ajudado!
 

@@ -33,11 +33,11 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Tudo começou quando o meu servidor começou a apresentar problemas de indisponibilidades malucas, onde do nada o a memória &#8220;acabava&#8221; e ele simplesmente travava (claro, sem memória para usar, como ele vai continuar?). Ok, todos falavam que o problema nas configurações dos meus daemons, mas eu já tinha optimizado e muito o uso do servidor. Enfim, fui &#8220;convivendo&#8221; com essa pulga atrás da orelha, uma vez que levava um tempo para isso acontecer.
+  Tudo começou quando o meu servidor começou a apresentar problemas de indisponibilidades malucas, onde do nada o a memória "acabava" e ele simplesmente travava (claro, sem memória para usar, como ele vai continuar?). Ok, todos falavam que o problema nas configurações dos meus daemons, mas eu já tinha optimizado e muito o uso do servidor. Enfim, fui "convivendo" com essa pulga atrás da orelha, uma vez que levava um tempo para isso acontecer.
 </p>
 
 <p style="text-align: justify;">
-  <img class="alignright" title="Locaweb" alt="" src="http://webholic.com.br/wp-content/uploads/2010/09/Locaweb-logo-20100811151058.jpg" width="176" height="112" />Passou um tempo, e li sobre a Amazon Web Services, e até li um comparativo no blog da Locaweb, que me fez &#8220;esquecer&#8221; o assunto, pois &#8220;Amazon é mau e Locaweb é o melhor pro mercado brasileiro&#8221; (ahuahauhauah ai ai), então continuei com eles por mais um tempo. Até a conversa com meu professor de Roteamento, na Unisinos, que me falou tri bem da Amazon. Fiquei com a pulga atrás da orelha. Pesquisei um pouco e vi que alguns clientes da Locaweb haviam migrado para a Amazon e aparentemente falando de melhora em performance. Eis que aí fui ver uma instância lá na AWS.
+  <img class="alignright" title="Locaweb" alt="" src="http://webholic.com.br/wp-content/uploads/2010/09/Locaweb-logo-20100811151058.jpg" width="176" height="112" />Passou um tempo, e li sobre a Amazon Web Services, e até li um comparativo no blog da Locaweb, que me fez "esquecer" o assunto, pois "Amazon é mau e Locaweb é o melhor pro mercado brasileiro" (ahuahauhauah ai ai), então continuei com eles por mais um tempo. Até a conversa com meu professor de Roteamento, na Unisinos, que me falou tri bem da Amazon. Fiquei com a pulga atrás da orelha. Pesquisei um pouco e vi que alguns clientes da Locaweb haviam migrado para a Amazon e aparentemente falando de melhora em performance. Eis que aí fui ver uma instância lá na AWS.
 </p>
 
 <p style="text-align: justify;">
@@ -45,7 +45,7 @@ tags:
 </p>
 
 <p style="text-align: justify;">
-  Hoje, no meio da manhã, terminei meu último backup de segurança da instância da Locaweb e mandei encerrar ela. Ainda levou mais tempo para encerrar a instância do que para criar uma na AWS. Parece brincadeira, mas não é! Sinceramente, sabe o que parece? Parece que deixei de ser criança no mundo de sistemas em Cloud Computing e entrei pra brincar com brinquedos de gente grande! Ahahaha&#8230;
+  Hoje, no meio da manhã, terminei meu último backup de segurança da instância da Locaweb e mandei encerrar ela. Ainda levou mais tempo para encerrar a instância do que para criar uma na AWS. Parece brincadeira, mas não é! Sinceramente, sabe o que parece? Parece que deixei de ser criança no mundo de sistemas em Cloud Computing e entrei pra brincar com brinquedos de gente grande! Ahahaha...
 </p>
 
 <p style="text-align: justify;">

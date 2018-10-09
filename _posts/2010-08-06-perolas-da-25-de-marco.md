@@ -29,6 +29,6 @@ tags:
   - São Paulo
   - SP
 ---
-Recebi isso por email&#8230; Valeu a penas postar no meu <a href="http://www.flickr.com/photos/lpsouza/sets/72157624669113092/" target="_blank">Flickr</a>!
+Recebi isso por email... Valeu a penas postar no meu <a href="http://www.flickr.com/photos/lpsouza/sets/72157624669113092/" target="_blank">Flickr</a>!
 
-[flickr-gallery mode=&#8221;photoset&#8221; photoset=&#8221;72157624669113092&#8243;]
+[flickr-gallery mode="photoset" photoset="72157624669113092"]

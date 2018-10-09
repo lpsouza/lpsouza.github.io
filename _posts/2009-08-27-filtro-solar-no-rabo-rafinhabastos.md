@@ -1,16 +1,12 @@
 ---
-id: 82
-title: 'Filtro solar (no rabo) &#8211; @rafinhabastos'
+title: 'Filtro solar (no rabo) - @rafinhabastos'
 date: 2009-08-27T21:40:13+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=82
 permalink: /2009/08/27/filtro-solar-no-rabo-rafinhabastos/
 headerImage: false
 star: false
 category: blog
-categories:
-  - Engraçados
 tags:
   - Fica a dica
   - Ha-ha!
@@ -18,6 +14,8 @@ tags:
   - Video
   - Youtube
 ---
-Video do <a title="Rafinha Bastos no Youtube" href="http://www.youtube.com/user/rafinhabastos" target="_blank">Rafinha Bastos</a> (<a title="Rafinha Bastos no Twitter" href="http://twitter.com/rafinhabastos" target="_blank">@rafinhabastos</a>)..
+Video do [Rafinha Bastos](http://www.youtube.com/user/rafinhabastos) ([@rafinhabastos](http://twitter.com/rafinhabastos)...
 
-Como diria a Cleo Pires.. Fica a dica!
+Como diria a Cleo Pires... Fica a dica!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SQhFw5Me-8I?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

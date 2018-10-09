@@ -1,19 +1,12 @@
 ---
-id: 80
 title: Diario de um Smartphone sem 3G
 date: 2009-08-27T17:49:49+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=80
 permalink: /2009/08/27/diario-de-um-smartphone-sem-3g/
 headerImage: false
 star: false
 category: blog
-categories:
-  - Engraçados
-  - Pessoal
-  - TIC
-  - WWW
 tags:
   - 3G
   - Claro

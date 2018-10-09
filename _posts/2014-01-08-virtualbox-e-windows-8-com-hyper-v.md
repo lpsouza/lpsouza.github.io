@@ -30,7 +30,7 @@ tags:
 ---
 Sou usuário do <a title="Virtualbox" href="http://virtualbox.org" target="_blank">Virtualbox</a>, quase de carteirinha, quando falamos de virtualizar ambientes em desktop. Agora, desde que instalei o Windows 8, comecei a ter problemas com ele, sem saber o porque. Hoje, descobri e sinceramente fiquei um pouco pasmo de como não havia pensado nisso antes! Alem do Virtualbox, eu uso direto o Hyper-V, e depois que li um post do <a title="Igor Abade" href="http://twitter.com/igorabade" target="_blank">Igor Abade</a> (MVP), <a title="Fazendo VirtualBox e Hyper-V coexistirem no Windows 8 - Blogs da Lamba3" href="http://blog.lambda3.com.br/2013/01/fazendo-virtualbox-e-hyper-v-coexistirem-no-windows-8/" target="_blank">Fazendo VirtualBox e Hyper-V coexistirem no Windows 8</a>, fui entender (ou lembrar) de uns conceitos básicos da virtualização como um todo!
 
-Sempre quando faço posts longos, costumo criar a área &#8220;**Receita de bolo**&#8220;, para quem é apressado quiser resolver seus problemas, pular e ir direto na solução. 😛
+Sempre quando faço posts longos, costumo criar a área "**Receita de bolo**", para quem é apressado quiser resolver seus problemas, pular e ir direto na solução. 😛
 
 Em um ambiente virtualizado com uso de Hypervisor pode ocorrer de dois tipos:<!--more-->
 
@@ -48,7 +48,7 @@ Ok, então foi exatamente isso que vivi com meu Windows 8 e não havia compreend
 
 No blog, o Igor comenta na solução em prompt, que eu até então desconhecia, chamda bcdedit. Acessando o Prompt de Comando com elevação (acessando como Administrador), e vendo o help do comando, temos a explicação dele:
 
-> BCDEDIT &#8211; Editor de Repositório de Dados de Configuração da Inicialização
+> BCDEDIT - Editor de Repositório de Dados de Configuração da Inicialização
 > 
 > A ferramenta de linha de comando Bcdedit.exe modifica o repositório de dados de configuração da inicialização. Este repositório contém parâmetros de configuração da inicialização e controla o modo como o sistema operacional é inicializado. Esses parâmetros estavam anteriormente no arquivo Boot.ini (nos sistemas operacionais baseados em BIOS) ou nas entradas de RAM não voláteis (nos sistemas operacionais baseados em EFI). Você pode usar o Bcdedit.exe para adicionar, excluir, editar e anexar entradas no repositório de dados de configuração da inicialização.
 
@@ -58,7 +58,7 @@ Vou ser sincero com vocês que preciso urgente aprender mais sobre comandos em p
 
 Para resolver a questão de usar o Virtualbox, junto com o Hyper-V, então precisamos fazer um Dual Boot na maquina, um inicializando o Hypervisor e outro não (para o Virtualbox ter seu espaço direto ao hardware). Não se preocupe, se pensou que precisa reinstalar o Windows para isso, são apenas dois comandos, usando o Prompt de Comando com elevação:
 
-_bcdedit /copy {current} /d &#8220;Windows 8 (com Hyper-V)&#8221;_
+_bcdedit /copy {current} /d "Windows 8 (com Hyper-V)"_
 
 e
 

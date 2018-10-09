@@ -1,6 +1,6 @@
 ---
 id: 1330
-title: 'ICS &#8211; Internet Connection Sharing, alteração dos IPs padrão'
+title: 'ICS - Internet Connection Sharing, alteração dos IPs padrão'
 date: 2014-09-03T11:54:49+00:00
 author: lpsouza
 layout: post

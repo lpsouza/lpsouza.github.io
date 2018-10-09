@@ -27,10 +27,10 @@ tags:
   - Hacking
   - Twitter
 ---
-Na linha de apagões&#8230;
+Na linha de apagões...
 
 > _Segundo York, nenhum endereço de e-mail não-autenticado teve acesso à conta, descartando a hipótese inicial da equipe técnica do Twitter de que o redirecionamento foi causado por um ataque de crackers._
 > 
 > _Uma das possibilidades mais cotadas, ainda de acordo com declarações ao Tech Harald, é que um único cracker invadiu a conta de e-mail de um dos funcionários do Twitter com acesso ao DNS da plataforma para realizar o ataque._
 
-via [´Apagão do Twitter´ não foi falha de DNS &#8211; INFO Online &#8211; 21/12/2009](http://info.abril.com.br/noticias/seguranca/apagao-do-twitter-nao-foi-falha-de-dns-21122009-30.shl).
+via [´Apagão do Twitter´ não foi falha de DNS - INFO Online - 21/12/2009](http://info.abril.com.br/noticias/seguranca/apagao-do-twitter-nao-foi-falha-de-dns-21122009-30.shl).

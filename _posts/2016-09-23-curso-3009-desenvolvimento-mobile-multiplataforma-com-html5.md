@@ -34,7 +34,7 @@ Olá pessoal!
 
 Faz já 3 edições que estou ministrando um curso de desenvolvimento para smartphones com HTML5! Isso permite desenvolver para as plataformas de mercado (Android, iOS e Windows Phone) de maneira muito simples e principalmente rápida!
 
-Este curso acontece na <a href="http://ienh.com.br/" target="_blank">IENH</a>, na cidade de Novo Hambugo &#8211; RS (<a href="https://www.google.com.br/maps/place/IENH+-+Unidade+Funda%C3%A7%C3%A3o+Evang%C3%A9lica/@-29.6696754,-51.1141474,17z/data=!3m1!4b1!4m5!3m4!1s0x951943c18dd3d30f:0x7efc11d4738cb3a9!8m2!3d-29.6696801!4d-51.1119587" target="_blank">mapa</a>), e consiste de 10 encontros presenciais, com aulas práticas e expositivas onde o conteúdo é listado abaixo:
+Este curso acontece na <a href="http://ienh.com.br/" target="_blank">IENH</a>, na cidade de Novo Hambugo - RS (<a href="https://www.google.com.br/maps/place/IENH+-+Unidade+Funda%C3%A7%C3%A3o+Evang%C3%A9lica/@-29.6696754,-51.1141474,17z/data=!3m1!4b1!4m5!3m4!1s0x951943c18dd3d30f:0x7efc11d4738cb3a9!8m2!3d-29.6696801!4d-51.1119587" target="_blank">mapa</a>), e consiste de 10 encontros presenciais, com aulas práticas e expositivas onde o conteúdo é listado abaixo:
 
   * Fundamentos do desenvolvimento móvel;
   * Configurando ambiente de desenvolvimento;

@@ -1,6 +1,6 @@
 ---
 id: 284
-title: 'Nimbuzz Updates &#8211; Novas funcionalidades!'
+title: 'Nimbuzz Updates - Novas funcionalidades!'
 date: 2009-12-11T09:49:20+00:00
 author: lpsouza
 layout: post
@@ -56,7 +56,7 @@ Ontem a tarde, fui abrir meu Nimbuzz e me deparei com uma atualização. Mandei 
 </ul> 
 
 De todas essas mudanças as mais gritantes e talvez solicitadas pelos usuários, fossem o Twitter e não perder o chat. Eu sou um que agradeço a todos do Nimbuzz por isso!! Hehe..    
-Bom, mas porque estou fazendo esse post? Apenas para contar a novidade? Na realidade.. Também! Também gostaria de compartilhar que hoje, para a maioria dos smartphones existentes no mercado, temos uma solução que posso chamar sem sombras de duvidas de &#8220;uma solução de comunicação&#8221;, pois alem dessas features, ainda temos o fato que podemos ligar de Nimbuzz pra Nimbuzz de graça ou adquirir NimbuzzOut e discar para qualquer lugar do mundo pagando muito menos ([[wiki|VoIP|VoIP]]). Chat nos mensageiros, Twitter e VoIP! 
+Bom, mas porque estou fazendo esse post? Apenas para contar a novidade? Na realidade.. Também! Também gostaria de compartilhar que hoje, para a maioria dos smartphones existentes no mercado, temos uma solução que posso chamar sem sombras de duvidas de "uma solução de comunicação", pois alem dessas features, ainda temos o fato que podemos ligar de Nimbuzz pra Nimbuzz de graça ou adquirir NimbuzzOut e discar para qualquer lugar do mundo pagando muito menos ([[wiki|VoIP|VoIP]]). Chat nos mensageiros, Twitter e VoIP! 
 
 Eu já removi o TweetS60 e só deixo o Twibble para acesso da minha conta Twitter da empresa. E Nimbuzz é titular nos meus acessos a chat e twitter!! 
 

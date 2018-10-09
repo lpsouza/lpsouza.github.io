@@ -28,7 +28,7 @@ tags:
   - SQL Azure
   - web.config
 ---
-Estou usando faz um mês, a [Microsoft Azure](http://azure.microsoft.com/pt-br/) para meus projetos e estou curtindo bastante! Então, fui começar um projeto usando [CodeIgniter 3](http://www.codeigniter.com/) e me peguei em uns problemas usando ambiente PHP no IIS da Azure Websites: Conexão com o banco de dados (SQL Azure) e redirecionamento de &#8220;[URL Amigáveis](http://blog.thiagobelem.net/aprendendo-urls-amigaveis/)&#8220;.<!--more-->
+Estou usando faz um mês, a [Microsoft Azure](http://azure.microsoft.com/pt-br/) para meus projetos e estou curtindo bastante! Então, fui começar um projeto usando [CodeIgniter 3](http://www.codeigniter.com/) e me peguei em uns problemas usando ambiente PHP no IIS da Azure Websites: Conexão com o banco de dados (SQL Azure) e redirecionamento de "[URL Amigáveis](http://blog.thiagobelem.net/aprendendo-urls-amigaveis/)".<!--more-->
 
 Então, depois de algumas pesquisas, coloco aqui as configurações de como usar a conexão com o SQL Azure e também como ativar as URL amigáveis no IIS:
 

@@ -35,6 +35,6 @@ tags:
 > 
 > _Os gráficos do jogo podem não ser tão caprichados e bonitos, mas a fórmula é certa e enquanto forem músicas legais para serem “tocadas”, o visual não faz tanta falta assim. Nesse quesito, ele é bem sucedido: o usuário pode adicionar diversas músicas, que podem ser baixadas diretamente do site do desenvolvedor do game. Músicas dos games Rock Band e Guitar Hero estão lá para serem baixadas e jogadas para a diversão dos usuários._
 
-Continuando na linha rock&#8230; Tá valendo! Pois saber que Guitar Hero e Rockband vai ter expansão com Lady Gaga&#8230; Doeu nos rins!
+Continuando na linha rock... Tá valendo! Pois saber que Guitar Hero e Rockband vai ter expansão com Lady Gaga... Doeu nos rins!
 
-via [Seja um astro do rock com Guitar Rage &#8211; Download da hora &#8211; Downloads INFO](http://info.abril.com.br/downloaddahora/games/seja-um-astro-do-rock-com-guitar-rage.shtml).
+via [Seja um astro do rock com Guitar Rage - Download da hora - Downloads INFO](http://info.abril.com.br/downloaddahora/games/seja-um-astro-do-rock-com-guitar-rage.shtml).

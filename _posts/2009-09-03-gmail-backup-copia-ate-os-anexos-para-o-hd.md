@@ -31,7 +31,7 @@ Já que tivemos problemas com o Gmail e milhares de pessoas reclamando e se dese
 Não testei ainda, mas assim que tiver tempo (diga-se hoje a noite) vou baixar e já fazer backup dos meus quase 5Gb de email do Gmail.
 
 <p style="text-align: center">
-  <a href="http://info.abril.com.br/blog/downloaddahora/20090903_listar.shtml?167913"><img src="http://ihcenter.com.br/luizsouza/files/2009/09/1242657062236_58.jpg" alt="" /></a>
+  <a href="http://info.abril.com.br/blog/downloaddahora/20090903_listar.shtml?167913"><img src="wp-content/upload/2009/09/1242657062236_58.jpg" alt="" /></a>
 </p>
 
 > _Se o medo de perder suas mensagens do Gmail é grande, uma saída é manter um backup local de tudo. Para isso, o programa Gmail Backup resolve bem._
@@ -40,4 +40,4 @@ Não testei ainda, mas assim que tiver tempo (diga-se hoje a noite) vou baixar e
 > 
 > _O programa ainda pode fazer backup das mensagens em um período de tempo determinado pelo usuário. Só fica faltando uma opção para escolher quais etiquetas e pastas farão parte do backup._
 
-via [INFO Online &#8211; Download da hora](http://info.abril.com.br/blog/downloaddahora/20090903_listar.shtml?167913).
+via [INFO Online - Download da hora](http://info.abril.com.br/blog/downloaddahora/20090903_listar.shtml?167913).

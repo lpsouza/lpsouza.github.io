@@ -33,7 +33,7 @@ tags:
 ---
 A um tempo atrás, postei uma noticia sobre o <a href="http://luizsouza.com.br/2010/09/30/adeus-sincronia-com-xmarks/" target="_self">fim do suporte gratuito do Xmarks</a>, o que foi uma péssima noticia para os usuários (como eu).
 
-<img class="aligncenter size-medium wp-image-649" src="http://ihcenter.com.br/luizsouza/files/2010/12/xmarksannounce-300x168.jpg" alt="" width="300" height="168" />Bom, hoje recebi por email um aviso que me deixou entusiasmado: Xmaks foi adquirido pela LastPass e pelo visto, vão voltar com o acesso gratuito a browsers! Bom, pelo menos é o que diz no blog deles! Parece que a diferença principal entre &#8220;free&#8221; e &#8220;paid&#8221; é justamente o suporte com browsers mais peculiares, como no Android ou iPhone.
+<img class="aligncenter size-medium wp-image-649" src="wp-content/upload/2010/12/xmarksannounce-300x168.jpg" alt="" width="300" height="168" />Bom, hoje recebi por email um aviso que me deixou entusiasmado: Xmaks foi adquirido pela LastPass e pelo visto, vão voltar com o acesso gratuito a browsers! Bom, pelo menos é o que diz no blog deles! Parece que a diferença principal entre "free" e "paid" é justamente o suporte com browsers mais peculiares, como no Android ou iPhone.
 
 Boa noticia para o final de ano, não? 🙂
 

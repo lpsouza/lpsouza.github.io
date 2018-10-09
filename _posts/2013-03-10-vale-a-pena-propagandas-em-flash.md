@@ -47,7 +47,7 @@ Nas primeiras versões dele, o peso do arquivo era um problema claro. Mas nas ú
 Vamos analisar a imagem a baixo:
 
 <p align="center">
-  <a href="http://ihcenter.com.br/luizsouza/files/2013/03/1362831418416.jpg"><img title="1362831418416" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="1362831418416" src="http://ihcenter.com.br/luizsouza/files/2013/03/1362831418416_thumb.jpg" width="222" height="244" /></a>
+  <a href="wp-content/upload/2013/03/1362831418416.jpg"><img title="1362831418416" style="border-left-width: 0px; border-right-width: 0px; background-image: none; border-bottom-width: 0px; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border-top-width: 0px" border="0" alt="1362831418416" src="wp-content/upload/2013/03/1362831418416_thumb.jpg" width="222" height="244" /></a>
 </p>
 
 <p align="left">
@@ -63,7 +63,7 @@ Vamos analisar a imagem a baixo:
 </h3>
 
 <p align="left">
-  <img title="html5_no_flash_inside" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; float: left; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="html5_no_flash_inside" align="left" src="http://ihcenter.com.br/luizsouza/files/2013/03/html5_no_flash_inside.jpg" width="184" height="240" />
+  <img title="html5_no_flash_inside" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; float: left; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="html5_no_flash_inside" align="left" src="wp-content/upload/2013/03/html5_no_flash_inside.jpg" width="184" height="240" />
 </p>
 
 A melhor solução é trabalhar com as novas plataformas da web 2.0, o HTML5, unido ao CSS3 e frameworks de JavaScript, como <a href="http://www.jquery.com" target="_blank">jQuery</a>.

@@ -42,6 +42,6 @@ tags:
 > 
 >  _* Editar o bashrc para exibir a lista dos seus compromissos do dia sempre que abrir um terminal_
 
-Sempre sendo lembrado a velha e boa console! Gosto dela desde sempre, uma vez que sou da era do MS-DOS versão 2.. Agora com esta versão dos serviços do Google para console, as opções de autonomia de trabalho e inteligência na informação podem aumentar exponencialmente&#8230; Pelo menos eu acredito muito nisso!
+Sempre sendo lembrado a velha e boa console! Gosto dela desde sempre, uma vez que sou da era do MS-DOS versão 2.. Agora com esta versão dos serviços do Google para console, as opções de autonomia de trabalho e inteligência na informação podem aumentar exponencialmente... Pelo menos eu acredito muito nisso!
 
 via [Serviços do Google: 5 exemplos práticos de uso da nova interface via linha de comando](http://br-linux.org/2010/google-5-exemplos-praticos-de-uso-da-nova-interface-via-linha-de-comando/).

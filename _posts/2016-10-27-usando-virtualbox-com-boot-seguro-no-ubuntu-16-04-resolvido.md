@@ -25,7 +25,7 @@ tags:
 ---
 Recentemente instalei no meu computador a última versão LTS do Ubuntu, a 16.04. E quando fui usar o combo <a href="https://www.vagrantup.com/" target="_blank"><strong>Vagrant</strong></a> e <a href="https://www.virtualbox.org/" target="_blank"><strong>Virtualbox</strong></a>, me deparei com um problema ocasionado por alguma mudança na assinatura dos aplicativos para uso de computadores com _Secure Boot** **_(Inicialização Segura), como é o caso do meu notebook.
 
-Ok, lá vamos nós para a internet e o que mais lia por aí era: Desabilite o _Secure Boot_. Sinceramente, eu achei essa solução muito &#8220;gambiarra&#8221; mesmo, logo, não foi o que resolvi seguir. Então, o que vi em um desses links que apareceram no Google, foi um post no blog do <a href="https://flavioprimo.xyz/" target="_blank">Flávio Prino</a> que explica como **assinar digitalmente o arquivo de driver** do virtualbox, e assim permitindo que possamos acessar as máquinas do Virtualbox sem erros e com o _Secure Boot_ ativado! 😀
+Ok, lá vamos nós para a internet e o que mais lia por aí era: Desabilite o _Secure Boot_. Sinceramente, eu achei essa solução muito "gambiarra" mesmo, logo, não foi o que resolvi seguir. Então, o que vi em um desses links que apareceram no Google, foi um post no blog do <a href="https://flavioprimo.xyz/" target="_blank">Flávio Prino</a> que explica como **assinar digitalmente o arquivo de driver** do virtualbox, e assim permitindo que possamos acessar as máquinas do Virtualbox sem erros e com o _Secure Boot_ ativado! 😀
 
 ## Receita do bolo
 
@@ -40,7 +40,7 @@ Siga os 5 passos abaixo:
   3. Assine o módulo do virtualbox:
   
     `sudo /usr/src/linux-headers-$(uname -r)/scripts/sign-file sha256 ./vboxdrv.priv ./vboxdrv.der $(modinfo -n vboxdrv)`
-  4. Importe a chave pública gerada com: sudo mokutil &#8211;import vboxdrv.der
+  4. Importe a chave pública gerada com: sudo mokutil -import vboxdrv.der
   5. Reinicie e siga as telas que aparecerem durente o boot do UEFI para registrar a nova chave. Este procedimento é permanente, então deve ser feito somente uma vez.
 
 ## Dica adicional

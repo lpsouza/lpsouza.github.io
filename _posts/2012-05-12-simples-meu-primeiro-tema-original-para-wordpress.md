@@ -42,7 +42,7 @@ Hoje o core do Simples-UI possui:
 
 O legal é que o tema usado com o jQuery-UI é baseado no <a title="jQuery UI Bootstrap" href="http://addyosmani.github.com/jquery-ui-bootstrap/" target="_blank">jQuery UI Bootstrap</a>, projeto do <a title="@addyosmani" href="http://twitter.com/addyosmani" target="_blank">Addy Osmani</a>.
 
-Estou ainda  desenvolvendo a idéia, por isso que nem site do projeto tem. E não pense que o projeto é pra uso apenas do WordPress, ele pode ser usado em qualquer projeto na web! Este tema que projetei para WordPress, o Simples, é apenas para amostra e também para começar comigo o uso desta poderosa ferramenta (e imagina se eu que projeto ela não uso? que feio seria&#8230; ahauhauaha).
+Estou ainda  desenvolvendo a idéia, por isso que nem site do projeto tem. E não pense que o projeto é pra uso apenas do WordPress, ele pode ser usado em qualquer projeto na web! Este tema que projetei para WordPress, o Simples, é apenas para amostra e também para começar comigo o uso desta poderosa ferramenta (e imagina se eu que projeto ela não uso? que feio seria... ahauhauaha).
 
 Então é isso! Se você tem alguma opinião a dar sobre este post, é só comentar! 😉
 

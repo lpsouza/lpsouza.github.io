@@ -1,6 +1,6 @@
 ---
 id: 261
-title: 'Atualizando e seguindo a mesma canção&#8230;'
+title: 'Atualizando e seguindo a mesma canção...'
 date: 2009-10-30T13:10:04+00:00
 author: lpsouza
 layout: post
@@ -24,6 +24,6 @@ tags:
   - Programação
   - Wordpress
 ---
-Hoje comecei o atualiza-atualiza nos blogs que administro para o wordpress versão 2.8.5. Eu sempre que posso atualizo por questões de segurança da informação e aproveitando estou atualizando os themas que ganharam update, mas esses to começando a me arrepender&#8230; Hehe..
+Hoje comecei o atualiza-atualiza nos blogs que administro para o wordpress versão 2.8.5. Eu sempre que posso atualizo por questões de segurança da informação e aproveitando estou atualizando os themas que ganharam update, mas esses to começando a me arrepender... Hehe..
 
-No mais parece tudo correndo bem, e alias, este atualiza-atualiza tá em tudo, pois outro que atualizei foi um forum em phpBB3 que administro trambém&#8230; Cheirinho de coisa nova&#8230; Ahahaha embora seja só o cheiro mesmo.. Ahahahaha&#8230;
+No mais parece tudo correndo bem, e alias, este atualiza-atualiza tá em tudo, pois outro que atualizei foi um forum em phpBB3 que administro trambém... Cheirinho de coisa nova... Ahahaha embora seja só o cheiro mesmo.. Ahahahaha...

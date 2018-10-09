@@ -36,6 +36,6 @@ Quer saber mais? Clique no link do post do pessoal da Tux Mind! 😉<!--more-->
 > 
 > Também já foi reportado algumas incompatibilidades com as gráficas da AMD (ATI).
 > 
-> O Unity também tem requisitos mínimos para ser utilizado. Máquinas mais antigas poderão ter &#8220;dificuldades&#8221; com o Unity. (O Unity utiliza alguns efeitos do Compiz)
+> O Unity também tem requisitos mínimos para ser utilizado. Máquinas mais antigas poderão ter "dificuldades" com o Unity. (O Unity utiliza alguns efeitos do Compiz)
 
 via [Tux Mind: Instalar o Unity no Ubuntu 10.10](http://tuxmind.blogspot.com/2010/10/instalar-unity-no-ubuntu-1010.html).

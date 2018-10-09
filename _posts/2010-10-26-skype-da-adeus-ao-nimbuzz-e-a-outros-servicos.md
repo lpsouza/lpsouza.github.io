@@ -29,19 +29,19 @@ tags:
   - Smartphone
   - Symbian
 ---
-Em 31 de Outubro de 2010, acaba o suporte do Nimbuzz ao Skype. E porque? Porque a Skype está se desligando de todas as aplicações que ele era compartilhado&#8230;
+Em 31 de Outubro de 2010, acaba o suporte do Nimbuzz ao Skype. E porque? Porque a Skype está se desligando de todas as aplicações que ele era compartilhado...
 
-<img class="aligncenter size-full wp-image-548" src="http://ihcenter.com.br/luizsouza/files/2010/10/skype-nimbuzz.jpg" alt="" width="248" height="270" />
+<img class="aligncenter size-full wp-image-548" src="wp-content/upload/2010/10/skype-nimbuzz.jpg" alt="" width="248" height="270" />
 
 <p style="text-align: center">
   <p>
     <!--more-->
     
-    <br /> Eu não entendi ainda essa estratégia de mercado que a Skype está tomando. Literalmente eles estão indo contra todas as tendências do mercado de unir e facilitar o uso para usuários em diversos ambientes sociais, vide exemplos principais, o Facebook, Twitter, Windows Live Messenger (MSN), e outros&#8230;
+    <br /> Eu não entendi ainda essa estratégia de mercado que a Skype está tomando. Literalmente eles estão indo contra todas as tendências do mercado de unir e facilitar o uso para usuários em diversos ambientes sociais, vide exemplos principais, o Facebook, Twitter, Windows Live Messenger (MSN), e outros...
   </p>
   
   <p>
-    Não vou me admirar de num futuro muito próximo ver o Skype caindo em desuso pelas pessoas&#8230; Ele pode ser muito bom em questão de voz, mas isso não muda o fato que estagnar e se fechar vai levar ao irremediável desuso.
+    Não vou me admirar de num futuro muito próximo ver o Skype caindo em desuso pelas pessoas... Ele pode ser muito bom em questão de voz, mas isso não muda o fato que estagnar e se fechar vai levar ao irremediável desuso.
   </p>
   
   <p>

@@ -42,13 +42,13 @@ Gostei.. Tanto gostei que havia gravado usando o   <a href="http://qik.com" targ
 Este video vai demorar um pouco.. Pra estar na internet, pois a camera grava com uma qualidade um pouco alta.. Hehe..    
 Mas os outros videos.. Tão no Qik! 
 
-Camerata Jovem de POA &#8211; Exclusivo!    
+Camerata Jovem de POA - Exclusivo!    
   <a href="http://qik.com/video/3090879" target="_blank">http://qik.com/video/3090879 </a> 
 
-Camerata Jovem de POA 2 &#8211; Exclusivo!    
+Camerata Jovem de POA 2 - Exclusivo!    
   <a href="http://qik.com/video/3092817" target="_blank">http://qik.com/video/3092817 </a> 
 
-Camerata Jovem de POA 3 &#8211; Exclusivo!    
+Camerata Jovem de POA 3 - Exclusivo!    
   <a href="http://qik.com/video/3092829" target="_blank">http://qik.com/video/3092829 </a> 
 
 Espero que gostem! 

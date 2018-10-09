@@ -36,4 +36,4 @@ Lendo o <a title="Little Brother | HackToon" href="http://hacktoon.com/devdevdev
 
 [youtube http://www.youtube.com/watch?v=oJagxe-Gvpw]
 
-Eu ri muito com esse carinha&#8230; Esse é expert!
+Eu ri muito com esse carinha... Esse é expert!

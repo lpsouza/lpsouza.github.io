@@ -32,6 +32,6 @@ Bem.. É esperar pra ver.. E se preparar para boas risadas!!!
 
 > _Eitan Bencuya, porta-voz do Google, afirmou que o acordo com a Sony entrou em vigor recentemente, mas se recusou a discutir seus termos, como por exemplo que modelos da Sony virão pré-equipados com o Chrome, ou as condições financeiras da transação._
 > 
-> _O Google afirmou que está estudando maneiras de tornar o Chrome acessível a número maior de usuários. &#8220;Estamos testando um desses canais, com a Sony&#8221;, anunciou a empresa em comunicado._
+> _O Google afirmou que está estudando maneiras de tornar o Chrome acessível a número maior de usuários. "Estamos testando um desses canais, com a Sony", anunciou a empresa em comunicado._
 
-via [Folha Online &#8211; Informática &#8211; Computadores da Sony vão oferecer navegador do Google &#8211; 01/09/2009](http://www1.folha.uol.com.br/folha/informatica/ult124u617950.shtml).
+via [Folha Online - Informática - Computadores da Sony vão oferecer navegador do Google - 01/09/2009](http://www1.folha.uol.com.br/folha/informatica/ult124u617950.shtml).

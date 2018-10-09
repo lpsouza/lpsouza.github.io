@@ -1,6 +1,6 @@
 ---
 id: 1289
-title: 'Falha no boot do Windows Server 2008 R2 &#8211; O que fazer?'
+title: 'Falha no boot do Windows Server 2008 R2 - O que fazer?'
 date: 2014-01-15T12:04:21+00:00
 author: lpsouza
 layout: post
@@ -25,7 +25,7 @@ tags:
   - Windows Server
   - Windows Server 2008 R2
 ---
-Olha uma coisa que eu estou sofrendo de ontem pra cá é isso &#8211; Problema de boot em um Windows Server 2008 R2 de produção do colégio onde presto serviços. Ele é um servidor virtualizado em um Hyper-V Server 2012 e desde que migrei de um dos servidores Hyper-V para outro, simplesmente o boot deixou de funcionar.
+Olha uma coisa que eu estou sofrendo de ontem pra cá é isso - Problema de boot em um Windows Server 2008 R2 de produção do colégio onde presto serviços. Ele é um servidor virtualizado em um Hyper-V Server 2012 e desde que migrei de um dos servidores Hyper-V para outro, simplesmente o boot deixou de funcionar.
 
 Desde ontem as 21hs até agora, estou lendo diversos blogs, tutoriais de ajuda e foruns sobre o assunto e vi que existem algumas diversas ferramentas para a correção de problemas de boot em sistemas operacionais da linha server e client. Deixo abaixo algumas das mais importantes que achei:
 
@@ -39,6 +39,6 @@ Lembro que como você não consegue inicializar o disco, deve usar o DVD de inst
 
 O que resolveu meus problemas foi o último, o StartRep. Inicializei ele, levou seus 5 minutos para verificar tudo e logo depois me pediu para concluir, reinicializou automaticamente e o boot começou a acontecer!
 
-Sistemas Microsoft tem diversos comandos interessantes em modo console, que já está começando a me deixar com vontade de sempre deixar os servidores em modo &#8220;server core&#8221;! 😛
+Sistemas Microsoft tem diversos comandos interessantes em modo console, que já está começando a me deixar com vontade de sempre deixar os servidores em modo "server core"! 😛
 
 Até a próxima!

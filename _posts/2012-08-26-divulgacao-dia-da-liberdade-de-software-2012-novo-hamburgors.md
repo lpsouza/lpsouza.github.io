@@ -1,6 +1,6 @@
 ---
 id: 1093
-title: 'Divulgação: Dia da Liberdade de Software 2012 &#8211; Novo Hamburgo/RS'
+title: 'Divulgação: Dia da Liberdade de Software 2012 - Novo Hamburgo/RS'
 date: 2012-08-26T20:52:02+00:00
 author: lpsouza
 layout: post
@@ -34,7 +34,7 @@ tags:
 > 
 >   * Data: 15 de setembro de 2012 (sábado)
 >   * Hora: 13h às 17h
->   * Local: Campus II da Feevale, Prédio Arenito &#8211; Novo Hamburgo/RS
+>   * Local: Campus II da Feevale, Prédio Arenito - Novo Hamburgo/RS
 >   * Público Alvo: usuários de computador em geral, educadores, estudantes e profissionais de informática que queiram conhecer o Software Livre e/ou participar da comunidade de Software Livre da região. Não é necessário ter experiência com Software Livre para participar.
 >   * Investimento: evento gratuito<!--more-->
 > 

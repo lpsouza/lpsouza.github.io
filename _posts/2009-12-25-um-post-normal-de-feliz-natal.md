@@ -31,11 +31,11 @@ Então hoje é Natal! Epoca em que muitos apenas esperam presentes.. Outros proc
 
 Eu tenho minhas ideologias que Natal é um dia como outro qualquer, onde comemoramos o aniversário de alguem que foi muito especial para a história deste planeta, pois foi uma pessoa que mostrou como ser um lider, e mostrou como a fé é um sentimento tão necessario para nós. 
 
-Mesmo os mais ceticos a este assunto (seja por ser muito &#8220;das exatas&#8221; ou por ser ateu mesmo) sempre no momento de angustia e problemas usa a fé (seja lá em que eles depositem). 
+Mesmo os mais ceticos a este assunto (seja por ser muito "das exatas" ou por ser ateu mesmo) sempre no momento de angustia e problemas usa a fé (seja lá em que eles depositem). 
 
 Então querendo ou não, Natal é o aniversario desta pessoa que nos ensinou a ter fé.. É o dia em que todos devemos lembrar e ter nosso minutinho de reflexão! 
 
-E tudo bem&#8230; Hoje é dia de presente também! 🙂 
+E tudo bem... Hoje é dia de presente também! 🙂 
 
 Feliz Natal a todos! 
 

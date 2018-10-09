@@ -27,7 +27,7 @@ tags:
   - Symbian
 ---
 <p style="text-align: center">
-  <a href="http://brasil.blog.nimbuzz.com/2009/07/31/ja-comprou-o-seu-smartphone-ate-2014-voce-ja-tera-feito-isso/"><img src='http://ihcenter.com.br/luizsouza/files/2009/09/smartphones.jpg' alt='' /></a>
+  <a href="http://brasil.blog.nimbuzz.com/2009/07/31/ja-comprou-o-seu-smartphone-ate-2014-voce-ja-tera-feito-isso/"><img src='wp-content/upload/2009/09/smartphones.jpg' alt='' /></a>
 </p>
 
 > _É o que afirma a nova pesquisa do Pyramid Research, que considera os smartphones como a grande possibilidade de crescimento para fabricantes e operadoras na América Latina._

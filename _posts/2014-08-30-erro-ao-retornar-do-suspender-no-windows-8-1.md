@@ -29,11 +29,11 @@ tags:
   - Windows
   - Windows 8.1
 ---
-Estive com um problema nas últimas semanas com meu notebook, onde ao retornar de um suspender, ele simplesmente reiniciava! Para os mais leigos, quando um computador com Windows (desktop) reiniciar do nada, ou por uma ação, é bem provável que é um caso de BSOD (Blue Screen Of Death), ou a famosa &#8220;Tela Azul Da Morte&#8221;.
+Estive com um problema nas últimas semanas com meu notebook, onde ao retornar de um suspender, ele simplesmente reiniciava! Para os mais leigos, quando um computador com Windows (desktop) reiniciar do nada, ou por uma ação, é bem provável que é um caso de BSOD (Blue Screen Of Death), ou a famosa "Tela Azul Da Morte".
 
 A BSOD é causada, normalmente, por uma instrução do sistema operacional que levou a um erro critico, e para a proteção e funcionamento do sistema, salva a memória em um arquivo chamado MEMDUMP para diagnóstico e reinicia para tentar resolver o problema. Então isso não é uma coisa ruim, apenas um sistema de proteção, mas convenhamos que é um problema se por um acaso for um momento onde você estava fazendo algo e não tenha salvo (um documento ou um jogo, por exemplo).<!--more-->
 
-Comigo aconteceu em momentos bem tensos em que precisei urgente suspender meu notebook e ao voltar, simplesmente perdia tudo! Então fui atras do erro, porque estava passando por esse caso de BSOD, e vendo os logs de sistema, identifiquei o erro 0x00000113 e pesquisando na internet, deu como &#8220;VIDEO\_DXGKRNL\_FATAL_ERROR&#8221;, erro direcionado a drivers do Direct X.
+Comigo aconteceu em momentos bem tensos em que precisei urgente suspender meu notebook e ao voltar, simplesmente perdia tudo! Então fui atras do erro, porque estava passando por esse caso de BSOD, e vendo os logs de sistema, identifiquei o erro 0x00000113 e pesquisando na internet, deu como "VIDEO\_DXGKRNL\_FATAL_ERROR", erro direcionado a drivers do Direct X.
 
 Para corrigir problemas nas DLLs do Direct X (no Windows 8 é padrão do SO rodar a versão 11), usei o aplicativo SFC para corrigir arquivos de sistema corrompidos.
 

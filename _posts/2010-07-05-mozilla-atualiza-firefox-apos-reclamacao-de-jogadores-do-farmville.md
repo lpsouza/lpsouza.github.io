@@ -30,7 +30,7 @@ tags:
   - Networking
   - Redes de Computadores
 ---
-Isso me lembra o trabalho cientifico dos meus alunos sobre esse assunto&#8230; Games online e suas aplicações&#8230;
+Isso me lembra o trabalho cientifico dos meus alunos sobre esse assunto... Games online e suas aplicações...
 
 > _A Mozilla anunciou, na sexta-feira 25/6, uma atualização do navegador Firefox, após internautas reclamarem de erros de plug-in durante a execução de algumas páginas, entre elas do game Farmville._
 

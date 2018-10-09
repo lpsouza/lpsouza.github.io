@@ -24,4 +24,4 @@ tags:
   - Japão
   - Luta
 ---
-Esse é antigo&#8230; Mas sempre eterno!
+Esse é antigo... Mas sempre eterno!

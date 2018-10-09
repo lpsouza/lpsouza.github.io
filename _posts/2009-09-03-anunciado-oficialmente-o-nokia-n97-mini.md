@@ -27,4 +27,4 @@ tags:
 ---
 Esse sim é um touch que vale a pena!
 
-via [Anunciado oficialmente o Nokia N97 Mini – Vídeo | Ramalho.Blog](http://ramalhoblog.com/anunciado-oficialmente-o-nokia-n97-mini-video/).
+via [Anunciado oficialmente o Nokia N97 Mini - Vídeo | Ramalho.Blog](http://ramalhoblog.com/anunciado-oficialmente-o-nokia-n97-mini-video/).

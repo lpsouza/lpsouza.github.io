@@ -33,4 +33,4 @@ Aí a pergunta: Será que realmente isso vai acabar? Consoles desbloqueados neve
 > 
 > _Em nota, a companhia a firma que “em linha com seu comprometimento em combater a pirataria e apoiar a segurança da rede onde mais de 20 milhões de usuários jogam, nós suspendemos consoles identificados como desbloqueados”. A Microsoft diz ainda que o número de banidos representa “um pequeno percentual” do total de usuários._
 
-via [Microsoft promove banimento em massa do Xbox &#8211; INFO Online &#8211; (12/11/2009)](http://info.abril.com.br/noticias/tecnologia-pessoal/microsoft-promove-banimento-em-massa-do-xbox-12112009-16.shl).
+via [Microsoft promove banimento em massa do Xbox - INFO Online - (12/11/2009)](http://info.abril.com.br/noticias/tecnologia-pessoal/microsoft-promove-banimento-em-massa-do-xbox-12112009-16.shl).

@@ -33,4 +33,4 @@ Penso que isso é uma coisa meio obvia, mas entendo o alerta. Quantos problemas 
 
 > _Os riscos associados a um comportamento sem segurança só crescem. Em janeiro, o Identity Theft Resource Center ITRC, órgão internacional de segurança de identidade baseado em San Diego, nos Estados Unidos, apontou que o número de brechas de segurança em 2008 cresceu 47% em comparação com 2007. A organização identificou também que 35,2% das brechas eram causadas por erros humanos._
 
-via [Segurança não é nada sem treinamento &#8211; Gestão &#8211; COMPUTERWORLD](http://computerworld.uol.com.br/gestao/2009/09/03/seguranca-nao-e-nada-sem-treinamento/).
+via [Segurança não é nada sem treinamento - Gestão - COMPUTERWORLD](http://computerworld.uol.com.br/gestao/2009/09/03/seguranca-nao-e-nada-sem-treinamento/).

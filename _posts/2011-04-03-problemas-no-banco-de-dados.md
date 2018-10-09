@@ -30,6 +30,6 @@ Espero que até o final da tarde de hoje esteja resolvido. O problema está send
 
 **Tecnicamente falando:**
 
-O problema está acontecendo no banco de dados MySQL, onde ele exibe a seguinte mensagem: “#1030 &#8211; Got error 28 from storage engine”. A mensagem se refere ao espaço de processamento temporário de queries no MySQL. Com isso, algumas tarefas de INSERT no banco dá erro, isso inclue a inclusão de logs de controle, e por isso o erro dos serviços.
+O problema está acontecendo no banco de dados MySQL, onde ele exibe a seguinte mensagem: “#1030 - Got error 28 from storage engine”. A mensagem se refere ao espaço de processamento temporário de queries no MySQL. Com isso, algumas tarefas de INSERT no banco dá erro, isso inclue a inclusão de logs de controle, e por isso o erro dos serviços.
 
 Agora é aguardar!

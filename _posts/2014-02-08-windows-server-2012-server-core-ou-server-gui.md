@@ -32,9 +32,9 @@ Estou configurando um servidor no meu notebook (máquina virtual no Hyper-V) e m
 
 Ok, mas porque uma ou porque a outra? Depende do uso do servidor. Vamos a um exemplo: Um servidor apenas para banco de dados SQL Server, não precisamos de uma tela com iniciar e tudo mais. Outro exemplo: Um servidor de RDS (Remote Desktop Services), bom, preciso inicialmente de um desktop, por tanto um servidor completo.
 
-Agora, quanto ao primeiro exemplo, você pode pensar: &#8220;Tá, mas ter ou não ter interface desktop no servidor tanto faz!&#8221; E já te digo que faz diferença sim! Esse conceito de &#8220;Server Core&#8221; vem do linux, que por sua vez tem uma performance muito boa, e muito se dá justamente porque ele nativamente não tem infra estrutura de desktop. Então, normalmente ganho seus 2 Gb de espaço em disco, e o uso da memória, que não precisa de informações gráficas (quase).
+Agora, quanto ao primeiro exemplo, você pode pensar: "Tá, mas ter ou não ter interface desktop no servidor tanto faz!" E já te digo que faz diferença sim! Esse conceito de "Server Core" vem do linux, que por sua vez tem uma performance muito boa, e muito se dá justamente porque ele nativamente não tem infra estrutura de desktop. Então, normalmente ganho seus 2 Gb de espaço em disco, e o uso da memória, que não precisa de informações gráficas (quase).
 
-Disse logo acima, que o tipo &#8220;Server Core&#8221; veio desde o Windows Server 2008, mas também um problema assim: Ou um, ou outro! Problema que no Server 2012 eles arrumaram! (Coisa boa!) Em resumo, tanto faz a instalação que tu colocar no inicio, tem como converter em na outra!
+Disse logo acima, que o tipo "Server Core" veio desde o Windows Server 2008, mas também um problema assim: Ou um, ou outro! Problema que no Server 2012 eles arrumaram! (Coisa boa!) Em resumo, tanto faz a instalação que tu colocar no inicio, tem como converter em na outra!
 
 Como faz isso? PowerShell!
 
@@ -47,8 +47,8 @@ Para fazer essas mudanças, podemos usar os comandos Install-WindowsFeature e U
 Então, os comandos ficam:
 
   * Server Core: _Uninstall-WindowsFeature Server-Gui-Mgmt-Infra -Restart_
-  * Server GUI: _Install-WindowsFeature Server-Gui-Mgmt-Infra,Server-Gui-Shell –Restart_
+  * Server GUI: _Install-WindowsFeature Server-Gui-Mgmt-Infra,Server-Gui-Shell -Restart_
 
-<span style="line-height: 1.5;">E está aí, agora podemos usar o modo Server GUI para instalar tudo que precisa e depois mudar para o modo Server Core! Microsoft a cada atualização está melhorando mais! (Daí é eu postar isso, uma atualização do Windows Update me detona a instalação! &#8211; Brincadeira!) 😛</span>
+<span style="line-height: 1.5;">E está aí, agora podemos usar o modo Server GUI para instalar tudo que precisa e depois mudar para o modo Server Core! Microsoft a cada atualização está melhorando mais! (Daí é eu postar isso, uma atualização do Windows Update me detona a instalação! - Brincadeira!) 😛</span>
 
 via <a title="Opções de Instalação do Windows Server [Microsoft]" href="http://technet.microsoft.com/pt-br/library/hh831786.aspx" target="_blank">Opções de Instalação do Windows Server</a>

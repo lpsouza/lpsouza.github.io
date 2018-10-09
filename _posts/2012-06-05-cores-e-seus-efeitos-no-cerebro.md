@@ -1,6 +1,6 @@
 ---
 id: 995
-title: 'Cores e seus efeitos no cerebro&#8230;'
+title: 'Cores e seus efeitos no cerebro...'
 date: 2012-06-05T07:10:21+00:00
 author: lpsouza
 layout: post
@@ -23,4 +23,4 @@ tags:
 ---
 Retirado do Facebook.
 
-<img class="alignnone" alt="image" src="http://ihcenter.com.br/luizsouza/files/2012/06/wpid-facebook_51003.jpg" />
+<img class="alignnone" alt="image" src="wp-content/upload/2012/06/wpid-facebook_51003.jpg" />

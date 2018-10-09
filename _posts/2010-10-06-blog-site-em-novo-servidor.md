@@ -29,8 +29,8 @@ tags:
   - Twitter
   - Wordpress
 ---
-Acabei de trocar de lugar o meu blog / site&#8230; Acredito que todos que lêem ele devem ter percebido que de uns tempos pra cá estavamos com uma performance muito lenta e muitos erros codigo 500 (processos internos do servidor dando erro).
+Acabei de trocar de lugar o meu blog / site... Acredito que todos que lêem ele devem ter percebido que de uns tempos pra cá estavamos com uma performance muito lenta e muitos erros codigo 500 (processos internos do servidor dando erro).
 
-Agora coloquei em um servidor de revenda que tinha meio que parado aqui&#8230; Vamos ver se a performance melhora&#8230; Se vocês puderem, comentem abaixo se melhorou (ou não)!
+Agora coloquei em um servidor de revenda que tinha meio que parado aqui... Vamos ver se a performance melhora... Se vocês puderem, comentem abaixo se melhorou (ou não)!
 
-Ah, só pra avisar também, meu blog não mais pega o diario do meu twitter e posta&#8230; Isto agora é semanal! 🙂
+Ah, só pra avisar também, meu blog não mais pega o diario do meu twitter e posta... Isto agora é semanal! 🙂

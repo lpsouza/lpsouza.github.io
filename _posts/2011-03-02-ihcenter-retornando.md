@@ -1,6 +1,6 @@
 ---
 id: 711
-title: 'IHCenter retornando&#8230;'
+title: 'IHCenter retornando...'
 date: 2011-03-02T15:30:07+00:00
 author: lpsouza
 layout: post
@@ -51,4 +51,4 @@ Quais serviços vão ser colocados no site novo?
   * Sistema hoteleiro de acesso / controle a internet (WiFi / LAN)
   * Painel de controle unificado (serviços / financeiro)
 
-Legal né? Vai ter mais projetos de minha autoria acontecendo aí&#8230; Brainstorming pegando!!! Hehehe&#8230;
+Legal né? Vai ter mais projetos de minha autoria acontecendo aí... Brainstorming pegando!!! Hehehe...

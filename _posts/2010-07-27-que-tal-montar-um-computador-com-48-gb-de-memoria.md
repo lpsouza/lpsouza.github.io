@@ -28,7 +28,7 @@ tags:
 Noticia que me foi enviada pelo @<a href="http://twitter.com/joaopedroermel" target="_blank">joaopedroermel</a>:
 
 <p style="text-align: center">
-  <a href="http://luizsouza.com.br/blog/wp-content/uploads/2010/07/48gb-pics.jpg"><img class="aligncenter" src="http://ihcenter.com.br/luizsouza/files/2010/07/48gb-pics-600x400.jpg" alt="" width="360" height="240" /></a>
+  <a href="http://luizsouza.com.br/blog/wp-content/uploads/2010/07/48gb-pics.jpg"><img class="aligncenter" src="wp-content/upload/2010/07/48gb-pics-600x400.jpg" alt="" width="360" height="240" /></a>
 </p>
 
 > _A G.Skill, empresa conhecida no ramo de memórias de performance extrema, anunciou neste sábado (24) o seu mais novo produto: um kit de 48 GB de memória DDR3 para estações de trabalho.<!--more-->_

@@ -25,4 +25,4 @@ tags:
   - Anime Friends
   - São Paulo
 ---
-[flickr-gallery mode=&#8221;photoset&#8221; photoset=&#8221;72157624481403127&#8243;]
+[flickr-gallery mode="photoset" photoset="72157624481403127"]

@@ -30,4 +30,4 @@ Tá aí o tipo de guerrinha que todos nós (consumidores) adoramos assistir!
 
 > _A maior fabricante mundial de celulares, Nokia, reforçou sua linha de celulares inteligentes nesta quarta-feira (2), para melhor combater a Apple, e anunciou parceria com o site de redes sociais Facebook para um novo serviço baseado na localização dos usuários._
 
-via [Folha Online &#8211; Informática &#8211; Nokia reforça linha de celulares e põe mapas no Facebook &#8211; 02/09/2009](http://www1.folha.uol.com.br/folha/informatica/ult124u618454.shtml).
+via [Folha Online - Informática - Nokia reforça linha de celulares e põe mapas no Facebook - 02/09/2009](http://www1.folha.uol.com.br/folha/informatica/ult124u618454.shtml).

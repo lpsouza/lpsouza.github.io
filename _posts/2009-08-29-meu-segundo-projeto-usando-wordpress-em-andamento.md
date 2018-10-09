@@ -23,7 +23,7 @@ tags:
   - Software
   - Wordpress
 ---
-Realmente estou gostando de trabalhar usando o [[wiki|Wordpress|Wordpress]] em meu segundo projeto.. O site da   <a href="http://ihcenter.com.br" target="_blank">IHCenter </a> . 
+Realmente estou gostando de trabalhar usando o Wordpress em meu segundo projeto.. O site da IHCenter.
 
 Meu primeiro projeto foi este site que está acessando neste exato momento. 
 
@@ -31,7 +31,7 @@ Realmente a flexibilidade em criar não tem muito limite.. E a interface de admi
 
 Sem perder muito tempo, coloquei tudo no ar (ainda em ambiente de testes) e já estou criando.. Tema, plugins, widgets.. Tudo de maneira rapida tu coloca no ar! 
 
-Agora, uma coisa que gostei dele, foi o fato de que podemos remover essa &#8220;cara de blog&#8221; da pagina, deixando a Home com uma cara estatica. E ainda se pode colocar um /blog ou um /news para a parte dinãmica (os posts em si) 
+Agora, uma coisa que gostei dele, foi o fato de que podemos remover essa "cara de blog" da pagina, deixando a Home com uma cara estatica. E ainda se pode colocar um /blog ou um /news para a parte dinãmica (os posts em si) 
 
 Mais uma vez tenho que puxar o saco dos criadores do WordPress e dizer que estão fazendo um excelente trabalho!! 
 

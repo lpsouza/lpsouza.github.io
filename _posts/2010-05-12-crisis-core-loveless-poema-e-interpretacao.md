@@ -33,23 +33,23 @@ Fazia tempo que andei atras disto!!! Segue abaixo o poema tema de Crisis Core (F
 
 >  <span><em><strong>LOVELESS ( POEM )</strong></em></span>
 > 
-> **<span>Loveless &#8211; Prologue </span>**
+> **<span>Loveless - Prologue </span>**
 > 
 >  <span>When the war of the beasts brings about the world’s end<br /> The goddess descends from the sky</span>
 > 
 >  <span>Wings of light and dark spread afar<br /> She guides us to bliss, her gift everlasting</span>
 > 
-> **<span>Loveless &#8211; Act I</span>**
+> **<span>Loveless - Act I</span>**
 > 
 >  <span>Infinite in mystery is the gift of the goddess<br /> We seek it thus, and take it to the sky<br /> Ripples form on the water’s surface<br /> The wandering soul knows no rest</span>
 > 
-> **<span>Loveless &#8211; Act II</span>**
+> **<span>Loveless - Act II</span>**
 > 
 >  <span>There is no hate, only joy<br /> For you are beloved by the goddess<br /> Hero of the dawn, Healer of worlds</span>
 > 
 >  <span>Dreams of the morrow hath the shattered soul<br /> Pride is lost<br /> Wings stripped away, the end is nigh</span>
 > 
-> **<span>Loveless &#8211; Act III</span>**
+> **<span>Loveless - Act III</span>**
 > 
 >  <span>My friend, do you fly away now?<br /> To a world that abhors you and I?<br /> All that awaits you is a somber morrow<br /> No matter where the winds may blow</span>
 > 
@@ -57,7 +57,7 @@ Fazia tempo que andei atras disto!!! Segue abaixo o poema tema de Crisis Core (F
 > 
 >  <span>Even if the morrow is barren of promises<br /> Nothing shall forestall my return</span>
 > 
-> **<span>Loveless &#8211; Act IV</span>**
+> **<span>Loveless - Act IV</span>**
 > 
 >  <span>My friend, the fates are cruel<br /> There are no dreams, no honor remains<br /> The arrow has left the bow of the goddess</span>
 > 
@@ -65,19 +65,19 @@ Fazia tempo que andei atras disto!!! Segue abaixo o poema tema de Crisis Core (F
 > 
 >  <span>Legend shall speak<br /> Of sacrifice at world’s end<br /> The wind sails over the water’s surface<br /> Quietly, but surely</span>
 > 
-> <span><strong>Loveless &#8211; Act V</strong> <em>(Made by Genesis)</em></span>
+> <span><strong>Loveless - Act V</strong> <em>(Made by Genesis)</em></span>
 > 
 >  <span>Even if the morrow is barren of promises<br /> Nothing shall forestall my return<br /> To become the dew that quenches the land<br /> To spare the sands, the seas, the skies<br /> I offer thee this silent sacrifice</span>
 
 > _ <span><strong>LOVELESS ( INTERPRETED )</strong></span>_
 > 
-> **<span>Loveless &#8211; Prologue </span>**
+> **<span>Loveless - Prologue </span>**
 > 
 >  <span>When the war of the beasts brings about the world’s end<br /> The goddess descends from the sky</span>
 > 
 >  <span>Wings of light and dark spread afar<br /> She guides us to bliss, her gift everlasting</span>
 > 
-> **<span>Loveless &#8211; Act I</span>**
+> **<span>Loveless - Act I</span>**
 > 
 >  <span>The Infinite mystery<br /> The gift of the goddess is what the three men seek<br /> But their fates are scattered by war</span>
 > 
@@ -85,7 +85,7 @@ Fazia tempo que andei atras disto!!! Segue abaixo o poema tema de Crisis Core (F
 > 
 >  <span>But the three are still bound by a solemn oath<br /> To seek the answer together, once again</span>
 > 
-> **<span>Loveless &#8211; Act II</span>**
+> **<span>Loveless - Act II</span>**
 > 
 >  <span>Though the prisoner escapes, he is gravely wounded<br /> His life is saved, however<br /> By a woman of the opposing nation</span>
 > 
@@ -93,7 +93,7 @@ Fazia tempo que andei atras disto!!! Segue abaixo o poema tema de Crisis Core (F
 > 
 >  <span>But as happiness grows, so does guilt<br /> Of not fulfilling the oath to his friends</span>
 > 
-> **<span>Loveless &#8211; Act III</span>**
+> **<span>Loveless - Act III</span>**
 > 
 >  <span>As the war sends the world hurling towards destruction<br /> The prisoner departs with his newfound love<br /> And embarks on a new journey</span>
 > 

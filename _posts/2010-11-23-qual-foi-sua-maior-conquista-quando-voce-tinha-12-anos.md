@@ -33,7 +33,7 @@ tags:
 > Para Alex Miller, foi descobrir uma difícil falha de segurança no Firefox e ganhar US$3.000 dólares com isso.
 > 
 > <p style="text-align: center">
->   <a href="http://www.gizmodo.com.br/conteudo/menino-de-12-anos-descobre-falha-no-firefox-e-ganha-us3000"><img src='http://ihcenter.com.br/luizsouza/files/2010/11/alexmiller.jpg' alt='' /></a>
+>   <a href="http://www.gizmodo.com.br/conteudo/menino-de-12-anos-descobre-falha-no-firefox-e-ganha-us3000"><img src='wp-content/upload/2010/11/alexmiller.jpg' alt='' /></a>
 > </p>
 > 
 > A recompensa foi parte de um desafio de segurança entre desenvolvedores, feito pela Mozilla Foundation. Se você encontrasse uma falha, ganhava US$3.000 de prêmio.

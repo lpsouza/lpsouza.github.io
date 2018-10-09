@@ -1,6 +1,6 @@
 ---
 id: 218
-title: 'Os santos estão chegando &#8211; Vídeo'
+title: 'Os santos estão chegando - Vídeo'
 date: 2009-09-30T18:11:47+00:00
 author: lpsouza
 layout: post
@@ -24,7 +24,7 @@ tags:
   - U2
   - Youtube
 ---
-Estava assistindo ontem a noite a MTV Hits e deu alguns clips do Green Day. Eu gosto da banda&#8230;
+Estava assistindo ontem a noite a MTV Hits e deu alguns clips do Green Day. Eu gosto da banda...
 
 Daí vi essa musica que achei linda com o U2, então estou colocando aqui no blog.. Apreciem sem moderações!
 

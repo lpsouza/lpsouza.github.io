@@ -40,7 +40,7 @@ E tenham em mãos:
 
   * Pen Drive de seus 4Gb
 
-_<span style="text-decoration: underline;">Quem já conhece os meus posts, sabe que embora eu goste de escrever posts grandes, sou adepto da politica do TLDR (Too Long, Don&#8217;t Read) e por isso, se não quiserem ler tudo, podem ir direto para a <a href="#tldr">receita de bolo</a>.</span>_
+_<span style="text-decoration: underline;">Quem já conhece os meus posts, sabe que embora eu goste de escrever posts grandes, sou adepto da politica do TLDR (Too Long, Don't Read) e por isso, se não quiserem ler tudo, podem ir direto para a <a href="#tldr">receita de bolo</a>.</span>_
 
 Onde encontrar o Chrome OS? Essa foi a minha empreitada, e verifiquei que do mesmo jeito que o navegador, o sistema operacional tem dois modos: um opensource e outro não.
 
@@ -65,8 +65,8 @@ Para converter um notebook em um chromebook, você deve:
       * Precisa de uma Conta Google
   * Teste todo o hardware! 
       * Eu tive problemas com mouse e com a placa de rede sem fio, para resolver, use os meus scripts: <a title="Problemas com o mouse?" href="https://gist.github.com/lpsouza/d5e2ba84ef3a2217c8c5" target="_blank">Mouse</a> e <a title="Problemas com a Wireless da Broadcom?" href="https://gist.github.com/lpsouza/9e769d9222224b99a7df" target="_blank">Broadcom</a>. Como executar um script no Chromium OS? 
-          * Use o atalho: Ctrl + Alt + T e digite: &#8220;shell&#8221; (sem as aspas)
-          * Depois digite: &#8220;sudo su -&#8221; (sem as aspas)
+          * Use o atalho: Ctrl + Alt + T e digite: "shell" (sem as aspas)
+          * Depois digite: "sudo su -" (sem as aspas)
           * A senha da imagem do Bat é _password_
   * Depois de testado tudo e com o OK, vamos gravar essa imagem no HD do notebook: 
       * Atalho: Ctrl + Alt + T

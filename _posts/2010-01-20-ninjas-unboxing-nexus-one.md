@@ -1,6 +1,6 @@
 ---
 id: 300
-title: 'NINJA&#8217;S UNBOXING: Nexus One'
+title: "NINJA'S UNBOXING: Nexus One"
 date: 2010-01-20T22:05:24+00:00
 author: lpsouza
 layout: post

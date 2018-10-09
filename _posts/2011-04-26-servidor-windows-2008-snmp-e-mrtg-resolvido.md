@@ -29,13 +29,13 @@ Desde sempre usei em meus servidores linux e roteadores o <a href="http://pt.wik
 
 Pois bem, hoje me coloquei um desafio que pensei nunca precisar: Usar o MRTG no Windows! E até que não doeu e nem arrancou pedaço! Hehe..
 
-Bom, primeiro eu fui no velho e bom amigo Google e pesquisei sobre o uso do MRTG e do SNMP no Windows, e achei duas coisas interressantes. Um artigo no Viva o Linux chamado “<a href="http://www.vivaolinux.com.br/artigo/Instalacao-de-MRTG-em-ambiente-Windows/" target="_blank">Instalação de MRTG em ambiente Windows</a>” e como nunca tinha visto o SNMP em um servidor Windows, um help basico na microsoft “<a href="http://technet.microsoft.com/en-us/library/bb726987.aspx" target="_blank">TCP/IP Fundamentals for Microsoft Windows: Appendix B &#8211; Simple Network Management Protocol</a>”.
+Bom, primeiro eu fui no velho e bom amigo Google e pesquisei sobre o uso do MRTG e do SNMP no Windows, e achei duas coisas interressantes. Um artigo no Viva o Linux chamado “<a href="http://www.vivaolinux.com.br/artigo/Instalacao-de-MRTG-em-ambiente-Windows/" target="_blank">Instalação de MRTG em ambiente Windows</a>” e como nunca tinha visto o SNMP em um servidor Windows, um help basico na microsoft “<a href="http://technet.microsoft.com/en-us/library/bb726987.aspx" target="_blank">TCP/IP Fundamentals for Microsoft Windows: Appendix B - Simple Network Management Protocol</a>”.
 
 Bom, acabei seguindo o tutorial do Viva o Linux e acabei percebendo que a instalação do Perl e do MRTG era mais faceis que o proprio tutorial indicava. Por exemplo, a instalação do Perl é via MSI, o que fez uns poucos clicks e tudo ficar funcionando. Logo depois, o MRTG é descompactar e usar!
 
 Segundo passo que dei foi habilitar e configurar o SNMP conforme li no help do Windows e por fim, usei o comando:
 
-perl cfgmaker public@localhost &#8211;global &#8220;WorkDir: c:mrtg&#8221; &#8211;output mrtg.cfg
+perl cfgmaker public@localhost -global "WorkDir: c:mrtg" -output mrtg.cfg
 
 Depois o comando:
 

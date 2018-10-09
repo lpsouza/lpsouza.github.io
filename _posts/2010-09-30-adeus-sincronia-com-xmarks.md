@@ -1,6 +1,6 @@
 ---
 id: 493
-title: 'Adeus sincronia com Xmarks&#8230;'
+title: 'Adeus sincronia com Xmarks...'
 date: 2010-09-30T01:53:57+00:00
 author: lpsouza
 layout: post

@@ -22,7 +22,7 @@ tags:
   - Casamento
   - Divorcio
 ---
-Depois disso vão fazer que nem a Claro &#8211; O Casamento Teste! Nessa modalidade, tu pode se casar por um periodo de 1 ano, pela internet mesmo, e se não gostar do parceiro(a), você pode descasar, mantendo seu status de Solteiro, e não de Divorciado, e não tem que se preocupar com pensão nem divisão de nada! Elaia!
+Depois disso vão fazer que nem a Claro - O Casamento Teste! Nessa modalidade, tu pode se casar por um periodo de 1 ano, pela internet mesmo, e se não gostar do parceiro(a), você pode descasar, mantendo seu status de Solteiro, e não de Divorciado, e não tem que se preocupar com pensão nem divisão de nada! Elaia!
 
 > _Os processos de separação judicial e divórcios consensuais poderão em breve ser agilizados na Justiça. A Comissão de Constituição e Justiça (CCJ) do Senado aprovou há pouco em caráter terminativo projeto que autoriza o uso da internet para acelerar a separação entre casais._
 > 
@@ -32,4 +32,4 @@ Depois disso vão fazer que nem a Claro &#8211; O Casamento Teste! Nessa modalid
 > 
 > _Para entrar em vigor, a matéria depende de aprovação na Câmara e sanção do presidente da República._
 
-via [Comissão do Senado aprova divórcio pela web &#8211; INFO Online &#8211; (02/09/2009)](http://info.abril.com.br/noticias/internet/comissao-do-senado-aprova-divorcio-pela-web-02092009-19.shl).
+via [Comissão do Senado aprova divórcio pela web - INFO Online - (02/09/2009)](http://info.abril.com.br/noticias/internet/comissao-do-senado-aprova-divorcio-pela-web-02092009-19.shl).

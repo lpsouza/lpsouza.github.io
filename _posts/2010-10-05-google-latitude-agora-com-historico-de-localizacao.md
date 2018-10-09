@@ -1,6 +1,6 @@
 ---
 id: 509
-title: 'Google Latitude, agora com histórico de localização&#8230;'
+title: 'Google Latitude, agora com histórico de localização...'
 date: 2010-10-05T09:05:41+00:00
 author: lpsouza
 layout: post
@@ -33,9 +33,9 @@ tags:
 ---
 Pois é! Se você tem um celular com GPS e tem como instalar o aplicativo do Google Maps com Latitude, se prepare para começar a ter um histórico de suas localizações!
 
-Tá, mas pra que eu quero isso? &#8211; Ah pessoal! Sei lá! Eu gosto de ter controle das coisas, porque não ter o controle disso? Poder ter um histórico de onde andei, em que dias e horas&#8230; E tudo mais?
+Tá, mas pra que eu quero isso? - Ah pessoal! Sei lá! Eu gosto de ter controle das coisas, porque não ter o controle disso? Poder ter um histórico de onde andei, em que dias e horas... E tudo mais?
 
-O fato de ter um histórico de localização, por exemplo, foi útil para eu descobrir que realmente, passo mais tempo no trabalho do que em casa. Outra utilidade, é ver o teu passeio em um dia, ou uma temporada&#8230; Para quem viaja é muito legal!
+O fato de ter um histórico de localização, por exemplo, foi útil para eu descobrir que realmente, passo mais tempo no trabalho do que em casa. Outra utilidade, é ver o teu passeio em um dia, ou uma temporada... Para quem viaja é muito legal!
 
 Abaixo umas explicações do Google:
 
@@ -80,6 +80,6 @@ Abaixo umas explicações do Google:
 
 (<a href="http://www.google.com.br/latitude/intro.html" target="_blank">Google Latitude</a>)
 
-Agora, não posso deixar de lembrar que mesmo o sistema sendo privado, isto é, apenas o teu login acessa o conteúdo do histórico, que o login é o do Google, e por isso&#8230; Mantenha a senha do Gmail/Google/Orkut SEGURA!!
+Agora, não posso deixar de lembrar que mesmo o sistema sendo privado, isto é, apenas o teu login acessa o conteúdo do histórico, que o login é o do Google, e por isso... Mantenha a senha do Gmail/Google/Orkut SEGURA!!
 
-Golpes tão aí a todo o instante&#8230; Abram o olho!! Fora isso, adorei essa solução!!
+Golpes tão aí a todo o instante... Abram o olho!! Fora isso, adorei essa solução!!

@@ -23,7 +23,7 @@ tags:
   - Web
   - WWW
 ---
-Peguei esse texto do site do iMasters, e resolvi compartilhar no meu site, porque é uma questão que sempre coloco, quando falamos de desenvolver uma aplicação web ou móvel ou apenas um website: Como vai ser REALMENTE a experiência do usuário? Isso é analisado ou apenas pensam em um &#8220;show pirotécnico em uma paisagem fantasia&#8221;? Fui sempre da opinião que o melhor produto é aquele que o usuário acha o que quer no menor tempo possível.
+Peguei esse texto do site do iMasters, e resolvi compartilhar no meu site, porque é uma questão que sempre coloco, quando falamos de desenvolver uma aplicação web ou móvel ou apenas um website: Como vai ser REALMENTE a experiência do usuário? Isso é analisado ou apenas pensam em um "show pirotécnico em uma paisagem fantasia"? Fui sempre da opinião que o melhor produto é aquele que o usuário acha o que quer no menor tempo possível.
 
 > É muito comum vermos stakeholders e designers direcionando a maioria dos seus esforços a questões meramente visuais durante o processo de desenvolvimento de um produto, e deixando de lado outras questões que possuem um impacto maior e mais direto na experiência do usuário.
 

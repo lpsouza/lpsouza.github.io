@@ -30,7 +30,7 @@ tags:
   - OpenOffice
   - Ubuntu
 ---
-Acabei de ler um twit do meu amigo @<a href="http://twitter.com/ubuntudicas" target="_blank">ubuntudicas</a> que me deixou intrigado: &#8220;Office 2007 no Ubuntu.&#8221;
+Acabei de ler um twit do meu amigo @<a href="http://twitter.com/ubuntudicas" target="_blank">ubuntudicas</a> que me deixou intrigado: "Office 2007 no Ubuntu."
 
 Eu acredito que muito de usuários não tentarem uma plataforma linux na vida deles é a falta do Office (que claro, é da Microsoft). Porque esse seria um dos principais problemas para a migração? Simples: Hoje, se analisarmos as interfaces graficas do Windows, Linux e até do Mac, estão muito parecidas.. Então isso não é mais um problema (Ambiente).
 

@@ -1,6 +1,6 @@
 ---
 id: 151
-title: 'Post na madrugada (nada de util pra fazer) &#8211; System of a Lego'
+title: 'Post na madrugada (nada de util pra fazer) - System of a Lego'
 date: 2009-09-06T03:48:45+00:00
 author: lpsouza
 layout: post
@@ -27,4 +27,4 @@ tags:
   - Video
   - Youtube
 ---
-Cara&#8230; Eu conversando com o Brim&#8230; De madrugada&#8230; Só sai merda!
+Cara... Eu conversando com o Brim... De madrugada... Só sai merda!

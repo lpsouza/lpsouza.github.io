@@ -1,6 +1,6 @@
 ---
 id: 1426
-title: 'Cansei de esperar: Atualização do Moto X (2013 &#8211; 1ª Geração) para o Lollipop!'
+title: 'Cansei de esperar: Atualização do Moto X (2013 - 1ª Geração) para o Lollipop!'
 date: 2015-05-11T01:28:16+00:00
 author: lpsouza
 layout: post
