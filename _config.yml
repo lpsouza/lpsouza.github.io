@@ -108,3 +108,5 @@ whitelist:
 
 jekyll-mentions:
     base_url: https://github.com
+
+exclude: ['README.md']
