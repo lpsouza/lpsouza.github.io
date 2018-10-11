@@ -1,6 +1,6 @@
 ---
 title: 'Larguei o Wordpress!'
-date: 2018-10-10T13:06:54-03:00
+date: 2018-10-10T21:52:00-03:00
 author: lpsouza
 layout: post
 permalink: /2018/10/10/larguei-o-wordpress/
