@@ -102,6 +102,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
+  - jekyll-sitemap
 
 whitelist:
   - jekyll-seo-tag
