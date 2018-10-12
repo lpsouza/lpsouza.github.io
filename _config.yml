@@ -110,4 +110,21 @@ whitelist:
 jekyll-mentions:
     base_url: https://github.com
 
+defaults:
+  -
+    scope:
+      path: "google07017ade82811a0b.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "projects.html"
+    values:
+      sitemap: false
+  -
+    scope:
+      path: "about.html"
+    values:
+      sitemap: false
+
 exclude: ['README.md']
