@@ -1,0 +1,39 @@
+---
+title: 'Utilizando o Powershell para obter o espaço em disco das maquinas virtuais no Hyper-V'
+date: 2019-01-02T18:29:23-03:00
+author: lpsouza
+layout: post
+permalink: /2019/01/02/utilizando-o-powershell-para-obter-o-espaco-em-disco-das-maquinas-virtuais-no-hyper-v/
+headerImage: false
+star: false
+category: blog
+tags:
+ - powershell
+ - hyperv
+ - hyper-v
+ - disk
+ - vhd
+ - vhdx
+ - windows
+ - microsoft
+---
+
+Quando falamos de universo "Windows", acredito que para os usuários avançados e administradores de servidores o Powershell é com certeza uma mão na roda! Então durante um pedido que me foi feito no trabalho de "listar e somar" os discos virtuais (VHDX) das VMs contidas em alguns servidores de Hyper-V, criei um pequeno script que faz esse trabalho!
+
+O script basicamente obtem as VMs e, passando por um filtro, obtem os discos e faz uma soma deles por VM. Ao final o retorno do script é uma lista das VMs com seu respectivo tamanho total de disco. Facil não?
+
+```powershell
+Get-VM | Where-Object { $_.Name -like "VM*" } | ForEach-Object {
+    $VHDSize = 0;
+    $VMName = $_.Name;
+    Get-VMHardDiskDrive -VMName $_.Name | ForEach-Object {
+        Get-VHD -Path $_.Path | ForEach-Object {
+            $VHDSize += $_.Size
+        }
+    };
+    $VHDSizeMB = $VHDSize / (1024 * 1024);
+    Write-Host $VMName $VHDSizeMB
+}
+```
+
+Temos variantes do resultado podem ser obtidas alterando a linha `$VHDSize += $_.Size`. Esta linha tras o tamanho total do VHDX selecionado. Para obter, por exemplo, o uso real do disco, podemos alterar a linha para `$VHDSize += $_.FileSize`.
