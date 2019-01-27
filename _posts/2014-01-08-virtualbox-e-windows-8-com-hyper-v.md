@@ -34,14 +34,14 @@ Sempre quando faço posts longos, costumo criar a área "**Receita de bolo**", p
 
 Em um ambiente virtualizado com uso de Hypervisor pode ocorrer de dois tipos:<!--more-->
 
-**Hypervisor tipo 1**: É quando ele fica gerenciando o hardware diretamente, isto é, ele carrega e trabalha antes do sistema operacional da maquina host. Por sua vez, este sistema operacional é carregado como um sistema operacional virtualizado e primário para as ações do hypervisor. O Hyper-V é um ótimo exemplo deste tipo de sistema!<figure style="width: 192px" class="wp-caption aligncenter">
+**Hypervisor tipo 1**: É quando ele fica gerenciando o hardware diretamente, isto é, ele carrega e trabalha antes do sistema operacional da maquina host. Por sua vez, este sistema operacional é carregado como um sistema operacional virtualizado e primário para as ações do hypervisor. O Hyper-V é um ótimo exemplo deste tipo de sistema!
 
-![Exemplo de Hypervisor tipo 1](http://upload.wikimedia.org/wikipedia/commons/b/b3/Hipervisor_-_Primer_nivel.svg)
+![Exemplo de Hypervisor tipo 1](https://upload.wikimedia.org/wikipedia/commons/b/b3/Hipervisor_-_Primer_nivel.svg)<br>
 Fonte: Wikipédia
 
-**Hypervisor tipo 2**: É quando a virtualização passa usando o sistema operacional host para acessar o hardware. Assim, tanto o sistema de virtualização, nunca acessa diretamente o hardware. E um exemplo deste sistema é o Virtualbox!<figure style="width: 192px" class="wp-caption aligncenter">
+**Hypervisor tipo 2**: É quando a virtualização passa usando o sistema operacional host para acessar o hardware. Assim, tanto o sistema de virtualização, nunca acessa diretamente o hardware. E um exemplo deste sistema é o Virtualbox!
 
-![Exemplo de Hypervisor do tipo 2](http://upload.wikimedia.org/wikipedia/commons/9/91/Hipervisor_-_Segundo_nivel.svg)
+![Exemplo de Hypervisor do tipo 2](https://upload.wikimedia.org/wikipedia/commons/9/91/Hipervisor_-_Segundo_nivel.svg)<br>
 Fonte: Wikipédia
 
 Por tanto, quando temos um Windows 8 com Hyper-V instalado, ele deixa de ser considerado um sistema operacional que acessa diretamente o hardware e passa a ser mais um que usa do hypervisor para trabalhar. E como o Virtualbox não precisa acessar diretamente o hardware, para ele, basta clicar no executável e sair usando. Uma curiosidade, e o que ajuda na ilustração do que estou falando, você já tentou instalar um Hyper-V dentro de uma máquina virtualizada? Ele não deixa, dizendo que não tem como reconhecer este hardware para virtualizar. O Virtualbox instala lisinho! 😛
@@ -68,7 +68,7 @@ e
 
 Pronto! Dois boots ao mesmo sistema operacional, um com Hyper-V e outro não! 😉
 
-![Dual boot depois de alterado](http://blog.lambda3.com.br/wp-content/uploads/2013/01/image_thumb28.png)
+<img src="https://www.lambda3.com.br/wp-content/uploads/2013/01/image32.png" alt="Dual boot depois de alterado"><br>
 Fonte: Blog do Lambda3
 
 O legal, pelo menos comigo, é que não fico quieto, e já estou estudando esse boot manager do Windows 8 para outras personalizações! Agradeço ao Igor pelo post no Blog do Lambda3! Até a próxima!
