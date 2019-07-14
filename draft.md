@@ -61,3 +61,4 @@ $LXC exec $LXDCONTAINER -- docker run --rm hello-world
 ## Links para posts
 
 - https://4sysops.com/archives/windows-event-forwarding-to-a-sql-database/
+- https://www.infoworld.com/article/3403683/visual-studio-code-stepping-on-visual-studios-toes.amp.html
