@@ -15,6 +15,13 @@ git config --global user.email lpsouza@gmail.com
 git config --global credential.helper store
 ```
 
+## GIT behind a proxy
+
+```bash
+npm config set proxy "http://127.0.0.1:3128"
+npm config set https-proxy "http://127.0.0.1:3128"
+```
+
 ## Creating image for LXD storage (testing)
 
 ```bash
@@ -58,7 +65,21 @@ $LXC exec $LXDCONTAINER -- sh ./docker-installer.sh
 $LXC exec $LXDCONTAINER -- docker run --rm hello-world
 ```
 
+## Deleting docker images with name "\<none\>"
+
+```bash
+docker rmi $(docker images | grep "\<none\>" | cut -d" " -f 49)
+```
+
+## Get Dell service tag (linux)
+
+```bash
+sudo dmidecode -t 1
+```
+
 ## Links para posts
 
-- https://4sysops.com/archives/windows-event-forwarding-to-a-sql-database/
-- https://www.infoworld.com/article/3403683/visual-studio-code-stepping-on-visual-studios-toes.amp.html
+- [https://4sysops.com/archives/windows-event-forwarding-to-a-sql-database/](https://4sysops.com/archives/windows-event-forwarding-to-a-sql-database/)
+- [https://www.infoworld.com/article/3403683/visual-studio-code-stepping-on-visual-studios-toes.amp.html](https://www.infoworld.com/article/3403683/visual-studio-code-stepping-on-visual-studios-toes.amp.html)
+- [https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.pt_BR](https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.pt_BR)
+- [https://help.github.com/en/articles/redirects-on-github-pages](https://help.github.com/en/articles/redirects-on-github-pages)
