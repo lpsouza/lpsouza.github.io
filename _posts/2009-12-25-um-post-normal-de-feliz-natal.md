@@ -22,21 +22,21 @@ tags:
   - Fé
   - Humanidade
   - Jesus
-  - Lider
+  - Líder
   - Natal
   - Papai Noel
   - Xmas
 ---
-Então hoje é Natal! Epoca em que muitos apenas esperam presentes.. Outros procuram a paz espiritual.. E poraí vai. 
+Então hoje é Natal! Época em que muitos apenas esperam presentes.. Outros procuram a paz espiritual.. E por aí vai.
 
-Eu tenho minhas ideologias que Natal é um dia como outro qualquer, onde comemoramos o aniversário de alguem que foi muito especial para a história deste planeta, pois foi uma pessoa que mostrou como ser um lider, e mostrou como a fé é um sentimento tão necessario para nós. 
+Eu tenho minhas ideologias que Natal é um dia como outro qualquer, onde comemoramos o aniversário de alguém que foi muito especial para a história deste planeta, pois foi uma pessoa que mostrou como ser um líder, e mostrou como a fé é um sentimento tão necessário para nós.
 
-Mesmo os mais ceticos a este assunto (seja por ser muito "das exatas" ou por ser ateu mesmo) sempre no momento de angustia e problemas usa a fé (seja lá em que eles depositem). 
+Mesmo os mais céticos a este assunto (seja por ser muito "das exatas" ou por ser ateu mesmo) sempre no momento de angustia e problemas usa a fé (seja lá em que eles depositem).
 
-Então querendo ou não, Natal é o aniversario desta pessoa que nos ensinou a ter fé.. É o dia em que todos devemos lembrar e ter nosso minutinho de reflexão! 
+Então querendo ou não, Natal é o aniversario desta pessoa que nos ensinou a ter fé.. É o dia em que todos devemos lembrar e ter nosso minutinho de reflexão!
 
-E tudo bem... Hoje é dia de presente também! 🙂 
+E tudo bem... Hoje é dia de presente também! 🙂
 
-Feliz Natal a todos! 
+Feliz Natal a todos!
 
-Publicado pelo [Wordmobi](http://wordmobi.googlecode.com)
+Publicado pelo Wordmobi

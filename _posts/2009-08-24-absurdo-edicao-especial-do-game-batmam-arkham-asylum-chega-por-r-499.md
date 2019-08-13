@@ -27,7 +27,7 @@ tags:
 ---
 Caraca! Depois me perguntam porque as pessoas compram jogos piratas??
 
-Fui verificar quanto tava o jogo fora do país e como sempre fico pasmo com a diferença (deveria estar acostumado). No site [Amazon.com](http://www.amazon.com/Batman-Arkham-Asylum-Playstation-3/dp/B001E8VB6O) o jogo normal (o que é comentado para o PS3 mais abaixo) por seus R$ 95,15 e a edição colecionador por R$ 164,69 (todos os valores pegos com o dolar de hoje, 24/08/2009 - 15hs).
+Fui verificar quanto tava o jogo fora do país e como sempre fico pasmo com a diferença (deveria estar acostumado). No site [Amazon.com](http://www.amazon.com/Batman-Arkham-Asylum-Playstation-3/dp/B001E8VB6O) o jogo normal (o que é comentado para o PS3 mais abaixo) por seus R$ 95,15 e a edição colecionador por R$ 164,69 (todos os valores pegos com o dólar de hoje, 24/08/2009 - 15hs).
 
 No jogo normal seria a diferença de R$ 193,85 de imposto + "pequena taxa de lucro"? Isso? Não estou ficando doido não? Quer dizer que com o valor eu compro 3 jogos desses com o valor investido aqui no Brasil??
 

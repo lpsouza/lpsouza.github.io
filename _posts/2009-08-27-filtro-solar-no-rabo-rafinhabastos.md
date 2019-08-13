@@ -16,6 +16,6 @@ tags:
 ---
 Video do [Rafinha Bastos](http://www.youtube.com/user/rafinhabastos) ([@rafinhabastos](http://twitter.com/rafinhabastos)...
 
-Como diria a Cleo Pires... Fica a dica!
+Como diria a Cléo Pires... Fica a dica!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SQhFw5Me-8I?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

@@ -29,4 +29,4 @@ tags:
   - Software
   - Tecnologia
 ---
-Passeando nos meus sparks no Google+, achei esse vídeo muito interessante de uma palestra do fisl12. O autor é o Rafael Jaques e o link original está aqui: <a title="Rafael Jaques - PHP Sob Ataque: Técnicas de Programação Defensiva - FISL 12" href="http://vimeo.com/26059958" target="_blank">Rafael Jaques - PHP Sob Ataque: Técnicas de Programação Defensiva - FISL 12</a>
+Passeando nos meus sparks no Google+, achei esse vídeo muito interessante de uma palestra do fisl12. O autor é o Rafael Jaques e o link original está aqui: [Rafael Jaques - PHP Sob Ataque: Técnicas de Programação Defensiva - FISL 12](http://vimeo.com/26059958).

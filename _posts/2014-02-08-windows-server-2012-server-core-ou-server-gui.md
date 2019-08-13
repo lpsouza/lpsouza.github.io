@@ -24,7 +24,7 @@ tags:
   - Windows Server
   - Windows Server 2012
 ---
-Estou configurando um servidor no meu notebook (máquina virtual no Hyper-V) e me deparei com a questão de qual tipo de instalação deveria escolher, a _Server Core_ ou a _Server GUI_? Primeiro, vamos entender o que cada uma impacta na instalação:<!--more-->
+Estou configurando um servidor no meu notebook (máquina virtual no Hyper-V) e me deparei com a questão de qual tipo de instalação deveria escolher, a _Server Core_ ou a _Server GUI_? Primeiro, vamos entender o que cada uma impacta na instalação:
 
 **Server GUI**: É a versão que todos conhecem do servidor, isto é, vem completa a interface de administração. Em resumo, é a velha carinha de qualquer Windows que conhecemos (na realidade, o Server 2012 tem uma cara mais simples do Windows 8).
 
@@ -40,15 +40,15 @@ Como faz isso? PowerShell!
 
 Para fazer essas mudanças, podemos usar os comandos Install-WindowsFeature e Uninstall-WindowsFeature, junto com as features abaixo:
 
-  * _Server-Gui-Mgmt-Infra_: Interface Mínima do Servidor
-  * _Server-Gui-Shell_: Interface básica desktop
-  * _Desktop-Experience_: Interface com experiência do usuário (fica quase como um Windows 8)
+* _Server-Gui-Mgmt-Infra_: Interface Mínima do Servidor
+* _Server-Gui-Shell_: Interface básica desktop
+* _Desktop-Experience_: Interface com experiência do usuário (fica quase como um Windows 8)
 
 Então, os comandos ficam:
 
-  * Server Core: _Uninstall-WindowsFeature Server-Gui-Mgmt-Infra -Restart_
-  * Server GUI: _Install-WindowsFeature Server-Gui-Mgmt-Infra,Server-Gui-Shell -Restart_
+* Server Core: _Uninstall-WindowsFeature Server-Gui-Mgmt-Infra -Restart_
+* Server GUI: _Install-WindowsFeature Server-Gui-Mgmt-Infra,Server-Gui-Shell -Restart_
 
-<span style="line-height: 1.5;">E está aí, agora podemos usar o modo Server GUI para instalar tudo que precisa e depois mudar para o modo Server Core! Microsoft a cada atualização está melhorando mais! (Daí é eu postar isso, uma atualização do Windows Update me detona a instalação! - Brincadeira!) 😛</span>
+E está aí, agora podemos usar o modo Server GUI para instalar tudo que precisa e depois mudar para o modo Server Core! Microsoft a cada atualização está melhorando mais! (Daí é eu postar isso, uma atualização do Windows Update me detona a instalação! - Brincadeira!) 😛
 
-via <a title="Opções de Instalação do Windows Server [Microsoft]" href="http://technet.microsoft.com/pt-br/library/hh831786.aspx" target="_blank">Opções de Instalação do Windows Server</a>
+via [Opções de Instalação do Windows Server](http://technet.microsoft.com/pt-br/library/hh831786.aspx)

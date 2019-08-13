@@ -27,12 +27,6 @@ Na hora de desenvolver um layout para um site, o Design Digital (antigo Web Desi
 
 Ok, mas me esbarrei neste infográfico muito legal, por uma razão simples: Queria mudar meu layout da página do Twitter. 🙂
 
-Abaixo essa super solução:<!--more-->
+Abaixo essa super solução:
 
-<p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-1197" alt="Infográfico dos layouts das redes sociais" src="wp-content/upload/2013/08/social-media-design-blueprint.png" width="600" height="9487" srcset="https://luizsouza.com.br/wp-content/uploads/2013/08/social-media-design-blueprint.png 600w, https://luizsouza.com.br/wp-content/uploads/2013/08/social-media-design-blueprint-19x300.png 19w" sizes="(max-width: 600px) 100vw, 600px" />
-</p>
-
-&nbsp;
-
-via <a title="Facebook, Twitter, Instagram, Pinterest - Complete Social Media Image Size Guide [INFOGRAPHIC]" href="http://www.mediabistro.com/alltwitter/social-media-image-dimensions_b44957" target="_blank">Facebook, Twitter, Instagram, Pinterest - Complete Social Media Image Size Guide [INFOGRAPHIC]</a>
+![Blueprint](wp-content/uploads/2013/08/social-media-design-blueprint.png)

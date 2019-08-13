@@ -40,45 +40,21 @@ O fato de ter um histórico de localização, por exemplo, foi útil para eu des
 Abaixo umas explicações do Google:
 
 > #### Histórico de locais do Google
-> 
-> <div>
->   <p>
->     Acompanhe o seu histórico de locais do Google Latitude
->   </p>
->   
->   <ul>
->     <li>
->       Armazene seus locais anteriores e visualize-os no Google Maps e no Google Earth
->     </li>
->     <li>
->       Veja um painel com informações interessantes como viagens, locais mais visitados, distância percorrida, e mais.
->     </li>
->     <li>
->       Ative os Alertas do Latitude para receber notificações quando seus amigos estiverem por perto. O Histórico de locais permite que os alertas só sejam enviados quando você estiver em um lugar diferente do normal, deixando de fora os alertas de rotina.
->     </li>
->   </ul>
->   
->   <p>
->     <img src="https://www.google.com/latitude/apps/static/warning.png" alt="" /> <strong>Aviso de privacidade</strong>
->   </p>
->   
->   <ul>
->     <li>
->       Seu histórico não será visível publicamente, nem para seus amigos do Latitude.
->     </li>
->     <li>
->       Você pode apagar todo o seu histórico de locais ou parte dele quando quiser.
->     </li>
->     <li>
->       A desativação do recurso não removerá o histórico existente e já armazenado. Para excluí-lo, vá para o Gerenciamento de histórico.
->     </li>
->     <li>
->       O painel destaca informações úteis e interessantes de seu histórico de locais existente.
->     </li>
->   </ul>
-> </div>
+>
+> Acompanhe o seu histórico de locais do Google Latitude
+>
+> - Armazene seus locais anteriores e visualize-os no Google Maps e no Google Earth
+> - Veja um painel com informações interessantes como viagens, locais mais visitados, distância percorrida, e mais.
+> - Ative os Alertas do Latitude para receber notificações quando seus amigos estiverem por perto. O Histórico de locais permite que os alertas só sejam enviados quando você estiver em um lugar diferente do normal, deixando de fora os alertas de rotina.
+>
+> **Aviso de privacidade**
+>
+> - Seu histórico não será visível publicamente, nem para seus amigos do Latitude.
+> - Você pode apagar todo o seu histórico de locais ou parte dele quando quiser.
+> - A desativação do recurso não removerá o histórico existente e já armazenado. Para excluí-lo, vá para o Gerenciamento de histórico.
+> - O painel destaca informações úteis e interessantes de seu histórico de locais existente.
 
-(<a href="http://www.google.com.br/latitude/intro.html" target="_blank">Google Latitude</a>)
+(via Google Latitude)
 
 Agora, não posso deixar de lembrar que mesmo o sistema sendo privado, isto é, apenas o teu login acessa o conteúdo do histórico, que o login é o do Google, e por isso... Mantenha a senha do Gmail/Google/Orkut SEGURA!!
 

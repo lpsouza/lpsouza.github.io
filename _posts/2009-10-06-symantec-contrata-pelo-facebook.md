@@ -25,12 +25,10 @@ tags:
   - Redes Sociais
   - Symantec
 ---
-<p style="text-align: center">
-  <a href="http://info.abril.com.br/noticias/carreira/symantec-contrata-pelo-facebook-06102009-31.shl"><img src="wp-content/upload/2009/10/Facebook-20091006140146.jpg" alt="" /></a>
-</p>
+![Facebook](wp-content/upload/2009/10/Facebook-20091006140146.jpg)
 
 > _A Symantec anunciou seu programa de contratações para recém formados e estagiários na Europa. O detalhe é que o processo é feito pelo Facebook._
-> 
+>
 > _Ao todo, a empresa quer contratar 25 funcionários e mais 13 estagiários para áreas de TI e Marketing. A iniciativa mostra que as empresas podem e utilizam as redes sociais para avaliarem os candidatos._
 
-via [Symantec contrata pelo Facebook - INFO Online - (06/10/2009)](http://info.abril.com.br/noticias/carreira/symantec-contrata-pelo-facebook-06102009-31.shl).
+via Symantec contrata pelo Facebook - INFO Online - (06/10/2009)

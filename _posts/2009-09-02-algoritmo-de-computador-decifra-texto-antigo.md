@@ -21,7 +21,7 @@ tags:
   - INFO
   - Software
 ---
-A ideia de estudar Ciência da Computação foi pra isso.. (Momento [[wiki|Stargate SG1|Stargate SG1]]: O Daniel ia se morder de ciúmes com esse algoritmo!)
+A ideia de estudar Ciência da Computação foi pra isso.. (Momento [Stargate SG1](https://pt.wikipedia.org/wiki/Stargate_SG-1): O Daniel ia se morder de ciúmes com esse algoritmo!)
 
 > _Pesquisadores de Israel desenvolveram um programa capaz de decifrar textos antigos anteriormente ilegíveis, abrindo caminho a um serviço de busca em estilo Google para documentos históricos.O programa utiliza um algoritmo de reconhecimento de padrões semelhante ao aplicado pelas organizações policiais para identificar e comparar impressões digitais._
 

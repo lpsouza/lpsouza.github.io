@@ -27,12 +27,13 @@ tags:
 Dica do Rafael Jaques:
 
 > Algumas vezes você pode necessitar descobrir a idade exata do seu usuário. As vezes ele acaba sendo barrado, apesar de ter a idade correta, mas pelo fato de ele ter completado a idade necessária no ano corrente, acabamos por restringir um usuário que deveria ter acesso.
-> 
+>
 > A idéia básica nesse script é encontrar a timestamp de hoje, a timestamp do nascimento do fulano, subtrair um do outro, dividir pelos 60 segundos, pelos 60 minutos, pelas 24 horas e pelos 365.25 dias do ano. (Ufa!)
 
 Segue o código abaixo:
 
-<pre>&lt;?php
+```php
+<?php
 
 // Declara a data! :P
 $data = '29/08/2008';
@@ -50,6 +51,7 @@ $nascimento = mktime( 0, 0, 0, $mes, $dia, $ano);
 $idade = floor((((($hoje - $nascimento) / 60) / 60) / 24) / 365.25);
 print $idade;
 
-?&gt;</pre>
+?>
+```
 
-via [Descobrindo a idade através da data de nascimento | PHPit](http://www.phpit.com.br/artigos/descobrindo-a-idade-atraves-da-data-de-nascimento.phpit).
+via [Descobrindo a idade através da data de nascimento | PHPit](http://www.phpit.com.br/artigos/descobrindo-a-idade-atraves-da-data-de-nascimento.phpit)

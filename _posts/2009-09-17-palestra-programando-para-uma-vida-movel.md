@@ -50,27 +50,27 @@ tags:
   - Twitter
   - Video
 ---
-Hoje eu estive no Colégio Cenecista aqui da cidade de Novo Hamburgo, dando uma palestra sobre mobilidade e alguns conceitos interressantes foram comentados:
+Hoje eu estive no Colégio Cenecista aqui da cidade de Novo Hamburgo, dando uma palestra sobre mobilidade e alguns conceitos interessantes foram comentados:
 
-  * O caminho da evolução móvel
-  * Tecnologias de hoje e um pouco do amanhã
-  * Facilidades da rede móvel:  <a href="http://www.joikuspot.com" target="_blank">JoikuSpot </a> ,  <a href="http://www.twibble.de" target="_blank">Twibble </a> ,  <a href="http://qik.com" target="_blank">Qik </a> ,  <a href="http://m.google.com" target="_blank">Google Mobile </a> e  <a href="http://qrcode.kaywa.com/" target="_blank">QRCodes </a>
-  * Programação em PHP para celulares usando o  <a href="http://wiki.opensource.nokia.com/projects/PAMP" target="_blank">PAMP </a>
+* O caminho da evolução móvel
+* Tecnologias de hoje e um pouco do amanhã
+* Facilidades da rede móvel:  [JoikuSpot](http://www.joikuspot.com), [Twibble](http://www.twibble.de), [Qik](http://qik.com) , [Google Mobile](http://m.google.com) e [QRCodes](http://qrcode.kaywa.com/)
+* Programação em PHP para celulares usando o  [PAMP](http://wiki.opensource.nokia.com/projects/PAMP)
 
-Uma pena que são tantos assuntos para pouco tempo. Mas acredito que os alunos devem ter entendido o recado:  **Não importa a sua profissão, a vida móvel só ajuda a sua vida! Não importa se és um técnico em TI, uma pessoa que trabalha com fotos, um reporter, uma empresa de transportes.** 
+Uma pena que são tantos assuntos para pouco tempo. Mas acredito que os alunos devem ter entendido o recado:  **Não importa a sua profissão, a vida móvel só ajuda a sua vida! Não importa se és um técnico em TI, uma pessoa que trabalha com fotos, um repórter, uma empresa de transportes.**
   
 Em muito pouco tempo (aposto em alguns meses) a realidade dos smartphones vai ser uma coisa comum e banal.
   
 Antes que percebam, bem vindos a mobilidade total!
 
-Foto, demonstração postada via Twibble  <a href="http://www.twitpic.com/i2osd" target="_blank">aqui </a>
+Foto, demonstração postada via Twibble [aqui](http://www.twitpic.com/i2osd)
 
-Video, demonstração (no momento) ao vivo no Qik  <a href="http://qik.com/video/2921594" target="_blank">aqui </a>e no YouTube <a href="http://www.youtube.com/watch?v=BXW_nfMmtnc" target="_blank">aqui</a>
+Video, demonstração (no momento) ao vivo no Qik [aqui](http://qik.com/video/2921594) e no YouTube [aqui](http://www.youtube.com/watch?v=BXW_nfMmtnc)
 
-Deixo aqui meu muito obrigado ao Sandro, professor do Colégio e meu amigo. E agradeço também ao  <a href="http://twitter.com/franckbeck" target="_blank">@FranckBeck </a> pelo post no blog dele sobre QRCodes.
+Deixo aqui meu muito obrigado ao Sandro, professor do Colégio e meu amigo. E agradeço também ao  [@FranckBeck](http://twitter.com/franckbeck) pelo post no blog dele sobre QRCodes.
   
-E deixo aqui o meu agradecimento a meus amigos, em especial a  <a href="http://twitter.com/Clarini" target="_blank">@Clarini </a> por me motivar a fazer esta palestra.
+E deixo aqui o meu agradecimento a meus amigos, em especial a [@Clarini](http://twitter.com/Clarini) por me motivar a fazer esta palestra.
   
 E a todos os alunos por terem assistido, é claro! 🙂
 
-Publicado pelo [Wordmobi](http://wordmobi.googlecode.com)
+Publicado pelo Wordmobi

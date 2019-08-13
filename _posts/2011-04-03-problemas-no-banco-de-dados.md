@@ -26,7 +26,7 @@ tags:
 ---
 Pois é, hoje (03/04/2011), meu servidor está passando por uma dificuldade de acesso aos recursos de banco de dados em MySQL. Com isso, alguns serviços que sirvo podem não estar funcionando perfeitamente.
 
-Espero que até o final da tarde de hoje esteja resolvido. O problema está sendo investigado pelos técnicos do datacenter, uma vez que não tenho acesso direto a máquina em questão.
+Espero que até o final da tarde de hoje esteja resolvido. O problema está sendo investigado pelos técnicos do data center, uma vez que não tenho acesso direto a máquina em questão.
 
 **Tecnicamente falando:**
 

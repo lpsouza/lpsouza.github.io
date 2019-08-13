@@ -14,10 +14,10 @@ tags:
 ---
 Serio... O que vou pensar com isso?
 
-  * Ursinho Pooh vs Wolverine?
-  * Kim Possible trabalhando na S.H.I.E.L.D.?
-  * Timão e Pumba vs Hulk?
-  * Homem Aranha e o caminho para El Dourado?
+* Ursinho Pooh vs Wolverine?
+* Kim Possible trabalhando na S.H.I.E.L.D.?
+* Timão e Pumba vs Hulk?
+* Homem Aranha e o caminho para El Dourado?
 
 Vamos ver no que vai dar essa brincadeira.. Hehe..
 

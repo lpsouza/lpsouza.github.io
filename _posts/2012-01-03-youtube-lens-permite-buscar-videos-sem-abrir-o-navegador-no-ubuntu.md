@@ -26,16 +26,15 @@ tags:
 ---
 Bah, quer algo mais prático do que navegar no youtube sem abrir o navegador?
 
-<p style="text-align: center">
-  <a href="http://tecnoblog.net/87067/youtube-ubuntu/"><img src='wp-content/upload/2012/01/Screenshot-at-2012-01-02-155617-600x387.png' alt='' /></a>
-</p>
+![YouTube](wp-content/upload/2012/01/Screenshot-at-2012-01-02-155617-600x387.png)
 
 Então nem vamos perder mais tempo:
 
-> sudo add-apt-repository ppa:atareao/lenses
-  
-> sudo apt-get update && sudo apt-get install lens-video scope-youtube
+```bash
+sudo add-apt-repository ppa:atareao/lenses
+sudo apt-get update && sudo apt-get install lens-video scope-youtube
+```
 
 Depois disso saia e entre novamente no Unity e lá tá!
 
-via [YouTube Lens permite buscar vídeos sem abrir o navegador no Ubuntu | Tecnoblog](http://tecnoblog.net/87067/youtube-ubuntu/).
+via [YouTube Lens permite buscar vídeos sem abrir o navegador no Ubuntu | Tecnoblog](http://tecnoblog.net/87067/youtube-ubuntu/)

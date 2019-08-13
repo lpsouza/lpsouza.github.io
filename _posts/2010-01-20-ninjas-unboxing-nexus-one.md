@@ -26,3 +26,5 @@ tags:
   - Smartphone
 ---
 Ahauhauahuahauha melhor forma de desempacotar! Smartphone foda!
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-ufok8a7U0A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

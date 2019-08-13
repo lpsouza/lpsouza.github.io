@@ -30,12 +30,12 @@ tags:
   - OpenOffice
   - Ubuntu
 ---
-Acabei de ler um twit do meu amigo @<a href="http://twitter.com/ubuntudicas" target="_blank">ubuntudicas</a> que me deixou intrigado: "Office 2007 no Ubuntu."
+Acabei de ler um twit do meu amigo [@ubuntudicas](http://twitter.com/ubuntudicas) que me deixou intrigado: "Office 2007 no Ubuntu."
 
-Eu acredito que muito de usuários não tentarem uma plataforma linux na vida deles é a falta do Office (que claro, é da Microsoft). Porque esse seria um dos principais problemas para a migração? Simples: Hoje, se analisarmos as interfaces graficas do Windows, Linux e até do Mac, estão muito parecidas.. Então isso não é mais um problema (Ambiente).
+Eu acredito que muito de usuários não tentarem uma plataforma linux na vida deles é a falta do Office (que claro, é da Microsoft). Porque esse seria um dos principais problemas para a migração? Simples: Hoje, se analisarmos as interfaces gráficas do Windows, Linux e até do Mac, estão muito parecidas.. Então isso não é mais um problema (Ambiente).
 
-Ok, então temos a questão do Office: Linux usa OpenOffice (BR-Office). Tem muitas coisas que ainda mudam entre essas plataformas de escritório. Vai desde a disposição da formatação, passa pelo proprio arquivo (que cada um parece querer fazer proprietário), e segue até os mais avançados Macros em VBA.
+Ok, então temos a questão do Office: Linux usa OpenOffice (BR-Office). Tem muitas coisas que ainda mudam entre essas plataformas de escritório. Vai desde a disposição da formatação, passa pelo próprio arquivo (que cada um parece querer fazer proprietário), e segue até os mais avançados Macros em VBA.
 
-Então tendo como fazer essa façanha, acredito que muitos conseguirão trabalhar em Linux sem maiores problemas! (Embora eu não passo pra Linux por causa do meu uso de multimidia hardcore mode on extra plus, hehehe)
+Então tendo como fazer essa façanha, acredito que muitos conseguirão trabalhar em Linux sem maiores problemas! (Embora eu não passo pra Linux por causa do meu uso de multimídia hardcore mode on extra plus, hehehe)
 
-Segue o artigo: http://enfatizando.wordpress.com/2010/07/14/office-no-ubuntu/
+Segue o artigo: [http://enfatizando.wordpress.com/2010/07/14/office-no-ubuntu/](http://enfatizando.wordpress.com/2010/07/14/office-no-ubuntu/)

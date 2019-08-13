@@ -26,4 +26,4 @@ To usando ele em português e desde já agradeço ao Marcelo Barros.
 
 Bom, vamos postando então!
 
-Publicado pelo [Wordmobi](http://wordmobi.googlecode.com)
+Publicado pelo Wordmobi

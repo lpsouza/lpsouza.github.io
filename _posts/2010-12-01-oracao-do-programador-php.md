@@ -21,7 +21,7 @@ categories:
   - TIC
   - WWW
 tags:
-  - Algoritimo
+  - Algorítimo
   - Fica a dica
   - Ha-ha!
   - HTML
@@ -37,15 +37,15 @@ tags:
   - TI
   - Webmaster
 ---
-Ahahaha.. Essa eu li no Twitter da minha amiga virtual e colega de programação PHP @   <a href="http://twitter.com/dressa_maya" target="_blank">dressa_maya </a> , uma oração bem legal! 
+Ahahaha.. Essa eu li no Twitter da minha amiga virtual e colega de programação PHP [@dressa_maya](http://twitter.com/dressa_maya), uma oração bem legal!
 
-> Santo PHP que estais compilado     
-> santificado seja o vosso codigo     
-> venha a nós o vosso lamp     
-> seja feita o vosso array     
-> Assim no servidor     
-> como também nos testes. 
+> Santo PHP que estais compilado  
+> santificado seja o vosso código  
+> venha a nós o vosso lamp  
+> seja feita o vosso array  
+> Assim no servidor  
+> como também nos testes.
 
-Muito bom! 🙂 
+Muito bom! 🙂
 
-Posted by [Wordmobi](http://wordmobi.googlecode.com)
+Posted by Wordmobi

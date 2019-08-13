@@ -26,7 +26,7 @@ tags:
 ---
 Mais um da coleção resolvidos! Hehehe...
 
-Desta vez é a vez de um pequeno bug que anda ocorrendo no Ubuntu Desktop 14.04, quando usamos a função de Compartilhamento de Área de Trabalho, e tentamos o acesso ao computador e nos deparamos com a mensagem: _"<span style="color: #222222;">No supported authentication methods!</span>"_
+Desta vez é a vez de um pequeno bug que anda ocorrendo no Ubuntu Desktop 14.04, quando usamos a função de Compartilhamento de Área de Trabalho, e tentamos o acesso ao computador e nos deparamos com a mensagem: _"No supported authentication methods!"_
 
 Para corrigir este problema encontrei um artigo um tando confuso "Remote desktop Sharing in Ubuntu 14.04" no site Ubuntu Discourse e resolvi colocar o resumo da ópera aqui.
 
@@ -37,5 +37,3 @@ Para resolver, precisamos desativar a criptografia, e então, no terminal, usamo
 `gsettings set org.gnome.Vino require-encryption false`
 
 Após isso, reinicie o seu computador e o acesso deve estar funcionando normalmente!
-
-Fonte: <a title="Remote desktop Sharing in Ubuntu 14.04" href="http://discourse.ubuntu.com/t/remote-desktop-sharing-in-ubuntu-14-04/1640" target="_blank">http://discourse.ubuntu.com/t/remote-desktop-sharing-in-ubuntu-14-04/1640</a>

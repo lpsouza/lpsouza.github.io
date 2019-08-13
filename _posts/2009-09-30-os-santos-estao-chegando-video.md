@@ -28,4 +28,6 @@ Estava assistindo ontem a noite a MTV Hits e deu alguns clips do Green Day. Eu g
 
 Daí vi essa musica que achei linda com o U2, então estou colocando aqui no blog.. Apreciem sem moderações!
 
-Aqui a letra: <a href="http://letras.terra.com.br/green-day/802182/traducao.html" target="_blank">http://letras.terra.com.br/green-day/802182/traducao.html</a>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PD_0fqvT32g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Aqui a letra: [http://letras.terra.com.br/green-day/802182/traducao.html](http://letras.terra.com.br/green-day/802182/traducao.html)

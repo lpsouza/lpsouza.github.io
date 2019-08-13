@@ -24,7 +24,7 @@ tags:
 ---
 Quem usa Linux e usa interface gráfica, já deve ter dado graças aos backups do  gEdit, mas em um momento ou outro acabam também virando dor de cabeça.
 
-Gerenciadores de arquivos graficos como o Nautilus ocultam esses arquivos e quando menos percebemos, estamos lotados deles no disco rígido. Eu passo por esse problema de vez em sempre, e a um tempo vi um post legal do blog "Different.In a good way" onde colocaram um comando bem simples usando o "find" para procurar os arquivos de backup do gEdit, isto é, `*~`.
+Gerenciadores de arquivos gráficos como o Nautilus ocultam esses arquivos e quando menos percebemos, estamos lotados deles no disco rígido. Eu passo por esse problema de vez em sempre, e a um tempo vi um post legal do blog "Different.In a good way" onde colocaram um comando bem simples usando o "find" para procurar os arquivos de backup do gEdit, isto é, `*~`.
 
 `find . -name *~ -exec rm '{}' ;`
 
@@ -32,8 +32,8 @@ Entendendo o comando. O **.** é dizendo para olhar a pasta atual (onde você es
 
 Eu mudei um pouco o script, porque gosto de ver o que está acontecendo durante a execução então adicionei um **-v**:
 
-`find . -name *~ -exec rm <strong>-v</strong> '{}' ;`
+`find . -name *~ -exec rm -v '{}' ;`
 
 E era isso!
 
-via [delete all gedit backup files « Different.In a good way](https://paragasu.wordpress.com/2008/11/18/delete-all-gedit-backup-files/).
+via [delete all gedit backup files « Different.In a good way](https://paragasu.wordpress.com/2008/11/18/delete-all-gedit-backup-files/)

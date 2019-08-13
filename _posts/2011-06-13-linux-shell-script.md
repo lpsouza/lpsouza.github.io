@@ -28,7 +28,7 @@ tags:
 ---
 Tá aí uma coisa que poucos usuários linux atuais sabem mexer a fundo: Shell Script.
 
-Mas o que é isso exatamente? Shell Script é uma linguagem de scripts (não é considerado uma linguagem de programação) para uso de alguns interpretadores de comandos, usados por diversos sistemas operacionais. Os que mais usam são os GNU/Linux. (leia mais na <a title="Shell Script na Wikipédia" href="http://pt.wikipedia.org/wiki/Shell_script" target="_blank">Wikipédia</a>).
+Mas o que é isso exatamente? Shell Script é uma linguagem de scripts (não é considerado uma linguagem de programação) para uso de alguns interpretadores de comandos, usados por diversos sistemas operacionais. Os que mais usam são os GNU/Linux. (leia mais na Wikipédia sobre [ShellScript](http://pt.wikipedia.org/wiki/Shell_script)).
 
 Mas, interpretador de comandos, eu quero dizer o console mesmo! Como muitos usuários linux atuais usam apenas interface gráfica, eles acabam perdendo o melhor do parquinho!
 
@@ -38,18 +38,16 @@ Como é uma linguagem de scripts para interpretadores de comandos, eles precisam
 
 Um exemplo de script:
 
-> if [ $1 -lt 10 ]; then
-  
-> echo "Número menor que 10"
-  
-> else
-  
-> echo "Número igual ou maior que 10"
-  
-> fi
+```bash
+if [ $1 -lt 10 ]; then
+    echo "Número menor que 10"
+else
+    echo "Número igual ou maior que 10"
+fi
+```
 
 Se quiserem aprender mais, eu deixo uma página interessante que li hoje sobre isso:
 
-<a title="Shell Script" href="http://www.devin.com.br/shell_script/" target="_blank">http://www.devin.com.br/shell_script/</a>
+[http://www.devin.com.br/shell_script/](http://www.devin.com.br/shell_script/)
 
 Neste link, vocês podem ver um mini curso muito bem explicado de como usar os principais scripts deste poderosa ferramenta!

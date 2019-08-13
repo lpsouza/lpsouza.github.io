@@ -24,7 +24,7 @@ tags:
   - Problema
   - Twitter
 ---
-Recebi essa do [@fazzatti](http://twitter.com/fazzatti "Twitter do fazzatti") (via Twitter):
+Recebi essa do [@fazzatti](http://twitter.com/fazzatti) (via Twitter):
 
 Segue a lista do top 10 dos problemas de MMOs..
 
@@ -34,11 +34,11 @@ Segue a lista do top 10 dos problemas de MMOs..
   4. Foco no PC
   5. Mensalidade
   6. Sem história
-  7. Sem consequencias
-  8. Perverção
+  7. Sem consequências
+  8. Perversão
   9. Humanos
  10. Elfos
 
 Sinceramente, não tive saco pra traduzir as explicações, então quem quiser entender mais esse top 10, acesse o link abaixo.
 
-via [IGN: Top 10 Problems with MMOs](http://pc.ign.com/articles/102/1023510p1.html).
+via [IGN: Top 10 Problems with MMOs](http://pc.ign.com/articles/102/1023510p1.html)

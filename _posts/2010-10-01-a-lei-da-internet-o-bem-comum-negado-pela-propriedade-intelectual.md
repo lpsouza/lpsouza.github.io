@@ -27,11 +27,11 @@ tags:
   - Propriedade
 ---
 > A proposta do Google e da Verizon teve como resposta uma mobilização que, depois de ter se deslocado de nó em nó, conseguiu romper aquele impalpável diafragma entre a realidade de dentro e a de fora da tela, levando, em uma tórrida tarde de verão [nos EUA], algumas centenas de ativistas da mídia para a frente da sede californiana do Google para protestar contra a perspectiva de cancelar a neutralidade da rede em nome da eficiência da rede e do sagrado princípio do business.
-> 
+>
 > A reportagem é de Benedetto Vecchi, publicada no jornal Il Manifesto, 26-09-2010. A tradução é de Moisés Sbardelotto.
-> 
+>
 > Mobilizações e protestos que provocaram, até o momento, uma rápida ordem de retirada da Sociedade de Mountain View e da sua aliada Verizon. Porém, o princípio da neutralidade da rede não é só violado porque faltam regras "globais" certas, mas também porque se intensificaram as intervenções de alguns Estados soberanos para censurar a rede, justamente quando a Internet está se tornando uma mídia verdadeiramente global.
-> 
+>
 > (...)
 
-via [IHU - Instituto Humanitas Unisinos](http://www.ihu.unisinos.br/index.php?option=com_noticias&Itemid=18&task=detalhe&id=36838).
+via IHU - Instituto Humanitas Unisinos

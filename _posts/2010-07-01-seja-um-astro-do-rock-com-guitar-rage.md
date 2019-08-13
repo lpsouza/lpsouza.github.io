@@ -32,9 +32,9 @@ tags:
   - PSX
 ---
 > _Jogos como Rock Band e Guitar Hero já se tornaram clássicos dos games. Em paralelo aos grandes, temos o Guitar Rage, que é um joguinho bem leve para PC que segue a mesma linhas dos mais conceituados, tocar as notas certas nos momentos certos._
-> 
+>
 > _Os gráficos do jogo podem não ser tão caprichados e bonitos, mas a fórmula é certa e enquanto forem músicas legais para serem “tocadas”, o visual não faz tanta falta assim. Nesse quesito, ele é bem sucedido: o usuário pode adicionar diversas músicas, que podem ser baixadas diretamente do site do desenvolvedor do game. Músicas dos games Rock Band e Guitar Hero estão lá para serem baixadas e jogadas para a diversão dos usuários._
 
 Continuando na linha rock... Tá valendo! Pois saber que Guitar Hero e Rockband vai ter expansão com Lady Gaga... Doeu nos rins!
 
-via [Seja um astro do rock com Guitar Rage - Download da hora - Downloads INFO](http://info.abril.com.br/downloaddahora/games/seja-um-astro-do-rock-com-guitar-rage.shtml).
+via Seja um astro do rock com Guitar Rage - Download da hora - Downloads INFO

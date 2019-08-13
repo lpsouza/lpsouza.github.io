@@ -17,7 +17,7 @@ tags:
   - Rio Grande do Sul
   - RS
 ---
-Poxa, logo que me mudei, dei para a minha mãe uma caixa cheia de CDs, que não escutava mais.. Hoje com os MP3 e a facilidade de encontar essa midia na internet, eu nem me dei o trabalho de ver os CDs que realmente tinham lá..
+Poxa, logo que me mudei, dei para a minha mãe uma caixa cheia de CDs, que não escutava mais.. Hoje com os MP3 e a facilidade de encontrar essa mídia na internet, eu nem me dei o trabalho de ver os CDs que realmente tinham lá..
 
 Hoje ela resolveu fazer uma limpa naquela caixa, e acordei com ela aos altos sons de uns dances e technos dos anos 80's e 90's.. Foi legal relembrar os velhos tempos... E algumas até deu vontade de dançar... Logo depois foi lá no quarto dela e dei uma olhada na pilha de CDs "esses definitivamente vão para a lata do lixo" (logico... pelo gosto dela...) e me deparei com 2 perolas do Punk e do POP gaúcho: Aqua-Play e Vortex!!!
 

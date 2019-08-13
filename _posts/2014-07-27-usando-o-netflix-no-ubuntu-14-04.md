@@ -18,7 +18,7 @@ tags:
   - Emaulator
   - Fica a dica
   - Filmes
-  - Interface Grafica
+  - Interface Gráfica
   - Linux
   - Netflix
   - Problema
@@ -30,7 +30,7 @@ tags:
   - Windows
   - Wine
 ---
-Estou usando o **Ubuntu 14.04** no meu note e a tempos queria usar o Netflix nele, mas como para usar, precisa do <a title="Silverlight" href="http://pt.wikipedia.org/wiki/Silverlight" target="_blank">Silverlight</a> e este é proprietário da Microsoft, fica um pouco complicado... Será?
+Estou usando o **Ubuntu 14.04** no meu note e a tempos queria usar o Netflix nele, mas como para usar, precisa do [Silverlight](http://pt.wikipedia.org/wiki/Silverlight) e este é proprietário da Microsoft, fica um pouco complicado... Será?
 
 Pesquisei na internet e encontrei um artigo bem legal no **Viva o Linux**, mas como todo o bom artigo para linux, nunca está 100% completo. Seja porque ele fala para instalar em uma versão, e tu está usando outra, ou porque tu não tem a biblioteca que o autor do artigo tinha quando escreveu, ou simplesmente porque ele esqueceu de algum passo. Isso não é relevante, porque eu fui atras e completei as lacunas!
 
@@ -56,5 +56,5 @@ Após terminar, execute o Netflix Desktop e logue na conta! Seja feliz!
 
 Fontes:
 
-  * <a title="Netflix no Linux Mint, Ubuntu, Fedora e CentOS" href="http://www.vivaolinux.com.br/dica/Netflix-no-Linux-Mint-Ubuntu-Fedora-e-CentOS" target="_blank">Netflix no Linux Mint, Ubuntu, Fedora e CentOS</a>
-  * <a title="How can I accept the Microsoft EULA agreement for ttf-mscorefonts-installer?" href="http://askubuntu.com/questions/16225/how-can-i-accept-the-microsoft-eula-agreement-for-ttf-mscorefonts-installer" target="_blank">How can I accept the Microsoft EULA agreement for ttf-mscorefonts-installer?</a>
+* [Netflix no Linux Mint, Ubuntu, Fedora e CentOS](http://www.vivaolinux.com.br/dica/Netflix-no-Linux-Mint-Ubuntu-Fedora-e-CentOS)
+* [How can I accept the Microsoft EULA agreement for ttf-mscorefonts-installer?](http://askubuntu.com/questions/16225/how-can-i-accept-the-microsoft-eula-agreement-for-ttf-mscorefonts-installer)

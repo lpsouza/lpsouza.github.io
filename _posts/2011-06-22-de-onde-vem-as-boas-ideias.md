@@ -23,6 +23,6 @@ tags:
   - Video
   - Youtube
 ---
-Vídeo muito interessante que o @<a title="João Ermel" href="http://twiter.com/jpermel" target="_blank">jpermel</a> me passou e resolvi agora compartilhar com os leitores do meu blog! 🙂
+Vídeo muito interessante que o [@jpermel](http://twiter.com/jpermel) me passou e resolvi agora compartilhar com os leitores do meu blog! 🙂
 
-[youtube http://www.youtube.com/watch?v=C0Y_FiN0HvQ]
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C0Y_FiN0HvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

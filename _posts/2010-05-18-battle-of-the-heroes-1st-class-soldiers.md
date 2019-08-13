@@ -26,3 +26,5 @@ tags:
   - Youtube
 ---
 LOVELESS Act I, e sem mais! (Sim, ando muito viciado em Crisis Core)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1KxjGn30PDA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

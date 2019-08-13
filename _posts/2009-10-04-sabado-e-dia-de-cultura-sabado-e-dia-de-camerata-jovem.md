@@ -36,21 +36,20 @@ tags:
   - Symbian
   - Video
 ---
-E quem disse que um bom nerd não tem seu momento cultural?    
-Estive aqui em [[wiki|Porto Alegre|Porto Alegre]]/[[wiki|RS|RS]] e assisti a apresentação da Camerata Jovem de Porto Alegre.    
-Gostei.. Tanto gostei que havia gravado usando o   <a href="http://qik.com" target="_blank">Qik </a> , mas não consegui tudo.. A bateria estava fraca.. Isso foi muito chato.. Mas pelo menos consegui gravar com a maquina digital a música que tanto esperava: o tema do Piratas do Caribe!!    
-Este video vai demorar um pouco.. Pra estar na internet, pois a camera grava com uma qualidade um pouco alta.. Hehe..    
-Mas os outros videos.. Tão no Qik! 
+E quem disse que um bom nerd não tem seu momento cultural?
 
-Camerata Jovem de POA - Exclusivo!    
-  <a href="http://qik.com/video/3090879" target="_blank">http://qik.com/video/3090879 </a> 
+Estive aqui em Porto Alegre/RS e assisti a apresentação da Camerata Jovem de Porto Alegre.
 
-Camerata Jovem de POA 2 - Exclusivo!    
-  <a href="http://qik.com/video/3092817" target="_blank">http://qik.com/video/3092817 </a> 
+Gostei.. Tanto gostei que havia gravado usando o   <a href="http://qik.com" target="_blank">Qik </a> , mas não consegui tudo.. A bateria estava fraca.. Isso foi muito chato.. Mas pelo menos consegui gravar com a maquina digital a música que tanto esperava: o tema do Piratas do Caribe!!
 
-Camerata Jovem de POA 3 - Exclusivo!    
-  <a href="http://qik.com/video/3092829" target="_blank">http://qik.com/video/3092829 </a> 
+Este video vai demorar um pouco.. Pra estar na internet, pois a câmera grava com uma qualidade um pouco alta.. Hehe..
 
-Espero que gostem! 
+Mas os outros vídeos.. Tão no Qik!
 
-Publicado pelo [Wordmobi](http://wordmobi.googlecode.com)
+- [Camerata Jovem de POA - Exclusivo!](http://qik.com/video/3090879)
+- [Camerata Jovem de POA 2 - Exclusivo!](http://qik.com/video/3092817)
+- [Camerata Jovem de POA 3 - Exclusivo!](http://qik.com/video/3092829)
+
+Espero que gostem!
+
+Publicado pelo Wordmobi

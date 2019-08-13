@@ -35,4 +35,4 @@ Se quiserem melhorar a segurança do seu site ou quer migrar seu blog/site para 
 
 > Usar temas prontos do WordPress ou complementos visuais sem muitos critérios pode ser uma dor de cabeça e tanto. E ao que tudo indica, milhares de blogueiros mundo afora estão descobrindo isso da pior maneira: um complemento para o WordPress possui uma falha de segurança que está sendo usada para espalhar código malicioso pela internet.
 
-via [Milhares de blogs com WordPress podem estar infectados | Tecnoblog](http://tecnoblog.net/81405/wordpress-blog-infectado-timthumb/).
+via [Milhares de blogs com WordPress podem estar infectados | Tecnoblog](http://tecnoblog.net/81405/wordpress-blog-infectado-timthumb/)

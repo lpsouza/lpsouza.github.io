@@ -32,4 +32,4 @@ O Symbian, hoje, é o sistema mais conhecido e que mais possui aplicativos móve
 
 > _“Eu estou comprometido, talvez até mesmo obcecado com a ideia de voltar a ser o número 1 em dispositivos high-end. Conseguir isso exigirá esforço e desempenho superior ao normal.” - afirma o executivo._
 
-via [Nokia afirma que não vai adotar o Android - iG Tecnologia / Notícia - IG](http://tecnologia.ig.com.br/noticia/2010/07/06/nokia+afirma+que+nao+vai+adotar+o+android+9531727.html).
+via Nokia afirma que não vai adotar o Android - iG Tecnologia / Notícia - IG

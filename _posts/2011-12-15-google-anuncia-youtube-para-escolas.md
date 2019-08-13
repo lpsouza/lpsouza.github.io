@@ -27,4 +27,4 @@ tags:
 ---
 > O Google anunciou o desenvolvimento de uma versão especial do YouTube destinada aos utilizadores que procuram conteúdos educacionais e que garante a exibição de vídeos apropriados para crianças e jovens em idade escolar.
 
-via [Google anuncia YouTube para Escolas - Google Discovery](http://googlediscovery.com/2011/12/13/google-anuncia-youtube-para-escolas/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+googlediscovery+%28Google+Discovery.com%29).
+via [Google anuncia YouTube para Escolas - Google Discovery](http://googlediscovery.com/2011/12/13/google-anuncia-youtube-para-escolas/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+googlediscovery+%28Google+Discovery.com%29)

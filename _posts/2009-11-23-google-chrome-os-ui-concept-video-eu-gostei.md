@@ -29,6 +29,8 @@ tags:
 ---
 Esse video vale ver em tela cheia!!! (HD)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hJ57xzo287U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Parece que realmente vai ser um SO muito pratico para maquinas "leves", como os Netbooks!
 
 Apreciem sem moderação!!!

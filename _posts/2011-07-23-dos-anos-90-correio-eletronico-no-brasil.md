@@ -29,6 +29,4 @@ tags:
 ---
 Acabei de ler a reportagem do Guanabara, e resolvi compartilhar esse vídeo histórico com vocês!
   
-[youtube http://www.youtube.com/watch?v=PoA4qnEHuYc]
-  
-A matéria do Guanabara foi esta: [De volta a 1990, ‘Correio eletrônico’ era anunciado no Brasil](http://www.guanabara.info/2011/07/de-volta-a-1990-correio-eletronico-era-anunciado-no-brasil/)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PoA4qnEHuYc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -32,8 +32,8 @@ tags:
   - Programação
   - Redes de Computadores
 ---
-Lendo o <a title="Little Brother | HackToon" href="http://hacktoon.com/devdevdev/little-brother/" target="_blank">HackToon</a>, eu me deparei com essa perola:
+Lendo o [HackToon](https://hacktoon.com/), eu me deparei com essa perola:
 
-[youtube http://www.youtube.com/watch?v=oJagxe-Gvpw]
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oJagxe-Gvpw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu ri muito com esse carinha... Esse é expert!

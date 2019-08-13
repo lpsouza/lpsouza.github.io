@@ -27,6 +27,6 @@ tags:
 ---
 Depois de um tombo de cabeça por umas horas em coma, estamos de volta e operacional!
 
-Nesse feriado fiquei tão desligado de tudo, vendo [[wiki|Stargate SG1|Stargate SG1]], reinstalando o meu [[wiki|NetBook|NetBook]], melhorando o <a href="http://ihcenter.com.br/produtos/software/tarifador-de-internet-para-hoteis" target="_blank">Tarifador de internet</a> e ainda melhorando o acesso do <a href="http://admin.ihcenter.com.br" target="_blank">Painel de Controle</a> e <a href="http://webmail.ihcenter.com.br" target="_blank">Webmail</a> dos clientes da [IHCenter](http://ihcenter.com.br).
+Nesse feriado fiquei tão desligado de tudo, vendo [Stargate SG1](https://pt.wikipedia.org/wiki/Stargate_SG-1), reinstalando o meu NetBook, melhorando o [Tarifador de internet](http://ihcenter.com.br/produtos/software/tarifador-de-internet-para-hoteis) e ainda melhorando o acesso do [Painel de Controle](http://admin.ihcenter.com.br) e [Webmail](http://webmail.ihcenter.com.br) dos clientes da [IHCenter](http://ihcenter.com.br).
 
 Ufa! Que feriado mais parado, não? Hehehe...

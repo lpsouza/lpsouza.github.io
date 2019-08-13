@@ -24,10 +24,10 @@ tags:
   - Trabalho
   - Wordpress
 ---
-Eh.. Passei uns dias sem dar as caras por aqui.. Ando um tanto ocupado em meus projetos: o novo blog da Clarini, o blog do Chá com Silício e projetos da empresa, como melhorias no sistema de tarifação da internet dos hotéis, sistema financeiro, etc.. 
+Eh.. Passei uns dias sem dar as caras por aqui.. Ando um tanto ocupado em meus projetos: o novo blog da Clarini, o blog do Chá com Silício e projetos da empresa, como melhorias no sistema de tarifação da internet dos hotéis, sistema financeiro, etc..
 
-Dentro do possivel vamos postando aqui, e em breve, no blog do Chá com Silício! 
+Dentro do possível vamos postando aqui, e em breve, no blog do Chá com Silício!
 
-Aguardem e confiram! 
+Aguardem e confiram!
 
-Publicado pelo [Wordmobi](http://wordmobi.googlecode.com)
+Publicado pelo Wordmobi

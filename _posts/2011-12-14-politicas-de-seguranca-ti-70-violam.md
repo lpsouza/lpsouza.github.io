@@ -30,4 +30,4 @@ Artigo de Maurício Renner conta um pouco de como as políticas de segurança na
 
 Confira os motivos e outras informações no link abaixo!
 
-via [Políticas de segurança TI: 70% violam : Negócios e Gestão | Baguete](http://www.baguete.com.br/noticias/negocios-e-gestao/14/12/2011/politicas-de-seguranca-ti-70-violam).
+via [Políticas de segurança TI: 70% violam : Negócios e Gestão | Baguete](http://www.baguete.com.br/noticias/negocios-e-gestao/14/12/2011/politicas-de-seguranca-ti-70-violam)

@@ -34,4 +34,4 @@ Isso me lembra o trabalho cientifico dos meus alunos sobre esse assunto... Games
 
 > _A Mozilla anunciou, na sexta-feira 25/6, uma atualização do navegador Firefox, após internautas reclamarem de erros de plug-in durante a execução de algumas páginas, entre elas do game Farmville._
 
-via [Mozilla atualiza Firefox após reclamação de jogadores do Farmville](http://br-linux.org/2010/mozilla-atualiza-firefox-apos-reclamacao-de-jogadores-do-farmville/).
+via Mozilla atualiza Firefox após reclamação de jogadores do Farmville

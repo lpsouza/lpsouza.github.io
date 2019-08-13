@@ -29,4 +29,4 @@ Bom, este nem é um projeto tãããoo novo assim, é na realidade um projeto "pa
 
 A idéia é simples: Ser um blog referencia a histórias de RPG que nossa turma passa na mesa de jogo, e discutir regras de Spellfire. Mas nesse papo de discutir regras, é no quesito de regras originais, e questões pertinentes, não ficar inventando regras com a desculpa de "melhorar a jogabilidade" deste super TCG!
 
-Bom, conheçam mais aqui: <a href="http://spellfire.com.br" target="_blank">http://spellfire.com.br</a>
+Bom, conheçam mais aqui: [http://spellfire.com.br](http://spellfire.com.br)

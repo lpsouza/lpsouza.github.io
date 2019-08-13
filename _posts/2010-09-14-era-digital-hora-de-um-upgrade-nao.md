@@ -27,52 +27,30 @@ tags:
   - Update
   - Upgrade
 ---
-<img class="alignnone size-medium wp-image-439" src="wp-content/upload/2010/09/era-digital-300x213.jpg" alt="" width="300" height="213" />
+![Era Digital](wp-content/upload/2010/09/era-digital-300x213.jpg)
 
 Como estamos na "Era Digital", foi necessário rever os velhos ditados existentes e adaptá-los a nova realidade. Veja abaixo....
   
 1. A pressa é inimiga da conexão.
-  
 2. Amigos, amigos, senhas à parte.
-  
 3. A arquivo dado não se olha o formato.
-  
 4. Diga-me que chat freqüentas e te direi quem és.
-  
 5. Para bom provedor uma senha basta.
-  
 6. Não adianta chorar sobre arquivo deletado.
-  
 7. Em briga de namorados virtuais não se mete o mouse.
-  
 8. Hacker que ladra, não morde.
-  
 9. Mais vale um arquivo no HD do que dois baixando.
-  
 10. Mouse sujo se limpa em casa.
-  
 11. Melhor prevenir do que formatar.
-  
 12. Quando um não quer, dois não teclam.
-  
 13. Quem clica seus bons ares multiplica.
-  
 14. Quem com vírus infecta, com vírus será infectado.
-  
 15. Quem envia o que quer, recebe o que não quer...
-  
 16. Quem não tem banda larga, caça com modem.
-  
 17. Quem semeia e-mails, colhe spams.
-  
 18. Quem tem dedo vai a Roma.com
-  
 19. Vão-se os arquivos, ficam os back-ups.
-  
 20. Diga-me que computador tens e direi quem és.
-  
 21. Uma impressora disse para outra: Essa folha é sua ou é impressão minha ? .
-  
 22. Aluno de informática não cola, faz backup.
-  
 23. Na informática nada se perde nada se cria. Tudo se copia... E depois se cola.

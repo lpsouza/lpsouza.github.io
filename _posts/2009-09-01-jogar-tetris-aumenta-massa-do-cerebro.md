@@ -21,7 +21,7 @@ tags:
 ---
 Depois de ler a reportagem, ate me deu vontade de jogar um pouco... Hehe... Quero Tetris pra PSP, pode ser?
 
-Mas analisando, realmente esse jogo criado em 1984 já dá essa ideia de raciocinio rapido, o que te da a ideia de que ele estimularia algo em se cerebro mesmo!
+Mas analisando, realmente esse jogo criado em 1984 já dá essa ideia de raciocínio rápido, o que te da a ideia de que ele estimularia algo em se cérebro mesmo!
 
 Colocando aqui as palavras de um de seus criadores, Alexey Pajitnov: _"O jogo tem um tipo de espírito criativo ao invés da destruição que você encontra em jogos de tiro e na maioria dos outros títulos. Nele você cria algo, você pega o caos das peças caindo aleatoriamente e as coloca juntas em um tipo de ordem. Isso dá às pessoas um ótimo sentimento"_
 

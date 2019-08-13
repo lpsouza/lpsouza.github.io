@@ -14,9 +14,9 @@ tags:
 ---
 Só posso dizer que:
 
-  * Solução super-ecologica!
-  * Agora sem os pneus, teremos mais trabalhos para fazer mais, claro!
-  * A cena ficou linda! Olha o Céu! Sinta esse ar!
+* Solução super-ecológica!
+* Agora sem os pneus, teremos mais trabalhos para fazer mais, claro!
+* A cena ficou linda! Olha o Céu! Sinta esse ar!
 
 Vão tomar vergonha na cara! Humanidade dos infernos!
 

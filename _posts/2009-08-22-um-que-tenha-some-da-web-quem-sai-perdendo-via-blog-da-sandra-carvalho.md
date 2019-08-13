@@ -20,6 +20,6 @@ tags:
   - Um que Tenha
   - UQT
 ---
-"Em vez de pressionar o Google a expulsar o UQT, as gravadoras deveriam erguer uma estátua para o Fulano, o anônimo criador do UQT, o mais eficiente agitador cultural em pró da MPB dos últimos anos." - Concordei totalmente com esta afirmação! Em um mundo onde a internet já é algo presente em praticamente qualquer dispositivo, ainda continuam com essa mentalidade... "Em Roma... Como os Romanos!". Bom, e ainda concordo com o fato é uma afronta a disseminação do MPB não só no Brasil (que sinceramente parece que esquece que temos boas musicas ainda) como no mundo todo (extrangeiros AMAM nossas musicas... deixem conhecer só as boas... por favor!!!)
+"Em vez de pressionar o Google a expulsar o UQT, as gravadoras deveriam erguer uma estátua para o Fulano, o anônimo criador do UQT, o mais eficiente agitador cultural em pró da MPB dos últimos anos." - Concordei totalmente com esta afirmação! Em um mundo onde a internet já é algo presente em praticamente qualquer dispositivo, ainda continuam com essa mentalidade... "Em Roma... Como os Romanos!". Bom, e ainda concordo com o fato é uma afronta a disseminação do MPB não só no Brasil (que sinceramente parece que esquece que temos boas musicas ainda) como no mundo todo (estrangeiros AMAM nossas musicas... deixem conhecer só as boas... por favor!!!)
 
 via INFO Online - Internet Buzz - Blog da Sandra Carvalho.

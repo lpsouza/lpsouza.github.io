@@ -36,7 +36,7 @@ tags:
   - Unity
   - uTouch
 ---
-Fiz um post aqui no meu site intitulado "<a href="http://luizsouza.com.br/2010/10/29/unity-o-novo-gerenciador-de-janelas-padrao-do-ubuntu/" target="_self">Unity: O novo Gerenciador de Janelas padrão do Ubuntu</a>" e foram alguns comentários...
+Fiz um post aqui no meu site intitulado "[Unity: O novo Gerenciador de Janelas padrão do Ubuntu](http://luizsouza.com.br/2010/10/29/unity-o-novo-gerenciador-de-janelas-padrao-do-ubuntu/)" e foram alguns comentários...
 
 Hoje venho com um vídeo no youtube sobre uma aplicação que realmente coloca o Ubuntu em dispositivos como tablets, o uTouch. Basicamente o uTouch é uma aplicação para telas touch. Agora, analisem comigo: A interface Unity foi feita para rodar em telas com toque. Reparem o video, tudo o que o usuário precisa fica ali.
 
@@ -44,4 +44,4 @@ Li em algum lugar, vou ver onde vi e depois descrevo melhor, tablets que estão 
 
 Segue o video para a apreciação de vocês:
 
-[youtube http://www.youtube.com/watch?v=RzZ7gsTJGeo]
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RzZ7gsTJGeo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
