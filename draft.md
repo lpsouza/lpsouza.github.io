@@ -83,3 +83,4 @@ sudo dmidecode -t 1
 - [https://www.infoworld.com/article/3403683/visual-studio-code-stepping-on-visual-studios-toes.amp.html](https://www.infoworld.com/article/3403683/visual-studio-code-stepping-on-visual-studios-toes.amp.html)
 - [https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.pt_BR](https://help.gnome.org/users/gnome-help/stable/shell-keyboard-shortcuts.html.pt_BR)
 - [https://help.github.com/en/articles/redirects-on-github-pages](https://help.github.com/en/articles/redirects-on-github-pages)
+- [https://gunnarpeipman.com/net/dotnet-core-self-contained-executable/](https://gunnarpeipman.com/net/dotnet-core-self-contained-executable/)
