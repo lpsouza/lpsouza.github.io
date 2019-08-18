@@ -20,7 +20,7 @@ tags:
 
 Quando falamos de universo "Windows", acredito que para os usuários avançados e administradores de servidores o Powershell é com certeza uma mão na roda! Então durante um pedido que me foi feito no trabalho de "listar e somar" os discos virtuais (VHDX) das VMs contidas em alguns servidores de Hyper-V, criei um pequeno script que faz esse trabalho!
 
-O script basicamente obtem as VMs e, passando por um filtro, obtem os discos e faz uma soma deles por VM. Ao final o retorno do script é uma lista das VMs com seu respectivo tamanho total de disco. Facil não?
+O script basicamente obtém as VMs e, passando por um filtro, obtém os discos e faz uma soma deles por VM. Ao final o retorno do script é uma lista das VMs com seu respectivo tamanho total de disco. Fácil não?
 
 ```powershell
 Get-VM | Where-Object { $_.Name -like "VM*" } | ForEach-Object {
@@ -36,4 +36,4 @@ Get-VM | Where-Object { $_.Name -like "VM*" } | ForEach-Object {
 }
 ```
 
-Temos variantes do resultado podem ser obtidas alterando a linha `$VHDSize += $_.Size`. Esta linha tras o tamanho total do VHDX selecionado. Para obter, por exemplo, o uso real do disco, podemos alterar a linha para `$VHDSize += $_.FileSize`.
+Temos variantes do resultado podem ser obtidas alterando a linha `$VHDSize += $_.Size`. Esta linha trás o tamanho total do VHDX selecionado. Para obter, por exemplo, o uso real do disco, podemos alterar a linha para `$VHDSize += $_.FileSize`.

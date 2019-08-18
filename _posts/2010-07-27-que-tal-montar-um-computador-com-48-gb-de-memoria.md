@@ -27,7 +27,7 @@ tags:
 ---
 Noticia que me foi enviada pelo [@jpermel](http://twitter.com/jpermel):
 
-![48Gb](wp-content/upload/2010/07/48gb-pics-600x400.jpg)
+![48Gb](https://luizsouza.com.br/wp-content/upload/2010/07/48gb-pics-600x400.jpg)
 
 > _A G.Skill, empresa conhecida no ramo de memórias de performance extrema, anunciou neste sábado (24) o seu mais novo produto: um kit de 48 GB de memória DDR3 para estações de trabalho.<!--more-->_
 >

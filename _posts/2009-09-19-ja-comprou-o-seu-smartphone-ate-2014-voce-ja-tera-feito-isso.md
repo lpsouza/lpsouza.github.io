@@ -26,7 +26,7 @@ tags:
   - Smartphone
   - Symbian
 ---
-![Smartphones](wp-content/upload/2009/09/smartphones.jpg)
+![Smartphones](https://luizsouza.com.br/wp-content/upload/2009/09/smartphones.jpg)
 
 > _É o que afirma a nova pesquisa do Pyramid Research, que considera os smartphones como a grande possibilidade de crescimento para fabricantes e operadoras na América Latina._
 >

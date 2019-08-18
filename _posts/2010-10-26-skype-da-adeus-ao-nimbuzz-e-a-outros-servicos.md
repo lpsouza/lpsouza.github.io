@@ -31,7 +31,7 @@ tags:
 ---
 Em 31 de Outubro de 2010, acaba o suporte do Nimbuzz ao Skype. E porque? Porque a Skype está se desligando de todas as aplicações que ele era compartilhado...
 
-![Skype Nimbuzz](wp-content/upload/2010/10/skype-nimbuzz.jpg)
+![Skype Nimbuzz](https://luizsouza.com.br/wp-content/upload/2010/10/skype-nimbuzz.jpg)
 
 Eu não entendi ainda essa estratégia de mercado que a Skype está tomando. Literalmente eles estão indo contra todas as tendências do mercado de unir e facilitar o uso para usuários em diversos ambientes sociais, vide exemplos principais, o Facebook, Twitter, Windows Live Messenger (MSN), e outros...
 

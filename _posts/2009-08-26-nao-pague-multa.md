@@ -14,7 +14,7 @@ tags:
 ---
 Recebi essa do meu amigo João por email. Verdade? Sim? Não? Sei lá.. Não quis perder tempo lendo o código de transito.. Hehe.. (Alias.. Nem carteira de motorista eu tenho!!!) Mas fica a dica (como diria a Cléo Pires).
 
-![Não pague multa]("wp-content/upload/2009/08/naopaguemulta2.jpg" "Não pague multa!")
+![Não pague multa]("https://luizsouza.com.br/wp-content/upload/2009/08/naopaguemulta2.jpg" "Não pague multa!")
 
 **Leia com muita atenção:**
 

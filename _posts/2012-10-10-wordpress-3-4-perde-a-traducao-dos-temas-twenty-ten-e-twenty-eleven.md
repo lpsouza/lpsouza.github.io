@@ -32,8 +32,8 @@ Pesquisando por alguns segundos, vi no próprio site do WordPress o aviso que o 
 >
 > Os arquivos devem ser colocados nas seguintes pastas remotas:
 >
-> * wp-content/themes/twentyeleven/languages/
-> * wp-content/themes/twentyten/languages/
+> * /wp-content/themes/twentyeleven/languages/
+> * /wp-content/themes/twentyten/languages/
 >
 > Esta é uma falha no processo automático de atualização, espero que seja corrigida em breve pelo pessoal do WordPress.org
 >

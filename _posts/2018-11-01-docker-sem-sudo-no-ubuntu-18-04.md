@@ -29,22 +29,12 @@ Ok, aí temos o problema do sudo que deveria ser rodado sempre para que meu scri
 
 ## Receita de bolo
 
-1. (Se não existir) crie um grupo para o Docker:
-    ```bash
-    sudo groupadd docker
-    ```
-1. Adicione o seu usuário no grupo:
-    ```bash
-    sudo usermod -aG docker $USER
-    ```
-1. Faça o logoff do usuário e o login novamente
-1. Faça o teste (né?) com o comando:
-    ```bash
-    docker run hello-world
-    ```
-    - Caso apareça o erro `WARNING: Error loading config file: /home/user/.docker/config.json -
-stat /home/user/.docker/config.json: permission denied` é possível que você já tenha utilizado alguma vez o Docker com este usuário, usando o `sudo`. Se for este o caso, use estes comandos:
-    
+1. (Se não existir) crie um grupo para o Docker: `sudo groupadd docker`
+2. Adicione o seu usuário no grupo: `sudo usermod -aG docker $USER`
+3. Faça o logoff do usuário e o login novamente
+4. Faça o teste (né?) com o comando: `docker run hello-world`
+   - Caso apareça o erro `WARNING: Error loading config file: /home/user/.docker/config.json - stat /home/user/.docker/config.json: permission denied` é possível que você já tenha utilizado alguma vez o Docker com este usuário, usando o `sudo`. Se for este o caso, use estes comandos:
+
 ```bash
 sudo chown "$USER":"$USER" /home/"$USER"/.docker -R
 sudo chmod g+rwx "$HOME/.docker" -R

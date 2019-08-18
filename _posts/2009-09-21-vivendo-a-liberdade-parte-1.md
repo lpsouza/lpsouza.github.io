@@ -37,7 +37,7 @@ tags:
   - Windows
   - Windows XP
 ---
-![TUX](wp-content/upload/2009/09/tux-seiyar.png)
+![TUX](https://luizsouza.com.br/wp-content/upload/2009/09/tux-seiyar.png)
 
 E aqui começa a minha jornada na mudança de estilo de vida Windows para Linux.
 

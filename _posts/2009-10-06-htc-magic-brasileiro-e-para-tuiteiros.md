@@ -30,7 +30,7 @@ tags:
 ---
 Essa HTC tá ganhando espaço com o Android do lado deles.. Hehe.. Essa sim vai ser pareô duro contra a Nokia!
 
-![HTC](wp-content/upload/2009/10/1.jpg)
+![HTC](https://luizsouza.com.br/wp-content/upload/2009/10/1.jpg)
 
 > _Não sei você, mas quando eu vi o Android pela primeira vez, fiquei pensando: “Isso aí numa carcaça com estilão de iPhone faria o maior estrago”. Agora o competente, porém desengonçado, HTC G1 ganhou um irmão fininho e sem teclado físico para estragar sua elegância. O nome dele é Magic, mas pode chamar de G2. Afinal, a evolução não ficou só no design. Mais rápido e com mudanças drásticas no software, o smartphone com sistema do Google está pronto para desembarcar no Brasil daqui a duas semanas, estreando a interface HTC Sense por aqui. Veja o resultado da minha brincadeira no INFOLAB._
 

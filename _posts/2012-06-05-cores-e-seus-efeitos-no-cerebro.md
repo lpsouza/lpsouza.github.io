@@ -23,4 +23,4 @@ tags:
 ---
 Retirado do Facebook.
 
-![Cores e seus efeitos no cérebro...](wp-content/upload/2012/06/wpid-facebook_51003.jpg)
+![Cores e seus efeitos no cérebro...](https://luizsouza.com.br/wp-content/upload/2012/06/wpid-facebook_51003.jpg)

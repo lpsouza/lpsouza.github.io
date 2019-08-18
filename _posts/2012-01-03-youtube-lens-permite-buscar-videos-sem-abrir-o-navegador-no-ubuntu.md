@@ -26,7 +26,7 @@ tags:
 ---
 Bah, quer algo mais prático do que navegar no youtube sem abrir o navegador?
 
-![YouTube](wp-content/upload/2012/01/Screenshot-at-2012-01-02-155617-600x387.png)
+![YouTube](https://luizsouza.com.br/wp-content/upload/2012/01/Screenshot-at-2012-01-02-155617-600x387.png)
 
 Então nem vamos perder mais tempo:
 

@@ -32,7 +32,7 @@ tags:
 ---
 > Para Alex Miller, foi descobrir uma difícil falha de segurança no Firefox e ganhar US$3.000 dólares com isso.
 >
-> ![Alex Muler](wp-content/upload/2010/11/alexmiller.jpg)
+> ![Alex Muler](https://luizsouza.com.br/wp-content/upload/2010/11/alexmiller.jpg)
 >
 > A recompensa foi parte de um desafio de segurança entre desenvolvedores, feito pela Mozilla Foundation. Se você encontrasse uma falha, ganhava US$3.000 de prêmio.
 >

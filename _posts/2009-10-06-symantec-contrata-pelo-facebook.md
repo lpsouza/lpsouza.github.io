@@ -25,7 +25,7 @@ tags:
   - Redes Sociais
   - Symantec
 ---
-![Facebook](wp-content/upload/2009/10/Facebook-20091006140146.jpg)
+![Facebook](https://luizsouza.com.br/wp-content/upload/2009/10/Facebook-20091006140146.jpg)
 
 > _A Symantec anunciou seu programa de contratações para recém formados e estagiários na Europa. O detalhe é que o processo é feito pelo Facebook._
 >

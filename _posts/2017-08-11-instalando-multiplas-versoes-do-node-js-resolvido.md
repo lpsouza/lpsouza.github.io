@@ -6,7 +6,7 @@ author: lpsouza
 layout: post
 guid: https://luizsouza.com.br/?p=1631
 permalink: /2017/08/11/instalando-multiplas-versoes-do-node-js-resolvido/
-image: /wp-content/uploads/2017/08/Capturar2.png
+image: https://luizsouza.com.br/wp-content/uploads/2017/08/Capturar2.png
 headerImage: false
 star: false
 category: blog
@@ -33,22 +33,20 @@ Ok, mas será que não existe um meio mais fácil?!?? Para usuários Linux e Mac
 Como instalar:
 
   1. Remova qualquer versão do Node previamente instalada no seu computador;
-  2. Instale o NVM: 
+  2. Instale o NVM:
       * Windows: instale [esta versão](https://github.com/coreybutler/nvm-windows/releases);
-      * Linux: 
-          1. Instale o build-essential: _sudo apt-get update; sudo apt-get install build-essential_
-          2. Instale o NVM via wget: _wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash_
-      * MAC: 
-          1. Instale o NVM via brew: _brew update; brew install nvm_
+      * Linux:
+          1. Instale o build-essential: `sudo apt-get update; sudo apt-get install build-essential`
+          2. Instale o NVM via wget: `wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash`
+      * MAC:
+          1. Instale o NVM via brew: `brew update; brew install nvm`
   3. É só usar! 😉
 
-Agora é hora de instalar as versões, para isso use o comando: _nvm install <versao-do-node>_ e para usar: _nvm use <versao-do-node>._
+Agora é hora de instalar as versões, para isso use o comando: `nvm install <versao-do-node>` e para usar: `nvm use <versao-do-node>.`
 
 E era isso!
 
 Esta solução foi baseada neste dois links abaixo:
 
-  * <https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/>
-  * <http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/>
-
-&nbsp;
+* <https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/>
+* <http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/>

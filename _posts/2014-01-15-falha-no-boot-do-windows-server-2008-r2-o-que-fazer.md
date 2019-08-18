@@ -6,7 +6,7 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1289
 permalink: /2014/01/15/falha-no-boot-do-windows-server-2008-r2-o-que-fazer/
-image: /wp-content/uploads/2014/01/repair.jpg
+image: https://luizsouza.com.br/wp-content/uploads/2014/01/repair.jpg
 headerImage: false
 star: false
 category: blog

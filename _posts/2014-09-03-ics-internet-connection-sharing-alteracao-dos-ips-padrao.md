@@ -6,7 +6,7 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1330
 permalink: /2014/09/03/ics-internet-connection-sharing-alteracao-dos-ips-padrao/
-image: /wp-content/uploads/2014/09/enabling-ics-windows-7.png
+image: https://luizsouza.com.br/wp-content/uploads/2014/09/enabling-ics-windows-7.png
 headerImage: false
 star: false
 category: blog

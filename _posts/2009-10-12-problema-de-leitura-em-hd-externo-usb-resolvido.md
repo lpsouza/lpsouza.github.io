@@ -12,7 +12,7 @@ aktt_notify_twitter:
 aktt_tweeted:
   - "1"
   - "1"
-image: /wp-content/uploads/2009/10/tela-chkdsk.png
+image: https://luizsouza.com.br/wp-content/uploads/2009/10/tela-chkdsk.png
 headerImage: false
 star: false
 category: blog

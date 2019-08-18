@@ -23,7 +23,7 @@ tags:
 ---
 Estava instalando um Ubuntu 13.10 em uma VM e como não queria o Unity como interface gráfica, resolvi procurar uma forma de remover e instalar a interface que eu mais gosto, isto é, a Window Maker!
 
-![Windowmaker virtual no Hyper-V](wp-content/uploads/2014/03/windowmaker.png)
+![Windowmaker virtual no Hyper-V](https://luizsouza.com.br/wp-content/uploads/2014/03/windowmaker.png)
 
 Agora, remover o Unity pode ser uma tarefa complicada, uma vez que a Canonical coloca praticamente tudo do seu sistema operacional nesta interface, o que por um lado dá uma "unidade" (sacaram o trocadilho), dando mais estabilidade. Mas por outro lado trás problemas para usuários mais antigos que preferem outras interfaces.
 

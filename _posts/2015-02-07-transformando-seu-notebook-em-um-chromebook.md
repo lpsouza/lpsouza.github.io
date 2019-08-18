@@ -6,7 +6,7 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1333
 permalink: /2015/02/07/transformando-seu-notebook-em-um-chromebook/
-image: /wp-content/uploads/2014/12/Screenshot-2014-12-21-at-12.31.321-1200x675.png
+image: https://luizsouza.com.br/wp-content/uploads/2014/12/Screenshot-2014-12-21-at-12.31.321-1200x675.png
 headerImage: false
 star: false
 category: blog

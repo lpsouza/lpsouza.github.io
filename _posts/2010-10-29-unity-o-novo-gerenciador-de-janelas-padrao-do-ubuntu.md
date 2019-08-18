@@ -28,7 +28,7 @@ tags:
 ---
 Para quem conhece mundo linux das antigas, vai dizer que não parece uma mescla de WindowMaker com Mac OS X? E mais: Como vai ser chamado o projeto com Gnome? _Gubuntu_? 😛
 
-![Unity](wp-content/upload/2010/10/unity-multi-selector.png)
+![Unity](https://luizsouza.com.br/wp-content/upload/2010/10/unity-multi-selector.png)
 
 Veja o video no link abaixo.
 

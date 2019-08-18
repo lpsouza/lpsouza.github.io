@@ -6,7 +6,7 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1316
 permalink: /2014/08/03/acesso-remoto-ao-ubuntu-14-04-resolvido/
-image: /wp-content/uploads/2014/08/Screenshot-from-2014-05-26-103053.png
+image: https://luizsouza.com.br/wp-content/uploads/2014/08/Screenshot-from-2014-05-26-103053.png
 headerImage: false
 star: false
 category: blog

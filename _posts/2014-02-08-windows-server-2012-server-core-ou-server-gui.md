@@ -6,7 +6,7 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1299
 permalink: /2014/02/08/windows-server-2012-server-core-ou-server-gui/
-image: /wp-content/uploads/2014/02/IC2357571.png
+image: https://luizsouza.com.br/wp-content/uploads/2014/02/IC2357571.png
 headerImage: false
 star: false
 category: blog

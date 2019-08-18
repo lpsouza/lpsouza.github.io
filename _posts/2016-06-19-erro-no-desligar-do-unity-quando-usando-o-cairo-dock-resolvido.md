@@ -6,7 +6,7 @@ author: lpsouza
 layout: post
 guid: https://luizsouza.com.br/?p=1513
 permalink: /2016/06/19/erro-no-desligar-do-unity-quando-usando-o-cairo-dock-resolvido/
-image: /wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-1200x675.png
+image: https://luizsouza.com.br/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-1200x675.png
 headerImage: false
 star: false
 category: blog
@@ -25,9 +25,9 @@ tags:
   - Ubuntu
   - Unity
 ---
-Faz uns meses que resolvi dar uma cara de "Mac OS" para o meu Ubuntu. Como chamei, o meu [Mac OSX Pobre Edition](https://www.instagram.com/p/BFZ-GcKMGDo/), hehehe. Para fazer isso eu instalei o Cairo Dock no meu Ubuntu 14.04, com a interface padrão do Unity. Ok, até que ficou legal! Olha esse screenshot:<figure id="attachment_1514" style="width: 300px" class="wp-caption aligncenter">
+Faz uns meses que resolvi dar uma cara de "Mac OS" para o meu Ubuntu. Como chamei, o meu [Mac OSX Pobre Edition](https://www.instagram.com/p/BFZ-GcKMGDo/), hehehe. Para fazer isso eu instalei o Cairo Dock no meu Ubuntu 14.04, com a interface padrão do Unity. Ok, até que ficou legal! Olha esse screenshot:
 
-[<img class="wp-image-1514 size-medium" src="https://luizsouza.com.br/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-300x169.png" alt="Imagem do Ubuntu usando interface gráfica do Unity com o Cairo Dock" width="300" height="169" srcset="https://luizsouza.com.br/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-300x169.png 300w, https://luizsouza.com.br/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-768x432.png 768w, https://luizsouza.com.br/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-1024x576.png 1024w, https://luizsouza.com.br/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-1200x675.png 1200w, https://luizsouza.com.br/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450.png 1366w" sizes="(max-width: 300px) 100vw, 300px" />](https://luizsouza.com.br/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450.png)<figcaption class="wp-caption-text">Fala sério, tu nem reparou que era um Linux né?</figcaption></figure> 
+![Fala sério, tu nem reparou que era um Linux né?](https://luizsouza.com.br/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450.png)
 
 Mas desde que fiz essa solução, tive um outro problema: Ir no desligar do Unity não fazia mais o meu note desligar, e sim voltar para o login! 🙁
 

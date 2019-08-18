@@ -30,6 +30,6 @@ tags:
 ---
 > Como anda o seu salario neste ano? O Brasil vem crescendo economicamente, isto é fato. Porém, seguindo, bem de perto a taxa de crescimento, vem a inflação, pra variar um pouquinho. Embora seja a inflação esteja abaixo da meta estipulada pelo Governo, ainda é grande o suficiente para fazer um baita estrago no nosso bolso. Por isso, nosso salário tem que acompanhar essas mudanças.
 
-![Tabela Salarial](wp-content/upload/2011/11/tabela-salarial-tecnologia-informacao-2011.jpg)
+![Tabela Salarial](https://luizsouza.com.br/wp-content/upload/2011/11/tabela-salarial-tecnologia-informacao-2011.jpg)
 
 via [Tabela salarial - Setor de Tecnologia da Informação 2011 | Carreira e Certificações em TI](http://carreiradeti.com.br/tabela-salarial-setor-de-tecnologia-da-informacao-2011/)

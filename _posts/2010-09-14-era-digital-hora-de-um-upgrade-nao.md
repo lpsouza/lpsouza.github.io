@@ -27,7 +27,7 @@ tags:
   - Update
   - Upgrade
 ---
-![Era Digital](wp-content/upload/2010/09/era-digital-300x213.jpg)
+![Era Digital](https://luizsouza.com.br/wp-content/upload/2010/09/era-digital-300x213.jpg)
 
 Como estamos na "Era Digital", foi necessário rever os velhos ditados existentes e adaptá-los a nova realidade. Veja abaixo....
   

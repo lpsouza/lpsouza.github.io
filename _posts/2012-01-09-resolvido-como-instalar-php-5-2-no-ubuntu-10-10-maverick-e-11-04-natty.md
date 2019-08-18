@@ -40,23 +40,23 @@ No meu caso tive um agravante: apt-add-repository não roda na versão server, e
 >
 > Agora, com o repositório adicionado e atualizado, abra o Synaptic Package Manager e procure os pacotes do PHP:
 >
-> ![Synaptic-PHP](wp-content/upload/2012/01/synaptic-php.jpg)
+> ![Synaptic-PHP](https://luizsouza.com.br/wp-content/upload/2012/01/synaptic-php.jpg)
 >
 > Caso esteja utilizando o Ubuntu 11.04 (Natty), é agora que precisamos fazer um rapido ajuste. Vá para Settings -> Repositories e clique em Editar no repositório que adicionamos. Agora troque a palavra "natty" por "maverick". Depois de fechar, dê um apt-get update.
 >
-> ![Synaptic-repo](wp-content/uploads/2012/01/synaptic-repo-version.jpg)
+> ![Synaptic-repo](https://luizsouza.com.br/wp-content/uploads/2012/01/synaptic-repo-version.jpg)
 >
 > Se, como eu, não conseguiu ver as versões 5.2.17 do PHP, olhe mais de perto... selecione um pacote com prefixo "php5" e clique em "Properties":
 >
-> ![PHP Versions](wp-content/upload/2012/01/synaptic-php-versions.jpg)
+> ![PHP Versions](https://luizsouza.com.br/wp-content/upload/2012/01/synaptic-php-versions.jpg)
 >
 > Beleza, então o pacote correto está aí, mas por algum motivo o Synaptic não quer instalá-lo... a solução é forçá-lo a instalar esta versão: selecione o item e clique no menu "Package -> Force Version".
 >
-> ![PHP force version](wp-content/upload/2012/01/synaptic-php-force.jpg)
+> ![PHP force version](https://luizsouza.com.br/wp-content/upload/2012/01/synaptic-php-force.jpg)
 >
 > Beleza, agora o Synaptic aceita instalar a versão que queremos, a 5.2.17! Agora só falta um passo importante: bloquear a versão para que ela não seja atualizada automaticamente para a 5.3. Após instalar cada item, clique no menu "Package -> Lock Version".
 >
-> ![PHP locked](wp-content/upload/2012/01/synaptic-php-locked.jpg)
+> ![PHP locked](https://luizsouza.com.br/wp-content/upload/2012/01/synaptic-php-locked.jpg)
 >
 > Conclusão
 >

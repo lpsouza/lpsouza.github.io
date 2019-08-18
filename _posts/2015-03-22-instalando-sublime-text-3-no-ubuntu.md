@@ -6,7 +6,7 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1400
 permalink: /2015/03/22/instalando-sublime-text-3-no-ubuntu/
-image: /wp-content/uploads/2015/03/imagem-sublime.png
+image: https://luizsouza.com.br/wp-content/uploads/2015/03/imagem-sublime.png
 headerImage: false
 star: false
 category: blog
@@ -32,9 +32,10 @@ Para quem desenvolve, acabam descobrindo que um dos melhores editores para códi
 
 Então encontrei no [Launchpad](https://launchpad.net/~webupd8team/+archive/ubuntu/sublime-text-3) um repositório APT para o Sublime Text!
 
-    $ sudo add-apt-repository ppa:webupd8team/sublime-text-3
-    $ sudo apt-get update
-    $ sudo apt-get install sublime-text-installer
-    
+```bash
+sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get update
+sudo apt-get install sublime-text-installer
+```
 
 Pronto! Sublime Text instalado em seu Ubuntu! 😀

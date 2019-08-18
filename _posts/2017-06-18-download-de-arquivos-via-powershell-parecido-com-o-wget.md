@@ -33,5 +33,3 @@ Receita do bolo:
     $wc.DownloadFile($url, $output)
 
 E era isso! Boa manutenção! 😉
-
-&nbsp;

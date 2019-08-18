@@ -28,10 +28,10 @@ Depois de reinstalar o meu [Windows 8.1 Pro](http://windows.microsoft.com/pt-br/
 
 Então o que fiz para instalar?
 
-  1. Criei uma placa de rede **interna**, pois como uso meu note e ele usa uma placa de rede sem fio, é antigo o problema do Hyper-V com placas de rede **externa**, e compartilhei a internet da placa de rede sem fio.
-  2. Configurei também o uso de mais de 1 processador para agilizar a performance.
-  3. Criei uma VM de 2ª geração e **desativei da firmware o _boot seguro_ e coloquei a ISO do Ubuntu para instalar**.
-  4. Depois de instalado, editei o arquivo **/etc/default/grub** e na linha que diz _GRUB\_CMDLINE\_LINUX_DEFAULT_, adicionei **video=hyperv_fb:1366&#215;768**.
-  5. Coloquei a VM do ubuntu em tela cheia.
+1. Criei uma placa de rede **interna**, pois como uso meu note e ele usa uma placa de rede sem fio, é antigo o problema do Hyper-V com placas de rede **externa**, e compartilhei a internet da placa de rede sem fio.
+2. Configurei também o uso de mais de 1 processador para agilizar a performance.
+3. Criei uma VM de 2ª geração e **desativei da firmware o _boot seguro_ e coloquei a ISO do Ubuntu para instalar**.
+4. Depois de instalado, editei o arquivo **/etc/default/grub** e na linha que diz _GRUB\_CMDLINE\_LINUX_DEFAULT_, adicionei **video=hyperv_fb:1366&#215;768**.
+5. Coloquei a VM do ubuntu em tela cheia.
 
 Depois disso fiz uns testes, mas senti levemente lento, comparado ao uso no Virtualbox. Mas para um uso básico, não vejo problemas no uso! Aprovado! 😀

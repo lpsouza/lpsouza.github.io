@@ -6,7 +6,7 @@ author: lpsouza
 layout: post
 guid: https://luizsouza.com.br/?p=1468
 permalink: /2016/01/11/chrome-exe-com-erro-0xc0000018-resolvido/
-image: /wp-content/uploads/2016/01/chrome-error1.jpg
+image: https://luizsouza.com.br/wp-content/uploads/2016/01/chrome-error1.jpg
 headerImage: false
 star: false
 category: blog
@@ -41,7 +41,7 @@ A solução para mim foi um pouco diferente do que ele comenta no post, mas foi 
   1. Abra o executar e digite: regedit (e clique em OK).
   2. Confirme que você quer executar o Regedit.
   3. Navegue nas pastas até HKEY\_LOCAL\_MACHINE\SOFTWARE\Wow6432Node\­Microsoft\WindowsNT\CurrentVersion\Windo­­ws
-  4. Localize a chave "APPINIT_DLLS", <del>dê um duplo clique e delete todos os caracteres</del> delete esta chave.
+  4. Localize a chave "APPINIT_DLLS", ~~dê um duplo clique e delete todos os caracteres~~ delete esta chave.
 
 Reiniciando o computador, consegui acesso a todos os executáveis que estavam dando erro de acesso!
 

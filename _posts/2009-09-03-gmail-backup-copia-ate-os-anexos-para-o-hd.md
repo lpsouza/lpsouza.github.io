@@ -30,7 +30,7 @@ Já que tivemos problemas com o Gmail e milhares de pessoas reclamando e se dese
 
 Não testei ainda, mas assim que tiver tempo (diga-se hoje a noite) vou baixar e já fazer backup dos meus quase 5Gb de email do Gmail.
 
-![Gmail Backup](wp-content/upload/2009/09/1242657062236_58.jpg)
+![Gmail Backup](https://luizsouza.com.br/wp-content/upload/2009/09/1242657062236_58.jpg)
 
 > _Se o medo de perder suas mensagens do Gmail é grande, uma saída é manter um backup local de tudo. Para isso, o programa Gmail Backup resolve bem._
 >
