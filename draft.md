@@ -86,3 +86,4 @@ sudo dmidecode -t 1
 - [https://gunnarpeipman.com/net/dotnet-core-self-contained-executable/](https://gunnarpeipman.com/net/dotnet-core-self-contained-executable/)
 - [https://medium.com/better-programming/make-bash-on-ubuntu-on-windows-10-look-like-the-ubuntu-terminal-f7566008c5c2](https://medium.com/better-programming/make-bash-on-ubuntu-on-windows-10-look-like-the-ubuntu-terminal-f7566008c5c2)
 - [https://www.winhelponline.com/blog/set-cmd-prompt-default-window-size-position/](https://www.winhelponline.com/blog/set-cmd-prompt-default-window-size-position/)
+- [https://rudd-o.com/linux-and-free-software/a-better-way-to-create-a-customized-ubuntu-live-usb-drive](https://rudd-o.com/linux-and-free-software/a-better-way-to-create-a-customized-ubuntu-live-usb-drive)
