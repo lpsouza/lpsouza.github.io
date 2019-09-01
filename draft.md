@@ -77,6 +77,12 @@ docker rmi $(docker images | grep "\<none\>" | cut -d" " -f 49)
 sudo dmidecode -t 1
 ```
 
+## Merge PDF files com GhostScript (gs)
+
+```bash
+gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dAutoRotatePages=/None -sOutputFile=merged/file.pdf file_*
+```
+
 ## Links para posts
 
 - [https://4sysops.com/archives/windows-event-forwarding-to-a-sql-database/](https://4sysops.com/archives/windows-event-forwarding-to-a-sql-database/)
