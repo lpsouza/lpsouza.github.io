@@ -83,6 +83,28 @@ sudo dmidecode -t 1
 gs -dBATCH -dNOPAUSE -q -sDEVICE=pdfwrite -dAutoRotatePages=/None -sOutputFile=merged/file.pdf file_*
 ```
 
+## Database (SQLite) scaffolding in C# (.NET Core)
+
+```bash
+# Install EF for SQLite
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+
+# Scaffolding database
+dotnet ef dbcontext scaffold "Datasource=database.sqlite" Microsoft.EntityFrameworkCore.Sqlite -o Models -c AppDBContext
+
+# Enable dotnet-aspnet-codegenerator
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+# Create a model and add DBSet in AppDBContext file
+
+# Create CRUD
+dotnet aspnet-codegenerator controller -name StudentsController -m Student -dc AppDBContext --relativeFolderPath Controllers --useDefaultLayout --referenceScriptLibraries
+
+# Create CRUD (WebAPI)
+dotnet aspnet-codegenerator controller -name StudentsController -m Student -dc AppDBContext --relativeFolderPath Controllers/API -api --referenceScriptLibraries
+```
+
 ## Links para posts
 
 - [https://4sysops.com/archives/windows-event-forwarding-to-a-sql-database/](https://4sysops.com/archives/windows-event-forwarding-to-a-sql-database/)
