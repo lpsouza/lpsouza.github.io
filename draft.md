@@ -103,6 +103,12 @@ dotnet aspnet-codegenerator controller -name StudentsController -m Student -dc A
 
 # Create CRUD (WebAPI)
 dotnet aspnet-codegenerator controller -name StudentsController -m Student -dc AppDBContext --relativeFolderPath Controllers/API -api --referenceScriptLibraries
+
+# Generate migrations
+dotnet ef migrations add Inicial
+
+# Update database
+dotnet ef database update
 ```
 
 ## Links para posts
