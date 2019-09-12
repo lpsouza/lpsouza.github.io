@@ -72,7 +72,7 @@ docker rmi $(docker images | grep "\<none\>" | cut -d" " -f 49)
 ```
 
 ```powershell
-docker images | sls -Pattern "\<none\>" | % { docker rmi ($_ -split " ")[28] }
+docker images | sls "\<none\>" | % { docker rmi ($_ -split " ")[28] }
 ```
 
 ## Get Dell service tag (linux)
