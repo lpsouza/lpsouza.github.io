@@ -71,6 +71,10 @@ $LXC exec $LXDCONTAINER -- docker run --rm hello-world
 docker rmi $(docker images | grep "\<none\>" | cut -d" " -f 49)
 ```
 
+```powershell
+docker images | sls -Pattern "\<none\>" | % { docker rmi ($_ -split " ")[28] }
+```
+
 ## Get Dell service tag (linux)
 
 ```bash
