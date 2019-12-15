@@ -1,0 +1,40 @@
+---
+title: 'Descompactando arquivos no Windows Server Core 2016'
+date: 2019-12-15T19:27:50-03:00
+author: lpsouza
+layout: post
+permalink: /2019/12/15/descompactando-arquivos-no-windows-server-core-2016/
+headerImage: false
+star: false
+category: blog
+tags:
+ - Powershell
+ - Windows
+ - Windows Server
+ - Windows Server Core
+ - Server Core
+---
+
+Para usuários Windows da vida, o uso do Server Core pode se tornar uma experiência bem traumática, principalmente por não termos uma "interface gráfica" com "cara de Windows". Mas para o bom técnico em TI que entende o "preço que um server paga" por ter uma interface gráfica ativada.
+
+Então uma forma de ter servidores Windows mais "enxutos" é usar a instalação no modo core! E agora os dilemas... Um deles é descompactar um simples zip, onde quando temos a interface gráfica é um simples duplo clique do seu mouse. Pois vamos lá! Powershell como sempre fazendo os caminhos do server core e dos amantes de scripts uma vida melhor!
+
+Segue a ideia:
+
+```Powershell
+Add-Type -AssemblyName System.IO.Compression.FileSystem
+function Unzip
+{
+    param([string]$zipfile, [string]$outpath)
+
+    [System.IO.Compression.ZipFile]::ExtractToDirectory($zipfile, $outpath)
+}
+```
+
+Uma vez rodado isso é só usar o seguinte comando:
+
+```Powershell
+Unzip "C:\a.zip" "C:\a"
+```
+
+Essa dica eu achei aqui no post: [How to unzip a file in Powershell?](https://stackoverflow.com/a/27768628).
