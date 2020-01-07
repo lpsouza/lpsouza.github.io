@@ -126,3 +126,5 @@ dotnet ef database update
 - [https://www.winhelponline.com/blog/set-cmd-prompt-default-window-size-position/](https://www.winhelponline.com/blog/set-cmd-prompt-default-window-size-position/)
 - [https://rudd-o.com/linux-and-free-software/a-better-way-to-create-a-customized-ubuntu-live-usb-drive](https://rudd-o.com/linux-and-free-software/a-better-way-to-create-a-customized-ubuntu-live-usb-drive)
 - [https://www.infoworld.com/article/3434611/7-visual-studio-code-extensions-you-didnt-know-you-needed.html?upd=1567851075451](https://www.infoworld.com/article/3434611/7-visual-studio-code-extensions-you-didnt-know-you-needed.html?upd=1567851075451)
+- [https://www.tomshardware.com/how-to/windows-10-settings-to-change](https://www.tomshardware.com/how-to/windows-10-settings-to-change)
+- [http://stevehanov.ca/blog/?id=48](http://stevehanov.ca/blog/?id=48)
