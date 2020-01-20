@@ -22,16 +22,44 @@ tags:
   - Roteamento
   - _remap
 ---
-O roteamento inteligente permite criar URLs personalizadas. Com isso, a URL padrão do Codeigniter pode ser customizada. Cuidado extra é que no _default controller_ deve ter um método para implementar o erro de _not found_ (404). No exemplo dos arquivos, ele simula as URLs encontradas em um blog:
+O roteamento inteligente permite criar URLs personalizadas. Com isso, a URL padrão do Codeigniter pode ser customizada. O cuidado extra é no _default controller_ onde deve ter um método para implementar o erro de _not found_ (404). No exemplo dos arquivos, ele simula as URLs encontradas em um blog:
 
 * [http://{blog}/{ano}/{mes}/{dia}/{slug-noticia}](http://{blog}/{ano}/{mes}/{dia}/{slug-noticia})
 * [http://{blog}/{página}](http://{blog}/{página})
 
-## Código fonte dos arquivos `defaultController.php` e `routes.php`
+## Código fonte do arquivo `[project-root]/application/controller/defaultController.php`
 
-<script src="https://gist.github.com/lpsouza/c1ba0c2334da4ece92af.js"></script>
+```php
+class DefaultController extends CI_Controller {
 
-A localização destes arquivos são respectivamente:
+    public function _remap(){
+        $s1 = $this->uri->segment(1);
+        $s2 = $this->uri->segment(2);
+        $s3 = $this->uri->segment(3);
+        $s4 = $this->uri->segment(4);
+        if($s1 == ''){ $this->index(); }
+        elseif((int)$s1 > 0 && (int)$s2 > 0 && (int)$s3 > 0){
+            $news = $this->news->getNews($s1, $s2, $s3, $s4);
+            $this->siteNews($news);
+        }else{
+            $page = $this->pages->getPage($s1);
+            if($page['id'] > 0){ $this->sitePage($page); }
+            else{ $this->error404(); }
+        }
+    }
+}
+```
 
-* [project-root]/application/controller/defaultController.php
-* [project-root]/application/config/routes.php
+## Código fonte do arquivo  `[project-root]/application/config/routes.php`
+
+```php
+// For auto map
+$default_controller = "defaultController";
+$controller_exceptions = array('admin');
+
+$route['default_controller'] = $default_controller;
+$route["^((?!\b".implode('\b|\b', $controller_exceptions)."\b).*)$"] = $default_controller.'/$1';
+$route['404_override'] = '';
+```
+
+E era isso! 😉
