@@ -1,13 +1,14 @@
 remote_theme: thelehhman/plainwhite-jekyll
 show_excerpts: true
 
-exclude: 
+exclude:
     - "README.md"
     - ".markdownlink.json"
     - ".editorconfig"
     - ".gitignore"
 
 plainwhite:
+    profile_image: https://www.gravatar.com/avatar/ce87a4c115c24ba10709878170134546?s=350
     name: Luiz Pereira de Souza Filho
     tagline: DevSecOps. Professor.
     date_format: "%b %-d, %Y"
