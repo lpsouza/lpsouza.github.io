@@ -15,7 +15,7 @@ plainwhite:
     name: Luiz Pereira de Souza Filho
     tagline: DevSecOps. Professor.
     date_format: "%d/%m/%Y"
-    shortname: luiz-souza\
+    disqus_shortname: luiz-souza
     analytics-id: "UA-105361937-1"
     sitemap: true
 
