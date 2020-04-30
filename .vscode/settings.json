@@ -23,6 +23,7 @@
         "adsense",
         "devops",
         "disqus",
+        "editorconfig",
         "endfor",
         "gitlab",
         "hehehe",
@@ -31,12 +32,15 @@
         "lastfm",
         "linkedin",
         "lpsouza",
+        "markdownlink",
         "pinterest",
         "piwik",
+        "plainwhite",
         "quora",
         "shortname",
         "slugify",
         "spotify",
-        "stackoverflow"
+        "stackoverflow",
+        "thelehhman"
     ]
 }
