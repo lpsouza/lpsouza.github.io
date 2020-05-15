@@ -16,7 +16,7 @@ plainwhite:
     tagline: DevSecOps. Professor.
     date_format: "%d/%m/%Y"
     disqus_shortname: luiz-souza
-    analytics-id: "UA-105361937-1"
+    analytics_id: "UA-105361937-1"
     sitemap: true
 
     social_links:
