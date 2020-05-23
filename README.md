@@ -4,6 +4,12 @@ This repository contains the files of my website!
 
 My site was originally created with Wordpress, but today it's all migrated to Jekyll!
 
+## Theme
+
+Based on [https://github.com/thelehhman/plainwhite-jekyll](thelehhman/plainwhite-jekyll) theme.
+
+![Theme Screenshot](https://github.com/thelehhman/plainwhite-jekyll/raw/master/screenshot.png)
+
 ## Work in progress
 
 * [X] Export all content to Jekyll files.
