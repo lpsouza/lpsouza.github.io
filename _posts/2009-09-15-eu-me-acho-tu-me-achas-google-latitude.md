@@ -1,27 +1,10 @@
 ---
-id: 177
 title: 'Eu me acho, tu me achas! - Google Latitude'
 date: 2009-09-15T16:20:27+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=177
 permalink: /2009/09/15/eu-me-acho-tu-me-achas-google-latitude/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-headerImage: false
-star: false
-category: blog
-categories:
-  - Móvel
-  - Pessoal
-  - Programação
-  - WWW
+category: Tech
 tags:
   - Blog
   - GeoJSON

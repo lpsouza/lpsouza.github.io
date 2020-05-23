@@ -6,18 +6,7 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=216
 permalink: /2009/09/28/um-passado-presente/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-headerImage: false
-star: false
-category: blog
-categories:
-  - Games
-  - Pessoal
+category: Blogging
 tags:
   - Fica a dica
   - Futuro

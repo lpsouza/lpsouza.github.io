@@ -1,24 +1,11 @@
 ---
-id: 128
 title: 'On cast... No podcast!'
 date: 2009-09-02T21:42:38+00:00
 author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=128
 permalink: /2009/09/02/on-cast-no-podcast/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-headerImage: false
-star: false
-category: blog
-categories:
-  - Pessoal
-  - TIC
-  - WWW
+category: Tech
 tags:
   - Blog
   - Conversas

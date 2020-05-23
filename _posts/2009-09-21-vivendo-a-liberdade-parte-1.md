@@ -1,24 +1,11 @@
 ---
-id: 210
 title: 'Vivendo a liberdade - parte 1'
 date: 2009-09-21T16:49:01+00:00
 author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=210
 permalink: /2009/09/21/vivendo-a-liberdade-parte-1/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-headerImage: false
-star: false
-category: blog
-categories:
-  - Pessoal
-  - SegInfo
-  - TIC
+category: Linux
 tags:
   - Computadores
   - Curiosidade

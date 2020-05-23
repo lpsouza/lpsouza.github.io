@@ -4,9 +4,7 @@ date: 2009-09-01T14:10:50+00:00
 author: lpsouza
 layout: post
 permalink: /2009/09/01/candidata-troca-votos-por-pirulito-para-chegar-a-final-do-miss-orkut/
-headerImage: false
-star: false
-category: blog
+category: Tech
 tags:
   - Brasil
   - Concurso

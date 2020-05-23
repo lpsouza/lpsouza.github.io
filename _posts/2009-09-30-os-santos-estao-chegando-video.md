@@ -1,22 +1,10 @@
 ---
-id: 218
 title: 'Os santos estão chegando - Vídeo'
 date: 2009-09-30T18:11:47+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=218
 permalink: /2009/09/30/os-santos-estao-chegando-video/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-headerImage: false
-star: false
-category: blog
-categories:
-  - Música
+category: Blogging
 tags:
   - Boa música
   - Green Day

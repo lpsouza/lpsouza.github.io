@@ -1,23 +1,10 @@
 ---
-id: 174
 title: Google solar e a teoria do Exterminador do Futuro
 date: 2009-09-14T20:35:16+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=174
 permalink: /2009/09/14/google-solar-e-a-teoria-do-exterminador-do-futuro/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-headerImage: false
-star: false
-category: blog
-categories:
-  - Pessoal
-  - TIC
+category: Tech
 tags:
   - Controle
   - Energia solar
@@ -42,4 +29,4 @@ Dou, claro, meus parabéns ao google por sua iniciativa (como sempre), mas meu j
 
 E você? O que pensa?
 
-A repostagem que gerou este post: [Vivo Verde » Google solar](http://vivoverde.com.br/?p=1076)
+A reportagem que gerou este post: [Vivo Verde » Google solar](http://vivoverde.com.br/?p=1076)

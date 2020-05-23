@@ -6,17 +6,7 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=240
 permalink: /2009/10/09/aviso-aos-navegantes-do-meu-blog/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-headerImage: false
-star: false
-category: blog
-categories:
-  - Pessoal
+category: Blogging
 tags:
   - Autor
   - Blog

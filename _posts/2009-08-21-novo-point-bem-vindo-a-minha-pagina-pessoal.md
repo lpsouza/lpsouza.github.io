@@ -4,9 +4,7 @@ date: 2009-08-21T21:26:22+00:00
 author: lpsouza
 layout: post
 permalink: /2009/08/21/novo-point-bem-vindo-a-minha-pagina-pessoal/
-headerImage: false
-star: false
-category: blog
+category: Blogging
 tags:
   - Blog
   - Blogger

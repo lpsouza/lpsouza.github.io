@@ -4,9 +4,7 @@ date: 2009-08-26T14:34:20+00:00
 author: lpsouza
 layout: post
 permalink: /2009/08/26/wordpress-como-cms/
-headerImage: false
-star: false
-category: blog
+category: Blogging
 tags:
   - Blog
   - CMS

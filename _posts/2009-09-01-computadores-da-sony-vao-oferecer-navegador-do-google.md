@@ -1,18 +1,10 @@
 ---
-id: 120
 title: Computadores da Sony vão oferecer navegador do Google
 date: 2009-09-01T17:04:59+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=120
 permalink: /2009/09/01/computadores-da-sony-vao-oferecer-navegador-do-google/
-headerImage: false
-star: false
-category: blog
-categories:
-  - Pessoal
-  - TIC
-  - WWW
+category: Tech
 tags:
   - Computadores
   - Google

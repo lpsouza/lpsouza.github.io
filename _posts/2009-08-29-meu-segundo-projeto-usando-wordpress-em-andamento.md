@@ -1,18 +1,10 @@
 ---
-id: 90
 title: Meu segundo projeto usando WordPress (em andamento)
 date: 2009-08-29T12:10:52+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=90
 permalink: /2009/08/29/meu-segundo-projeto-usando-wordpress-em-andamento/
-headerImage: false
-star: false
-category: blog
-categories:
-  - Pessoal
-  - Programação
-  - WWW
+category: Tech
 tags:
   - Blog
   - CMS

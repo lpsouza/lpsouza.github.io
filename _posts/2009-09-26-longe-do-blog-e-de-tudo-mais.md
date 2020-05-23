@@ -1,25 +1,11 @@
 ---
-id: 212
 title: Longe do blog.. E de tudo mais..
 date: 2009-09-26T21:00:19+00:00
 author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=212
 permalink: /2009/09/26/longe-do-blog-e-de-tudo-mais/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-headerImage: false
-star: false
-category: blog
-categories:
-  - Móvel
-  - Pessoal
-  - TIC
-  - WWW
+category: Blogging
 tags:
   - 3G
   - Blog

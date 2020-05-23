@@ -1,22 +1,10 @@
 ---
-id: 172
 title: Blog parado?
 date: 2009-09-14T12:45:23+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=172
 permalink: /2009/09/14/blog-parado/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-headerImage: false
-star: false
-category: blog
-categories:
-  - Pessoal
+category: Blogging
 tags:
   - Blog
   - Fica a dica

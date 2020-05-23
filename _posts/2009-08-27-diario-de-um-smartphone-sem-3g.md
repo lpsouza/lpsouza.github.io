@@ -1,12 +1,10 @@
 ---
-title: Diario de um Smartphone sem 3G
+title: Diário de um Smartphone sem 3G
 date: 2009-08-27T17:49:49+00:00
 author: lpsouza
 layout: post
 permalink: /2009/08/27/diario-de-um-smartphone-sem-3g/
-headerImage: false
-star: false
-category: blog
+category: Tech
 tags:
   - 3G
   - Claro

@@ -1,24 +1,11 @@
 ---
-id: 242
 title: 'Problema de leitura em HD externo USB [Resolvido!]'
 date: 2009-10-12T08:07:11+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=242
 permalink: /2009/10/12/problema-de-leitura-em-hd-externo-usb-resolvido/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
 image: https://luizsouza.com.br/wp-content/uploads/2009/10/tela-chkdsk.png
-headerImage: false
-star: false
-category: blog
-categories:
-  - Pessoal
-  - TIC
+category: Tech
 tags:
   - chkdsk
   - DataBack
@@ -48,7 +35,9 @@ Entrei no DOS e fiz um comando que havia testado no Windows sem sucesso: chkdsk.
   
 Para quem tiver um problema parecido, entre no MS-DOS (ou CMD) e digite:
 
-> chkdsk g: /f
+```cmd
+chkdsk g: /f
+```
 
 Lembrando que "g:" é a unidade que estava o meu HD externo.. Ajuste para a sua unidade..
 
@@ -56,7 +45,7 @@ Estou feliz com essa recuperação!
 
 **Bônus:**
 
-Bom, tenho que pedir desculpas a todos que não consigo responder nos comentários. Alguns estão encontrando dificuldades ao executar a "receita de bolo", como: Unidade em RAW, "Não há suporte para o pedido" e entre outros... Vou (tentar) atualizar este post constantemente para adicionar links a respostas destes tipos de problemas.
+Alguns estão encontrando dificuldades ao executar a "receita de bolo", como: Unidade em RAW, "Não há suporte para o pedido" e entre outros... Vou (tentar) atualizar este post constantemente para adicionar links a respostas destes tipos de problemas.
 
 Problemas encontrados pelos leitores (e possíveis soluções):
 
@@ -66,5 +55,3 @@ Problemas encontrados pelos leitores (e possíveis soluções):
   * Informação adicional: Olha, o link comenta em Windows XP, o qual nem tem mais suporte pela Microsoft. Se não for este o seu caso, e tiver um windows mais recente, tente iniciar o prompt de comando como administrador.
 
 **Editado em 01/03/2016:** Conforme dica do **Pedro Romero**, alterei a letra da unidade pra _g:_ ao invés do _f:_. Obrigado pela dica! 🙂
-
-**Editado em 11/09/2016:** Comecei uma lista com diversas soluções encontradas na internet para problemas reportados nos comentários dos leitores. Obrigado a todos pelo _feedback_ e desculpe se não respondi diretamente. Eu não tenho as skills de recuperação de HD, apenas me esbarrei com uma solução bem legal e resolvi compartilhar.

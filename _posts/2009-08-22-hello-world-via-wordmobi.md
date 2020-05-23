@@ -4,9 +4,7 @@ date: 2009-08-22T21:39:33+00:00
 author: lpsouza
 layout: post
 permalink: /2009/08/22/hello-world-via-wordmobi/
-headerImage: false
-star: false
-category: blog
+category: Blogging
 tags:
   - Blog
   - E71

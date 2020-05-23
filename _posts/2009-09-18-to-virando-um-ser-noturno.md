@@ -1,25 +1,10 @@
 ---
-id: 186
 title: Tô virando um ser noturno..
 date: 2009-09-18T04:34:00+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=186
 permalink: /2009/09/18/to-virando-um-ser-noturno/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-headerImage: false
-star: false
-category: blog
-categories:
-  - Móvel
-  - Pessoal
-  - TIC
-  - WWW
+category: Blogging
 tags:
   - Blog
   - E71

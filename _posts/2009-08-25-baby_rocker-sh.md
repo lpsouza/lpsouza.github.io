@@ -4,9 +4,7 @@ date: 2009-08-25T10:11:40+00:00
 author: lpsouza
 layout: post
 permalink: /2009/08/25/baby_rocker-sh/
-headerImage: false
-star: false
-category: blog
+category: Linux
 tags:
   - Bebê
   - Fica a dica

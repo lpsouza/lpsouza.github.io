@@ -1,23 +1,10 @@
 ---
-id: 189
 title: Celular + Windows XP = Não boto fé!
 date: 2009-09-18T15:19:08+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=189
 permalink: /2009/09/18/celular-windows-xp-nao-boto-fe/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-headerImage: false
-star: false
-category: blog
-categories:
-  - Móvel
-  - TIC
+category: Tech
 tags:
   - Celular
   - Ha-ha!
