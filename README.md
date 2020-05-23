@@ -6,7 +6,7 @@ My site was originally created with Wordpress, but today it's all migrated to Je
 
 ## Theme
 
-Based on [https://github.com/thelehhman/plainwhite-jekyll](thelehhman/plainwhite-jekyll) theme.
+Based on [thelehhman/plainwhite-jekyll](https://github.com/thelehhman/plainwhite-jekyll) theme.
 
 ![Theme Screenshot](https://github.com/thelehhman/plainwhite-jekyll/raw/master/screenshot.png)
 
