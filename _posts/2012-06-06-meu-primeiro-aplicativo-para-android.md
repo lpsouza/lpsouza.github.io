@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1003
 permalink: /2012/06/06/meu-primeiro-aplicativo-para-android/
-headerImage: false
 star: false
 category: blog
 categories:

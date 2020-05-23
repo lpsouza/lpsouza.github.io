@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: https://luizsouza.com.br/?p=1618
 permalink: /2017/06/18/download-de-arquivos-via-powershell-parecido-com-o-wget/
-headerImage: false
 star: false
 category: blog
 categories:

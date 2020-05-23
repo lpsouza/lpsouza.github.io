@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1055
 permalink: /2012/08/26/libreoffice-calc-como-apagar-linhas-repetidas/
-headerImage: false
 star: false
 category: blog
 categories:

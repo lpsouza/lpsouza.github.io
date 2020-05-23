@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1454
 permalink: /2015/10/10/magento-e-seu-top-menu/
-headerImage: false
 star: false
 category: blog
 categories:

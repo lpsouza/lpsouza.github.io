@@ -12,7 +12,6 @@ aktt_tweeted:
 aktt_notify_twitter:
   - 'yes'
   - 'yes'
-headerImage: false
 star: false
 category: blog
 categories:

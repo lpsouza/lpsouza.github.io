@@ -18,7 +18,6 @@ tumblrize_post-type:
 aktt_notify_twitter:
   - 'yes'
   - 'yes'
-headerImage: false
 star: false
 category: blog
 categories:

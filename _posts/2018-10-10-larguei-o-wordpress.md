@@ -4,7 +4,6 @@ date: 2018-10-10T21:52:00-03:00
 author: lpsouza
 layout: post
 permalink: /2018/10/10/larguei-o-wordpress/
-headerImage: false
 star: false
 category: blog
 tags:

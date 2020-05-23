@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1093
 permalink: /2012/08/26/divulgacao-dia-da-liberdade-de-software-2012-novo-hamburgors/
-headerImage: false
 star: false
 category: blog
 categories:

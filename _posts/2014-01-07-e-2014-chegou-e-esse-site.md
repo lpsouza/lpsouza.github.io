@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1259
 permalink: /2014/01/07/e-2014-chegou-e-esse-site/
-headerImage: false
 star: false
 category: blog
 categories:

@@ -4,7 +4,6 @@ date: 2019-01-02T18:29:23-03:00
 author: lpsouza
 layout: post
 permalink: /2019/01/02/utilizando-o-powershell-para-obter-o-espaco-em-disco-das-maquinas-virtuais-no-hyper-v/
-headerImage: false
 star: false
 category: blog
 tags:

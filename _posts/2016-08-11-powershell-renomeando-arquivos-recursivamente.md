@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: https://luizsouza.com.br/?p=1524
 permalink: /2016/08/11/powershell-renomeando-arquivos-recursivamente/
-headerImage: false
 star: false
 category: blog
 categories:

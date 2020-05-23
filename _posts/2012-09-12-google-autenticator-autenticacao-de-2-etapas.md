@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1107
 permalink: /2012/09/12/google-autenticator-autenticacao-de-2-etapas/
-headerImage: false
 star: false
 category: blog
 categories:

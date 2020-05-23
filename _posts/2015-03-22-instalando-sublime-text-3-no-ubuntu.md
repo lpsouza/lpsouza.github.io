@@ -7,7 +7,6 @@ layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1400
 permalink: /2015/03/22/instalando-sublime-text-3-no-ubuntu/
 image: https://luizsouza.com.br/wp-content/uploads/2015/03/imagem-sublime.png
-headerImage: false
 star: false
 category: blog
 categories:

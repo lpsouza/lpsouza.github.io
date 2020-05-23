@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1305
 permalink: /2014/03/29/como-remover-o-unity-do-ubuntu-sem-stress/
-headerImage: false
 star: false
 category: blog
 categories:

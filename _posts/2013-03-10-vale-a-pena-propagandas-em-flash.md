@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1177
 permalink: /2013/03/10/vale-a-pena-propagandas-em-flash/
-headerImage: false
 star: false
 category: blog
 categories:

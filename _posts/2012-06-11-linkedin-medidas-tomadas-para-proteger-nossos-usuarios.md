@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1029
 permalink: /2012/06/11/linkedin-medidas-tomadas-para-proteger-nossos-usuarios/
-headerImage: false
 star: false
 category: blog
 categories:

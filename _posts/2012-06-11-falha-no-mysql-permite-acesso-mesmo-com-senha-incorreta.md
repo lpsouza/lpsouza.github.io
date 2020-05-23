@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1032
 permalink: /2012/06/11/falha-no-mysql-permite-acesso-mesmo-com-senha-incorreta/
-headerImage: false
 star: false
 category: blog
 categories:

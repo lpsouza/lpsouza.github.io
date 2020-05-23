@@ -7,7 +7,6 @@ layout: post
 guid: https://luizsouza.com.br/?p=1563
 permalink: /2016/09/23/curso-3009-desenvolvimento-mobile-multiplataforma-com-html5/
 image: https://luizsouza.com.br/wp-content/uploads/2016/09/site-html-5-3-edicao.jpg
-headerImage: false
 star: false
 category: blog
 categories:

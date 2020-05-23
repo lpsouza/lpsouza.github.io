@@ -7,7 +7,6 @@ layout: post
 guid: https://luizsouza.com.br/?p=1513
 permalink: /2016/06/19/erro-no-desligar-do-unity-quando-usando-o-cairo-dock-resolvido/
 image: https://luizsouza.com.br/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-1200x675.png
-headerImage: false
 star: false
 category: blog
 categories:

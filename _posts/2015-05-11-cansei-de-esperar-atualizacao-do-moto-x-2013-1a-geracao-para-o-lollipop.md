@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1426
 permalink: /2015/05/11/cansei-de-esperar-atualizacao-do-moto-x-2013-1a-geracao-para-o-lollipop/
-headerImage: false
 star: false
 category: blog
 categories:

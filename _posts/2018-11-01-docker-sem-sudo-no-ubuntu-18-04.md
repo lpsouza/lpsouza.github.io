@@ -4,7 +4,6 @@ date: 2018-11-01T21:18:00-03:00
 author: lpsouza
 layout: post
 permalink: /2018/11/01/docker-sem-sudo-no-ubuntu-18-04/
-headerImage: false
 star: false
 category: blog
 tags:

@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1115
 permalink: /2012/10/10/wordpress-3-4-perde-a-traducao-dos-temas-twenty-ten-e-twenty-eleven/
-headerImage: false
 star: false
 category: blog
 categories:

@@ -7,7 +7,6 @@ layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1324
 permalink: /2014/08/30/erro-ao-retornar-do-suspender-no-windows-8-1/
 image: https://luizsouza.com.br/wp-content/uploads/2014/08/0x00000113.png
-headerImage: false
 star: false
 category: blog
 categories:

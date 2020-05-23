@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1437
 permalink: /2015/07/09/fazendo-um-tail-em-arquivos-no-windows-powershell/
-headerImage: false
 star: false
 category: blog
 categories:

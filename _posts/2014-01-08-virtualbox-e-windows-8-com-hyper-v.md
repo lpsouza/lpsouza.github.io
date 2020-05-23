@@ -7,7 +7,6 @@ layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1282
 permalink: /2014/01/08/virtualbox-e-windows-8-com-hyper-v/
 image: https://luizsouza.com.br/wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
-headerImage: false
 star: false
 category: blog
 categories:

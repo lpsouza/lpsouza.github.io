@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1353
 permalink: /2015/01/31/problema-net-virtua-e-o-ssh-resolvido/
-headerImage: false
 star: false
 category: blog
 categories:

@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: https://luizsouza.com.br/?p=1575
 permalink: /2016/09/23/visual-studio-code-diferencas-nos-atalho-nos-diferentes-sistemas-operacionais/
-headerImage: false
 star: false
 category: blog
 categories:

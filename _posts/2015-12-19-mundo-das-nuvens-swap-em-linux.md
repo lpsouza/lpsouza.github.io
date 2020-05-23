@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1465
 permalink: /2015/12/19/mundo-das-nuvens-swap-em-linux/
-headerImage: false
 star: false
 category: blog
 categories:

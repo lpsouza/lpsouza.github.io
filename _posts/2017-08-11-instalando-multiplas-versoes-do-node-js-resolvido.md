@@ -7,7 +7,6 @@ layout: post
 guid: https://luizsouza.com.br/?p=1631
 permalink: /2017/08/11/instalando-multiplas-versoes-do-node-js-resolvido/
 image: https://luizsouza.com.br/wp-content/uploads/2017/08/Capturar2.png
-headerImage: false
 star: false
 category: blog
 categories:

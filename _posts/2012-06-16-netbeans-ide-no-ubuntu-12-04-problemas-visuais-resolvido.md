@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1042
 permalink: /2012/06/16/netbeans-ide-no-ubuntu-12-04-problemas-visuais-resolvido/
-headerImage: false
 star: false
 category: blog
 categories:

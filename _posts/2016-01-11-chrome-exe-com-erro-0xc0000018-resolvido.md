@@ -7,7 +7,6 @@ layout: post
 guid: https://luizsouza.com.br/?p=1468
 permalink: /2016/01/11/chrome-exe-com-erro-0xc0000018-resolvido/
 image: https://luizsouza.com.br/wp-content/uploads/2016/01/chrome-error1.jpg
-headerImage: false
 star: false
 category: blog
 categories:

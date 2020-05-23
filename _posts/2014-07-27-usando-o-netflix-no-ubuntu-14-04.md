@@ -7,7 +7,6 @@ layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1311
 permalink: /2014/07/27/usando-o-netflix-no-ubuntu-14-04/
 image: https://luizsouza.com.br/wp-content/uploads/2014/07/netflix.jpg
-headerImage: false
 star: false
 category: blog
 categories:

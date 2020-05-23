@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1188
 permalink: /2013/07/11/como-atualizar-o-windows-8-para-o-windows-8-1-preview/
-headerImage: false
 star: false
 category: blog
 categories:

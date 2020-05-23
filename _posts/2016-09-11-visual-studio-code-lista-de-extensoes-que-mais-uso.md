@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: https://luizsouza.com.br/?p=1527
 permalink: /2016/09/11/visual-studio-code-lista-de-extensoes-que-mais-uso/
-headerImage: false
 star: false
 category: blog
 categories:

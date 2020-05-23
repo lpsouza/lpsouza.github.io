@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1026
 permalink: /2012/06/08/design-web-profissao-perigo/
-headerImage: false
 star: false
 category: blog
 categories:

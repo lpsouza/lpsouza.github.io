@@ -10,7 +10,6 @@ aktt_tweeted:
   - "1"
 aktt_notify_twitter:
   - 'yes'
-headerImage: false
 star: false
 category: blog
 categories:

@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1111
 permalink: /2012/09/12/resolvido-logmein-hamachi-2-linux-usando-proxy/
-headerImage: false
 star: false
 category: blog
 categories:

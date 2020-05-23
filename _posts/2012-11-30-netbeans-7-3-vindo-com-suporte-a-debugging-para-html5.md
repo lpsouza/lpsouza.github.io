@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1145
 permalink: /2012/11/30/netbeans-7-3-vindo-com-suporte-a-debugging-para-html5/
-headerImage: false
 star: false
 category: blog
 categories:

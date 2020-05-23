@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1122
 permalink: /2012/11/13/migracao-de-sistema-cloud-adeus-locaweb-ola-amazon/
-headerImage: false
 star: false
 category: blog
 categories:

@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1166
 permalink: /2013/02/13/o-iceberg-da-experiencia-do-usuario/
-headerImage: false
 star: false
 category: blog
 categories:

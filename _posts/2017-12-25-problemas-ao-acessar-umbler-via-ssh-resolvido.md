@@ -7,7 +7,6 @@ layout: post
 guid: https://luizsouza.com.br/?p=1653
 permalink: /2017/12/25/problemas-ao-acessar-umbler-via-ssh-resolvido/
 image: https://luizsouza.com.br/wp-content/uploads/2017/12/Capturar.png
-headerImage: false
 star: false
 category: blog
 categories:

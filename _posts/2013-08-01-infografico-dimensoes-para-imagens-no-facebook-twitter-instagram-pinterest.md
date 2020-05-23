@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1196
 permalink: /2013/08/01/infografico-dimensoes-para-imagens-no-facebook-twitter-instagram-pinterest/
-headerImage: false
 star: false
 category: blog
 categories:

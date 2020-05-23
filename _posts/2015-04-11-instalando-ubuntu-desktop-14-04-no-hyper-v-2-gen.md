@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1412
 permalink: /2015/04/11/instalando-ubuntu-desktop-14-04-no-hyper-v-2-gen/
-headerImage: false
 star: false
 category: blog
 categories:

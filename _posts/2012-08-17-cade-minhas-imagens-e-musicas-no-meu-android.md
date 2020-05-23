@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1088
 permalink: /2012/08/17/cade-minhas-imagens-e-musicas-no-meu-android/
-headerImage: false
 star: false
 category: blog
 categories:

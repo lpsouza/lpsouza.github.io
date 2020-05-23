@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1150
 permalink: /2012/12/21/novo-hamburgo-cidade-digital/
-headerImage: false
 star: false
 category: blog
 categories:

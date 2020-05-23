@@ -7,7 +7,6 @@ layout: post
 guid: https://luizsouza.com.br/?p=1679
 permalink: /2018/04/22/docker-no-windows-10-pra-que-tanta-placa-de-rede-no-hyper-v/
 image: https://luizsouza.com.br/wp-content/uploads/2018/04/Capturar.png
-headerImage: false
 star: false
 category: blog
 categories:

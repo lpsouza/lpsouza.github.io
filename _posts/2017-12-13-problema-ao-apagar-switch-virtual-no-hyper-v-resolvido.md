@@ -7,7 +7,6 @@ layout: post
 guid: https://luizsouza.com.br/?p=1645
 permalink: /2017/12/13/problema-ao-apagar-switch-virtual-no-hyper-v-resolvido/
 image: https://luizsouza.com.br/wp-content/uploads/2017/12/erro-deletando-vmswitch.png
-headerImage: false
 star: false
 category: blog
 categories:

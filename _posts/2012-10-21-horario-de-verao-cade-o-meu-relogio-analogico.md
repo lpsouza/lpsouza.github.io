@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1120
 permalink: /2012/10/21/horario-de-verao-cade-o-meu-relogio-analogico/
-headerImage: false
 star: false
 category: blog
 categories:

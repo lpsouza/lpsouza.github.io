@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1366
 permalink: /2015/02/07/adicionando-informacoes-do-computador-na-imagem-de-fundo-bginfo/
-headerImage: false
 star: false
 category: blog
 categories:

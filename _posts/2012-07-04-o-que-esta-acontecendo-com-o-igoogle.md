@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://luizsouza.com.br/?p=1059
 permalink: /2012/07/04/o-que-esta-acontecendo-com-o-igoogle/
-headerImage: false
 star: false
 category: blog
 categories:

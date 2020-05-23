@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: https://luizsouza.com.br/?p=1592
 permalink: /2016/10/27/usando-virtualbox-com-boot-seguro-no-ubuntu-16-04-resolvido/
-headerImage: false
 star: false
 category: blog
 categories:

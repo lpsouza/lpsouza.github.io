@@ -4,7 +4,6 @@ date: 2019-12-15T19:27:50-03:00
 author: lpsouza
 layout: post
 permalink: /2019/12/15/descompactando-arquivos-no-windows-server-core-2016/
-headerImage: false
 star: false
 category: blog
 tags:

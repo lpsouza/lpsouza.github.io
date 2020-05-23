@@ -4,7 +4,6 @@ date: 2018-12-08T18:31:41-03:00
 author: lpsouza
 layout: post
 permalink: /2018/12/08/iniciando-os-trabalhos-com-lxd/
-headerImage: false
 star: false
 category: blog
 tags:

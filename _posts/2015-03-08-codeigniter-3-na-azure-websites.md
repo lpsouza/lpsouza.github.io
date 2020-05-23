@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1376
 permalink: /2015/03/08/codeigniter-3-na-azure-websites/
-headerImage: false
 star: false
 category: blog
 categories:

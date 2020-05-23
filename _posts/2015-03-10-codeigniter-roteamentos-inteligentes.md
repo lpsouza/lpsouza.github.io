@@ -6,7 +6,6 @@ author: lpsouza
 layout: post
 guid: http://ihcenter.com.br/luizsouza/?p=1389
 permalink: /2015/03/10/codeigniter-roteamentos-inteligentes/
-headerImage: false
 star: false
 category: blog
 categories:
