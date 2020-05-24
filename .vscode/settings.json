@@ -17,8 +17,10 @@
         "Hambugo",
         "IENH",
         "Joomla",
+        "Macbuntu",
         "Magento",
         "Mobi",
+        "NPCS",
         "Skynet",
         "Stargate",
         "Symbian",
@@ -33,6 +35,7 @@
         "Youtube",
         "adsense",
         "allowfullscreen",
+        "chkdsk",
         "devops",
         "disqus",
         "editorconfig",
@@ -56,6 +59,7 @@
         "stackoverflow",
         "thelehhman",
         "vlogs",
-        "webdesigners"
+        "webdesigners",
+        "wifi"
     ]
 }
