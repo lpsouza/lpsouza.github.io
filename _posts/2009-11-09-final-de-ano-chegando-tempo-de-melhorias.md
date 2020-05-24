@@ -1,19 +1,10 @@
 ---
-id: 266
 title: Final de ano chegando.. Tempo de melhorias..
 date: 2009-11-09T10:52:50+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=266
 permalink: /2009/11/09/final-de-ano-chegando-tempo-de-melhorias/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
+category: Blogging
 categories:
   - Geral
 ---

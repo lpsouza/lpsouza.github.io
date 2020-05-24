@@ -1,22 +1,10 @@
 ---
-id: 364
 title: Dell puxa o freio na sua comparação de segurança entre Linux e Windows
 date: 2010-06-28T09:22:12+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/blog/?p=364
 permalink: /2010/06/28/dell-puxa-o-freio-na-sua-comparacao-de-seguranca-entre-linux-e-windows/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Linux
-  - TIC
+category: Tech
 tags:
   - Comparação
   - Computadores

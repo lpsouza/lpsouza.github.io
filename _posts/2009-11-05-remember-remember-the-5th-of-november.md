@@ -1,21 +1,10 @@
 ---
-id: 263
 title: Remember, remember, the 5th of November
 date: 2009-11-05T09:44:28+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=263
 permalink: /2009/11/05/remember-remember-the-5th-of-november/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Pessoal
+category: Blogging
 tags:
   - 5 de Novembro
   - 5th of November

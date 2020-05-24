@@ -1,23 +1,10 @@
 ---
-id: 366
 title: 'Serviços do Google: 5 exemplos práticos de uso da nova interface via linha de comando'
 date: 2010-06-28T10:31:11+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/blog/?p=366
 permalink: /2010/06/28/servicos-do-google-5-exemplos-praticos-de-uso-da-nova-interface-via-linha-de-comando/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Linux
-  - TIC
-  - WWW
+category: Tech
 tags:
   - Console
   - Docs

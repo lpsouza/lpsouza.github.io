@@ -1,23 +1,14 @@
 ---
-id: 270
 title: 'Google Chrome OS UI Concept Video - Eu gostei!'
 date: 2009-11-23T22:23:32+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=270
 permalink: /2009/11/23/google-chrome-os-ui-concept-video-eu-gostei/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
+category: Tech
 categories:
   - TIC
 tags:
-  - Chro
+  - ChromeOS
   - Chrome
   - Fica a dica
   - Google

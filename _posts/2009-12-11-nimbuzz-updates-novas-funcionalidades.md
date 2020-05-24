@@ -1,22 +1,10 @@
 ---
-id: 284
 title: 'Nimbuzz Updates - Novas funcionalidades!'
 date: 2009-12-11T09:49:20+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=284
 permalink: /2009/12/11/nimbuzz-updates-novas-funcionalidades/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Móvel
-  - WWW
+category: Tech
 tags:
   - 3G
   - Celular
@@ -36,7 +24,7 @@ tags:
   - Twitter
   - Yahoo
 ---
-Eu sou uma pessoa que vive conectada por diversos meios com a internet. Isso faz com que use muitos softwares em meu Nokia E71 e cito por exemplo: Cliente [Twitter](http://twitter.com) ([wibble para minha conta pessoal e TweetS60 para o da empresa), cliente mensageiro (Nimbuzz para MSN, Skype, Yahoo, AIM, etc..) e mais alguns ([PuTTY para S60](http://s2putty.sourceforge.net), [Joikuspot](http://www.joikuspot.com) para dar internet para meu Notebook, etc..). E particularmente, se eu pudesse diminuir isso, eu o faria, e foi o que aconteceu!
+Eu sou uma pessoa que vive conectada por diversos meios com a internet. Isso faz com que use muitos softwares em meu Nokia E71 e cito por exemplo: Cliente [Twitter](http://twitter.com) ([wibble para minha conta pessoal e TweetS60 para o da empresa), cliente mensageiro (Nimbuzz para MSN, Skype, Yahoo, AIM, etc..) e mais alguns ([PuTTY para S60](http://s2putty.sourceforge.net), Joikuspot para dar internet para meu Notebook, etc..). E particularmente, se eu pudesse diminuir isso, eu o faria, e foi o que aconteceu!
 
 Ontem a tarde, fui abrir meu Nimbuzz e me deparei com uma atualização. Mandei efetuar e me deparei com um verdadeiro presente de final de ano:
 

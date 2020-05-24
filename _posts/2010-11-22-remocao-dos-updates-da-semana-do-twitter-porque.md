@@ -1,21 +1,10 @@
 ---
-id: 575
 title: Remoção dos Updates da semana do Twitter, porque?
 date: 2010-11-22T08:08:14+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=575
 permalink: /2010/11/22/remocao-dos-updates-da-semana-do-twitter-porque/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - WWW
+category: Blogging
 tags:
   - Blog
   - Fica a dica

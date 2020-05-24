@@ -1,23 +1,10 @@
 ---
-id: 339
 title: 'Mudou de lugar, mas os meus cabelos...'
 date: 2010-04-03T12:56:42+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/blog/?p=339
 permalink: /2010/04/03/mudou-de-lugar-mas-os-meus-cabelos/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Pessoal
-  - SegInfo
-  - TIC
+category: Blogging
 tags:
   - Blog
   - Brasília

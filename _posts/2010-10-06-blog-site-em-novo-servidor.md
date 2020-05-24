@@ -1,24 +1,10 @@
 ---
-id: 517
 title: Blog / site em novo servidor
 date: 2010-10-06T09:41:19+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=517
 permalink: /2010/10/06/blog-site-em-novo-servidor/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Linux
-  - Programação
-  - TIC
-  - WWW
+category: Blogging
 tags:
   - Blog
   - Internet

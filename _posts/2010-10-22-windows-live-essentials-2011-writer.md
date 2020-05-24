@@ -1,22 +1,10 @@
 ---
-id: 533
 title: 'Windows Live Essentials 2011: Writer'
 date: 2010-10-22T08:30:00+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/2010/10/22/windows-live-essentials-2011-writer/
 permalink: /2010/10/22/windows-live-essentials-2011-writer/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Linux
-  - WWW
+category: Tech
 tags:
   - Blog
   - Blogger

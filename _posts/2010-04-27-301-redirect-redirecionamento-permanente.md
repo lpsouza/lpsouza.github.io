@@ -1,19 +1,10 @@
 ---
-id: 341
 title: '301 Redirect - Redirecionamento permanente'
 date: 2010-04-27T11:44:07+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/blog/?p=341
 permalink: /2010/04/27/301-redirect-redirecionamento-permanente/
-aktt_tweeted:
-  - "1"
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-star: false
-category: blog
+category: Tech
 categories:
   - Pessoal
   - TIC
@@ -26,7 +17,7 @@ tags:
   - Internet
   - Networking
   - Problemas
-  - Redirec 301
+  - Redirect 301
   - Redirect
   - Webmaster
 ---

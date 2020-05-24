@@ -1,22 +1,10 @@
 ---
-id: 261
 title: 'Atualizando e seguindo a mesma canção...'
 date: 2009-10-30T13:10:04+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=261
 permalink: /2009/10/30/atualizando-e-seguindo-a-mesma-cancao/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Pessoal
-  - WWW
+category: Blogging
 tags:
   - Blog
   - Fica a dica

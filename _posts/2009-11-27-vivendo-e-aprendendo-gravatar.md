@@ -1,23 +1,10 @@
 ---
-id: 281
 title: Vivendo e aprendendo (Gravatar)
 date: 2009-11-27T19:44:04+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=281
 permalink: /2009/11/27/vivendo-e-aprendendo-gravatar/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Pessoal
-  - Programação
-  - WWW
+category: Tech
 tags:
   - Avatar
   - Blog

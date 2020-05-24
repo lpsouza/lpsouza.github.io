@@ -1,22 +1,10 @@
 ---
-id: 429
 title: 'Migrando servidor...'
 date: 2010-09-07T00:41:13+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=429
 permalink: /2010/09/07/migrando-servidor/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - TIC
-  - WWW
+category: Blogging
 tags:
   - Blog
   - CentOS

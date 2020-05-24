@@ -1,23 +1,10 @@
 ---
-id: 435
 title: Ubuntu rodando MS Office 2007?
 date: 2010-09-10T10:28:40+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=435
 permalink: /2010/09/10/ubuntu-rodando-ms-office-2007/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Linux
-  - Pessoal
-  - TIC
+category: Tech
 tags:
   - BR-Office
   - Computadores

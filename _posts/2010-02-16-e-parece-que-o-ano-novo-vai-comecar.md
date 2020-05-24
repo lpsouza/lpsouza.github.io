@@ -1,23 +1,10 @@
 ---
-id: 304
 title: 'E parece que o ano novo vai começar...'
 date: 2010-02-16T19:14:20+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=304
 permalink: /2010/02/16/e-parece-que-o-ano-novo-vai-comecar/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Games
-  - Pessoal
-  - Viagens e eventos
+category: Blogging
 tags:
   - "2010"
   - Ano Novo

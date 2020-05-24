@@ -1,21 +1,10 @@
 ---
-id: 289
 title: Um post normal de Feliz Natal
 date: 2009-12-25T11:28:39+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=289
 permalink: /2009/12/25/um-post-normal-de-feliz-natal/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Pessoal
+category: Blogging
 tags:
   - 25 de dezembro
   - Fé

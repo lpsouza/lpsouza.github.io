@@ -1,19 +1,10 @@
 ---
-id: 521
 title: Para onde vai a banda larga?
 date: 2010-10-08T23:50:04+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=521
 permalink: /2010/10/08/para-onde-vai-a-banda-larga/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
+category: Tech
 categories:
   - Móvel
   - Pessoal

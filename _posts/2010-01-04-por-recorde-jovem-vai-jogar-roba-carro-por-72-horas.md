@@ -1,22 +1,10 @@
 ---
-id: 291
 title: 'Por recorde, jovem vai jogar "roba carro" por 72 horas!'
 date: 2010-01-04T08:34:34+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=291
 permalink: /2010/01/04/por-recorde-jovem-vai-jogar-roba-carro-por-72-horas/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Games
-  - Pessoal
+category: Games
 tags:
   - "2010"
   - Games

@@ -1,22 +1,10 @@
 ---
-id: 464
 title: 'Novell será vendida em 2 partes - diz NY Post'
 date: 2010-09-21T09:00:30+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=464
 permalink: /2010/09/21/novell-sera-vendida-em-2-partes-diz-ny-post/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Linux
-  - TIC
+category: Tech
 tags:
   - Informática
   - Linux

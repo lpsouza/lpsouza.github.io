@@ -1,22 +1,10 @@
 ---
-id: 569
 title: 'Macbuntu: visual do Mac OS X - fácil de configurar - no Ubuntu'
 date: 2010-11-19T16:35:03+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=569
 permalink: /2010/11/19/macbuntu-visual-do-mac-os-x-facil-de-configurar-no-ubuntu/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Linux
-  - TIC
+category: Tech
 tags:
   - Apple
   - Computadores

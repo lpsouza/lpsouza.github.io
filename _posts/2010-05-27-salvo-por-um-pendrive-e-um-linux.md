@@ -1,23 +1,10 @@
 ---
-id: 357
 title: Salvo por um pendrive.. E um Linux!
 date: 2010-05-27T22:25:05+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/blog/?p=357
 permalink: /2010/05/27/salvo-por-um-pendrive-e-um-linux/
-aktt_tweeted:
-  - "1"
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-star: false
-category: blog
-categories:
-  - Linux
-  - Pessoal
-  - TIC
+category: Tech
 tags:
   - chkdsk
   - Disco Rígido

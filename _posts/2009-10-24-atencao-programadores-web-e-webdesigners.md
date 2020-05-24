@@ -4,12 +4,7 @@ date: 2009-10-24T10:52:02+00:00
 author: lpsouza
 layout: post
 permalink: /2009/10/24/atencao-programadores-web-e-webdesigners/
-category: blog
-categories:
-  - Móvel
-  - Pessoal
-  - Programação
-  - WWW
+category: Blogging
 tags:
   - 3G
   - Celular

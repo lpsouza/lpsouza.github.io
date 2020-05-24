@@ -1,22 +1,10 @@
 ---
-id: 559
 title: Instalar o Unity no Ubuntu 10.10
 date: 2010-10-31T14:46:00+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/?p=559
 permalink: /2010/10/31/instalar-o-unity-no-ubuntu-10-10/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - Linux
-  - TIC
+category: Tech
 tags:
   - Fica a dica
   - Informática

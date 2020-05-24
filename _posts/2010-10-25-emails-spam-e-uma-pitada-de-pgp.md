@@ -1,21 +1,10 @@
 ---
-id: 536
 title: Emails, Spam e uma pitada de PGP!
 date: 2010-10-25T07:52:55+00:00
 author: lpsouza
 layout: post
-guid: http://luizsouza.com.br/2010/10/25/emails-spam-e-uma-pitada-de-pgp/
 permalink: /2010/10/25/emails-spam-e-uma-pitada-de-pgp/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
-category: blog
-categories:
-  - WWW
+category: Tech
 tags:
   - Criptografia
   - Datacenter
