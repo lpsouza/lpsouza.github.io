@@ -49,7 +49,6 @@ prose:
             - name: "category"
               field:
                   element: "select"
-                  placeholder: "Select a category"
                   options:
                       - name: "Blogging"
                         value: "Blogging"
