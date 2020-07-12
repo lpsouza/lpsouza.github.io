@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 author: lpsouza
 date: '2020-07-12 14:41 -0300'
 category: Blogging
