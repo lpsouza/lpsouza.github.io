@@ -45,7 +45,7 @@ prose:
             - name: "layout"
               field:
                   element: "hidden"
-                  value: "blog"
+                  value: "post"
             - name: "category"
               field:
                   element: "select"
