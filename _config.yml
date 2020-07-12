@@ -25,12 +25,20 @@ plainwhite:
         linkedIn: in/lpsouza
 
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://luizsouza.com/'
-  media: 'media'
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "blog"
+    rooturl: "_posts"
+    siteurl: "http://luizsouza.com/"
+    media: "media"
+    metadata:
+        _posts:
+            - name: "layout"
+              field:
+                  element: "hidden"
+                  value: "blog"
+            - name: "author"
+              field:
+                  element: "hidden"
+                  value: CURRENT_USER
+            - name: "title"
+              field:
+                  element: "text"
+                  label: "title"
