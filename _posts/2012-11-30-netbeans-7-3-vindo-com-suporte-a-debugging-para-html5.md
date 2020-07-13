@@ -1,28 +1,22 @@
 ---
-id: 1145
-title: NetBeans 7.3 vindo com suporte a debugging para HTML5!
-date: 2012-11-30T12:00:10+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1145
-permalink: /2012/11/30/netbeans-7-3-vindo-com-suporte-a-debugging-para-html5/
-star: false
 category: blog
-categories:
-  - Programação
-  - TIC
+date: 2012-11-30 12:00:10+00:00
+layout: post
 tags:
-  - Beta
-  - Debugging
-  - Fica a dica
-  - HTML
-  - HTML5
-  - Informática
-  - NetBeans
-  - Novidades
-  - Programação
-  - Project Easel
+- Beta
+- Debugging
+- Fica a dica
+- HTML
+- HTML5
+- Informática
+- NetBeans
+- Novidades
+- Programação
+- Project Easel
+title: NetBeans 7.3 vindo com suporte a debugging para HTML5!
 ---
+
 Uma boa notícia para os desenvolvedores que usam o IDE Netbeans, para a versão 7.3 ele terá suporte a HTML5! Alguns vão se perguntar: "Tá, mas eu já desenvolvo em HTML5 usando ele, o que muda?" - É isso que vou explicar.
 
 ![NetBeans 7.3 vindo com suporte a debugging para HTML5!](http://blog.idrsolutions.comhttps://luizsouza.com.br/wp-content/uploads/2012/10/NewProject.png)

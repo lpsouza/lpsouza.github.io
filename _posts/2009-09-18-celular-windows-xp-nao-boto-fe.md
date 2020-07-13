@@ -1,17 +1,17 @@
 ---
-title: Celular + Windows XP = Não boto fé!
-date: 2009-09-18T15:19:08+00:00
 author: lpsouza
-layout: post
-permalink: /2009/09/18/celular-windows-xp-nao-boto-fe/
 category: Tech
+date: 2009-09-18 15:19:08+00:00
+layout: post
 tags:
-  - Celular
-  - Ha-ha!
-  - Smartphone
-  - Windows XP
-  - xpPhone
+- Celular
+- Ha-ha!
+- Smartphone
+- Windows XP
+- xpPhone
+title: Celular + Windows XP = Não boto fé!
 ---
+
 Realmente tá aí uma coisa que não boto fé mesmo! Misturar tecnologia móvel com sistema operacional para PC (Notebooks e Netbooks inclusos).
 
 Imagino que o discador para o modo telefone deva ser um software para Windows XP e então passível a falhas.

@@ -1,26 +1,19 @@
 ---
-id: 1389
-title: 'CodeIgniter: Roteamentos Inteligentes'
-date: 2015-03-10T16:30:23+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1389
-permalink: /2015/03/10/codeigniter-roteamentos-inteligentes/
-star: false
 category: blog
-categories:
-  - Programação
-  - TIC
-  - WWW
+date: 2015-03-10 16:30:23+00:00
+layout: post
 tags:
-  - CodeIgniter
-  - Controller
-  - Fica a dica
-  - Programação
-  - Rotas
-  - Roteamento
-  - _remap
+- CodeIgniter
+- Controller
+- Fica a dica
+- Programação
+- Rotas
+- Roteamento
+- _remap
+title: 'CodeIgniter: Roteamentos Inteligentes'
 ---
+
 O roteamento inteligente permite criar URLs personalizadas. Com isso, a URL padrão do Codeigniter pode ser customizada. O cuidado extra é no _default controller_ onde deve ter um método para implementar o erro de _not found_ (404). No exemplo dos arquivos, ele simula as URLs encontradas em um blog:
 
 * [http://{blog}/{ano}/{mes}/{dia}/{slug-noticia}](http://{blog}/{ano}/{mes}/{dia}/{slug-noticia})

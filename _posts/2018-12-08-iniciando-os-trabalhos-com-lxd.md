@@ -1,19 +1,18 @@
 ---
-title: 'Iniciando os trabalhos com LXD'
-date: 2018-12-08T18:31:41-03:00
 author: lpsouza
-layout: post
-permalink: /2018/12/08/iniciando-os-trabalhos-com-lxd/
-star: false
 category: blog
+date: 2018-12-08 18:31:41-03:00
+layout: post
 tags:
- - Containers
- - LXC
- - LXD
- - Linux
- - Ubuntu
- - Fica a dica
+- Containers
+- LXC
+- LXD
+- Linux
+- Ubuntu
+- Fica a dica
+title: Iniciando os trabalhos com LXD
 ---
+
 Desde que conheci a tecnologia de contêineres eu sempre mexi com Docker e pra mim é uma tecnologia muito boa e funcional! Uso ele direto no meu dia a dia no meu notebook para meus diversos projetos! É Node.JS, PHP ou C#, sempre que posso monto todo o projeto dentro de contêineres e procuro locais onde essa tecnologia é aplicada para publicar minhas imagens. Mas eis que em uma *daily* onde trabalho, começamos uma discussão sobre uso de contêineres e chegamos na discussão do LXC (*Linux Contêineres*) e com isso me lembrei de uma pesquisa que fazia muito tempo que queria fazer em meus horários livres, mas sempre esquecia: Afinal, como funciona esse LXC... E o que é o conceito do LXD??? Qual a diferença entre LXC e LXD?? E como eu, um rato de Docker posso aprender a brincar com estas outras tecnologias de contêineres? E será útil para algo na minha vida em meu notebook como é hoje o Docker??
 
 Ok, então comecei do principio: Pesquisando LXD e LXC. Com isso cheguei a um vídeo no Youtube muito legal e esclarecedor que comenta e elucida dúvidas sobre o que é um e o outro, e ainda como bônus me ajudou a entender onde o Docker entra no meio disso tudo! Segue abaixo ele:

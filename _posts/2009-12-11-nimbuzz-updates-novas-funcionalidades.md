@@ -1,29 +1,29 @@
 ---
-title: 'Nimbuzz Updates - Novas funcionalidades!'
-date: 2009-12-11T09:49:20+00:00
 author: lpsouza
-layout: post
-permalink: /2009/12/11/nimbuzz-updates-novas-funcionalidades/
 category: Tech
+date: 2009-12-11 09:49:20+00:00
+layout: post
 tags:
-  - 3G
-  - Celular
-  - E71
-  - Fica a dica
-  - Gtalk
-  - Mobilidade
-  - MSN
-  - Nimbuzz
-  - Nokia
-  - Redes Sociais
-  - S60
-  - Skype
-  - Smartphone
-  - Software
-  - Symbian
-  - Twitter
-  - Yahoo
+- 3G
+- Celular
+- E71
+- Fica a dica
+- Gtalk
+- Mobilidade
+- MSN
+- Nimbuzz
+- Nokia
+- Redes Sociais
+- S60
+- Skype
+- Smartphone
+- Software
+- Symbian
+- Twitter
+- Yahoo
+title: Nimbuzz Updates - Novas funcionalidades!
 ---
+
 Eu sou uma pessoa que vive conectada por diversos meios com a internet. Isso faz com que use muitos softwares em meu Nokia E71 e cito por exemplo: Cliente [Twitter](http://twitter.com) ([wibble para minha conta pessoal e TweetS60 para o da empresa), cliente mensageiro (Nimbuzz para MSN, Skype, Yahoo, AIM, etc..) e mais alguns ([PuTTY para S60](http://s2putty.sourceforge.net), Joikuspot para dar internet para meu Notebook, etc..). E particularmente, se eu pudesse diminuir isso, eu o faria, e foi o que aconteceu!
 
 Ontem a tarde, fui abrir meu Nimbuzz e me deparei com uma atualização. Mandei efetuar e me deparei com um verdadeiro presente de final de ano:

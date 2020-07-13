@@ -1,31 +1,21 @@
 ---
-id: 819
-title: A vulnerabilidade no WPS que torna o WPA/WPA2 vulnerável a ataques
-date: 2012-01-05T16:11:11+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=819
-permalink: /2012/01/05/a-vulnerabilidade-no-wps-que-torna-o-wpawpa2-vulneravel-a-ataques/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-star: false
 category: blog
-categories:
-  - SegInfo
-  - TIC
+date: 2012-01-05 16:11:11+00:00
+layout: post
 tags:
-  - Fica a dica
-  - Informação
-  - Informática
-  - Networking
-  - Redes de Computadores
-  - SegInfo
-  - WiFi
-  - Wireless
-  - WPS
+- Fica a dica
+- Informação
+- Informática
+- Networking
+- Redes de Computadores
+- SegInfo
+- WiFi
+- Wireless
+- WPS
+title: A vulnerabilidade no WPS que torna o WPA/WPA2 vulnerável a ataques
 ---
+
 Recebi este link por email da lista de segurança da informação da [Unisinos](http://unisinos.br).
 
 ![WPS](https://luizsouza.com.br/wp-content/upload/2012/01/wps03.jpg.499x364.auto_.jpg)

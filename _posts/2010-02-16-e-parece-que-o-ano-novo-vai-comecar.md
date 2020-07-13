@@ -1,34 +1,34 @@
 ---
-title: 'E parece que o ano novo vai começar...'
-date: 2010-02-16T19:14:20+00:00
 author: lpsouza
-layout: post
-permalink: /2010/02/16/e-parece-que-o-ano-novo-vai-comecar/
 category: Blogging
+date: 2010-02-16 19:14:20+00:00
+layout: post
 tags:
-  - "2010"
-  - Ano Novo
-  - Brasília
-  - Fica a dica
-  - Games
-  - Jogos
-  - Nerd
-  - Playstation 3
-  - Playstation Portable
-  - PS3
-  - PSP
-  - Rock Band
-  - Terror
-  - Viagem
-  - Video-game
-  - X-Box
-  - XBOX
-  - XBOX 360
-  - Zombieland
-  - Zombies
-  - Zumbilândia
-  - Zumbis
+- '2010'
+- Ano Novo
+- Brasília
+- Fica a dica
+- Games
+- Jogos
+- Nerd
+- Playstation 3
+- Playstation Portable
+- PS3
+- PSP
+- Rock Band
+- Terror
+- Viagem
+- Video-game
+- X-Box
+- XBOX
+- XBOX 360
+- Zombieland
+- Zombies
+- Zumbilândia
+- Zumbis
+title: E parece que o ano novo vai começar...
 ---
+
 Bom... Pode ser que para o resto do mundo comece no dia primeiro de janeiro... Mas aqui no Brasil começa na quarta-feira de cinzas, ou seja: amanhã!
 
 Não vou entrar em filosofias antropológicas ou algo assim... Embora goste, não vou faze-lo, pois daí este post vai ficar chato e ao mesmo tempo perder o ritmo deste site...

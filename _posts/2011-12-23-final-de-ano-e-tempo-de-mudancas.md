@@ -1,29 +1,20 @@
 ---
-id: 781
-title: 'Final de ano é tempo de mudanças...'
-date: 2011-12-23T10:07:22+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=781
-permalink: /2011/12/23/final-de-ano-e-tempo-de-mudancas/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-star: false
 category: blog
-categories:
-  - Pessoal
+date: 2011-12-23 10:07:22+00:00
+layout: post
 tags:
-  - Blog
-  - Final de ano
-  - Informática
-  - Mudanças
-  - Projetos
-  - Sites
-  - Software
-  - Wordpress
+- Blog
+- Final de ano
+- Informática
+- Mudanças
+- Projetos
+- Sites
+- Software
+- Wordpress
+title: Final de ano é tempo de mudanças...
 ---
+
 Neste final de ano, vamos a diversas mudanças e melhorias de serviços no quesito servidores, sites e wordpress! Vamos a elas:
 
 * Melhorias no WordPress do meu site e dos meus clientes (para quem não sabe, eu montei um sistema MultiSites do WP e por isso eu e meus clientes sempre ficam com seus plugins, temas e engine atualizados)

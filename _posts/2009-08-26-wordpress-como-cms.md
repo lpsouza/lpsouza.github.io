@@ -1,22 +1,22 @@
 ---
-title: WordPress como CMS?
-date: 2009-08-26T14:34:20+00:00
 author: lpsouza
-layout: post
-permalink: /2009/08/26/wordpress-como-cms/
 category: Blogging
+date: 2009-08-26 14:34:20+00:00
+layout: post
 tags:
-  - Blog
-  - CMS
-  - Content Management Systems
-  - Joomla
-  - PC
-  - SGC
-  - Sistema de Gestão de Conteúdo
-  - Smartphone
-  - Symbian
-  - Wordpress
+- Blog
+- CMS
+- Content Management Systems
+- Joomla
+- PC
+- SGC
+- Sistema de Gestão de Conteúdo
+- Smartphone
+- Symbian
+- Wordpress
+title: WordPress como CMS?
 ---
+
 Pois é.. Eu já havia lido uma indagação dessas do meu amigo [@kaduazevedo](http://twitter.com/kaduazevedo) no Twitter.. Eu até comentei que WordPress era para Blog e que Joomla era pra CMS e tal.. Mas acreditam que estou com minha mentalidade um pouco mudada sobre este assunto?
 
 Instalei aqui essa versão recente do WordPress e me deparei com várias melhorias desde a ultima versão que havia trabalhado (acho que era a 2.2).. E essa versão aqui que me deu mais duvidas sobre colocar ele como um sistema de CMS para as empresas..

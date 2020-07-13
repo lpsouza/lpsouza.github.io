@@ -1,27 +1,20 @@
 ---
-id: 1093
-title: 'Divulgação: Dia da Liberdade de Software 2012 - Novo Hamburgo/RS'
-date: 2012-08-26T20:52:02+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=1093
-permalink: /2012/08/26/divulgacao-dia-da-liberdade-de-software-2012-novo-hamburgors/
-star: false
 category: blog
-categories:
-  - Linux
-  - Programação
-  - TIC
+date: 2012-08-26 20:52:02+00:00
+layout: post
 tags:
-  - Evento
-  - Fica a dica
-  - Liberdade
-  - Livre
-  - Novo Hamburgo
-  - Programação
-  - Software
+- Evento
+- Fica a dica
+- Liberdade
+- Livre
+- Novo Hamburgo
+- Programação
+- Software
+title: 'Divulgação: Dia da Liberdade de Software 2012 - Novo Hamburgo/RS'
 ---
- Fica a divulgação para todos aqui no meu site para dar um pulo e ver o evento!
+
+Fica a divulgação para todos aqui no meu site para dar um pulo e ver o evento!
 
 > Vamos comemorar o Dia da Liberdade de Software em Novo Hamburgo e em mais de 200 cidades no mundo todo. Faça parte desse grupo e venha comemorar conosco.
 >

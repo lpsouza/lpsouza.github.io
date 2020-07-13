@@ -1,32 +1,24 @@
 ---
-id: 1122
-title: Migração de sistema Cloud (Adeus Locaweb, olá Amazon)
-date: 2012-11-13T23:55:29+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1122
-permalink: /2012/11/13/migracao-de-sistema-cloud-adeus-locaweb-ola-amazon/
-star: false
 category: blog
-categories:
-  - Linux
-  - Programação
-  - TIC
-  - WWW
+date: 2012-11-13 23:55:29+00:00
+layout: post
 tags:
-  - Amazon
-  - AWS
-  - Cloud
-  - Comparativo
-  - Computação
-  - Computing
-  - Instância
-  - Linux
-  - Locaweb
-  - Núvens
-  - Services
-  - Web
+- Amazon
+- AWS
+- Cloud
+- Comparativo
+- Computação
+- Computing
+- Instância
+- Linux
+- Locaweb
+- Núvens
+- Services
+- Web
+title: Migração de sistema Cloud (Adeus Locaweb, olá Amazon)
 ---
+
 Desde o dia 2 de Novembro, estive migrando os meus clientes da IHCenter do servidor (em cloud) que tinha na Locaweb, para a Amazon Web Services (AWS). Depois de uma semana e meia, mudei todos os clientes (incluindo, claro, o meu blog). Mas, o que levou a esta mudança?
 
 Tudo começou quando o meu servidor começou a apresentar problemas de indisponibilidades malucas, onde do nada o a memória "acabava" e ele simplesmente travava (claro, sem memória para usar, como ele vai continuar?). Ok, todos falavam que o problema nas configurações dos meus daemons, mas eu já tinha optimizado e muito o uso do servidor. Enfim, fui "convivendo" com essa pulga atrás da orelha, uma vez que levava um tempo para isso acontecer.

@@ -1,33 +1,23 @@
 ---
-id: 719
-title: 'Para servidores: Como recuperar uma pasta que se tornou oculta por causa de vírus [Resolvido]'
-date: 2011-04-03T17:26:18+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/2011/04/03/para-servidores-como-recuperar-uma-pasta-que-se-tornou-oculta-por-causa-de-vrus-resolvido/
-permalink: /2011/04/03/para-servidores-como-recuperar-uma-pasta-que-se-tornou-oculta-por-causa-de-vrus-resolvido/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
 category: blog
-categories:
-  - TIC
+date: 2011-04-03 17:26:18+00:00
+layout: post
 tags:
-  - "2003"
-  - "2008"
-  - attrib
-  - Microsoft
-  - Problema
-  - Recuperar formato
-  - Servidor
-  - Virus
-  - Windows
-  - Windows Server
+- '2003'
+- '2008'
+- attrib
+- Microsoft
+- Problema
+- Recuperar formato
+- Servidor
+- Virus
+- Windows
+- Windows Server
+title: 'Para servidores: Como recuperar uma pasta que se tornou oculta por causa de
+  vírus [Resolvido]'
 ---
+
 Este foi um problema que me assolou por causa dos vírus de pendrive que aparecem pelo colégio onde trabalho. Simplesmente quando colocava um pendrive infectado, ele colocava pastas ocultas com o nome de DOBRERIBE e instalava um arquivo infectado dentro. E pra piorar, alterava os atributos da pasta compartilhada, deixando ela oculta e como “pasta de sistema”, provavelmente para explorar alguma falha do sistema operacional referente a tal.
 
 Enfim, tentei de tudo quanto foi maneira recuperar a pasta em seu estado original e nada. Tive que por um tempo conviver com isso, até que comecei a perceber que as pastas de backup que meu software de copia fazia, copiava os atributos e então, sempre ficando invisível e como sistema igual, mesmo sem o vírus.

@@ -1,20 +1,20 @@
 ---
-title: baby_rocker.sh
-date: 2009-08-25T10:11:40+00:00
 author: lpsouza
-layout: post
-permalink: /2009/08/25/baby_rocker-sh/
 category: Linux
+date: 2009-08-25 10:11:40+00:00
+layout: post
 tags:
-  - Bebê
-  - Fica a dica
-  - Hardware
-  - Linux
-  - PC
-  - Shellscript
-  - Software
-  - Tarefas
+- Bebê
+- Fica a dica
+- Hardware
+- Linux
+- PC
+- Shellscript
+- Software
+- Tarefas
+title: baby_rocker.sh
 ---
+
 Bom pessoal, não resisti.. Foi obrigado a colocar esse script animal aqui no meu blog e compartilhar com o mundo!
 
 Não fui eu que inventei, apenas to repassando um opensource e incluindo minhas melhorias e comentários.

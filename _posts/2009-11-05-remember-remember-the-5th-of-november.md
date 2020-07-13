@@ -1,24 +1,24 @@
 ---
-title: Remember, remember, the 5th of November
-date: 2009-11-05T09:44:28+00:00
 author: lpsouza
-layout: post
-permalink: /2009/11/05/remember-remember-the-5th-of-november/
 category: Blogging
+date: 2009-11-05 09:44:28+00:00
+layout: post
 tags:
-  - 5 de Novembro
-  - 5th of November
-  - Blog
-  - CQC
-  - Fica a dica
-  - Governo
-  - Guy Fawkes
-  - Idéia
-  - Marcelo Tas
-  - Medo
-  - V de Vingança
-  - V for Vendetta
+- 5 de Novembro
+- 5th of November
+- Blog
+- CQC
+- Fica a dica
+- Governo
+- Guy Fawkes
+- Idéia
+- Marcelo Tas
+- Medo
+- V de Vingança
+- V for Vendetta
+title: Remember, remember, the 5th of November
 ---
+
 É isso aí... Hoje é dia de ver/ler V for Vendetta, lembrar que:
 
 > "Mas e quanto ao homem? Sei que seu nome era Guy Fawkes. Sei que, em 1605 ele tentou explodir o Parlamento. Mas quem era ele, realmente? Como ele era? Falam para nso lembrar-mos da idéia, não do homem... Pois um homem pode fracassar. Ele pode ser preso, morto e esquecido. Mas, 400 anos depois uma idéia ainda pode mudar o mundo. Testemunhei em primeira mão a força das idéias. Vi gente matar em nome delas e morrer defendendo-as. Mas você não pode beijar uma idéia. Não pode tocá-la ou abraçá-la. Idéias não sangram. Idéias não sentem dor. Elas não amam. E não é de uma idéia que eu sinto falta. É de um homem. Um homem que me fez lembrar de 5 de novembro. Um homem que jamais esquecerei."

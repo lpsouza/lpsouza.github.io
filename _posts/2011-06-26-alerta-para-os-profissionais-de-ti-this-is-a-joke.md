@@ -1,32 +1,19 @@
 ---
-id: 745
-title: Alerta para os profissionais de TI (this is a joke)
-date: 2011-06-26T10:30:00+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/2011/06/26/alerta-para-os-profissionais-de-ti-this-is-a-joke/
-permalink: /2011/06/26/alerta-para-os-profissionais-de-ti-this-is-a-joke/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
 category: blog
-categories:
-  - Engraçados
-  - Pessoal
-  - TIC
+date: 2011-06-26 10:30:00+00:00
+layout: post
 tags:
-  - Alerta
-  - Brincadeira
-  - Fica a dica
-  - Informática
-  - Piada
-  - Profissionais
-  - TI
+- Alerta
+- Brincadeira
+- Fica a dica
+- Informática
+- Piada
+- Profissionais
+- TI
+title: Alerta para os profissionais de TI (this is a joke)
 ---
+
 Um médico saiu a caminhar e viu uma velhinha sentada no banco de uma praça mexendo no seu iPhone. Aproximou-se e perguntou:
 
 -Nota-se que está bem, qual é seu segredo?

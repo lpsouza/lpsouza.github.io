@@ -1,28 +1,16 @@
 ---
-id: 718
-title: Problemas no banco de dados
-date: 2011-04-03T13:30:09+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/2011/04/03/problemas-no-banco-de-dados/
-permalink: /2011/04/03/problemas-no-banco-de-dados/
-aktt_tweeted:
-  - "1"
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-star: false
 category: blog
-categories:
-  - TIC
-  - WWW
+date: 2011-04-03 13:30:09+00:00
+layout: post
 tags:
-  - Hospedagem
-  - MySQL
-  - Problema
-  - Servidor
+- Hospedagem
+- MySQL
+- Problema
+- Servidor
+title: Problemas no banco de dados
 ---
+
 Pois é, hoje (03/04/2011), meu servidor está passando por uma dificuldade de acesso aos recursos de banco de dados em MySQL. Com isso, alguns serviços que sirvo podem não estar funcionando perfeitamente.
 
 Espero que até o final da tarde de hoje esteja resolvido. O problema está sendo investigado pelos técnicos do data center, uma vez que não tenho acesso direto a máquina em questão.

@@ -1,32 +1,27 @@
 ---
-id: 1282
-title: Virtualbox e Windows 8 com Hyper-V!
-date: 2014-01-08T02:13:05+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1282
-permalink: /2014/01/08/virtualbox-e-windows-8-com-hyper-v/
-image: https://luizsouza.com.br/wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
-star: false
 category: blog
-categories:
-  - TIC
+date: 2014-01-08 02:13:05+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
+layout: post
 tags:
-  - BCDEdit
-  - Boot
-  - Desktop
-  - Dual Boot
-  - Hardware
-  - Hipervisor
-  - Hyper-V
-  - Hypervisor
-  - Informática
-  - Prompt de Comando
-  - VirtualBox
-  - Windows
-  - Windows 8
-  - Windows 8.1
+- BCDEdit
+- Boot
+- Desktop
+- Dual Boot
+- Hardware
+- Hipervisor
+- Hyper-V
+- Hypervisor
+- Informática
+- Prompt de Comando
+- VirtualBox
+- Windows
+- Windows 8
+- Windows 8.1
+title: Virtualbox e Windows 8 com Hyper-V!
 ---
+
 Sou usuário do [Virtualbox](http://virtualbox.org), quase de carteirinha, quando falamos de virtualizar ambientes em desktop. Agora, desde que instalei o Windows 8, comecei a ter problemas com ele, sem saber o porque. Hoje, descobri e sinceramente fiquei um pouco pasmo de como não havia pensado nisso antes! Alem do Virtualbox, eu uso direto o Hyper-V, e depois que li um post do [Igor Abade](http://twitter.com/igorabade) (MVP), [Fazendo VirtualBox e Hyper-V coexistirem no Windows 8](http://blog.lambda3.com.br/2013/01/fazendo-virtualbox-e-hyper-v-coexistirem-no-windows-8/), fui entender (ou lembrar) de uns conceitos básicos da virtualização como um todo!
 
 Sempre quando faço posts longos, costumo criar a área "**Receita de bolo**", para quem é apressado quiser resolver seus problemas, pular e ir direto na solução. 😛

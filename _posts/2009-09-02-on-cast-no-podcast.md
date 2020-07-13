@@ -1,19 +1,18 @@
 ---
-title: 'On cast... No podcast!'
-date: 2009-09-02T21:42:38+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=128
-permalink: /2009/09/02/on-cast-no-podcast/
 category: Tech
+date: 2009-09-02 21:42:38+00:00
+layout: post
 tags:
-  - Blog
-  - Conversas
-  - Fica a dica
-  - MP3
-  - Podcast
-  - Skype
+- Blog
+- Conversas
+- Fica a dica
+- MP3
+- Podcast
+- Skype
+title: On cast... No podcast!
 ---
+
 Como hoje é simples as pessoas colocarem suas opiniões na internet.. E todos assim ler/ouvir/assistir..
 
 Olhem o caso daquele fã viral da Xuxa o que fez? Sendo certo que ia ser ouvido (ou não), ele postou sua opinião.. Fez seu depoimento.. E deixou disponível..

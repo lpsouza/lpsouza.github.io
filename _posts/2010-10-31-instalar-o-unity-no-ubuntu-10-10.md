@@ -1,20 +1,20 @@
 ---
-title: Instalar o Unity no Ubuntu 10.10
-date: 2010-10-31T14:46:00+00:00
 author: lpsouza
-layout: post
-permalink: /2010/10/31/instalar-o-unity-no-ubuntu-10-10/
 category: Tech
+date: 2010-10-31 14:46:00+00:00
+layout: post
 tags:
-  - Fica a dica
-  - Informática
-  - Linux
-  - Netbook
-  - PC
-  - Ubuntu
-  - Unity
-  - VirtualBox
+- Fica a dica
+- Informática
+- Linux
+- Netbook
+- PC
+- Ubuntu
+- Unity
+- VirtualBox
+title: Instalar o Unity no Ubuntu 10.10
 ---
+
 Depois da recente noticia do novo modo gráfico padrão do Ubuntu, tratei de procurar um bom tutorial de como instalar o Unity no meu Ubuntu (Virtualizado). Não gostei da noticia quando li as incompatibilidades, pois no VirtualBox não funciona! (Sim, mesmo sendo avisado, eu testei! :D)
 
 Quer saber mais? Clique no link do post do pessoal da Tux Mind! 😉

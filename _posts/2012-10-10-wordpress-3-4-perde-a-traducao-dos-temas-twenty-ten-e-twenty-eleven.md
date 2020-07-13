@@ -1,25 +1,19 @@
 ---
-id: 1115
-title: WordPress 3.4 “perde” a tradução dos temas Twenty Ten e Twenty Eleven
-date: 2012-10-10T11:10:42+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=1115
-permalink: /2012/10/10/wordpress-3-4-perde-a-traducao-dos-temas-twenty-ten-e-twenty-eleven/
-star: false
 category: blog
-categories:
-  - Programação
-  - WWW
+date: 2012-10-10 11:10:42+00:00
+layout: post
 tags:
-  - Dica
-  - Fica a dica
-  - Temas
-  - Themes
-  - Twenty Eleven
-  - Twenty Ten
-  - Wordpress
+- Dica
+- Fica a dica
+- Temas
+- Themes
+- Twenty Eleven
+- Twenty Ten
+- Wordpress
+title: WordPress 3.4 “perde” a tradução dos temas Twenty Ten e Twenty Eleven
 ---
+
 Uso o WordPress em modo Multisites com diversos clientes e hoje um deles veio me avisar que a as mensagens estavam aparecendo em inglês no site deles. Fui ver o arquivo de tradução dos temas padrão do WordPress (que eles usam), e cadê o pt_BR.mo?
 
 Pesquisando por alguns segundos, vi no próprio site do WordPress o aviso que o idioma estava dando um erro no autoupdate da versão 3.4. Abaixo deixo o que o [Gabriel Reguly](http://omniwp.com.br/) comentou sobre o erro e a solução dele.

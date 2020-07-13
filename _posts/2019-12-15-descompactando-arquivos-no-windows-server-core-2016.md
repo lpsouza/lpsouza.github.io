@@ -1,17 +1,15 @@
 ---
-title: 'Descompactando arquivos no Windows Server Core 2016'
-date: 2019-12-15T19:27:50-03:00
 author: lpsouza
-layout: post
-permalink: /2019/12/15/descompactando-arquivos-no-windows-server-core-2016/
-star: false
 category: blog
+date: 2019-12-15 19:27:50-03:00
+layout: post
 tags:
- - Powershell
- - Windows
- - Windows Server
- - Windows Server Core
- - Server Core
+- Powershell
+- Windows
+- Windows Server
+- Windows Server Core
+- Server Core
+title: Descompactando arquivos no Windows Server Core 2016
 ---
 
 Para usuários Windows da vida, o uso do Server Core pode se tornar uma experiência bem traumática, principalmente por não termos uma "interface gráfica" com "cara de Windows". Mas para o bom técnico em TI que entende o "preço que um server paga" por ter uma interface gráfica ativada.

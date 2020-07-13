@@ -1,17 +1,11 @@
 ---
-id: 1032
-title: Falha no MySQL permite acesso mesmo com senha incorreta
-date: 2012-06-11T12:08:50+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=1032
-permalink: /2012/06/11/falha-no-mysql-permite-acesso-mesmo-com-senha-incorreta/
-star: false
 category: blog
-categories:
-  - SegInfo
-  - TIC
+date: 2012-06-11 12:08:50+00:00
+layout: post
+title: Falha no MySQL permite acesso mesmo com senha incorreta
 ---
+
 Caso sério sobre segurança em banco de dados. Lendo no site do Tecnoblog, peguei o exemplo do script e estou colando aqui no meu blog para facilitar a vida dos DBA em MySQL ou MariaDB.
 
 ```c

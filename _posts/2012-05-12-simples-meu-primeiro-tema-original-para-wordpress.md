@@ -1,34 +1,23 @@
 ---
-id: 891
-title: 'Simples: Meu primeiro tema original para WordPress!'
-date: 2012-05-12T22:50:44+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=891
-permalink: /2012/05/12/simples-meu-primeiro-tema-original-para-wordpress/
-aktt_tweeted:
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-star: false
 category: blog
-categories:
-  - Programação
-  - TIC
-  - WWW
+date: 2012-05-12 22:50:44+00:00
+layout: post
 tags:
-  - CSS
-  - Fica a dica
-  - Informática
-  - Internet
-  - jQuery
-  - Programação
-  - Software
-  - Tecnologia
-  - Tema
-  - Theme
-  - Wordpress
+- CSS
+- Fica a dica
+- Informática
+- Internet
+- jQuery
+- Programação
+- Software
+- Tecnologia
+- Tema
+- Theme
+- Wordpress
+title: 'Simples: Meu primeiro tema original para WordPress!'
 ---
+
 É com orgulho que comunico a todos que meu primeiro tema totalmente original (isto é, feito sem uso de outros temas, ou tema-filho) no WordPress! Ele é feito baseado no framework de jQuery e CSS em português que estou desenvolvendo, o Simples-UI (site em construção)!
 
 Mas o que esse Simples-UI tem de especial? Simples! 😛 Fazer sites de forma mais simples (entenda como simples um site mais fácil, rápido e principalmente <a title="Não sabe o que é um sistema com usabilidade?" href="http://pt.wikipedia.org/wiki/Usabilidade" target="_blank">usável</a>) e com suporte total a língua portuguesa (problema que as vezes enche a paciência de muito desenvolvedor web, bem como gera mais e mais linhas de código).

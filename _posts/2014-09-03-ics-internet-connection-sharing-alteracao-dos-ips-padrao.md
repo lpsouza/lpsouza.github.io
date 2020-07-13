@@ -1,31 +1,26 @@
 ---
-id: 1330
-title: 'ICS - Internet Connection Sharing, alteração dos IPs padrão'
-date: 2014-09-03T11:54:49+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1330
-permalink: /2014/09/03/ics-internet-connection-sharing-alteracao-dos-ips-padrao/
-image: https://luizsouza.com.br/wp-content/uploads/2014/09/enabling-ics-windows-7.png
-star: false
 category: blog
-categories:
-  - TIC
+date: 2014-09-03 11:54:49+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2014/09/enabling-ics-windows-7.png
+layout: post
 tags:
-  - Compartilhar
-  - Hyper-V
-  - ICS
-  - Internet Connection Sharing
-  - IP
-  - Microsoft
-  - Roteamento
-  - Share
-  - Winconnection
-  - Windows
-  - Windows 8
-  - Windows 8.1
-  - Wingate
+- Compartilhar
+- Hyper-V
+- ICS
+- Internet Connection Sharing
+- IP
+- Microsoft
+- Roteamento
+- Share
+- Winconnection
+- Windows
+- Windows 8
+- Windows 8.1
+- Wingate
+title: ICS - Internet Connection Sharing, alteração dos IPs padrão
 ---
+
 Estava pesquisando na internet sobre um problema que ocorre direto no Windows 8 (e persiste no 8.1) Pro, sobre o uso de uma placa de rede wifi em modo externo no Hyper-V. Simplesmente dá tudo quanto é tipo de erro!
 
 Para solucionar este problema, não vamos fugir de compartilhar a conexão de internet entre duas placas de rede (Wifi para uma placa do Hyper-V em modo  interno). Para os mais radicais, podemos usar aplicativos como Wingate ou Winconnection para compartilhar essa internet. Mas, podemos usar de outra forma, mais simples: Usando o ICS da Microsoft. O ICS faz justamente o papel de compartilhar livremente a internet com uma outra placa de rede!

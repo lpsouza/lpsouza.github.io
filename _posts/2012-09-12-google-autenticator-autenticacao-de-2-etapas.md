@@ -1,29 +1,22 @@
 ---
-id: 1107
-title: Google Autenticator (Autenticação de 2 etapas)
-date: 2012-09-12T17:31:50+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=1107
-permalink: /2012/09/12/google-autenticator-autenticacao-de-2-etapas/
-star: false
 category: blog
-categories:
-  - Móvel
-  - Programação
-  - TIC
+date: 2012-09-12 17:31:50+00:00
+layout: post
 tags:
-  - Android
-  - Autenticator
-  - Fica a dica
-  - Google
-  - Informática
-  - Internet
-  - Mobilidade
-  - Programação
-  - Sistemas
-  - Wordpress
+- Android
+- Autenticator
+- Fica a dica
+- Google
+- Informática
+- Internet
+- Mobilidade
+- Programação
+- Sistemas
+- Wordpress
+title: Google Autenticator (Autenticação de 2 etapas)
 ---
+
 Já perceberam como agora a onda nova de segurança para usuários é usar aplicativos que geram "números de segurança", ou Tokens, para autenticar e diversos serviços na internet. Esta onda começou com os bancos e com alguns jogos, e agora está chegando a diversos outros serviços, e entre eles, agora o Google tem seu sistema de Token para celular, onde quase todos os serviços do Google podem ser autenticados com o uso de seu login, senha e token!
 
 Ok, para alguns usuários vem logo a idéia que nem lembram de sua senha, precisa agora de mais essa "coisa" para logar? Bom, a resposta pode ser mais simples do que você imagina: É muito ruim perder sua conta Google? Se a sua resposta a esta pergunta é como a minha: SIM!, você realmente precisa do Google Autenticator!

@@ -1,34 +1,21 @@
 ---
-id: 638
-title: Smartphones Android usam mais banda de redes de celular, diz estudo
-date: 2010-12-09T13:03:20+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=638
-permalink: /2010/12/09/smartphones-android-usam-mais-banda-de-redes-de-celular-diz-estudo/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
 category: blog
-categories:
-  - Linux
-  - Móvel
-  - WWW
+date: 2010-12-09 13:03:20+00:00
+layout: post
 tags:
-  - 3G
-  - Android
-  - Google
-  - Internet
-  - Linux
-  - Mobilidade
-  - Smartphone
-  - Tablet
-  - Tablet PC
+- 3G
+- Android
+- Google
+- Internet
+- Linux
+- Mobilidade
+- Smartphone
+- Tablet
+- Tablet PC
+title: Smartphones Android usam mais banda de redes de celular, diz estudo
 ---
+
 Isso já era uma realidade que esperava acontecer muito que em breve: Os acessos a internet acabarem sendo maiores por aparelhos com tecnologia móvel.
 
 E minha aposta estava mesmo no Android. Um sistema operacional "eclético", atendendo do celular ao tablet..

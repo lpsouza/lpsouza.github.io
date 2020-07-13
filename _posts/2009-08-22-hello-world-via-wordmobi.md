@@ -1,21 +1,21 @@
 ---
-title: Hello world via WordMobi
-date: 2009-08-22T21:39:33+00:00
 author: lpsouza
-layout: post
-permalink: /2009/08/22/hello-world-via-wordmobi/
 category: Blogging
+date: 2009-08-22 21:39:33+00:00
+layout: post
 tags:
-  - Blog
-  - E71
-  - Hello world
-  - Mobilidade
-  - Nokia
-  - S60
-  - Smartphone
-  - Symbian
-  - Wordpress
+- Blog
+- E71
+- Hello world
+- Mobilidade
+- Nokia
+- S60
+- Smartphone
+- Symbian
+- Wordpress
+title: Hello world via WordMobi
 ---
+
 Vamos a meu primeiro post usando o cliente de blog para o meu Smartphone.
 
 Para quem usa o WordPress e quer administrar de qualquer lugar usando smartphones da Nokia, eis o nome dele: [WordMobi](http://code.google.com/p/wordmobi/).

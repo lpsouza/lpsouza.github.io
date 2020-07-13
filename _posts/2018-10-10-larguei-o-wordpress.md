@@ -1,19 +1,18 @@
 ---
-title: 'Larguei o Wordpress!'
-date: 2018-10-10T21:52:00-03:00
 author: lpsouza
-layout: post
-permalink: /2018/10/10/larguei-o-wordpress/
-star: false
 category: blog
+date: 2018-10-10 21:52:00-03:00
+layout: post
 tags:
- - Wordpress
- - Blog
- - Migração
- - Jekyll
- - Static
- - Markdown
+- Wordpress
+- Blog
+- Migração
+- Jekyll
+- Static
+- Markdown
+title: Larguei o Wordpress!
 ---
+
 Comecei este meu blog em 2009 (Caramba! Ano que vem faz 10 anos já!) com o post [Novo point! Bem vindo a minha página pessoal!](/2009/08/21/novo-point-bem-vindo-a-minha-pagina-pessoal/). Naquela época eu comecei a usar o Wordpress como solução para administrar o blog. Daquela época pra cá, o Wordpress cresceu e se tornou um dos maiores [CMS](https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_conte%C3%BAdo) do mercado e se tornando [o CMS mais usado no mundo e o que detêm mais da metade do market share mundial](https://w3techs.com/technologies/overview/content_management/all).
 
 Naquela época do inicio do blog, já havia reparado no poder da ferramenta e que ela poderia sim facilmente se tornar algo que controlasse não apenas blog como ela mesma comenta em sua definição, mas controlar também sites e mais sites de diversos outros tipos, desde sites institucionais a até [e-commerce](https://woocommerce.com/)! E hoje venho comentar neste post que estou desistindo de usar essa ferramenta poderosa! Mas porque?!??

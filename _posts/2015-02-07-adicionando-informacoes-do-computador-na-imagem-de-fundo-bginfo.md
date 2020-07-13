@@ -1,28 +1,23 @@
 ---
-id: 1366
-title: 'Adicionando informações do computador na imagem de fundo - BGInfo'
-date: 2015-02-07T14:44:14+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1366
-permalink: /2015/02/07/adicionando-informacoes-do-computador-na-imagem-de-fundo-bginfo/
-star: false
 category: blog
-categories:
-  - TIC
+date: 2015-02-07 14:44:14+00:00
+layout: post
 tags:
-  - BGInfo
-  - Desktop
-  - Fica a dica
-  - Informações
-  - Informática
-  - Sistema Operacional
-  - Sysinternals
-  - Tecnologia
-  - TI
-  - Windows
-  - Windows Sysinternals
+- BGInfo
+- Desktop
+- Fica a dica
+- Informações
+- Informática
+- Sistema Operacional
+- Sysinternals
+- Tecnologia
+- TI
+- Windows
+- Windows Sysinternals
+title: Adicionando informações do computador na imagem de fundo - BGInfo
 ---
+
 Desde que entrei para o mundo do Cloud, uma coisa que sempre encontro em servidores de Infraestrutura como Serviço (IaaS), é as informações do servidor em questão no desktop (claro que estou comentando de ambientes Windows Server, e não de Linux e seus amigos).
 
 Achava curioso e sempre pensei em fazer isso nos meus servidores virtualizados no meu computador pessoal, mas era aquele tipo de curiosidade que não estava nas minhas pautas diárias (o famoso vai pra fila dos "um dia desses eu vejo isso").

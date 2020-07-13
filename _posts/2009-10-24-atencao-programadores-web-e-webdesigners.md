@@ -1,27 +1,27 @@
 ---
-title: Atenção programadores web e webdesigners..
-date: 2009-10-24T10:52:02+00:00
 author: lpsouza
-layout: post
-permalink: /2009/10/24/atencao-programadores-web-e-webdesigners/
 category: Blogging
+date: 2009-10-24 10:52:02+00:00
+layout: post
 tags:
-  - 3G
-  - Celular
-  - E71
-  - Fica a dica
-  - Mobilidade
-  - Nerd
-  - Nokia
-  - Programação
-  - PSP
-  - S60
-  - Smartphone
-  - Software
-  - Symbian
-  - Tecnologia
-  - Tecnologia móvel
+- 3G
+- Celular
+- E71
+- Fica a dica
+- Mobilidade
+- Nerd
+- Nokia
+- Programação
+- PSP
+- S60
+- Smartphone
+- Software
+- Symbian
+- Tecnologia
+- Tecnologia móvel
+title: Atenção programadores web e webdesigners..
 ---
+
 ... reparem a sua volta! Olha a tecnologia móvel tomando conta!!
 
 Desde o surgimento das redes 3G, trazendo banda larga para celulares e smartphones, o uso delas em qualquer lugar está cada vez mais comum, e então um problema está ficando cada vez mais em evidência: algumas páginas simplesmente não abrem em dispositivos móveis, ou algo ainda pior.. São páginas grandes demais e consomem precioso trafego e ainda não abrem direito! Esse tipo de problema pode fazer o site perder o visitante.. Pois se era uma pesquisa via Google, ele simplesmente vai procurar outra página.. E não preciso dizer o que isso vai causar, não?

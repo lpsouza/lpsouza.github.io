@@ -1,35 +1,34 @@
 ---
-title: Longe do blog.. E de tudo mais..
-date: 2009-09-26T21:00:19+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=212
-permalink: /2009/09/26/longe-do-blog-e-de-tudo-mais/
 category: Blogging
+date: 2009-09-26 21:00:19+00:00
+layout: post
 tags:
-  - 3G
-  - Blog
-  - Claro
-  - Computadores
-  - E71
-  - Hardware
-  - Informática
-  - Linux
-  - Mobilidade
-  - Nerd
-  - Networking
-  - Nokia
-  - Notebook
-  - Problemas
-  - Redes de Computadores
-  - S60
-  - Shellscript
-  - Smartphone
-  - Software
-  - Symbian
-  - TI
-  - Trabalho
+- 3G
+- Blog
+- Claro
+- Computadores
+- E71
+- Hardware
+- Informática
+- Linux
+- Mobilidade
+- Nerd
+- Networking
+- Nokia
+- Notebook
+- Problemas
+- Redes de Computadores
+- S60
+- Shellscript
+- Smartphone
+- Software
+- Symbian
+- TI
+- Trabalho
+title: Longe do blog.. E de tudo mais..
 ---
+
 Olá pessoal.. Andei distante do blog e de quase tudo, porque já sabem né? Murphy é o padroeiro de todo o técnico em TI, e então ele me fez uma visita de quase 2 semanas!!
 
 Foi bem quando me convenci a trocar minha vida da prisão que é usar um windows e querer viver (novamente) a vida de um nerd livre!!

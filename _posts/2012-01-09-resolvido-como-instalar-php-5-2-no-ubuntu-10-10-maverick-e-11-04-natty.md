@@ -1,32 +1,20 @@
 ---
-id: 841
-title: '[Resolvido] Como instalar PHP 5.2 no Ubuntu 10.10 (Maverick) e 11.04 (Natty)'
-date: 2012-01-09T09:30:07+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=841
-permalink: /2012/01/09/resolvido-como-instalar-php-5-2-no-ubuntu-10-10-maverick-e-11-04-natty/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-star: false
 category: blog
-categories:
-  - Linux
-  - Programação
-  - TIC
-  - WWW
+date: 2012-01-09 09:30:07+00:00
+layout: post
 tags:
-  - Downgrade
-  - Fica a dica
-  - Linux
-  - PHP
-  - Server
-  - Ubuntu
-  - Upgrade
-  - Versão
+- Downgrade
+- Fica a dica
+- Linux
+- PHP
+- Server
+- Ubuntu
+- Upgrade
+- Versão
+title: '[Resolvido] Como instalar PHP 5.2 no Ubuntu 10.10 (Maverick) e 11.04 (Natty)'
 ---
+
 O ano de 2011 foi um ano de muito configurar servidor no colégio que trabalho. Tanto que tive exatamente esse problema: Instalar um sistema operacional atual, o ubuntu 10.10 server e me deparar com o caso que o sistema web para portal que usamos funcionava na versão do PHP 5.2.
 
 No meu caso tive um agravante: apt-add-repository não roda na versão server, então foi eu ir no site da Launchpad.net e pegar as configurações para colocar em /etc/apt/sources.list, depois um apt-get update e depois sair removendo o PHP mais novo e instalando o antigo. Mas para quem usa a versão desktop, abaixo a explicação mais simples impossível!

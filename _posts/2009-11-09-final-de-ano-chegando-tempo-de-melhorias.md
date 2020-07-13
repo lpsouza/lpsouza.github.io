@@ -1,13 +1,11 @@
 ---
-title: Final de ano chegando.. Tempo de melhorias..
-date: 2009-11-09T10:52:50+00:00
 author: lpsouza
-layout: post
-permalink: /2009/11/09/final-de-ano-chegando-tempo-de-melhorias/
 category: Blogging
-categories:
-  - Geral
+date: 2009-11-09 10:52:50+00:00
+layout: post
+title: Final de ano chegando.. Tempo de melhorias..
 ---
+
 Eu sempre tive esse tipo de pensamento.. Que o final de ano é tempos de reflexão, não apenas porque faço aniversario (por sinal, amanhã, dia 10) perto do final do ano.. Sempre pensei no ano que passei e tento projetar o próximo.. E por isso eu reflito na minha empresa a mesma ideia.
   
 Então, estou estes últimos dias correndo com um monte de coisas ao mesmo tempo, melhorando o pessoal dos servidores Windows.. Aumentando os planos do pessoal dos servidores Linux.. Terminando a versão 2.1 do tarifador de internet.. E tentando criar um painel de controle para os clientes poder comprar, pagar, e verificar seus serviços junto a nossa empresa..

@@ -1,32 +1,24 @@
 ---
-id: 1653
-title: 'Problemas ao acessar a Umbler via SSH [Resolvido]'
-date: 2017-12-25T20:42:08+00:00
 author: lpsouza
-layout: post
-guid: https://luizsouza.com.br/?p=1653
-permalink: /2017/12/25/problemas-ao-acessar-umbler-via-ssh-resolvido/
-image: https://luizsouza.com.br/wp-content/uploads/2017/12/Capturar.png
-star: false
 category: blog
-categories:
-  - Linux
-  - Programação
-  - TIC
-  - Windows
+date: 2017-12-25 20:42:08+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2017/12/Capturar.png
+layout: post
 tags:
-  - Desenvolvimento
-  - Fica a dica
-  - Hospedagem
-  - Hospedagem de Sites
-  - Linux
-  - Mac
-  - SSH
-  - Ubuntu
-  - Ubuntu on Windows
-  - Umbler
-  - Windows
+- Desenvolvimento
+- Fica a dica
+- Hospedagem
+- Hospedagem de Sites
+- Linux
+- Mac
+- SSH
+- Ubuntu
+- Ubuntu on Windows
+- Umbler
+- Windows
+title: Problemas ao acessar a Umbler via SSH [Resolvido]
 ---
+
 Faz alguns meses que estou usando a [Umbler](https://app.umbler.com/u/0jrm3d6k) como meu provedor de hospedagem de sites (ué? Tu não tinha um provedor próprio? a [IHCenter](https://ihcenter.com.br/)? - É, tinha... Essa fica para outro post!) e uma coisa muito legal que esta equipe do coala fornecesse é o acesso via SSH, tornando muito mais prática a vida do desenvolvedor de raiz! Pois muito bem, para configurar é extremamente simples, indo apenas pelo painel de controle deles (chamado carinhosamente de APP) e com alguns clicks, tanto em Windows, quanto Linux ou até mesmo MAC, vocês configuram este tipo de acesso. Ah sim! Sugiro configurar com uso de chave pública, porque permite configurações de publicação com uso de GIT (Próprio, Github ou Bitbucket)!
 
 **Aviso**: Se você não quer ler toda a história, vá direto na "Receita de bolo"! 😉

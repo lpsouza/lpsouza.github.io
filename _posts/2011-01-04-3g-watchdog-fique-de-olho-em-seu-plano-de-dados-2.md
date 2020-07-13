@@ -1,29 +1,18 @@
 ---
-id: 653
-title: '3G Watchdog: fique de olho em seu plano de dados'
-date: 2011-01-04T09:02:21+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=653
-permalink: /2011/01/04/3g-watchdog-fique-de-olho-em-seu-plano-de-dados-2/
-aktt_tweeted:
-  - "1"
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-star: false
 category: blog
-categories:
-  - Móvel
+date: 2011-01-04 09:02:21+00:00
+layout: post
 tags:
-  - 3G
-  - Android
-  - Informática
-  - Mobilidade
-  - Smartphone
-  - Watchdog
+- 3G
+- Android
+- Informática
+- Mobilidade
+- Smartphone
+- Watchdog
+title: '3G Watchdog: fique de olho em seu plano de dados'
 ---
+
 Eu tinha um Nokia E71 e de Natal resolvi me dar de presente um Samsung Galaxy 5, porque tinha Android e quero programar e tal.. Na real teve outros motivos, mas não vem ao caso no momento.
 
 O que vem ao caso foi meu pequeno empasse que consegui com a compra dele: Consumo de internet 3G!

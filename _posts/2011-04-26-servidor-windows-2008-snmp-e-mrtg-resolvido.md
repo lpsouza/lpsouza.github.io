@@ -1,29 +1,18 @@
 ---
-id: 721
-title: 'Servidor Windows 2008: SNMP e MRTG [Resolvido]'
-date: 2011-04-26T19:11:58+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=721
-permalink: /2011/04/26/servidor-windows-2008-snmp-e-mrtg-resolvido/
-aktt_tweeted:
-  - "1"
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-star: false
 category: blog
-categories:
-  - TIC
+date: 2011-04-26 19:11:58+00:00
+layout: post
 tags:
-  - "2008"
-  - Computadores
-  - MRTG
-  - Tráfego
-  - Windows
-  - Windows Server
+- '2008'
+- Computadores
+- MRTG
+- Tráfego
+- Windows
+- Windows Server
+title: 'Servidor Windows 2008: SNMP e MRTG [Resolvido]'
 ---
+
 Desde sempre usei em meus servidores linux e roteadores o [MRTG](http://pt.wikipedia.org/wiki/Multi_Router_Traffic_Grapher) para controlar a quantidade de banda internet que estava consumindo. Isso é importantíssimo para o controle de qualquer gargalo de rede, prever os momentos de pico do uso dos recursos de rede, etc.
 
 Pois bem, hoje me coloquei um desafio que pensei nunca precisar: Usar o MRTG no Windows! E até que não doeu e nem arrancou pedaço! Hehe..

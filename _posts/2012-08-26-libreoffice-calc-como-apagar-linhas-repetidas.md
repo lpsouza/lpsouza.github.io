@@ -1,17 +1,11 @@
 ---
-id: 1055
-title: 'Libreoffice Calc - Como apagar linhas repetidas'
-date: 2012-08-26T18:56:56+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=1055
-permalink: /2012/08/26/libreoffice-calc-como-apagar-linhas-repetidas/
-star: false
 category: blog
-categories:
-  - Linux
-  - TIC
+date: 2012-08-26 18:56:56+00:00
+layout: post
+title: Libreoffice Calc - Como apagar linhas repetidas
 ---
+
 Estava me batendo para fazer isso no Calc, quase apelando pro uniq no terminal... E eis que encontrei a solução na internet!
 
 > Às vezes, temos uma planilha no BrOffice.org Calc com algumas linhas repetidas, mas precisamos desses dados sem nenhuma duplicação. Qual a forma mais prática de apagar linhas repetidas em uma planilha no BrOffice.org Calc? Os passos abaixo fornecem uma maneira:

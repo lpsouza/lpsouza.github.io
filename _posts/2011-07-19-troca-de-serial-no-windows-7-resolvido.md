@@ -1,32 +1,21 @@
 ---
-id: 754
-title: 'Troca de serial no Windows 7 [Resolvido]'
-date: 2011-07-19T09:30:00+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/blog/2011/07/19/troca-de-serial-no-windows-7-resolvido/
-permalink: /2011/07/19/troca-de-serial-no-windows-7-resolvido/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
 category: blog
-categories:
-  - TIC
+date: 2011-07-19 09:30:00+00:00
+layout: post
 tags:
-  - Ativação
-  - CD-Key
-  - Computadores
-  - Dell
-  - Fica a dica
-  - Microsoft
-  - Resolvido
-  - Serial
-  - Windows 7
+- Ativação
+- CD-Key
+- Computadores
+- Dell
+- Fica a dica
+- Microsoft
+- Resolvido
+- Serial
+- Windows 7
+title: Troca de serial no Windows 7 [Resolvido]
 ---
+
 Estava eu, junto com meus colegas de trabalho, pensando em resolver um problema que criamos com a clonagem de um laboratório inteiro de informática. O serial clonou junto!
 
 Então pesquisando pela internet achei essa solução muito boa e simples, usando o velho e bom prompt de comando: “Como trocar a CD-Key do Windows Vista e Windows 7 com o slmgr”

@@ -1,21 +1,22 @@
 ---
-title: 'Serviços do Google: 5 exemplos práticos de uso da nova interface via linha de comando'
-date: 2010-06-28T10:31:11+00:00
 author: lpsouza
-layout: post
-permalink: /2010/06/28/servicos-do-google-5-exemplos-praticos-de-uso-da-nova-interface-via-linha-de-comando/
 category: Tech
+date: 2010-06-28 10:31:11+00:00
+layout: post
 tags:
-  - Console
-  - Docs
-  - Fica a dica
-  - Google
-  - GoogleCL
-  - Linux
-  - MS-DOS
-  - OSX
-  - Youtube
+- Console
+- Docs
+- Fica a dica
+- Google
+- GoogleCL
+- Linux
+- MS-DOS
+- OSX
+- Youtube
+title: 'Serviços do Google: 5 exemplos práticos de uso da nova interface via linha
+  de comando'
 ---
+
 > _O potencial de inclusão do GoogleCL em scripts criativos é grande, e o LifeHacker já deu o pontapé inicial, com exemplos de comandos para:_
 >
 > * Editar diretamente no vim (ou outro editor) um arquivo do Google Docs_

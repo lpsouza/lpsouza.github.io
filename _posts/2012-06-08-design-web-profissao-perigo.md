@@ -1,18 +1,11 @@
 ---
-id: 1026
-title: Design Web.. Profissão perigo!
-date: 2012-06-08T10:55:51+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=1026
-permalink: /2012/06/08/design-web-profissao-perigo/
-star: false
 category: blog
-categories:
-  - Pessoal
-  - TIC
-  - WWW
+date: 2012-06-08 10:55:51+00:00
+layout: post
+title: Design Web.. Profissão perigo!
 ---
+
 Desde já aviso que eu não sou WebDesigner.. Sou WebDeveloper, mas reparei numas coisas que acredito que outros vão concordar: Design na web (e no mundo da TI em geral) esta mudando muito rápido!
   
 Se imaginar que a um ano todos os sites novos e tutoriais na web para CSS apontavam um uso de bordas arredondadas e hoje a ideia é bordas quadras e discreta. Cores agora que começou a “padronizar“ (ficou entre aspas porque não falo de cores do site, mas de detalhes, como cor de botão e bordas, por exemplo).

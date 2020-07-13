@@ -1,29 +1,22 @@
 ---
-id: 1177
-title: Vale a pena propagandas em Flash?
-date: 2013-03-10T12:10:00+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1177
-permalink: /2013/03/10/vale-a-pena-propagandas-em-flash/
-star: false
 category: blog
-categories:
-  - Programação
-  - TIC
-  - WWW
+date: 2013-03-10 12:10:00+00:00
+layout: post
 tags:
-  - CSS
-  - Fica a dica
-  - Flash
-  - HTML
-  - HTML5
-  - JavaScript
-  - jQuery
-  - JS
-  - Marketing
-  - Publicidade
+- CSS
+- Fica a dica
+- Flash
+- HTML
+- HTML5
+- JavaScript
+- jQuery
+- JS
+- Marketing
+- Publicidade
+title: Vale a pena propagandas em Flash?
 ---
+
 Hoje de manhã, depois de ler uma reportagem em meu tablet, percebi que uma das páginas de propaganda não abriu corretamente, outras sim, e logo pensei: “Algum anunciante acabou de perder meu view.”
 
 Então resolvi fazer este post, para conscientizar o pessoal que desenvolve soluções em marketing&nbsp; de algo que a seus 10 a 12 anos venho falando: Flash é instrumento de animação, não de programação! Embora ele possua uma linguagem de programação da Adobe, o ActionScript, o projeto dele é animação.

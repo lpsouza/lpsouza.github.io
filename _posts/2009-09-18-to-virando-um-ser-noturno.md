@@ -1,21 +1,21 @@
 ---
-title: Tô virando um ser noturno..
-date: 2009-09-18T04:34:00+00:00
 author: lpsouza
-layout: post
-permalink: /2009/09/18/to-virando-um-ser-noturno/
 category: Blogging
+date: 2009-09-18 04:34:00+00:00
+layout: post
 tags:
-  - Blog
-  - E71
-  - Mobilidade
-  - Nokia
-  - S60
-  - Smartphone
-  - Symbian
-  - Trabalho
-  - Wordpress
+- Blog
+- E71
+- Mobilidade
+- Nokia
+- S60
+- Smartphone
+- Symbian
+- Trabalho
+- Wordpress
+title: Tô virando um ser noturno..
 ---
+
 ..mas infelizmente não é por festas..
 
 Eu não sei o que anda acontecendo.. É 20hs e eu to morrendo de sono.. Depois as 2 da matina.. Perco o sono até as 5hs.. Seria as preocupações? Seria o trabalho? Ansiedade? De que?

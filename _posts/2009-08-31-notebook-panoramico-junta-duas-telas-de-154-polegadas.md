@@ -1,15 +1,15 @@
 ---
-title: 'Notebook "panorâmico" junta duas telas de 15,4 polegadas'
-date: 2009-08-31T16:19:38+00:00
 author: lpsouza
-layout: post
-permalink: /2009/08/31/notebook-panoramico-junta-duas-telas-de-154-polegadas/
 category: Tech
+date: 2009-08-31 16:19:38+00:00
+layout: post
 tags:
-  - Mobilidade
-  - Notebook
-  - Tela
+- Mobilidade
+- Notebook
+- Tela
+title: Notebook "panorâmico" junta duas telas de 15,4 polegadas
 ---
+
 To precisando de um desses, só que poderia der de 14,1"...
 
 ![Computador com duas telas LED de 15,4 polegadas terá sistema operacional Windows Vista ou XP PRO, processador Intel Core 2 Duo P8400 de 2,26 GHz, 4 GB de RAM e disco rígido de 320. No site oficial, não há informações sobre peso do notebook. (Foto: divulgação )](https://luizsouza.com.br/wp-content/upload/2009/08/021809638-FMM00.jpg)

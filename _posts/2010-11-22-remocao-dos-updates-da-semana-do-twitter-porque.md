@@ -1,19 +1,19 @@
 ---
-title: Remoção dos Updates da semana do Twitter, porque?
-date: 2010-11-22T08:08:14+00:00
 author: lpsouza
-layout: post
-permalink: /2010/11/22/remocao-dos-updates-da-semana-do-twitter-porque/
 category: Blogging
+date: 2010-11-22 08:08:14+00:00
+layout: post
 tags:
-  - Blog
-  - Fica a dica
-  - Página pessoal
-  - Redes Sociais
-  - Software
-  - Twitter
-  - Wordpress
+- Blog
+- Fica a dica
+- Página pessoal
+- Redes Sociais
+- Software
+- Twitter
+- Wordpress
+title: Remoção dos Updates da semana do Twitter, porque?
 ---
+
 Bom, depois de testar essa solução para WordPress, vi que não há muito sentido em copiar meus posts do Twitter pra cá..
 
 Pelo menos esses "resumos diário" ou "resumos semanais"..

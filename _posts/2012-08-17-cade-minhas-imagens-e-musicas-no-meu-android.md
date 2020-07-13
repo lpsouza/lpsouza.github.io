@@ -1,27 +1,21 @@
 ---
-id: 1088
-title: Cadê minhas imagens e músicas no meu Android?
-date: 2012-08-17T10:48:05+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=1088
-permalink: /2012/08/17/cade-minhas-imagens-e-musicas-no-meu-android/
-star: false
 category: blog
-categories:
-  - Móvel
-  - TIC
+date: 2012-08-17 10:48:05+00:00
+layout: post
 tags:
-  - Android
-  - Cache
-  - Fotos
-  - Google
-  - Imagens
-  - Música
-  - Problema
-  - Smartphone
-  - Thumbnail
+- Android
+- Cache
+- Fotos
+- Google
+- Imagens
+- Música
+- Problema
+- Smartphone
+- Thumbnail
+title: Cadê minhas imagens e músicas no meu Android?
 ---
+
 Olá pessoal!
 
 Ontem tive um problema no meu _smartphone_ (atualmente, [LG Optimus Black](http://www.lge.com/br/celular/aparelhos/LG-smartphone-P970.jsp) c/ [CyanogenMod](http://www.cyanogenmod.com/) 7.2.0 stable) e depois de descobrir a solução (sem nem olhar no nosso oráculo Google) pensei em compartilhar aqui, até porque o procedimento foi bem simples.

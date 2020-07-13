@@ -1,23 +1,23 @@
 ---
-title: 'Windows Live Essentials 2011: Writer'
-date: 2010-10-22T08:30:00+00:00
 author: lpsouza
-layout: post
-permalink: /2010/10/22/windows-live-essentials-2011-writer/
 category: Tech
+date: 2010-10-22 08:30:00+00:00
+layout: post
 tags:
-  - Blog
-  - Blogger
-  - Internet
-  - Linux
-  - MySQL
-  - PHP
-  - Windows
-  - Windows Live
-  - Windows Live Essentials
-  - Wordpress
-  - Writer
+- Blog
+- Blogger
+- Internet
+- Linux
+- MySQL
+- PHP
+- Windows
+- Windows Live
+- Windows Live Essentials
+- Wordpress
+- Writer
+title: 'Windows Live Essentials 2011: Writer'
 ---
+
 Existindo desde as primeiras versões do Live Essentials, o Writer nunca foi um sistema que me chamou a atenção. Um editor da microsoft, para blog… Qual blog? Deve ser o tal do Spaces… Nem vou atras… Isso que me passava na cabeça quando lia a descrição deste. Mas depois de atualizar meu “MSN”, nome erroneamente apelidado do Messenger para a versão 2011, entrei em meu profile do Live, e vi meu spaces a tanto tempo esquecido. Nostalgia a parte, a noticia que me chama a atenção: A Microsoft vai descontinuar o Spaces e pede pra galera migrar para o WordPress! A noticia me chama mais a atenção por que a engine do WordPress (tanto a wordpress.com, quanto a para download no wordpress.org) é em PHP + MySQL, e todos sabemos onde essa combinação é mais encontrada e mais divulgada no mundo, não? (Linux)
 
 Bom, depois de ler a descontinuação do Spaces, eu novamente vi uma chamada do Writer e na hora eu pensei: Tá.. Eles continuam com esta ferramenta, mesmo sabendo que isso vai descontinuar? Que estranho… E foi esse “estranho” que me levou a pesquisar um pouco sobre esta ferramenta e agora, estar efetivamente postando meu primeiro post usando ela! Bom, vamos por partes…

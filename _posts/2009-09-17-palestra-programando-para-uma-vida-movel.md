@@ -1,40 +1,40 @@
 ---
-title: 'Palestra: Programando para uma vida móvel'
-date: 2009-09-17T22:09:21+00:00
 author: lpsouza
-layout: post
-permalink: /2009/09/17/palestra-programando-para-uma-vida-movel/
 category: Tech
+date: 2009-09-17 22:09:21+00:00
+layout: post
 tags:
-  - 3G
-  - Algorítimo
-  - Cenecista
-  - Claro
-  - Colégio
-  - E71
-  - Fica a dica
-  - Firewall
-  - Gmail
-  - Google
-  - Google Maps
-  - KML
-  - Linux
-  - Mobilidade
-  - Netbook
-  - Nokia
-  - Notebook
-  - Palestra
-  - Programação
-  - Qik
-  - Redes de Computadores
-  - RSS
-  - S60
-  - Smartphone
-  - Symbian
-  - TI
-  - Twitter
-  - Video
+- 3G
+- Algorítimo
+- Cenecista
+- Claro
+- Colégio
+- E71
+- Fica a dica
+- Firewall
+- Gmail
+- Google
+- Google Maps
+- KML
+- Linux
+- Mobilidade
+- Netbook
+- Nokia
+- Notebook
+- Palestra
+- Programação
+- Qik
+- Redes de Computadores
+- RSS
+- S60
+- Smartphone
+- Symbian
+- TI
+- Twitter
+- Video
+title: 'Palestra: Programando para uma vida móvel'
 ---
+
 Hoje eu estive no Colégio Cenecista aqui da cidade de Novo Hamburgo - RS, dando uma palestra sobre mobilidade e alguns conceitos interessantes foram comentados:
 
 * O caminho da evolução móvel

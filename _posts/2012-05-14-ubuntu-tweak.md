@@ -1,28 +1,18 @@
 ---
-id: 897
-title: Ubuntu-Tweak
-date: 2012-05-14T09:30:24+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=897
-permalink: /2012/05/14/ubuntu-tweak/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-star: false
 category: blog
-categories:
-  - Linux
-  - TIC
+date: 2012-05-14 09:30:24+00:00
+layout: post
 tags:
-  - Configurações
-  - Fica a dica
-  - Linux
-  - Login
-  - Tweak
-  - Ubuntu
+- Configurações
+- Fica a dica
+- Linux
+- Login
+- Tweak
+- Ubuntu
+title: Ubuntu-Tweak
 ---
+
 Desde a atualização do meu Ubuntu para o 12.04 eu perdi a barbada de mexer na minha tela de login (remover pontos do fundo, mudar o fundo, desligar o som, etc). Antes da 12.04 usava um script maneiro criado pelo Cláudio Novais (Ubuntued), o [Simple LightDM](http://ubuntued.info/simple-lightdm-manager-altere-o-login-do-novo-ubuntu). Em alguns minutos pesquisando na internet, achei um artigo no site Ask Ubuntu, o [How do I install Ubuntu-Tweak?](http://askubuntu.com/questions/75454/how-do-i-install-ubuntu-tweak), e vi que ele pode acessar as informações do login e desabilitar som, mudar logo, etc...
 
 Bom, na realidade dá pra fazer muito mais coisas do que alem do login. Citando algumas:

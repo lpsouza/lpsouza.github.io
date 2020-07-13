@@ -1,26 +1,26 @@
 ---
-title: 'Problema de leitura em HD externo USB [Resolvido!]'
-date: 2009-10-12T08:07:11+00:00
 author: lpsouza
-layout: post
-permalink: /2009/10/12/problema-de-leitura-em-hd-externo-usb-resolvido/
-image: https://luizsouza.com.br/wp-content/uploads/2009/10/tela-chkdsk.png
 category: Tech
+date: 2009-10-12 08:07:11+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2009/10/tela-chkdsk.png
+layout: post
 tags:
-  - chkdsk
-  - DataBack
-  - Disco Rígido
-  - Fica a dica
-  - Format
-  - GetDataBack
-  - Hardware
-  - HD externo
-  - MS-DOS
-  - RAW
-  - Recuperar dados
-  - Recuperar formato
-  - USB
+- chkdsk
+- DataBack
+- Disco Rígido
+- Fica a dica
+- Format
+- GetDataBack
+- Hardware
+- HD externo
+- MS-DOS
+- RAW
+- Recuperar dados
+- Recuperar formato
+- USB
+title: Problema de leitura em HD externo USB [Resolvido!]
 ---
+
 Ontem de noite me deparei com um problema que me deixou com frio na espinha: Meu HD externo USB de 250 Gb simplesmente "perdeu a formatação". Este era simplesmente meu disco de dados, onde tinha tudo.. Fotos, vídeos, softwares, etc..
 
 **_Aviso_: Se você esta aqui lendo para tentar recuperar o seu HD externo, e não quiser ler minha história, pode pular direto para _"receita de bolo"_.**

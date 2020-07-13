@@ -1,15 +1,11 @@
 ---
-title: Para onde vai a banda larga?
-date: 2010-10-08T23:50:04+00:00
 author: lpsouza
-layout: post
-permalink: /2010/10/08/para-onde-vai-a-banda-larga/
 category: Tech
-categories:
-  - Móvel
-  - Pessoal
-  - WWW
+date: 2010-10-08 23:50:04+00:00
+layout: post
+title: Para onde vai a banda larga?
 ---
+
 Meu professor (Eduardo Leiva Bastos) da cadeira de Fundamentos de Redes do curso de Segurança da Informação (Tecnólogo) na [Unisinos](http://unisinos.br) pediu como trabalho, um pequeno ensaio sobre o futuro da internet banda larga, falando nas tecnologias de meio físico, ou como a internet chega nas casas das pessoas. A versão final teve ajuda da minha chefe e amiga Karem Medeiros, mas infelizmente não foi a versão que ela corrigiu os erros de concordância que ficou aqui pra vocês.. Então, aqui está:
 
 Para entender o futuro da internet banda larga, acredito que temos que entender o cenário atual da mesma. Entenda como banda larga, qualquer meio de comunicação com a internet que use por meio físico tecnologias como ISDN (64kbps ~ 128 kbps), xDSL/ADSL (hoje, com ADSL2+, até 24mbps), Cable Modem (70kbps ~ 150mbps), as redes de rádio (MMDS, WiFi, WiMAX, Móvel (celular)) e por fim, as pouco faladas PLC (Comunicações por cabos de energia). Como comentei de cenário atual, vamos nos concentrar nas mais usadas hoje em dia, isto é: Cable Modem, ADSL e Móvel.

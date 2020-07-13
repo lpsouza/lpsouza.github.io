@@ -1,22 +1,22 @@
 ---
-title: Emails, Spam e uma pitada de PGP!
-date: 2010-10-25T07:52:55+00:00
 author: lpsouza
-layout: post
-permalink: /2010/10/25/emails-spam-e-uma-pitada-de-pgp/
 category: Tech
+date: 2010-10-25 07:52:55+00:00
+layout: post
 tags:
-  - Criptografia
-  - Datacenter
-  - Email
-  - ISP
-  - Mail
-  - Marketing
-  - PGP
-  - POP3
-  - SMTP
-  - SPAM
+- Criptografia
+- Datacenter
+- Email
+- ISP
+- Mail
+- Marketing
+- PGP
+- POP3
+- SMTP
+- SPAM
+title: Emails, Spam e uma pitada de PGP!
 ---
+
 Eu me indigno com algumas piadas que os ISP/DC inventam para dizer que estão combatendo o SPAM, e ao mesmo tempo criando formas agregadas de continuar com o SPAM, com outro nome. Essa semana aconteceu um problema com um dos meus serviços mais antigos a clientes: Relayhost (ou smarthost). Tá, para quem não entende ou para quem não ta familiarizado com o termo, este  é um sistema antigo que era usado na epoca que a internet não era tão simples e nem tão barata, mas as empresas já queriam ter emails corporativos dentro da empresa. Com internet discada mesmo eles podiam ter este serviço corporativo, usando um servidor de emails externo e disponível na internet 24/7 para manter os emails (entrega e recebimento). Para isso bastava o servidor da empresa (aquele que ficava dentro de uma internet “on-demand”), quando se conectava a internet, enviar os emails para este servidor disponível, e receber o que foi enviado a ele enquanto o período offline do servidor da empresa. Para isso usava-se uma mescla de eSMTP e as vezes POP3 (usando-se de um sistema de fetch no lado do cliente).
 
 Ok, então estou dizendo que tinha clientes discados em minha carteira? Não, com o advento da internet banda-larga e o aumento indiscriminado do SPAM, levou os servidores de email a tomarem medidas contra o envio de mensagens, fazendo com que determinados IPs não pudessem mandar email diretamente, ou por número de mensagens/hora. Com isso as ISPs viram um prato cheio para vender serviços de IP fixo, onde eles confiavam a ideia de entrega de mensagens. Mas isso se tornava cada vez mais caro, não sendo realidade para medias empresas. Com isso veio minha ideia, de levar uma entrega de emails confiável na internet. Um servidor disponível, que recebia destes hosts supostamente “não confiáveis” os emails corporativos e entregava as mensagens, caso eles tenham passado por alguma indisponibilidade! Funcionou por muito tempo o serviço, até esses dias, quando por “mudanças nas politicas AntiSPAM”, meu serviço se tornou “foco de SPAM”. Ok, a ideia é parar com os SPAMs, parece ser uma ideia promissora, mas isso abriu novamente outro mercado: o do Email Marketing!

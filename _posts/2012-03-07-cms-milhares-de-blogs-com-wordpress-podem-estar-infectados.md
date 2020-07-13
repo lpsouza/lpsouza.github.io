@@ -1,31 +1,20 @@
 ---
-id: 877
-title: 'CMS: Milhares de blogs com WordPress podem estar infectados'
-date: 2012-03-07T08:49:41+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=877
-permalink: /2012/03/07/cms-milhares-de-blogs-com-wordpress-podem-estar-infectados/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-star: false
 category: blog
-categories:
-  - Programação
-  - SegInfo
-  - TIC
+date: 2012-03-07 08:49:41+00:00
+layout: post
 tags:
-  - Atualizado
-  - Blog
-  - Maliciosos
-  - Malware
-  - Rede
-  - SegInfo
-  - Virus
-  - Wordpress
+- Atualizado
+- Blog
+- Maliciosos
+- Malware
+- Rede
+- SegInfo
+- Virus
+- Wordpress
+title: 'CMS: Milhares de blogs com WordPress podem estar infectados'
 ---
+
 Segurança é sempre a palavra de ordem para nossos sites, blogs, portais, etc.
 
 Hoje na internet, com o avanço das variedades de malwares, atualizações é o que não faltam para sistemas como WordPress, Joomla, Drupal, e afins. Mas a quantidade de Webmasters que se importam com isso e passam de apenas "entregadores de sites" para desenvolvedores de sites são muito poucos. É por essas que eu, junto com minha empresa, a IHCenter, bolamos uma forma de manter os meus clientes de desenvolvimento e clientes que hospedam sites e blogs na plataforma WordPress sempre atualizados! Unimos todos os sites nesta plataforma para um sistema em rede, que tudo é  mantido atualizado junto! E atualizado mesmo! Diversos plugins, temas e afins, atualizados quase que em tempo real. Testados e aprovados para uso nesta rede com todos os sites ali contidos.

@@ -1,28 +1,22 @@
 ---
-id: 1316
-title: 'Acesso remoto ao Ubuntu 14.04 [Resolvido]'
-date: 2014-08-03T20:35:45+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1316
-permalink: /2014/08/03/acesso-remoto-ao-ubuntu-14-04-resolvido/
-image: https://luizsouza.com.br/wp-content/uploads/2014/08/Screenshot-from-2014-05-26-103053.png
-star: false
 category: blog
-categories:
-  - Linux
-  - TIC
+date: 2014-08-03 20:35:45+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2014/08/Screenshot-from-2014-05-26-103053.png
+layout: post
 tags:
-  - Acesso Remoto
-  - Fica a dica
-  - Linux
-  - Remote Desktop
-  - Sharing
-  - Ubuntu
-  - vino
-  - VNC
-  - VNC Viewer
+- Acesso Remoto
+- Fica a dica
+- Linux
+- Remote Desktop
+- Sharing
+- Ubuntu
+- vino
+- VNC
+- VNC Viewer
+title: Acesso remoto ao Ubuntu 14.04 [Resolvido]
 ---
+
 Mais um da coleção resolvidos! Hehehe...
 
 Desta vez é a vez de um pequeno bug que anda ocorrendo no Ubuntu Desktop 14.04, quando usamos a função de Compartilhamento de Área de Trabalho, e tentamos o acesso ao computador e nos deparamos com a mensagem: _"No supported authentication methods!"_

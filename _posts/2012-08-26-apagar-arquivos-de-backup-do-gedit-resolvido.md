@@ -1,26 +1,20 @@
 ---
-id: 1049
-title: 'Apagar arquivos de backup do gEdit [resolvido]'
-date: 2012-08-26T19:54:15+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=1049
-permalink: /2012/08/26/apagar-arquivos-de-backup-do-gedit-resolvido/
-star: false
 category: blog
-categories:
-  - Linux
-  - TIC
+date: 2012-08-26 19:54:15+00:00
+layout: post
 tags:
-  - Acesso
-  - Backup
-  - Fica a dica
-  - gEdit
-  - Limpeza
-  - Linha de Comando
-  - Linux
-  - X
+- Acesso
+- Backup
+- Fica a dica
+- gEdit
+- Limpeza
+- Linha de Comando
+- Linux
+- X
+title: Apagar arquivos de backup do gEdit [resolvido]
 ---
+
 Quem usa Linux e usa interface gráfica, já deve ter dado graças aos backups do  gEdit, mas em um momento ou outro acabam também virando dor de cabeça.
 
 Gerenciadores de arquivos gráficos como o Nautilus ocultam esses arquivos e quando menos percebemos, estamos lotados deles no disco rígido. Eu passo por esse problema de vez em sempre, e a um tempo vi um post legal do blog "Different.In a good way" onde colocaram um comando bem simples usando o "find" para procurar os arquivos de backup do gEdit, isto é, `*~`.

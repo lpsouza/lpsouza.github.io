@@ -1,17 +1,16 @@
 ---
-title: 'Ebay vai vender 65% do Skype por US$ 1,9 bilhão'
-date: 2009-09-01T13:23:12+00:00
 author: lpsouza
-layout: post
-permalink: /2009/09/01/ebay-vai-vender-65-do-skype-por-us-19-bilhao-estadao-com-br/
-star: false
 category: Tech
+date: 2009-09-01 13:23:12+00:00
+layout: post
 tags:
-  - eBay
-  - Skype
-  - Software
-  - Venda
+- eBay
+- Skype
+- Software
+- Venda
+title: Ebay vai vender 65% do Skype por US$ 1,9 bilhão
 ---
+
 E começa o vende-vende? Ontem falando da Marvel.. Hoje o Skype? E estranhamente se fala isso logo depois que se falou de vírus para o skype. Estranho não? E leia-se que o eBay não conseguiu uma forma rentável de manter o Skype.. Meio logico! Ahauhauahau... Então? Quero conversar, como vai ser?
 
 > _A empresa de comércio online Ebay Inc. Informou nesta terça-feira, 1, que vai vender uma fatia de 65% no Skype, suas operações de telefonia pela Internet. Os compradores são liderados pelo grupo de private-equity Silver Lake Partners. A EBay receberá US$ 1,9 bilhão pela fatia, o que avalia o Skype em US$ 2,75 bilhões, além de uma note de US$ 125 milhões._

@@ -1,28 +1,22 @@
 ---
-id: 1412
-title: Instalando Ubuntu Desktop 14.04 no Hyper-V (2-gen)
-date: 2015-04-11T15:49:54+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1412
-permalink: /2015/04/11/instalando-ubuntu-desktop-14-04-no-hyper-v-2-gen/
-star: false
 category: blog
-categories:
-  - Linux
-  - TIC
+date: 2015-04-11 15:49:54+00:00
+layout: post
 tags:
-  - Computadores
-  - Fica a dica
-  - Hyper-V
-  - Linux
-  - Performance
-  - Ubuntu
-  - Ubuntu 14.04
-  - VirtualBox
-  - Windows
-  - Windows 8.1
+- Computadores
+- Fica a dica
+- Hyper-V
+- Linux
+- Performance
+- Ubuntu
+- Ubuntu 14.04
+- VirtualBox
+- Windows
+- Windows 8.1
+title: Instalando Ubuntu Desktop 14.04 no Hyper-V (2-gen)
 ---
+
 Depois de reinstalar o meu [Windows 8.1 Pro](http://windows.microsoft.com/pt-br/windows/home), e reinstalar o [Hyper-V](http://www.microsoft.com/pt-br/server-cloud/solutions/virtualization.aspx) nele, me perguntei se precisaria instalar o [Virtualbox](https://www.virtualbox.org/) para fazer uma estação de trabalho [Ubuntu](http://www.ubuntu.com/). Depois de dar uma verificada na internet, achei dois artigos super interessantes que me ajudou a instalar em modo "Geração 2" das Maquinas Virtuais no Hyper-V. Os artigos foram: [Ubuntu 14.04 in a Generation 2 VM](http://blogs.msdn.com/b/virtual_pc_guy/archive/2014/06/09/ubuntu-14-04-in-a-generation-2-vm.aspx) e [Changing Ubuntu Screen Resolution in a Hyper-V VM](http://blogs.msdn.com/b/virtual_pc_guy/archive/2014/09/19/changing-ubuntu-screen-resolution-in-a-hyper-v-vm.aspx).
 
 Então o que fiz para instalar?

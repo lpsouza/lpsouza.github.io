@@ -1,27 +1,21 @@
 ---
-id: 1150
-title: 'Novo Hamburgo: Cidade Digital'
-date: 2012-12-21T20:11:58+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=1150
-permalink: /2012/12/21/novo-hamburgo-cidade-digital/
-star: false
 category: blog
-categories:
-  - Programação
-  - TIC
+date: 2012-12-21 20:11:58+00:00
+layout: post
 tags:
-  - Dados Abertos
-  - fibra óptica
-  - fibra ótica
-  - Fica a dica
-  - Informática
-  - Novo Hamburgo
-  - Open Data
-  - prefeitura
-  - Tecnologia
+- Dados Abertos
+- fibra óptica
+- fibra ótica
+- Fica a dica
+- Informática
+- Novo Hamburgo
+- Open Data
+- prefeitura
+- Tecnologia
+title: 'Novo Hamburgo: Cidade Digital'
 ---
+
 ![Prefeito Tarcísio Zimmermann](https://luizsouza.com.br/wp-content/upload/2012/12/prefeito.jpg)
 
 Estive agora de manhã na prefeitura de Novo Hamburgo (cidade onde moro), representando o Colégio Santa Catarina e a Escola de Ensino Profissionalizante Braniewo, no lançamento dos projetos Anel Optico e o portal de Dados Abertos.

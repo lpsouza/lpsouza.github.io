@@ -1,20 +1,19 @@
 ---
-title: 'Utilizando o Powershell para obter o espaço em disco das maquinas virtuais no Hyper-V'
-date: 2019-01-02T18:29:23-03:00
 author: lpsouza
-layout: post
-permalink: /2019/01/02/utilizando-o-powershell-para-obter-o-espaco-em-disco-das-maquinas-virtuais-no-hyper-v/
-star: false
 category: blog
+date: 2019-01-02 18:29:23-03:00
+layout: post
 tags:
- - powershell
- - hyperv
- - hyper-v
- - disk
- - vhd
- - vhdx
- - windows
- - microsoft
+- powershell
+- hyperv
+- hyper-v
+- disk
+- vhd
+- vhdx
+- windows
+- microsoft
+title: Utilizando o Powershell para obter o espaço em disco das maquinas virtuais
+  no Hyper-V
 ---
 
 Quando falamos de universo "Windows", acredito que para os usuários avançados e administradores de servidores o Powershell é com certeza uma mão na roda! Então durante um pedido que me foi feito no trabalho de "listar e somar" os discos virtuais (VHDX) das VMs contidas em alguns servidores de Hyper-V, criei um pequeno script que faz esse trabalho!

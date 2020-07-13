@@ -1,21 +1,21 @@
 ---
-title: 'Macbuntu: visual do Mac OS X - fácil de configurar - no Ubuntu'
-date: 2010-11-19T16:35:03+00:00
 author: lpsouza
-layout: post
-permalink: /2010/11/19/macbuntu-visual-do-mac-os-x-facil-de-configurar-no-ubuntu/
 category: Tech
+date: 2010-11-19 16:35:03+00:00
+layout: post
 tags:
-  - Apple
-  - Computadores
-  - Fica a dica
-  - Linux
-  - Mac
-  - Mac OS
-  - Sistema Operacional
-  - Tema
-  - Ubuntu
+- Apple
+- Computadores
+- Fica a dica
+- Linux
+- Mac
+- Mac OS
+- Sistema Operacional
+- Tema
+- Ubuntu
+title: 'Macbuntu: visual do Mac OS X - fácil de configurar - no Ubuntu'
 ---
+
 Neste quesito eu já imaginava que alguém criaria um tema para transformar o Ubuntu num MAC OS X (visualmente falando, claro). E porque acreditava? O tema atual do Ubuntu 10.10 me lembra já muito o MAC. Copia? Não acho. Acredito em uma forma de dizer que a plataforma visual é boa mesmo.. Hehe..
 
 Confira mais no post do BR-Linux.

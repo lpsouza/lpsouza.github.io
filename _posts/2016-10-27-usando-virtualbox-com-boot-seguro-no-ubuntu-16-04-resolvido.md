@@ -1,27 +1,21 @@
 ---
-id: 1592
-title: 'Usando Virtualbox com boot seguro no Ubuntu 16.04 [Resolvido]'
-date: 2016-10-27T00:14:23+00:00
 author: lpsouza
-layout: post
-guid: https://luizsouza.com.br/?p=1592
-permalink: /2016/10/27/usando-virtualbox-com-boot-seguro-no-ubuntu-16-04-resolvido/
-star: false
 category: blog
-categories:
-  - Linux
-  - TIC
+date: 2016-10-27 00:14:23+00:00
+layout: post
 tags:
-  - Computadores
-  - Fica a dica
-  - Kernel
-  - Linux
-  - Maquina Virtual
-  - Ubuntu
-  - Vagrant
-  - VirtualBox
-  - VM
+- Computadores
+- Fica a dica
+- Kernel
+- Linux
+- Maquina Virtual
+- Ubuntu
+- Vagrant
+- VirtualBox
+- VM
+title: Usando Virtualbox com boot seguro no Ubuntu 16.04 [Resolvido]
 ---
+
 Recentemente instalei no meu computador a última versão LTS do Ubuntu, a 16.04. E quando fui usar o combo [**Vagrant**](https://www.vagrantup.com/) e [**Virtualbox**](https://www.virtualbox.org/), me deparei com um problema ocasionado por alguma mudança na assinatura dos aplicativos para uso de computadores com _Secure Boot** **_(Inicialização Segura), como é o caso do meu notebook.
 
 Ok, lá vamos nós para a internet e o que mais lia por aí era: Desabilite o _Secure Boot_. Sinceramente, eu achei essa solução muito "gambiarra" mesmo, logo, não foi o que resolvi seguir. Então, o que vi em um desses links que apareceram no Google, foi um post no blog do [Flávio Prino](https://flavioprimo.xyz/) que explica como **assinar digitalmente o arquivo de driver** do virtualbox, e assim permitindo que possamos acessar as máquinas do Virtualbox sem erros e com o _Secure Boot_ ativado! 😀

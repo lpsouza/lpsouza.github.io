@@ -1,34 +1,28 @@
 ---
-id: 1311
-title: Usando o Netflix no Ubuntu 14.04
-date: 2014-07-27T19:06:38+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1311
-permalink: /2014/07/27/usando-o-netflix-no-ubuntu-14-04/
-image: https://luizsouza.com.br/wp-content/uploads/2014/07/netflix.jpg
-star: false
 category: blog
-categories:
-  - Linux
-  - TIC
+date: 2014-07-27 19:06:38+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2014/07/netflix.jpg
+layout: post
 tags:
-  - Computadores
-  - Emaulator
-  - Fica a dica
-  - Filmes
-  - Interface Gráfica
-  - Linux
-  - Netflix
-  - Problema
-  - Problemas
-  - Seriados
-  - Séries
-  - Silverlight
-  - Ubuntu
-  - Windows
-  - Wine
+- Computadores
+- Emaulator
+- Fica a dica
+- Filmes
+- Interface Gráfica
+- Linux
+- Netflix
+- Problema
+- Problemas
+- Seriados
+- Séries
+- Silverlight
+- Ubuntu
+- Windows
+- Wine
+title: Usando o Netflix no Ubuntu 14.04
 ---
+
 Estou usando o **Ubuntu 14.04** no meu note e a tempos queria usar o Netflix nele, mas como para usar, precisa do [Silverlight](http://pt.wikipedia.org/wiki/Silverlight) e este é proprietário da Microsoft, fica um pouco complicado... Será?
 
 Pesquisei na internet e encontrei um artigo bem legal no **Viva o Linux**, mas como todo o bom artigo para linux, nunca está 100% completo. Seja porque ele fala para instalar em uma versão, e tu está usando outra, ou porque tu não tem a biblioteca que o autor do artigo tinha quando escreveu, ou simplesmente porque ele esqueceu de algum passo. Isso não é relevante, porque eu fui atras e completei as lacunas!

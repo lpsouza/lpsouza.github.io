@@ -1,32 +1,27 @@
 ---
-id: 1468
-title: 'Chrome.exe com erro 0xc0000018 [Resolvido]'
-date: 2016-01-11T23:53:58+00:00
 author: lpsouza
-layout: post
-guid: https://luizsouza.com.br/?p=1468
-permalink: /2016/01/11/chrome-exe-com-erro-0xc0000018-resolvido/
-image: https://luizsouza.com.br/wp-content/uploads/2016/01/chrome-error1.jpg
-star: false
 category: blog
-categories:
-  - TIC
+date: 2016-01-11 23:53:58+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2016/01/chrome-error1.jpg
+layout: post
 tags:
-  - "0xc0000018"
-  - Browser
-  - Browsers
-  - Chrome
-  - Edge
-  - Erro
-  - Error
-  - Fica a dica
-  - Internet Explorer
-  - Microsoft
-  - Navegadores
-  - Registro
-  - Windows
-  - Windows 10
+- '0xc0000018'
+- Browser
+- Browsers
+- Chrome
+- Edge
+- Erro
+- Error
+- Fica a dica
+- Internet Explorer
+- Microsoft
+- Navegadores
+- Registro
+- Windows
+- Windows 10
+title: Chrome.exe com erro 0xc0000018 [Resolvido]
 ---
+
 Agora a pouco liguei meu notebook no meu Windows 10, já que fazia uns dias que só estava usando o meu Linux e quando fui abrir meu Google Chrome, me deparei com esta mensagem abaixo:
 
 "A aplicação não pôde ser inicializado corretamente (0xc0000018). Clique em OK para fechar o aplicativo."

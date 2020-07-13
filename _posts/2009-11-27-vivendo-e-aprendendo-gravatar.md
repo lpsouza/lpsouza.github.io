@@ -1,20 +1,20 @@
 ---
-title: Vivendo e aprendendo (Gravatar)
-date: 2009-11-27T19:44:04+00:00
 author: lpsouza
-layout: post
-permalink: /2009/11/27/vivendo-e-aprendendo-gravatar/
 category: Tech
+date: 2009-11-27 19:44:04+00:00
+layout: post
 tags:
-  - Avatar
-  - Blog
-  - Email
-  - Fica a dica
-  - Foto
-  - Gravatar
-  - Imagem
-  - Wordpress
+- Avatar
+- Blog
+- Email
+- Fica a dica
+- Foto
+- Gravatar
+- Imagem
+- Wordpress
+title: Vivendo e aprendendo (Gravatar)
 ---
+
 Poxa vida pessoal!
 
 Ninguém me avisa o que eh um Gravatar?? 😛

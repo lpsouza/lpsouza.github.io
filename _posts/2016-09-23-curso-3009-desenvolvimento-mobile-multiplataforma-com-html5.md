@@ -1,34 +1,27 @@
 ---
-id: 1563
-title: 'Curso 07/10: Desenvolvimento Mobile Multiplataforma com HTML5'
-date: 2016-09-23T08:38:41+00:00
 author: lpsouza
-layout: post
-guid: https://luizsouza.com.br/?p=1563
-permalink: /2016/09/23/curso-3009-desenvolvimento-mobile-multiplataforma-com-html5/
-image: https://luizsouza.com.br/wp-content/uploads/2016/09/site-html-5-3-edicao.jpg
-star: false
 category: blog
-categories:
-  - Móvel
-  - Programação
-  - TIC
+date: 2016-09-23 08:38:41+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2016/09/site-html-5-3-edicao.jpg
+layout: post
 tags:
-  - Apache Cordova
-  - Celular
-  - Cordova
-  - CSS
-  - Curso
-  - Desenvolvimento
-  - Fica a dica
-  - HTML5
-  - Ionic
-  - JavaScript
-  - Mobilidade
-  - Phonegap
-  - Programação
-  - Smartphone
+- Apache Cordova
+- Celular
+- Cordova
+- CSS
+- Curso
+- Desenvolvimento
+- Fica a dica
+- HTML5
+- Ionic
+- JavaScript
+- Mobilidade
+- Phonegap
+- Programação
+- Smartphone
+title: 'Curso 07/10: Desenvolvimento Mobile Multiplataforma com HTML5'
 ---
+
 Olá pessoal!
 
 Faz já 3 edições que estou ministrando um curso de desenvolvimento para smartphones com HTML5! Isso permite desenvolver para as plataformas de mercado (Android, iOS e Windows Phone) de maneira muito simples e principalmente rápida!

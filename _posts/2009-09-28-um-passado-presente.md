@@ -1,23 +1,21 @@
 ---
-id: 216
-title: Um passado presente..
-date: 2009-09-28T20:18:17+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=216
-permalink: /2009/09/28/um-passado-presente/
 category: Blogging
+date: 2009-09-28 20:18:17+00:00
+layout: post
 tags:
-  - Fica a dica
-  - Futuro
-  - Games
-  - Natureza
-  - Passado
-  - Playstation 3
-  - Presente
-  - PS3
-  - Video-game
+- Fica a dica
+- Futuro
+- Games
+- Natureza
+- Passado
+- Playstation 3
+- Presente
+- PS3
+- Video-game
+title: Um passado presente..
 ---
+
 Hoje comecei a pensar numa questão interessante da vida.. Como em minha vida eu via a parada de um modo de vida ascensão de outro.. Decadência e retorno de um antigo modo de vida..
 
 * **Garrafas retornáveis:** alguém lembra que a muito tempo.. Tínhamos os refrigerantes em garrafas de vidro que tinham que retornar após seu uso? Agora com a idéia que "o saco é um saco" e mostrarem que podemos mudar o ambiente com sacolas reutilizáveis.. Tá voltando a idéia das garrafas retornáveis..

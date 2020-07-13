@@ -1,29 +1,23 @@
 ---
-id: 1679
-title: 'Docker no windows 10: Pra que tanta placa de rede no Hyper-V?'
-date: 2018-04-22T09:30:25+00:00
 author: lpsouza
-layout: post
-guid: https://luizsouza.com.br/?p=1679
-permalink: /2018/04/22/docker-no-windows-10-pra-que-tanta-placa-de-rede-no-hyper-v/
-image: https://luizsouza.com.br/wp-content/uploads/2018/04/Capturar.png
-star: false
 category: blog
-categories:
-  - TIC
-  - Windows
+date: 2018-04-22 09:30:25+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2018/04/Capturar.png
+layout: post
 tags:
-  - "1709"
-  - Docker
-  - Fall Creators Update
-  - Hyper-V
-  - Hypervisor
-  - NAT
-  - Networking
-  - vEthernet
-  - Windows
-  - Windows 10
+- '1709'
+- Docker
+- Fall Creators Update
+- Hyper-V
+- Hypervisor
+- NAT
+- Networking
+- vEthernet
+- Windows
+- Windows 10
+title: 'Docker no windows 10: Pra que tanta placa de rede no Hyper-V?'
 ---
+
 Bom, aqui estou para novamente falar sobre Hyper-V e sua placas que surgem "magicamente"! Falei já aqui no meu blog sobre [Problema ao apagar switch virtual no Hyper-V](https://luizsouza.com.br/2017/12/13/problema-ao-apagar-switch-virtual-no-hyper-v-resolvido/) onde mostro todo o caminho que levei para remover uma placa de rede com o nome de _vEthernet (nat)_ alguns dias depois do post que comentei, reparei que a placa havia voltado a aparecer no meu Windows 10. Bom, como foi numa época conturbada de TCC e outros afazeres, eu deixei de tentar entender e apenas aceitei o fato que meu computador precisava de duas placas de redes virtuais para fazer NAT.
 
 Mas como não sou de ficar parado quanto aos "porquês" da infra ou do desenvolvimento... Hoje, brincando com o meu Docker, resolvi ir a fundo e descobrir porque quando temos Docker e Hyper-V, ele sai configurando tanta placa de rede! Para começar, temos basicamente 3 placas de rede virtuais criadas quando falamos da dupla Docker e Hyper-V:

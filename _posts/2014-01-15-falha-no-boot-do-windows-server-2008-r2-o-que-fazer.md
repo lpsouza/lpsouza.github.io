@@ -1,29 +1,24 @@
 ---
-id: 1289
-title: 'Falha no boot do Windows Server 2008 R2 - O que fazer?'
-date: 2014-01-15T12:04:21+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1289
-permalink: /2014/01/15/falha-no-boot-do-windows-server-2008-r2-o-que-fazer/
-image: https://luizsouza.com.br/wp-content/uploads/2014/01/repair.jpg
-star: false
 category: blog
-categories:
-  - TIC
+date: 2014-01-15 12:04:21+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2014/01/repair.jpg
+layout: post
 tags:
-  - Boot
-  - Informática
-  - Networking
-  - Problema
-  - Prompt de Comando
-  - Servidores
-  - Sistema Operacional
-  - Solução
-  - Windows
-  - Windows Server
-  - Windows Server 2008 R2
+- Boot
+- Informática
+- Networking
+- Problema
+- Prompt de Comando
+- Servidores
+- Sistema Operacional
+- Solução
+- Windows
+- Windows Server
+- Windows Server 2008 R2
+title: Falha no boot do Windows Server 2008 R2 - O que fazer?
 ---
+
 Olha uma coisa que eu estou sofrendo de ontem pra cá é isso - Problema de boot em um Windows Server 2008 R2 de produção do colégio onde presto serviços. Ele é um servidor virtualizado em um Hyper-V Server 2012 e desde que migrei de um dos servidores Hyper-V para outro, simplesmente o boot deixou de funcionar.
 
 Desde ontem as 21hs até agora, estou lendo diversos blogs, tutoriais de ajuda e fóruns sobre o assunto e vi que existem algumas diversas ferramentas para a correção de problemas de boot em sistemas operacionais da linha server e client. Deixo abaixo algumas das mais importantes que achei:

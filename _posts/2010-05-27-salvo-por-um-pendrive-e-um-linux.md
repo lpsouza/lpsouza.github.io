@@ -1,24 +1,24 @@
 ---
-title: Salvo por um pendrive.. E um Linux!
-date: 2010-05-27T22:25:05+00:00
 author: lpsouza
-layout: post
-permalink: /2010/05/27/salvo-por-um-pendrive-e-um-linux/
 category: Tech
+date: 2010-05-27 22:25:05+00:00
+layout: post
 tags:
-  - chkdsk
-  - Disco Rígido
-  - Format
-  - Hardware
-  - HD externo
-  - Informática
-  - Linux
-  - Notebook
-  - Problema
-  - Recuperar dados
-  - Sistema Operacional
-  - TI
+- chkdsk
+- Disco Rígido
+- Format
+- Hardware
+- HD externo
+- Informática
+- Linux
+- Notebook
+- Problema
+- Recuperar dados
+- Sistema Operacional
+- TI
+title: Salvo por um pendrive.. E um Linux!
 ---
+
 Os anos passam, mas uma frase sempre continua viva:   _"Em casa de ferreiro, espeto é de pau"_ !! E como não podemos fugir a regra, este que vos escreve está passando por uma situação muito constrangedora.
 
 Quem me conhece, sabe que adoro a mobilidade ao extremo, por isso possuo um notebook da Positivo (e somente ele) como meu PC em casa e como meu PC no trabalho... É pratico, não concordam?? Pois é... Depois de seus 2 anos e alguns meses, ele começou a apresentar problemas.

@@ -1,17 +1,17 @@
 ---
-title: 'Candidata troca votos por pirulito para chegar à final do "Miss Orkut"'
-date: 2009-09-01T14:10:50+00:00
 author: lpsouza
-layout: post
-permalink: /2009/09/01/candidata-troca-votos-por-pirulito-para-chegar-a-final-do-miss-orkut/
 category: Tech
+date: 2009-09-01 14:10:50+00:00
+layout: post
 tags:
-  - Brasil
-  - Concurso
-  - Miss
-  - Orkut
-  - Politica
+- Brasil
+- Concurso
+- Miss
+- Orkut
+- Politica
+title: Candidata troca votos por pirulito para chegar à final do "Miss Orkut"
 ---
+
 Aprendendo com a politica!!!
 
 > _No final de semana do Dia dos Pais, Késia colocou um laptop embaixo do braço e foi para o shopping de São Luís. Na praça de alimentação, ela "vendia seu peixe", informando quem passava sobre o concurso, que estava lutando para ficar entre as dez finalistas e, por fim, pedia os votos. Quem quisesse podia votar na hora, usando o laptop de Késia. Após o voto, o eleitores ganhavam um pirulito, como forma "singela" de agradecimento._

@@ -1,31 +1,28 @@
 ---
-title: Usando 3G por vias alternativas no seu PC
-date: 2009-11-24T12:02:18+00:00
 author: lpsouza
-layout: post
-permalink: /2009/11/24/usando-3g-por-vias-alternativas-no-seu-pc/
 category: Tech
-categories:
-  - Móvel
-  - WWW
+date: 2009-11-24 12:02:18+00:00
+layout: post
 tags:
-  - 3G
-  - Claro
-  - Computadores
-  - E71
-  - Fica a dica
-  - Hardware
-  - Informática
-  - Netbook
-  - Networking
-  - Nokia
-  - Notebook
-  - Redes de Computadores
-  - S60
-  - Smartphone
-  - Software
-  - Symbian
+- 3G
+- Claro
+- Computadores
+- E71
+- Fica a dica
+- Hardware
+- Informática
+- Netbook
+- Networking
+- Nokia
+- Notebook
+- Redes de Computadores
+- S60
+- Smartphone
+- Software
+- Symbian
+title: Usando 3G por vias alternativas no seu PC
 ---
+
 Bom, e quem disse que para acessar no seu PC, Notebook ou Netbook, vocês precisam daquele modemzinho e mais um chip (mais uma conta), para acessar as redes 3G? Com seu Smartphone aliado a pequenos softwares (alguns de fácil aquisição e outros com suas licenças), fica muito simples e fácil acessar internet por meio destas redes.
 
 Tá certo uma coisa: Não se compara os planos para Modem vs planos para Smartphones, a maioria dos modens tem planos de acesso ilimitados (ou limitados a trafego reduzido). Mas para aqueles que usam outros meios de internet (a maioria em seus ADSL ou Cable Modem), e por falta deste meio, precisar acessar internet com urgência (ou para aqueles que possuem Notebook ou Netbook e quer ficar tranquilo em acessar internet onde estiver).. Fica a dica!

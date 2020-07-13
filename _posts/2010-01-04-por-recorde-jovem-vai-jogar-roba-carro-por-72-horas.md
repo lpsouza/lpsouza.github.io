@@ -1,19 +1,19 @@
 ---
-title: 'Por recorde, jovem vai jogar "roba carro" por 72 horas!'
-date: 2010-01-04T08:34:34+00:00
 author: lpsouza
-layout: post
-permalink: /2010/01/04/por-recorde-jovem-vai-jogar-roba-carro-por-72-horas/
 category: Games
+date: 2010-01-04 08:34:34+00:00
+layout: post
 tags:
-  - "2010"
-  - Games
-  - Grand Theft Auto
-  - Ha-ha!
-  - Jogos
-  - Roba Carro
-  - Video-game
+- '2010'
+- Games
+- Grand Theft Auto
+- Ha-ha!
+- Jogos
+- Roba Carro
+- Video-game
+title: Por recorde, jovem vai jogar "roba carro" por 72 horas!
 ---
+
 E assim começa nosso ano de 2010! Pessoas tentando a superação! Tentando ser o melhor! Mas jogando "roba carro"??!? Ahahhahha!
 
 Feliz Ano Novo pessoal! 🙂

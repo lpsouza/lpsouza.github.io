@@ -1,20 +1,20 @@
 ---
-title: Meu segundo projeto usando WordPress (em andamento)
-date: 2009-08-29T12:10:52+00:00
 author: lpsouza
-layout: post
-permalink: /2009/08/29/meu-segundo-projeto-usando-wordpress-em-andamento/
 category: Tech
+date: 2009-08-29 12:10:52+00:00
+layout: post
 tags:
-  - Blog
-  - CMS
-  - Content Management Systems
-  - Joomla
-  - SGC
-  - Sistema de Gestão de Conteúdo
-  - Software
-  - Wordpress
+- Blog
+- CMS
+- Content Management Systems
+- Joomla
+- SGC
+- Sistema de Gestão de Conteúdo
+- Software
+- Wordpress
+title: Meu segundo projeto usando WordPress (em andamento)
 ---
+
 Realmente estou gostando de trabalhar usando o Wordpress em meu segundo projeto.. O site da IHCenter.
 
 Meu primeiro projeto foi este site que está acessando neste exato momento.

@@ -1,20 +1,20 @@
 ---
-title: 'Novell será vendida em 2 partes - diz NY Post'
-date: 2010-09-21T09:00:30+00:00
 author: lpsouza
-layout: post
-permalink: /2010/09/21/novell-sera-vendida-em-2-partes-diz-ny-post/
 category: Tech
+date: 2010-09-21 09:00:30+00:00
+layout: post
 tags:
-  - Informática
-  - Linux
-  - Networking
-  - NOS
-  - Redes de Computadores
-  - Sistema Operacional
-  - Software
-  - SuSE
+- Informática
+- Linux
+- Networking
+- NOS
+- Redes de Computadores
+- Sistema Operacional
+- Software
+- SuSE
+title: Novell será vendida em 2 partes - diz NY Post
 ---
+
 Galerinha amiga... Tá aí uma noticia que me deixa com medo e ao mesmo tempo triste... Uma empresa que foi uma potência no quesito servidores de missão critica, desde que comprou o SuSE (desculpe, mas tenho que desabafar) "desandou o caldo". Eles tentaram desafiar empresas com um sistema operacional e depois quando viram que não dava, resolveram montar o hibrido de Linux e Netware (a pior aberração).
 
 Vamos sentar e acompanhar o fim de mais um capitulo da Novell! (Isso é bom ou ruim?)

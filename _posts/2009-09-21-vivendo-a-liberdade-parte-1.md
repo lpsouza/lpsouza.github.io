@@ -1,29 +1,28 @@
 ---
-title: 'Vivendo a liberdade - parte 1'
-date: 2009-09-21T16:49:01+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=210
-permalink: /2009/09/21/vivendo-a-liberdade-parte-1/
 category: Linux
+date: 2009-09-21 16:49:01+00:00
+layout: post
 tags:
-  - Computadores
-  - Curiosidade
-  - Hardware
-  - Informática
-  - Linux
-  - Networking
-  - Notebook
-  - Pessoal
-  - Redes de Computadores
-  - SegInfo
-  - Shellscript
-  - Software
-  - TI
-  - Trabalho
-  - Windows
-  - Windows XP
+- Computadores
+- Curiosidade
+- Hardware
+- Informática
+- Linux
+- Networking
+- Notebook
+- Pessoal
+- Redes de Computadores
+- SegInfo
+- Shellscript
+- Software
+- TI
+- Trabalho
+- Windows
+- Windows XP
+title: Vivendo a liberdade - parte 1
 ---
+
 ![TUX](https://luizsouza.com.br/wp-content/upload/2009/09/tux-seiyar.png)
 
 E aqui começa a minha jornada na mudança de estilo de vida Windows para Linux.

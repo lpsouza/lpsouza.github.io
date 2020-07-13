@@ -1,32 +1,25 @@
 ---
-id: 1465
-title: 'Mundo das nuvens: Swap em linux'
-date: 2015-12-19T12:45:49+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1465
-permalink: /2015/12/19/mundo-das-nuvens-swap-em-linux/
-star: false
 category: blog
-categories:
-  - Cloud
-  - Linux
-  - TIC
+date: 2015-12-19 12:45:49+00:00
+layout: post
 tags:
-  - Cloud
-  - Cloud Computing
-  - Compute
-  - Linux
-  - Memory
-  - Storage
-  - Swap
-  - Swap Memory
-  - swapfile
-  - Virtual Machine
-  - Virtual Memory
-  - VM
-  - VM image
+- Cloud
+- Cloud Computing
+- Compute
+- Linux
+- Memory
+- Storage
+- Swap
+- Swap Memory
+- swapfile
+- Virtual Machine
+- Virtual Memory
+- VM
+- VM image
+title: 'Mundo das nuvens: Swap em linux'
 ---
+
 Desde que iniciei minha vida nas nuvens (cloud computing ou cloud services), uma questão que sempre tenho que resolver, é a questão de criar a memória de swap. Os provedores de nuvem pública não deixam configurados espaços de memória swap, mas porque?
 
 1. A maneira mais fácil de ter uma imagem de sistema operacional para qualquer configuração de máquina

@@ -1,27 +1,19 @@
 ---
-id: 1259
-title: 'E 2014 chegou... e esse site?'
-date: 2014-01-07T13:33:29+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1259
-permalink: /2014/01/07/e-2014-chegou-e-esse-site/
-star: false
 category: blog
-categories:
-  - Pessoal
-  - Programação
-  - TIC
-  - WWW
+date: 2014-01-07 13:33:29+00:00
+layout: post
 tags:
-  - "2014"
-  - Ano Novo
-  - Blog
-  - Nerd
-  - Site
-  - TI
-  - Wordpress
+- '2014'
+- Ano Novo
+- Blog
+- Nerd
+- Site
+- TI
+- Wordpress
+title: E 2014 chegou... e esse site?
 ---
+
 Nossa, novamente deixei meu site largado as traças por um tempo (desde agosto de 2013)! Passou 2013, muita coisa de lá pra cá veio ao encontro de minha vida, algumas coisas boas e outra nem tanto assim.
 
 Mas o ano passou, estamos em 2014, e como todo o inicio de ano, aquela esperança de que "as coisas vão melhorar" bate nossa porta e a gente aceita e fica feliz! Um ano de copa aqui no país, um ano de eleições, e por tanto um ano que vai ser corrido e parado ao mesmo tempo!

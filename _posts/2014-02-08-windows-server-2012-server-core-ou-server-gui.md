@@ -1,28 +1,23 @@
 ---
-id: 1299
-title: 'Windows Server 2012: Server Core ou Server GUI?'
-date: 2014-02-08T20:39:06+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1299
-permalink: /2014/02/08/windows-server-2012-server-core-ou-server-gui/
-image: https://luizsouza.com.br/wp-content/uploads/2014/02/IC2357571.png
-star: false
 category: blog
-categories:
-  - TIC
+date: 2014-02-08 20:39:06+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2014/02/IC2357571.png
+layout: post
 tags:
-  - Computadores
-  - Fica a dica
-  - Informática
-  - PowerShell
-  - Server
-  - Server Core
-  - Server GUI
-  - Windows
-  - Windows Server
-  - Windows Server 2012
+- Computadores
+- Fica a dica
+- Informática
+- PowerShell
+- Server
+- Server Core
+- Server GUI
+- Windows
+- Windows Server
+- Windows Server 2012
+title: 'Windows Server 2012: Server Core ou Server GUI?'
 ---
+
 Estou configurando um servidor no meu notebook (máquina virtual no Hyper-V) e me deparei com a questão de qual tipo de instalação deveria escolher, a _Server Core_ ou a _Server GUI_? Primeiro, vamos entender o que cada uma impacta na instalação:
 
 **Server GUI**: É a versão que todos conhecem do servidor, isto é, vem completa a interface de administração. Em resumo, é a velha carinha de qualquer Windows que conhecemos (na realidade, o Server 2012 tem uma cara mais simples do Windows 8).

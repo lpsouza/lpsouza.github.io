@@ -1,18 +1,18 @@
 ---
-title: Google solar e a teoria do Exterminador do Futuro
-date: 2009-09-14T20:35:16+00:00
 author: lpsouza
-layout: post
-permalink: /2009/09/14/google-solar-e-a-teoria-do-exterminador-do-futuro/
 category: Tech
+date: 2009-09-14 20:35:16+00:00
+layout: post
 tags:
-  - Controle
-  - Energia solar
-  - Google
-  - Humanidade
-  - Solar
-  - Sustentável
+- Controle
+- Energia solar
+- Google
+- Humanidade
+- Solar
+- Sustentável
+title: Google solar e a teoria do Exterminador do Futuro
 ---
+
 Quando eu digo que os filmes de ficção são na verdade possíveis analises do nosso futuro de forma muito introspectiva, pensam que sou doido das ideias.
 
 ![Google Logo](https://luizsouza.com.br/wp-content/upload/2009/09/googlelogo1.jpg)

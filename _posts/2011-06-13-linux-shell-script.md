@@ -1,30 +1,18 @@
 ---
-id: 724
-title: 'Linux: Shell Script'
-date: 2011-06-13T15:32:41+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=724
-permalink: /2011/06/13/linux-shell-script/
-aktt_tweeted:
-  - "1"
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-star: false
 category: blog
-categories:
-  - Linux
-  - TIC
+date: 2011-06-13 15:32:41+00:00
+layout: post
 tags:
-  - Computadores
-  - Fica a dica
-  - Linux
-  - Programação
-  - Script
-  - Shell Script
+- Computadores
+- Fica a dica
+- Linux
+- Programação
+- Script
+- Shell Script
+title: 'Linux: Shell Script'
 ---
+
 Tá aí uma coisa que poucos usuários linux atuais sabem mexer a fundo: Shell Script.
 
 Mas o que é isso exatamente? Shell Script é uma linguagem de scripts (não é considerado uma linguagem de programação) para uso de alguns interpretadores de comandos, usados por diversos sistemas operacionais. Os que mais usam são os GNU/Linux. (leia mais na Wikipédia sobre [ShellScript](http://pt.wikipedia.org/wiki/Shell_script)).

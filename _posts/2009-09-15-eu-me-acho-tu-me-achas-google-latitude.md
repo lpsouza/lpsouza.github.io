@@ -1,27 +1,27 @@
 ---
-title: 'Eu me acho, tu me achas! - Google Latitude'
-date: 2009-09-15T16:20:27+00:00
 author: lpsouza
-layout: post
-permalink: /2009/09/15/eu-me-acho-tu-me-achas-google-latitude/
 category: Tech
+date: 2009-09-15 16:20:27+00:00
+layout: post
 tags:
-  - Blog
-  - GeoJSON
-  - Google
-  - Google Maps
-  - GPS
-  - Gtalk
-  - KML
-  - Mobilidade
-  - Nokia
-  - Orkut
-  - Programação
-  - RSS
-  - Smartphone
-  - Software
-  - Symbian
+- Blog
+- GeoJSON
+- Google
+- Google Maps
+- GPS
+- Gtalk
+- KML
+- Mobilidade
+- Nokia
+- Orkut
+- Programação
+- RSS
+- Smartphone
+- Software
+- Symbian
+title: Eu me acho, tu me achas! - Google Latitude
 ---
+
 Desde que tinha um Nokia E65 eu uso e adoro o Google Maps para Symbian S60. Uma das melhores features dele era que ele triangulava mesmo sem o auxilio do GPS pelas antenas da empresa de celular e mostrava sua localização aproximada. Tá certo que a margem de erro era de mais de 1Km, mas já ajudava!! Depois quando usei no Nokia N95 8Gb, eu maravilhei com a era GPS, onde me localizava com uma margem de erro de uns 100mts (aproximadamente, pois quando o celular não acha os satélites de GPS próximos.. esquece!).
 
 Ainda na época que tinha o N95 8Gb, eu usei um produto que foi colocado junto com o Google Maps Mobile: o Google Latitude! E esse sim veio com uma proposta interessante: Você alem de ter a tua localização, ter a localização de teus amigos!!! Usei esse aplicativo por meses sem ter amigos (pra ser sincero tinha meu colega de trabalho que tinha o mesmo aparelho e trabalhava comigo e então era inútil ter esse aplicativo).

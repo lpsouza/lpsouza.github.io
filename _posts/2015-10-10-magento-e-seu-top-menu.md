@@ -1,28 +1,21 @@
 ---
-id: 1454
-title: Magento e seu top menu!
-date: 2015-10-10T19:51:55+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1454
-permalink: /2015/10/10/magento-e-seu-top-menu/
-star: false
 category: blog
-categories:
-  - Programação
-  - TIC
-  - WWW
+date: 2015-10-10 19:51:55+00:00
+layout: post
 tags:
-  - Custom
-  - e-commerce
-  - Fica a dica
-  - Magento
-  - Menu
-  - Personalizado
-  - PHP
-  - Programação
-  - Topmenu
+- Custom
+- e-commerce
+- Fica a dica
+- Magento
+- Menu
+- Personalizado
+- PHP
+- Programação
+- Topmenu
+title: Magento e seu top menu!
 ---
+
 Estive trabalhando em um projeto de personalização de menu do Magento e percebi uma questão muito chata dele: A documentação oficial é muito fraca! 🙁
 
 Com isso tive que pesquisar na internet para entender os objetos que o Magento me libera para customizar e foi uma briga feia!! Até que achei uma explicação muito simples no link [*Generate Magento top menu navigation html [$_menu = $this->getHtml('level-top')]*](http://www.w3bdeveloper.com/how-to/generate-magento-top-menu-navigation-html-menu-this-gethtml-level-top/).

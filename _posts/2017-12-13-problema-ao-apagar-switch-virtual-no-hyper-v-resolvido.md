@@ -1,33 +1,27 @@
 ---
-id: 1645
-title: 'Problema ao apagar switch virtual no Hyper-V [Resolvido]'
-date: 2017-12-13T23:52:00+00:00
 author: lpsouza
-layout: post
-guid: https://luizsouza.com.br/?p=1645
-permalink: /2017/12/13/problema-ao-apagar-switch-virtual-no-hyper-v-resolvido/
-image: https://luizsouza.com.br/wp-content/uploads/2017/12/erro-deletando-vmswitch.png
-star: false
 category: blog
-categories:
-  - TIC
-  - Windows
+date: 2017-12-13 23:52:00+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2017/12/erro-deletando-vmswitch.png
+layout: post
 tags:
-  - Comutador
-  - Comutador Virtual
-  - Fall Creators Update
-  - Fica a dica
-  - Hyper-V
-  - Hypervisor
-  - Microsoft
-  - NAT
-  - PowerShell
-  - Rede
-  - Switch
-  - vSwitch
-  - Windows
-  - Windows 10
+- Comutador
+- Comutador Virtual
+- Fall Creators Update
+- Fica a dica
+- Hyper-V
+- Hypervisor
+- Microsoft
+- NAT
+- PowerShell
+- Rede
+- Switch
+- vSwitch
+- Windows
+- Windows 10
+title: Problema ao apagar switch virtual no Hyper-V [Resolvido]
 ---
+
 Após instalada a versão 1709 do Windows 10, também conhecida como _Fall Creators Update_, comecei a ter problemas com os switchs virtuais do Hyper-V. Bom, como não costumo ser um usuário "padrão", eu havia um diferêncial: Alem do Hyper-V, já estava instalado antes da atualização, havia também o Docker instalado em sua versão 17.09. Então o que antes havia apenas o switch "DockerNAT", agora surgiu mais dois! Um tal de "Opção Padrão" e um "nat" e logo pensei: Ué? Quem mandou ter mais de um vSwitch aqui (Sim, tenho uns ticks)? Eis que me deparei com uma surpresa "agradável".
 
 ![Surprise](https://luizsouza.com.br/wp-content/uploads/2017/12/aviso-opcao-padrao.png)

@@ -1,20 +1,20 @@
 ---
-title: Um post normal de Feliz Natal
-date: 2009-12-25T11:28:39+00:00
 author: lpsouza
-layout: post
-permalink: /2009/12/25/um-post-normal-de-feliz-natal/
 category: Blogging
+date: 2009-12-25 11:28:39+00:00
+layout: post
 tags:
-  - 25 de dezembro
-  - Fé
-  - Humanidade
-  - Jesus
-  - Líder
-  - Natal
-  - Papai Noel
-  - Xmas
+- 25 de dezembro
+- Fé
+- Humanidade
+- Jesus
+- Líder
+- Natal
+- Papai Noel
+- Xmas
+title: Um post normal de Feliz Natal
 ---
+
 Então hoje é Natal! Época em que muitos apenas esperam presentes.. Outros procuram a paz espiritual.. E por aí vai.
 
 Eu tenho minhas ideologias que Natal é um dia como outro qualquer, onde comemoramos o aniversário de alguém que foi muito especial para a história deste planeta, pois foi uma pessoa que mostrou como ser um líder, e mostrou como a fé é um sentimento tão necessário para nós.

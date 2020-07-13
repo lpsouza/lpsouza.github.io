@@ -1,21 +1,21 @@
 ---
-title: Ubuntu rodando MS Office 2007?
-date: 2010-09-10T10:28:40+00:00
 author: lpsouza
-layout: post
-permalink: /2010/09/10/ubuntu-rodando-ms-office-2007/
 category: Tech
+date: 2010-09-10 10:28:40+00:00
+layout: post
 tags:
-  - BR-Office
-  - Computadores
-  - Fica a dica
-  - Linux
-  - Microsoft
-  - Office
-  - Office 2007
-  - OpenOffice
-  - Ubuntu
+- BR-Office
+- Computadores
+- Fica a dica
+- Linux
+- Microsoft
+- Office
+- Office 2007
+- OpenOffice
+- Ubuntu
+title: Ubuntu rodando MS Office 2007?
 ---
+
 Acabei de ler um twit do meu amigo [@ubuntudicas](http://twitter.com/ubuntudicas) que me deixou intrigado: "Office 2007 no Ubuntu."
 
 Eu acredito que muito de usuários não tentarem uma plataforma linux na vida deles é a falta do Office (que claro, é da Microsoft). Porque esse seria um dos principais problemas para a migração? Simples: Hoje, se analisarmos as interfaces gráficas do Windows, Linux e até do Mac, estão muito parecidas.. Então isso não é mais um problema (Ambiente).

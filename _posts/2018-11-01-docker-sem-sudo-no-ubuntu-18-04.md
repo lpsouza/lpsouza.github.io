@@ -1,19 +1,18 @@
 ---
-title: 'Docker sem sudo no Ubuntu 18.04'
-date: 2018-11-01T21:18:00-03:00
 author: lpsouza
-layout: post
-permalink: /2018/11/01/docker-sem-sudo-no-ubuntu-18-04/
-star: false
 category: blog
+date: 2018-11-01 21:18:00-03:00
+layout: post
 tags:
-  - docker
-  - nosudo
-  - sudo
-  - ubuntu
-  - linux
-  - permissions
+- docker
+- nosudo
+- sudo
+- ubuntu
+- linux
+- permissions
+title: Docker sem sudo no Ubuntu 18.04
 ---
+
 Tenho o costume de usar o docker para algo mais inusitado que o normal: Criar comandos para coisas que não quero instalar no computador. Como assim? Um exemplo foi o `dotnet` que queria não ter instalado, mas queria o comando para criar meus projetos em .NET Core. E então eu crio um shell script chamado dotnet, coloco em um diretório `/bin` e não preciso mais me preocupar se esta instalado ou não! Veja o exemplo do script abaixo:
 
 ```bash

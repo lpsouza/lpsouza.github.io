@@ -1,33 +1,28 @@
 ---
-id: 1324
-title: Erro ao retornar do suspender no Windows 8.1
-date: 2014-08-30T16:27:36+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1324
-permalink: /2014/08/30/erro-ao-retornar-do-suspender-no-windows-8-1/
-image: https://luizsouza.com.br/wp-content/uploads/2014/08/0x00000113.png
-star: false
 category: blog
-categories:
-  - TIC
+date: 2014-08-30 16:27:36+00:00
+image: https://luizsouza.com.br/wp-content/uploads/2014/08/0x00000113.png
+layout: post
 tags:
-  - "0x00000113"
-  - 8670M
-  - AMD
-  - Direct X
-  - Erro
-  - Fica a dica
-  - Fix It
-  - HD Graphics
-  - Intel
-  - Microsoft
-  - Radeon
-  - SFC
-  - Video
-  - Windows
-  - Windows 8.1
+- '0x00000113'
+- 8670M
+- AMD
+- Direct X
+- Erro
+- Fica a dica
+- Fix It
+- HD Graphics
+- Intel
+- Microsoft
+- Radeon
+- SFC
+- Video
+- Windows
+- Windows 8.1
+title: Erro ao retornar do suspender no Windows 8.1
 ---
+
 Estive com um problema nas últimas semanas com meu notebook, onde ao retornar de um suspender, ele simplesmente reiniciava! Para os mais leigos, quando um computador com Windows (desktop) reiniciar do nada, ou por uma ação, é bem provável que é um caso de BSOD (Blue Screen Of Death), ou a famosa "Tela Azul Da Morte".
 
 A BSOD é causada, normalmente, por uma instrução do sistema operacional que levou a um erro critico, e para a proteção e funcionamento do sistema, salva a memória em um arquivo chamado MEMDUMP para diagnóstico e reinicia para tentar resolver o problema. Então isso não é uma coisa ruim, apenas um sistema de proteção, mas convenhamos que é um problema se por um acaso for um momento onde você estava fazendo algo e não tenha salvo (um documento ou um jogo, por exemplo).

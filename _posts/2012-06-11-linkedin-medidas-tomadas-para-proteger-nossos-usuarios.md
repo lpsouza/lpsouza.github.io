@@ -1,25 +1,19 @@
 ---
-id: 1029
-title: 'LinkedIn: Medidas Tomadas para Proteger Nossos Usuários'
-date: 2012-06-11T09:53:01+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=1029
-permalink: /2012/06/11/linkedin-medidas-tomadas-para-proteger-nossos-usuarios/
-star: false
 category: blog
-categories:
-  - TIC
-  - WWW
+date: 2012-06-11 09:53:01+00:00
+layout: post
 tags:
-  - Fica a dica
-  - Hack
-  - Hackers
-  - Hash
-  - Linkedin
-  - Redes Sociais
-  - Senhas
+- Fica a dica
+- Hack
+- Hackers
+- Hash
+- Linkedin
+- Redes Sociais
+- Senhas
+title: 'LinkedIn: Medidas Tomadas para Proteger Nossos Usuários'
 ---
+
 Como minha conta foi uma das que foram comprometidas, acredito que de muitas pessoas devam ter acontecido o mesmo. Então segue as explicações do Vicente Silveira, do LinkedIn.
 
 > É muito importante manter nossos usuários informados sobre a notícia de que algumas senhas do LinkedIn foram comprometidas. Gostaríamos de reiterar que pedimos desculpas pelo inconveniente que isso possa ter causado aos nossos usuários.

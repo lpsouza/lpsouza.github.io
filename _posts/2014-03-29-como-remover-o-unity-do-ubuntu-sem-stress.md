@@ -1,25 +1,19 @@
 ---
-id: 1305
-title: Como remover o Unity do Ubuntu sem stress
-date: 2014-03-29T14:21:55+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1305
-permalink: /2014/03/29/como-remover-o-unity-do-ubuntu-sem-stress/
-star: false
 category: blog
-categories:
-  - Linux
-  - TIC
+date: 2014-03-29 14:21:55+00:00
+layout: post
 tags:
-  - Desktop
-  - Informática
-  - Interface Gráfica
-  - Linux
-  - Ubuntu
-  - Unity
-  - Window Maker
+- Desktop
+- Informática
+- Interface Gráfica
+- Linux
+- Ubuntu
+- Unity
+- Window Maker
+title: Como remover o Unity do Ubuntu sem stress
 ---
+
 Estava instalando um Ubuntu 13.10 em uma VM e como não queria o Unity como interface gráfica, resolvi procurar uma forma de remover e instalar a interface que eu mais gosto, isto é, a Window Maker!
 
 ![Windowmaker virtual no Hyper-V](https://luizsouza.com.br/wp-content/uploads/2014/03/windowmaker.png)

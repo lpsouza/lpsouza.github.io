@@ -1,31 +1,20 @@
 ---
-id: 925
-title: Bloquear versões antigas de browsers no Apache
-date: 2012-05-15T09:30:55+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=925
-permalink: /2012/05/15/bloquear-versoes-antigas-de-browsers-no-apache/
-aktt_notify_twitter:
-  - 'yes'
-aktt_tweeted:
-  - "1"
-star: false
 category: blog
-categories:
-  - SegInfo
-  - TIC
-  - WWW
+date: 2012-05-15 09:30:55+00:00
+layout: post
 tags:
-  - Apache
-  - Bloqueio
-  - DOS
-  - Internet
-  - Linux
-  - SegInfo
-  - Server
-  - Servidor
+- Apache
+- Bloqueio
+- DOS
+- Internet
+- Linux
+- SegInfo
+- Server
+- Servidor
+title: Bloquear versões antigas de browsers no Apache
 ---
+
 Aqui vai uma config bem legal para melhorar a segurança no acesso ao servidor Web. Com essa configuração, usando o mod_setenvif do Apache2, ele verifica as versões mais antigas dos browsers e bane o acesso a eles.
 
 O código aqui (você pode colocar no apache.conf ou similar, dependendo da distribuição de linux usada):

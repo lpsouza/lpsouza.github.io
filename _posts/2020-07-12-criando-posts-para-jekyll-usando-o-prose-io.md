@@ -1,17 +1,18 @@
 ---
-layout: post
 author: lpsouza
-date: '2020-07-12 14:41 -0300'
 category: Blogging
+date: 2020-07-12 14:41 -0300
+layout: post
 published: true
-title: Criando posts para Jekyll usando o Prose.io
 tags:
-  - Jekyll
-  - Prose
-  - Prose.io
-  - Blog
-  - Markdown
+- Jekyll
+- Prose
+- Prose.io
+- Blog
+- Markdown
+title: Criando posts para Jekyll usando o Prose.io
 ---
+
 A um pouco mais de um ano, publiquei um post onde comentei da minha [mudança do Wordpress para usar o Jekyll](https://luizsouza.com/2018/10/10/larguei-o-wordpress/) e lá apresento minha opinião sobre usar páginas estáticas para manter meu blog, usando arquivos em formato [Markdown](https://daringfireball.net/projects/markdown/). Bom, isso pareceu bem simples e prático, porque posso escrever um post virtualmente com qualquer sistema operacional, mesmo com ou sem interface gráfica ou ainda com ou sem um navegador! 😍
 
 Bom, mas como diria [Joseph Climber](https://www.youtube.com/watch?v=d88x4qZ_zKU), "a vida é uma caixinha de surpresas" e com isso percebi que perdi a vontade de escrever posts no meu blog em Jekyll! E porque?!?? Porque criei uma "dificuldade" em ter que sempre que escrever um post, criar um metadata (exemplo abaixo) com as informações do post. E aí comecei a criar soluções "não elegantes" para isso (lê-se criar um script no meu notebook, outro script em outro computador, esquecer em um terceiro computador, ficar carente no celular, etc). Poxa! Exatamente o que eu queria de praticidade, eu estava criando uma bola de neve! O que fazer?

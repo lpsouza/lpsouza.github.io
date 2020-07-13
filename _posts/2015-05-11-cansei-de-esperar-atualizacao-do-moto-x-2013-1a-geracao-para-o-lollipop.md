@@ -1,34 +1,28 @@
 ---
-id: 1426
-title: 'Cansei de esperar: Atualização do Moto X (2013 - 1ª Geração) para o Lollipop!'
-date: 2015-05-11T01:28:16+00:00
 author: lpsouza
-layout: post
-guid: http://ihcenter.com.br/luizsouza/?p=1426
-permalink: /2015/05/11/cansei-de-esperar-atualizacao-do-moto-x-2013-1a-geracao-para-o-lollipop/
-star: false
 category: blog
-categories:
-  - Móvel
-  - TIC
+date: 2015-05-11 01:28:16+00:00
+layout: post
 tags:
-  - 1st Gen
-  - 1ª Geração
-  - "2013"
-  - 4.4.4
-  - "5.1"
-  - Android
-  - Atualização
-  - KitKat
-  - Lolipop
-  - Mobilidade
-  - Moto X
-  - Motorola
-  - OTA
-  - Primeira geração
-  - Sistema Operacional
-  - smartphones
+- 1st Gen
+- 1ª Geração
+- '2013'
+- 4.4.4
+- '5.1'
+- Android
+- Atualização
+- KitKat
+- Lolipop
+- Mobilidade
+- Moto X
+- Motorola
+- OTA
+- Primeira geração
+- Sistema Operacional
+- smartphones
+title: 'Cansei de esperar: Atualização do Moto X (2013 - 1ª Geração) para o Lollipop!'
 ---
+
 E então, até hoje não vi atualizações em meu celular, o Moto X de primeira geração, para o Lolipop. Faz um tempo que foi liberado o 5.0.1 para atualizar e nada do meu telefone avisar que esta disponível. 🙁 Agora foi liberado em abril uma atualização nova, que leva o 5.1 aos Moto X e novamente, nada de aviso! Então, cansado de esperar a boa vontade da Motorola em liberar as atualizações para a minha versão, corri atras de onde encontrar!
   
 Pesquisando na internet, achei um forum de usuários da Motorola onde tem um post chamado [[OTA] Android 5.1 Lollipop | Moto X 2013](http://www.motoforum.com.br/topic/33-ota-android-51-lollipop-moto-x-2013/) e ele mostra como, usando a atualização OTA, como devemos proceder.

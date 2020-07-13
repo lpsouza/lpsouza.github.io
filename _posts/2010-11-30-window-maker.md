@@ -1,32 +1,20 @@
 ---
-id: 629
-title: Window Maker?
-date: 2010-11-30T13:30:16+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/2010/11/30/window-maker/
-permalink: /2010/11/30/window-maker/
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-aktt_tweeted:
-  - "1"
-  - "1"
-star: false
 category: blog
-categories:
-  - Linux
-  - TIC
+date: 2010-11-30 13:30:16+00:00
+layout: post
 tags:
-  - AfterStep
-  - Computadores
-  - Interface Gráfica
-  - Leve
-  - Linux
-  - Unix
-  - Window Maker
-  - X Window
+- AfterStep
+- Computadores
+- Interface Gráfica
+- Leve
+- Linux
+- Unix
+- Window Maker
+- X Window
+title: Window Maker?
 ---
+
 Quem lembra deste sistema de janelas para Linux? Os mais antigos (da época do Conectiva 3), lembra deste sistema e a impressão era ou de amor eterno ou de ódio eterno. Porque?
 
 O sistema fugia totalmente do formato de exibição padrão dos sistemas gráficos da época (vide Windows 95/98 ou Mac OS). Ele usava o formato AfterStep, usado muito em sistemas Unix.

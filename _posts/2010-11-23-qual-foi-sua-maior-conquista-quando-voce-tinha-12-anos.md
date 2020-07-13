@@ -1,34 +1,21 @@
 ---
-id: 619
-title: Qual foi sua maior conquista quando você tinha 12 anos?
-date: 2010-11-23T08:40:58+00:00
 author: lpsouza
-layout: post
-guid: http://luizsouza.com.br/?p=619
-permalink: /2010/11/23/qual-foi-sua-maior-conquista-quando-voce-tinha-12-anos/
-aktt_tweeted:
-  - "1"
-  - "1"
-aktt_notify_twitter:
-  - 'yes'
-  - 'yes'
-star: false
 category: blog
-categories:
-  - Programação
-  - TIC
-  - WWW
+date: 2010-11-23 08:40:58+00:00
+layout: post
 tags:
-  - 12 anos
-  - Analise
-  - Browser
-  - Computadores
-  - Conquista
-  - Dólares
-  - Firefox
-  - Informática
-  - Internet
+- 12 anos
+- Analise
+- Browser
+- Computadores
+- Conquista
+- Dólares
+- Firefox
+- Informática
+- Internet
+title: Qual foi sua maior conquista quando você tinha 12 anos?
 ---
+
 > Para Alex Miller, foi descobrir uma difícil falha de segurança no Firefox e ganhar US$3.000 dólares com isso.
 >
 > ![Alex Muler](https://luizsouza.com.br/wp-content/upload/2010/11/alexmiller.jpg)
