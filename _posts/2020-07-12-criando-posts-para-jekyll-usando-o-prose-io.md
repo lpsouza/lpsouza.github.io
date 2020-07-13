@@ -5,6 +5,12 @@ date: '2020-07-12 14:41 -0300'
 category: Blogging
 published: true
 title: Criando posts para Jekyll usando o Prose.io
+tags:
+  - Jekyll
+  - Prose
+  - Prose.io
+  - Blog
+  - Markdown
 ---
 A um pouco mais de um ano, publiquei um post onde comentei da minha [mudança do Wordpress para usar o Jekyll](https://luizsouza.com/2018/10/10/larguei-o-wordpress/) e lá apresento minha opinião sobre usar páginas estáticas para manter meu blog, usando arquivos em formato [Markdown](https://daringfireball.net/projects/markdown/). Bom, isso pareceu bem simples e prático, porque posso escrever um post virtualmente com qualquer sistema operacional, mesmo com ou sem interface gráfica ou ainda com ou sem um navegador! 😍
 
