@@ -64,3 +64,4 @@ prose:
                   element: "multiselect"
                   label: "Add Tags"
                   placeholder: "Choose Tags"
+                  alterable: true
