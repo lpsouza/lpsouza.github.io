@@ -59,3 +59,8 @@ prose:
                         value: "Linux"
                       - name: "Games"
                         value: "Games"
+            - name: "tags"
+              field:
+                  element: "multiselect"
+                  label: "Add Tags"
+                  placeholder: "Choose Tags"
