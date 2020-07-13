@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2010-10-31 14:46:00+00:00
 layout: post
+published: true
 tags:
 - Fica a dica
 - Informática

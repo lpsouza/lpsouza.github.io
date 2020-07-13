@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-12-23 10:07:22+00:00
 layout: post
+published: true
 tags:
 - Blog
 - Final de ano

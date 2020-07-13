@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-03-07 08:49:41+00:00
 layout: post
+published: true
 tags:
 - Atualizado
 - Blog

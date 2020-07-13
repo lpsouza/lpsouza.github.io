@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2016-08-11 15:46:09+00:00
 layout: post
+published: true
 tags:
 - Fica a dica
 - PowerShell

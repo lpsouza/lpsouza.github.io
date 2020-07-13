@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2010-05-27 22:25:05+00:00
 layout: post
+published: true
 tags:
 - chkdsk
 - Disco Rígido

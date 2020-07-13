@@ -4,6 +4,7 @@ category: blog
 date: 2014-08-30 16:27:36+00:00
 image: https://luizsouza.com.br/wp-content/uploads/2014/08/0x00000113.png
 layout: post
+published: true
 tags:
 - '0x00000113'
 - 8670M

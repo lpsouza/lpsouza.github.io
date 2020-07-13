@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-12-15 07:56:17+00:00
 layout: post
+published: true
 tags:
 - Aulas
 - Educação

@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2019-12-15 19:27:50-03:00
 layout: post
+published: true
 tags:
 - Powershell
 - Windows

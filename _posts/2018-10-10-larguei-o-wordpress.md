@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2018-10-10 21:52:00-03:00
 layout: post
+published: true
 tags:
 - Wordpress
 - Blog

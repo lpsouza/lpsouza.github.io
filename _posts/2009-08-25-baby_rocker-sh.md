@@ -3,6 +3,7 @@ author: lpsouza
 category: Linux
 date: 2009-08-25 10:11:40+00:00
 layout: post
+published: true
 tags:
 - Bebê
 - Fica a dica

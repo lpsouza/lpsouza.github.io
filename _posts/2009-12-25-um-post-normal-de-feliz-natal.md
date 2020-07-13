@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2009-12-25 11:28:39+00:00
 layout: post
+published: true
 tags:
 - 25 de dezembro
 - Fé

@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-04-03 13:30:09+00:00
 layout: post
+published: true
 tags:
 - Hospedagem
 - MySQL

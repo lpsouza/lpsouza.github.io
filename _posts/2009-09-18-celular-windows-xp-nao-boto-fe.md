@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-09-18 15:19:08+00:00
 layout: post
+published: true
 tags:
 - Celular
 - Ha-ha!

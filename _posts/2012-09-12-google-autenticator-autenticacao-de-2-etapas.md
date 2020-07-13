@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-09-12 17:31:50+00:00
 layout: post
+published: true
 tags:
 - Android
 - Autenticator

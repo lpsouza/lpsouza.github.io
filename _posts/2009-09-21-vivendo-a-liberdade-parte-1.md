@@ -3,6 +3,7 @@ author: lpsouza
 category: Linux
 date: 2009-09-21 16:49:01+00:00
 layout: post
+published: true
 tags:
 - Computadores
 - Curiosidade

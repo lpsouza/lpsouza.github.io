@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-01-14 23:32:59+00:00
 layout: post
+published: true
 tags:
 - Computadores
 - Informática

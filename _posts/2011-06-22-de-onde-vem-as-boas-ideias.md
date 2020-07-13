@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-06-22 15:25:38+00:00
 layout: post
+published: true
 tags:
 - Fica a dica
 - Ideias

@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2015-04-11 15:49:54+00:00
 layout: post
+published: true
 tags:
 - Computadores
 - Fica a dica

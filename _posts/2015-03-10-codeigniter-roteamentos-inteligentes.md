@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2015-03-10 16:30:23+00:00
 layout: post
+published: true
 tags:
 - CodeIgniter
 - Controller

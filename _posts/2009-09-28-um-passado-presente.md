@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2009-09-28 20:18:17+00:00
 layout: post
+published: true
 tags:
 - Fica a dica
 - Futuro

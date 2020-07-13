@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2018-12-08 18:31:41-03:00
 layout: post
+published: true
 tags:
 - Containers
 - LXC

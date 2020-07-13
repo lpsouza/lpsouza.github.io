@@ -4,6 +4,7 @@ category: Tech
 date: 2009-10-12 08:07:11+00:00
 image: https://luizsouza.com.br/wp-content/uploads/2009/10/tela-chkdsk.png
 layout: post
+published: true
 tags:
 - chkdsk
 - DataBack

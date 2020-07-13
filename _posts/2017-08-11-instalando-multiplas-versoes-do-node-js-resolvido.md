@@ -4,6 +4,7 @@ category: blog
 date: 2017-08-11 20:37:46+00:00
 image: https://luizsouza.com.br/wp-content/uploads/2017/08/Capturar2.png
 layout: post
+published: true
 tags:
 - Fica a dica
 - Install

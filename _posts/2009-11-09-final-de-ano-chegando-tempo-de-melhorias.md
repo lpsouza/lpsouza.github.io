@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2009-11-09 10:52:50+00:00
 layout: post
+published: true
 title: Final de ano chegando.. Tempo de melhorias..
 ---
 

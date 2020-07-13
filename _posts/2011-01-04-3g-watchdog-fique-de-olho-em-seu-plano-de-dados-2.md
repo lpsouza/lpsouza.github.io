@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-01-04 09:02:21+00:00
 layout: post
+published: true
 tags:
 - 3G
 - Android

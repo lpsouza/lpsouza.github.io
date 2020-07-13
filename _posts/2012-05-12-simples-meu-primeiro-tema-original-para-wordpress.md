@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-05-12 22:50:44+00:00
 layout: post
+published: true
 tags:
 - CSS
 - Fica a dica

@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-05-15 09:30:55+00:00
 layout: post
+published: true
 tags:
 - Apache
 - Bloqueio

@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2009-10-30 13:10:04+00:00
 layout: post
+published: true
 tags:
 - Blog
 - Fica a dica

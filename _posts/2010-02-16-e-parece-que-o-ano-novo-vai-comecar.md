@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2010-02-16 19:14:20+00:00
 layout: post
+published: true
 tags:
 - '2010'
 - Ano Novo

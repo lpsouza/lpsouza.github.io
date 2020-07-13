@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2016-09-11 07:07:41+00:00
 layout: post
+published: true
 tags:
 - Code
 - Desenvolvimento

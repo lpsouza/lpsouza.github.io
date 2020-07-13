@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-11-27 19:44:04+00:00
 layout: post
+published: true
 tags:
 - Avatar
 - Blog

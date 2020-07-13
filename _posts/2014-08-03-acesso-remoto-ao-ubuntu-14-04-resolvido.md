@@ -4,6 +4,7 @@ category: blog
 date: 2014-08-03 20:35:45+00:00
 image: https://luizsouza.com.br/wp-content/uploads/2014/08/Screenshot-from-2014-05-26-103053.png
 layout: post
+published: true
 tags:
 - Acesso Remoto
 - Fica a dica

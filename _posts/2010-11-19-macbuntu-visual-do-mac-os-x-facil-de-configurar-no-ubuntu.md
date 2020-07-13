@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2010-11-19 16:35:03+00:00
 layout: post
+published: true
 tags:
 - Apple
 - Computadores

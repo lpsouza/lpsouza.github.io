@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2017-06-18 18:15:16+00:00
 layout: post
+published: true
 tags:
 - Download
 - Fica a dica

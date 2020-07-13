@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2010-10-08 23:50:04+00:00
 layout: post
+published: true
 title: Para onde vai a banda larga?
 ---
 

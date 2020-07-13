@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-12-14 17:17:57+00:00
 layout: post
+published: true
 tags:
 - Informação
 - Informática

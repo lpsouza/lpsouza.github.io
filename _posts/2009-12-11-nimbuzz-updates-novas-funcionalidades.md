@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-12-11 09:49:20+00:00
 layout: post
+published: true
 tags:
 - 3G
 - Celular

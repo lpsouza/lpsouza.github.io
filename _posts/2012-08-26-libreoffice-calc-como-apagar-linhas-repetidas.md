@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-08-26 18:56:56+00:00
 layout: post
+published: true
 title: Libreoffice Calc - Como apagar linhas repetidas
 ---
 

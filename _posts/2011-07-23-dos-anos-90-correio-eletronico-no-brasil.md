@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-07-23 15:54:25+00:00
 layout: post
+published: true
 tags:
 - '1990'
 - Brasil

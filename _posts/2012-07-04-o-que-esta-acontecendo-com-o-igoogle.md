@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-07-04 08:48:18+00:00
 layout: post
+published: true
 tags:
 - Alerta
 - desativando

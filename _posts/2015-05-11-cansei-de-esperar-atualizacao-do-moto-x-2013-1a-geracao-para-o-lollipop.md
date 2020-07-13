@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2015-05-11 01:28:16+00:00
 layout: post
+published: true
 tags:
 - 1st Gen
 - 1ª Geração

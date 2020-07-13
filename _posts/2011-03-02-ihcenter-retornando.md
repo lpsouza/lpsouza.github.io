@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-03-02 15:30:07+00:00
 layout: post
+published: true
 tags:
 - Apache
 - Consultoria

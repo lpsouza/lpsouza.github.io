@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2016-09-23 22:14:54+00:00
 layout: post
+published: true
 tags:
 - Atalhos
 - Fica a dica

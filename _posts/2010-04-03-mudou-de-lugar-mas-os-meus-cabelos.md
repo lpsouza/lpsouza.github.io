@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2010-04-03 12:56:42+00:00
 layout: post
+published: true
 tags:
 - Blog
 - Brasília

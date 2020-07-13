@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2014-01-07 13:33:29+00:00
 layout: post
+published: true
 tags:
 - '2014'
 - Ano Novo

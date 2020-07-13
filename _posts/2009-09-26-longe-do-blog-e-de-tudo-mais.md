@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2009-09-26 21:00:19+00:00
 layout: post
+published: true
 tags:
 - 3G
 - Blog

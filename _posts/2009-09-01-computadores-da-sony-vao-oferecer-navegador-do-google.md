@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-09-01 17:04:59+00:00
 layout: post
+published: true
 tags:
 - Computadores
 - Google

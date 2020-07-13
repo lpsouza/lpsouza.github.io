@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2009-09-08 12:53:40+00:00
 layout: post
+published: true
 tags:
 - Blog
 - Painel de Controle

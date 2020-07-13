@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-09-02 17:30:11+00:00
 layout: post
+published: true
 tags:
 - Facebook
 - Mobilidade

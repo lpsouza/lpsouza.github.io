@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2009-09-18 04:34:00+00:00
 layout: post
+published: true
 tags:
 - Blog
 - E71

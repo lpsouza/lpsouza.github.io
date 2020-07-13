@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-12-01 10:31:07+00:00
 layout: post
+published: true
 tags:
 - Computadores
 - Digital

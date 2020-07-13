@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-06-11 12:08:50+00:00
 layout: post
+published: true
 title: Falha no MySQL permite acesso mesmo com senha incorreta
 ---
 

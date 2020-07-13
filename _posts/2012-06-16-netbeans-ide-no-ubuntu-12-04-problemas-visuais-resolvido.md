@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-06-16 01:38:13+00:00
 layout: post
+published: true
 tags:
 - Informática
 - Java

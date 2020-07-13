@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2010-09-21 09:00:30+00:00
 layout: post
+published: true
 tags:
 - Informática
 - Linux

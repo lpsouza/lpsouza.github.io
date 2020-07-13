@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-09-17 22:09:21+00:00
 layout: post
+published: true
 tags:
 - 3G
 - Algorítimo

@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2010-04-27 11:44:07+00:00
 layout: post
+published: true
 tags:
 - '301'
 - Blog

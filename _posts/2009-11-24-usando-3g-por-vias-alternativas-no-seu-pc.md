@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-11-24 12:02:18+00:00
 layout: post
+published: true
 tags:
 - 3G
 - Claro

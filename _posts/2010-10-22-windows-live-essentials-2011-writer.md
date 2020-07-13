@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2010-10-22 08:30:00+00:00
 layout: post
+published: true
 tags:
 - Blog
 - Blogger

@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-08-31 16:19:38+00:00
 layout: post
+published: true
 tags:
 - Mobilidade
 - Notebook

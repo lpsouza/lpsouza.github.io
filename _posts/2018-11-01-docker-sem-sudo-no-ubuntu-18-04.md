@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2018-11-01 21:18:00-03:00
 layout: post
+published: true
 tags:
 - docker
 - nosudo

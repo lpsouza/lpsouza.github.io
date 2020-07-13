@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-06-08 10:55:51+00:00
 layout: post
+published: true
 title: Design Web.. Profissão perigo!
 ---
 

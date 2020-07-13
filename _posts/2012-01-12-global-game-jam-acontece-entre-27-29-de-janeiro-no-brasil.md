@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-01-12 08:15:00+00:00
 layout: post
+published: true
 tags:
 - Fica a dica
 - Games

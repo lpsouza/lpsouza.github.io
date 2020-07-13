@@ -4,6 +4,7 @@ category: blog
 date: 2016-01-11 23:53:58+00:00
 image: https://luizsouza.com.br/wp-content/uploads/2016/01/chrome-error1.jpg
 layout: post
+published: true
 tags:
 - '0xc0000018'
 - Browser

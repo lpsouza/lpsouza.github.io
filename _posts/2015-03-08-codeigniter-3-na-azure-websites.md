@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2015-03-08 23:03:37+00:00
 layout: post
+published: true
 tags:
 - Azure
 - CodeIgniter

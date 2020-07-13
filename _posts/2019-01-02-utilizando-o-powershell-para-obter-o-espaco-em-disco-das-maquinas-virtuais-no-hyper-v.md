@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2019-01-02 18:29:23-03:00
 layout: post
+published: true
 tags:
 - powershell
 - hyperv

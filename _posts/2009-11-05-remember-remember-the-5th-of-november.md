@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2009-11-05 09:44:28+00:00
 layout: post
+published: true
 tags:
 - 5 de Novembro
 - 5th of November

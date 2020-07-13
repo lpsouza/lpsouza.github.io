@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-06-05 07:10:21+00:00
 layout: post
+published: true
 tags:
 - cérebro
 - cores

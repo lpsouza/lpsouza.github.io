@@ -4,6 +4,7 @@ category: blog
 date: 2016-06-19 01:39:54+00:00
 image: https://luizsouza.com.br/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-1200x675.png
 layout: post
+published: true
 tags:
 - Cairo
 - Cairo Dock

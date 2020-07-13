@@ -18,6 +18,8 @@ for file in files:
     if "aktt_tweeted" in post.metadata: del post.metadata['aktt_tweeted']
     if "aktt_notify_twitter" in post.metadata: del post.metadata['aktt_notify_twitter']
 
+    post.metadata['published'] = True
+
     fileWriter = open(join(dirPath, file), 'w')
     fileWriter.write(frontmatter.dumps(post))
     fileWriter.close()

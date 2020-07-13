@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-11-23 22:23:32+00:00
 layout: post
+published: true
 tags:
 - ChromeOS
 - Chrome

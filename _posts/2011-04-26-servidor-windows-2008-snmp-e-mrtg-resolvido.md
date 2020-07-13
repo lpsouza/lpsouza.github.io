@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-04-26 19:11:58+00:00
 layout: post
+published: true
 tags:
 - '2008'
 - Computadores

@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-08-26 19:54:15+00:00
 layout: post
+published: true
 tags:
 - Acesso
 - Backup

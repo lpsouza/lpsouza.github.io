@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-09-08 22:35:50+00:00
 layout: post
+published: true
 tags:
 - Mobilidade
 - Netbook

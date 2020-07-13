@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2013-02-13 13:06:08+00:00
 layout: post
+published: true
 tags:
 - Desenvolvimento
 - Experiência

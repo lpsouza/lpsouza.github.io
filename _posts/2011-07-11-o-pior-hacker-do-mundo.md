@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-07-11 18:17:29+00:00
 layout: post
+published: true
 tags:
 - Acesso
 - Computadores

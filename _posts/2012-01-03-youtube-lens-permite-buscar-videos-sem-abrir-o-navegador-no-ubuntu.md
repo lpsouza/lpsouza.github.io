@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-01-03 09:11:52+00:00
 layout: post
+published: true
 tags:
 - Fica a dica
 - Google

@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2009-09-30 18:11:47+00:00
 layout: post
+published: true
 tags:
 - Boa música
 - Green Day

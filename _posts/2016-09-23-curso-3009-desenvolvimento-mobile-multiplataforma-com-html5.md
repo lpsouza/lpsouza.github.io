@@ -4,6 +4,7 @@ category: blog
 date: 2016-09-23 08:38:41+00:00
 image: https://luizsouza.com.br/wp-content/uploads/2016/09/site-html-5-3-edicao.jpg
 layout: post
+published: true
 tags:
 - Apache Cordova
 - Celular

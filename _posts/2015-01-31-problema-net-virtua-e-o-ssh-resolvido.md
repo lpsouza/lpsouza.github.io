@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2015-01-31 15:22:49+00:00
 layout: post
+published: true
 tags:
 - Acesso Remoto
 - Computadores

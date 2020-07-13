@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2015-10-10 19:51:55+00:00
 layout: post
+published: true
 tags:
 - Custom
 - e-commerce

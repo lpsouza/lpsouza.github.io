@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2010-09-10 10:28:40+00:00
 layout: post
+published: true
 tags:
 - BR-Office
 - Computadores

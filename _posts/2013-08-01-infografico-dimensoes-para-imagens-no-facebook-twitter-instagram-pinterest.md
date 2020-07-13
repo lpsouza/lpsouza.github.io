@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2013-08-01 02:50:03+00:00
 layout: post
+published: true
 tags:
 - Dimensões
 - Facebook

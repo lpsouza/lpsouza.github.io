@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2010-11-30 13:30:16+00:00
 layout: post
+published: true
 tags:
 - AfterStep
 - Computadores

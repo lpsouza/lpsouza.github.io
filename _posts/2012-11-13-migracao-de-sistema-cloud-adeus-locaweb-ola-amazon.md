@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2012-11-13 23:55:29+00:00
 layout: post
+published: true
 tags:
 - Amazon
 - AWS

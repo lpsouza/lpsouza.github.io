@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2010-06-28 09:22:12+00:00
 layout: post
+published: true
 tags:
 - Comparação
 - Computadores

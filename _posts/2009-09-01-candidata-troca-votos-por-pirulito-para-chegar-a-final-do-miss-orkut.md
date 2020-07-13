@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-09-01 14:10:50+00:00
 layout: post
+published: true
 tags:
 - Brasil
 - Concurso

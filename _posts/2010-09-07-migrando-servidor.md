@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2010-09-07 00:41:13+00:00
 layout: post
+published: true
 tags:
 - Blog
 - CentOS

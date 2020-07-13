@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2009-09-01 13:23:12+00:00
 layout: post
+published: true
 tags:
 - eBay
 - Skype

@@ -4,6 +4,7 @@ category: blog
 date: 2017-12-25 20:42:08+00:00
 image: https://luizsouza.com.br/wp-content/uploads/2017/12/Capturar.png
 layout: post
+published: true
 tags:
 - Desenvolvimento
 - Fica a dica

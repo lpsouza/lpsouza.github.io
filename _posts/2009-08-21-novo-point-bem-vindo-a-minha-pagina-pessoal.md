@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2009-08-21 21:26:22+00:00
 layout: post
+published: true
 tags:
 - Blog
 - Blogger

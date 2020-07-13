@@ -3,6 +3,7 @@ author: lpsouza
 category: Blogging
 date: 2009-08-26 14:34:20+00:00
 layout: post
+published: true
 tags:
 - Blog
 - CMS

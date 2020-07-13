@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2011-06-26 10:30:00+00:00
 layout: post
+published: true
 tags:
 - Alerta
 - Brincadeira

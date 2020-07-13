@@ -3,6 +3,7 @@ author: lpsouza
 category: blog
 date: 2010-12-01 21:27:25+00:00
 layout: post
+published: true
 tags:
 - Algorítimo
 - Fica a dica

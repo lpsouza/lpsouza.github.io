@@ -3,6 +3,7 @@ author: lpsouza
 category: Tech
 date: 2010-06-28 10:31:11+00:00
 layout: post
+published: true
 tags:
 - Console
 - Docs
