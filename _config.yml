@@ -62,10 +62,15 @@ prose:
             - name: "tags"
               field:
                   element: "multiselect"
-                  label: "Add Tags"
+                  label: "Tags"
                   alterable: true
             - name: "published"
               field:
                   element: "checkbox"
                   label: "Published"
                   value: true
+            - name: "image"
+              field:
+                  element: "text"
+                  label: "Featured image"
+                  help: "Optional"
