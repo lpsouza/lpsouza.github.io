@@ -34,7 +34,7 @@ prose:
             - name: "title"
               field:
                   element: "text"
-                  label: "title"
+                  label: "Title"
             - name: "date"
               field:
                   element: "hidden"
@@ -63,5 +63,9 @@ prose:
               field:
                   element: "multiselect"
                   label: "Add Tags"
-                  placeholder: "Choose Tags"
                   alterable: true
+            - name: "published"
+              field:
+                  element: "checkbox"
+                  label: "Published"
+                  value: true
