@@ -16,12 +16,6 @@ tags:
 - Unity
 - uTouch
 title: 'Unity: Conheça o uTouch'
-tumblrize_post-id:
-- '2753282643'
-- '2753282643'
-tumblrize_post-type:
-- regular
-- regular
 ---
 
 Fiz um post aqui no meu site intitulado "[Unity: O novo Gerenciador de Janelas padrão do Ubuntu](http://luizsouza.com.br/2010/10/29/unity-o-novo-gerenciador-de-janelas-padrao-do-ubuntu/)" e foram alguns comentários...
