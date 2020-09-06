@@ -11,17 +11,18 @@ def changeCategory(file):
     post = frontmatter.load(file)
 
     print("Title: " + post.metadata['title'])
-    print("Categories:\n- Blogging\n -Tech\n -Linux\n -Games\n")
+    print("Categories:\n- Blogging\n -Tech\n -Linux\n -Games\n\n(type \"del\" for deletion or \"cancel\" to cancel change category operation\n")
     print("Actual category: " + post.metadata['category'])
     newCategory = input("New category: ")
     post.metadata['category'] = newCategory
 
-    if newCategory == "del" :
-        remove(file)
-    else :
-        fileWriter = open(file, 'w')
-        fileWriter.write(frontmatter.dumps(post).encode('utf-8'))
-        fileWriter.close()
+    if newCategory != "cancel":
+        if newCategory == "del":
+            remove(file)
+        else:
+            fileWriter = open(file, 'w')
+            fileWriter.write(frontmatter.dumps(post)) #.encode('utf-8')
+            fileWriter.close()
 
 dirPath = "_posts/"
 files = [f for f in listdir(dirPath) if isfile(join(dirPath, f))]
