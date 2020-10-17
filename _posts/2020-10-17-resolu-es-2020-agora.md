@@ -8,7 +8,7 @@ title: Resoluções 2020... Agora?!??
 ---
 Ué? Estamos no final de ano quase e agora que estou falando de resoluções para este ano?!?? Tá, ok, até eu estou achando um pouco tarde pra isso, mas pensando estou chamado de resolusões, grandes mudanças que estão acontecendo nestes últimos meses na minha vida.
 
-## 2020 um ano completamente diferente
+## 2020 um ano diferente
 
 Então, não preciso dizer que o ano de 2020 foi um "break pointa" na vida da humanidade como um todo. Uma doença que conseguiu tirar todos de suas zonas de conforto e começar a repensar a vida. Bom, neste ano eu já estava pensando que pessoalmente seria um ano de análise da minha vida devido a chegada dos 40 anos. Sim, 40 aninhos agora mês que vem! Agora com essa situação que a humanidade está passando ainda, a análise passou a ser um tanto mais ampla na minha vida:
 
@@ -18,7 +18,7 @@ Embora eu já tivesse em mente que trabalho remoto fosse algo que eu devia estar
 
 ### Ikgai
 
-[Ikigai (生き甲斐)](https://en.wikipedia.org/wiki/Ikigai) é uma palavra de origem Japonesa que em uma tradução livre quer dizer "uma razão de ser" e uma vez minha amiga e esposa me comentou que ela, em uma análise "de fora" dizia que eu era um exemplo de uma pessoa que atingiu o ikigai. Entendendo a profundidade do que quer dizer "atingir o ikigai" eu penso hoje eu esteja "no caminho" dessa plenitude. Eu ainda verifico que posso dar mais ao mundo do que já o faço. Hoje faço parte de uma empresa que tem uma proposta muito legal de levar as empresas e pessoas o acesso a realizar seus negócios online com uma experiência incrivel, a [Umbler](https://lpsouza.com/umbler/). Outra forma de "dar mais ao mundo", eu dou aula no curso Técnico em Informática na [IENH](https://ienh.com.br/) e ainda tenho este site, onde sempre que possível.
+[Ikigai (生き甲斐)](https://en.wikipedia.org/wiki/Ikigai) é uma palavra de origem Japonesa que em uma tradução livre quer dizer "uma razão de ser" e uma vez minha amiga e esposa me comentou que ela, em uma análise "de fora" dizia que eu era um exemplo de uma pessoa que atingiu o ikigai. Entendendo a profundidade do que quer dizer "atingir o ikigai" eu penso hoje eu esteja "no caminho" dessa plenitude. Eu ainda verifico que posso dar mais ao mundo do que já o faço. Hoje faço parte de uma empresa que tem uma proposta muito legal de levar as empresas e pessoas o acesso a realizar seus negócios online com uma experiência incrivel, a [Umbler](https://lpsouza.com/umbler/). Outra forma de "dar mais ao mundo", eu dou aula no curso Técnico em Informática na [IENH](https://ienh.com.br/) e ainda tenho este site, onde sempre que possível estou publicando coisas da minha vida (como este post) e principalmente minhas experiências na TI (o foco da ideia do ikigai). Mas será que é o suficiênte?
 
 ### Review pessoal
 
