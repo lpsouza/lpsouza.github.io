@@ -1,6 +1,6 @@
 ---
 author: lpsouza
-category: blog
+category: Linux
 date: 2018-11-01 21:18:00-03:00
 layout: post
 published: true

@@ -1,6 +1,6 @@
 ---
 author: lpsouza
-category: blog
+category: Tech
 date: 2018-12-08 18:31:41-03:00
 layout: post
 published: true
