@@ -1,0 +1,29 @@
+---
+layout: post
+author: lpsouza
+date: '2020-10-17 12:05 -0300'
+category: Blogging
+published: false
+title: Resoluções 2020... Agora?!??
+---
+Ué? Estamos no final de ano quase e agora que estou falando de resoluções para este ano?!?? Tá, ok, até eu estou achando um pouco tarde pra isso, mas pensando estou chamado de resolusões, grandes mudanças que estão acontecendo nestes últimos meses na minha vida.
+
+## 2020 um ano completamente diferente
+
+Então, não preciso dizer que o ano de 2020 foi um "break pointa" na vida da humanidade como um todo. Uma doença que conseguiu tirar todos de suas zonas de conforto e começar a repensar a vida. Bom, neste ano eu já estava pensando que pessoalmente seria um ano de análise da minha vida devido a chegada dos 40 anos. Sim, 40 aninhos agora mês que vem! Agora com essa situação que a humanidade está passando ainda, a análise passou a ser um tanto mais ampla na minha vida:
+
+### Trabalho remoto
+
+Embora eu já tivesse em mente que trabalho remoto fosse algo que eu devia estar preparado e em grande parte eu já estivesse (tinha um escritório preparado para as minhas atividades), atualmente meus dois empregos passaram suas atividades para ser 100% remotas e mesmo "preparado", vi que a dificuldade era grande. Vou dizer que onde estava mais despreparado era na questão psicológica. Trabalhando 100% remoto em um mundo onde tu precisa se isolar trás momentos de stress mental, como o [efeito burnout](https://drauziovarella.uol.com.br/doencas-e-sintomas/sindrome-de-burnout-esgotamento-profissional/) por exemplo. Não que eu tenha chegado neste estado, mas foi uma luta estar preparado para as adiversidades de trabalhar sem pessoas ao teu lado (para validar, apoiar, suportar) ou uma cobrança sem "feedbacks em tempo real" que temos quando estamos em um escritório.
+
+### Ikgai
+
+[Ikigai (生き甲斐)](https://en.wikipedia.org/wiki/Ikigai) é uma palavra de origem Japonesa que em uma tradução livre quer dizer "uma razão de ser" e uma vez minha amiga e esposa me comentou que ela, em uma análise "de fora" dizia que eu era um exemplo de uma pessoa que atingiu o ikigai. Entendendo a profundidade do que quer dizer "atingir o ikigai" eu penso hoje eu esteja "no caminho" dessa plenitude. Eu ainda verifico que posso dar mais ao mundo do que já o faço. Hoje faço parte de uma empresa que tem uma proposta muito legal de levar as empresas e pessoas o acesso a realizar seus negócios online com uma experiência incrivel, a [Umbler](https://lpsouza.com/umbler/). Outra forma de "dar mais ao mundo", eu dou aula no curso Técnico em Informática na [IENH](https://ienh.com.br/) e ainda tenho este site, onde sempre que possível.
+
+### Review pessoal
+
+Claro! Como disse, estou na casa dos 40... Se analisarmos que a [média de vida de uma pessoa aqui no Brasil é de 76 anos mais ou menos](https://g1.globo.com/bemestar/noticia/2019/11/28/expectativa-de-vida-do-brasileiro-ao-nascer-foi-de-763-anos-em-2018-diz-ibge.ghtml), estou na metade da minha vida mais ou menos, logo, tenho que rever se como estou vivendo hoje é ainda algo válido para o resto da minha vida. E verificando isso eu comecei a reparar que uma coisa que andei negligenciando em boa parte deste 40 anos (vamos dizer aí quase metade disso, 1/4 do meu tempo de vida) foi a minha saúde. Por sorte que essa falta de cuidados não deu nada de muito grave nesta jornada, mas pensando do jeito que estou e pra onde quero ir, algo está errado e errado ao muito tempo! Pra "complicar" um pouco a coisa, fui diagnosticado como diabético recentemente (calma, nada grave, foi mais susto do que outra coisa) a partir de um tratamento dentário. O mais engraçado é que eu sempre comentáva na época dos meus 20 anos aquela frase em latim "mens sana in corpore sano" (mente sâ em um corpo são) e hoje descubro que eu me traí neste pensamento a muito tempo. Será que não esta na hora de retomar esse assunto a muito perdido?
+
+## Resoluções 2020
+
+Então 
