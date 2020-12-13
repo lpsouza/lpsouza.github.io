@@ -1,76 +1,30 @@
 title: Luiz Souza
-author: Luiz Pereira de Souza Filho
-email: lpsouza@gmail.com
-remote_theme: thelehhman/plainwhite-jekyll
-show_excerpts: true
-permalink: "/:year/:month/:day/:title/"
+description: >-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: ""
+url: ""
+twitter_username: lpsouza
+github_username:  lpsouza
+linkedin_username:  lpsouza
+
+theme: minima
+plugins:
+  - jekyll-feed
 
 exclude:
-    - "README.md"
-    - ".markdownlink.json"
-    - ".editorconfig"
-    - ".gitignore"
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
-plainwhite:
-    profile_image: https://www.gravatar.com/avatar/ce87a4c115c24ba10709878170134546?s=350
-    name: Luiz Pereira de Souza Filho
-    tagline: DevSecOps. Professor.
-    date_format: "%d/%m/%Y"
-    disqus_shortname: luiz-souza
-    analytics_id: "UA-105361937-1"
-    sitemap: true
-
-    social_links:
-        twitter: lpsouza
-        github: lpsouza
-        linkedIn: in/lpsouza
-
-prose:
-    rooturl: "_posts"
-    siteurl: "https://luizsouza.com/"
-    media: "media"
-    metadata:
-        _posts:
-            - name: "title"
-              field:
-                  element: "text"
-                  label: "Title"
-            - name: "date"
-              field:
-                  element: "hidden"
-                  value: CURRENT_DATETIME
-            - name: "author"
-              field:
-                  element: "hidden"
-                  value: CURRENT_USER
-            - name: "layout"
-              field:
-                  element: "hidden"
-                  value: "post"
-            - name: "category"
-              field:
-                  element: "select"
-                  options:
-                      - name: "Blogging"
-                        value: "Blogging"
-                      - name: "Tech"
-                        value: "Tech"
-                      - name: "Linux"
-                        value: "Linux"
-                      - name: "Games"
-                        value: "Games"
-            - name: "tags"
-              field:
-                  element: "multiselect"
-                  label: "Tags"
-                  alterable: true
-            - name: "published"
-              field:
-                  element: "checkbox"
-                  label: "Published"
-                  value: true
-            - name: "image"
-              field:
-                  element: "text"
-                  label: "Featured image"
-                  help: "Optional"
+# Testing environment (docker)
+host: 0.0.0.0
+port: 4000
