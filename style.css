@@ -1,5 +1,16 @@
-/* Custom style changes on my website */
+/* "Dark mode" customizations */
 * {
-    /* "Dark mode" customizations */
+color: #f8f9fa; 
+}
+
+* > a {
     color: #f8f9fa; 
+}
+
+* > a:hover {
+    color: #e9ecef; 
+}
+
+.post-link {
+    text-decoration: none;
 }
