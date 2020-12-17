@@ -1,3 +1,12 @@
 #!/bin/sh
 
-docker run --rm -ti -v "$PWD:/srv/jekyll" -p 4000:4000 --name blog jekyll/jekyll jekyll $1
+case $1 in
+    serve)
+        CONFIG="serve --host 0.0.0.0"
+        ;;
+    *)
+        CONFIG="--help"
+        ;;
+esac
+
+docker run --rm -ti -v "$PWD:/srv/jekyll" -p 4000:4000 --name blog jekyll/jekyll jekyll $CONFIG
