@@ -26,7 +26,7 @@ Só com esse script eu posso rodar o `dotnet` sem ele! :-)
 
 Ok, aí temos o problema do sudo que deveria ser rodado sempre para que meu script rodasse o Docker. Então para isso resolvi procurar na internet se posso usar meu usuário local para utilizar o Docker sem precisar do sudo e não é que dá mesmo? Segue a receita de bolo abaixo.
 
-## Receita de bolo
+### Receita de bolo
 
 1. (Se não existir) crie um grupo para o Docker: `sudo groupadd docker`
 2. Adicione o seu usuário no grupo: `sudo usermod -aG docker $USER`

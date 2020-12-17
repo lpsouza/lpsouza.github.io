@@ -24,7 +24,7 @@ Estou usando faz um mês, a [Microsoft Azure](http://azure.microsoft.com/pt-br/)
 
 Então, depois de algumas pesquisas, coloco aqui as configurações de como usar a conexão com o SQL Azure e também como ativar as URL amigáveis no IIS:
 
-## Conectando ao SQL Azure
+### Conectando ao SQL Azure
 
 Edite o arquivo `application/config/database.php` e use conforme o exemplo abaixo (substituir os valores entre colchetes):
 
@@ -53,7 +53,7 @@ $db['default'] = array(
 );
 ```
 
-## Ativando as URL amigáveis
+### Ativando as URL amigáveis
 
 E para ativar as URL amigáveis, crie um arquivo `web.config` dentro da pasta raiz do projeto e use o conteúdo do exemplo abaixo:
 

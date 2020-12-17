@@ -21,7 +21,7 @@ Recentemente instalei no meu computador a última versão LTS do Ubuntu, a 16.04
 
 Ok, lá vamos nós para a internet e o que mais lia por aí era: Desabilite o _Secure Boot_. Sinceramente, eu achei essa solução muito "gambiarra" mesmo, logo, não foi o que resolvi seguir. Então, o que vi em um desses links que apareceram no Google, foi um post no blog do [Flávio Prino](https://flavioprimo.xyz/) que explica como **assinar digitalmente o arquivo de driver** do virtualbox, e assim permitindo que possamos acessar as máquinas do Virtualbox sem erros e com o _Secure Boot_ ativado! 😀
 
-## Receita do bolo
+### Receita do bolo
 
 ~~O post tem um passo a passo de 5 etapas, bem simples: [https://flavioprimo.xyz/linux/how-to-install-virtualbox-on-ubuntu-having-uefi-secure-boot-enabled/](https://flavioprimo.xyz/linux/how-to-install-virtualbox-on-ubuntu-having-uefi-secure-boot-enabled/)~~
 
@@ -37,7 +37,7 @@ Siga os 5 passos abaixo:
 4. Importe a chave pública gerada com: sudo mokutil -import vboxdrv.der
 5. Reinicie e siga as telas que aparecerem durante o boot do UEFI para registrar a nova chave. Este procedimento é permanente, então deve ser feito somente uma vez.
 
-## Dica adicional
+### Dica adicional
 
 Como o kernel pode ser atualizado constantemente (principalmente na versão desktop), eu recomento criar o seguinte script:
 

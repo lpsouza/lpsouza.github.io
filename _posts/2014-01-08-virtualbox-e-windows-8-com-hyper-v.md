@@ -51,7 +51,7 @@ No blog, o Igor comenta na solução em prompt, que eu até então desconhecia, 
 
 Vou ser sincero com vocês que preciso urgente aprender mais sobre comandos em prompt desde o Windows 7 para frente, tem muita coisa boa e ainda por cima tem o Powershell, que aí é só maravilha!
 
-## Receita de bolo
+### Receita de bolo
 
 Para resolver a questão de usar o Virtualbox, junto com o Hyper-V, então precisamos fazer um Dual Boot na maquina, um inicializando o Hypervisor e outro não (para o Virtualbox ter seu espaço direto ao hardware). Não se preocupe, se pensou que precisa reinstalar o Windows para isso, são apenas dois comandos, usando o Prompt de Comando com elevação:
 

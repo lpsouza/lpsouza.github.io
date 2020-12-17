@@ -20,7 +20,7 @@ O roteamento inteligente permite criar URLs personalizadas. Com isso, a URL padr
 * [http://{blog}/{ano}/{mes}/{dia}/{slug-noticia}](http://{blog}/{ano}/{mes}/{dia}/{slug-noticia})
 * [http://{blog}/{página}](http://{blog}/{página})
 
-## Código fonte do arquivo `[project-root]/application/controller/defaultController.php`
+### Código fonte do arquivo `[project-root]/application/controller/defaultController.php`
 
 ```php
 class DefaultController extends CI_Controller {
@@ -43,7 +43,7 @@ class DefaultController extends CI_Controller {
 }
 ```
 
-## Código fonte do arquivo  `[project-root]/application/config/routes.php`
+### Código fonte do arquivo  `[project-root]/application/config/routes.php`
 
 ```php
 // For auto map
