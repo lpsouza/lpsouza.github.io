@@ -13,18 +13,35 @@ layout: default
     <h2 class="post-list-heading">Posts</h2>
     <div class="post-list">
         {%- assign date_format = site.minima.date_format | default: "%d/%m/%Y" -%}
-        {%- for post in site.posts -%}
+        {%- for post in paginator.posts -%}
         <div>
-            <h3>
-                <a class="post-link link-light" href="{{ post.url | relative_url }}">
+            <h2 class="post-title">
+                <a href="{{ post.url | relative_url }}">
                     {{ post.title | escape }}
                 </a>
-            </h3>
-            <span class="post-meta">{{ post.date | date: date_format }} // {{ post.category }}</span>
-            {{ post.excerpt }}
+            </h2>
+            <span class="post-meta">{{ post.date | date: date_format }} // Publicado em {{ post.category }}</span>
+            {{ post.excerpt }} <a href="{{ post.url | relative_url }}">Leia mais...</a>
         </div>
         {%- endfor -%}
     </div>
+
+    <div class="pagination">
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">Posts anteriores</a>
+        {% else %}
+        <span class="next">Posts anteriores</span>
+        {% endif %}
+
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">
+            Posts recentes
+        </a>
+        {% else %}
+        <span class="previous">Posts recentes</span>
+        {% endif %}
+    </div>
+
     {%- endif -%}
 
 </div>

@@ -1,5 +1,7 @@
 title: Luiz Souza
 permalink: "/:year/:month/:day/:title/"
+paginate: 10
+paginate_path: "/page/:num/"
 
 twitter_username: lpsouza
 github_username: lpsouza
@@ -8,6 +10,7 @@ linkedin_username: lpsouza
 theme: minima
 plugins:
     - jekyll-feed
+    - jekyll-paginate
 
 exclude:
     - .sass-cache/
