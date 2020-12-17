@@ -1,30 +1,22 @@
 title: Luiz Souza
-description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: ""
-url: ""
+permalink: "/:year/:month/:day/:title/"
+
 twitter_username: lpsouza
-github_username:  lpsouza
-linkedin_username:  lpsouza
+github_username: lpsouza
+linkedin_username: lpsouza
 
 theme: minima
 plugins:
-  - jekyll-feed
+    - jekyll-feed
 
 exclude:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
-# Testing environment (docker)
-host: 0.0.0.0
-port: 4000
+    - .sass-cache/
+    - .jekyll-cache/
+    - gemfiles/
+    - Gemfile
+    - Gemfile.lock
+    - node_modules/
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
