@@ -1,10 +1,6 @@
-/* "Dark mode" customizations */
-html, body {
-    background-color: #212529;
-}
-
 * {
-color: #f8f9fa; 
+    color: #f8f9fa;
+    font-size: 14px;
 }
 
 * > a {
@@ -15,15 +11,24 @@ color: #f8f9fa;
     color: #e9ecef; 
 }
 
-.post-link {
+html, body {
+    background-color: #212529;
+}
+
+h1, h1 > * {
+    font-size: 2.5rem;
+}
+h2, h2 > * {
+    font-size: 2.0rem;
+}
+h3, h3 > * {
+    font-size: 1.5rem;
+}
+
+.post-title {
+    padding-top: 20px;
+}
+
+.post-title > a {
     text-decoration: none;
 }
-
-h2 {
-    font-size: 1.30rem;
-}
-
-h3 {
-    font-size: 1.35rem;
-}
-
