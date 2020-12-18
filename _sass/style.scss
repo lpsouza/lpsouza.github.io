@@ -1,11 +1,16 @@
+---
+---
+
 * {
     color: #f8f9fa;
     font-size: 14px;
 }
 
-* > a {
-    color: #f8f9fa; 
-}
+* {
+    a {
+        color: #f8f9fa; 
+    }
+} 
 
 * > a:hover {
     color: #e9ecef; 
@@ -25,10 +30,19 @@ h3, h3 > * {
     font-size: 1.5rem;
 }
 
-.post-title {
+.home > .post > .title {
     padding-top: 20px;
 }
 
-.post-title > a {
+.home > .post > .title > a {
     text-decoration: none;
+}
+
+.home > .post > .content {
+    text-align: justify;
+}
+
+.home > .pagination > .previous > .page-link,
+.home > .pagination > .next > .page-link {
+    border-radius: .25rem;
 }

@@ -12,6 +12,9 @@ plugins:
     - jekyll-feed
     - jekyll-paginate
 
+sass:
+    sass_dir: _sass
+
 exclude:
     - .sass-cache/
     - .jekyll-cache/
@@ -23,3 +26,5 @@ exclude:
     - vendor/cache/
     - vendor/gems/
     - vendor/ruby/
+    - README.md
+    - scripts/
