@@ -3,38 +3,43 @@ layout: default
 ---
 
 <div class="home">
-    {%- if site.posts.size > 0 -%}
-    <div class="post-list">
-        {%- assign date_format = site.minima.date_format | default: "%d/%m/%Y" -%}
-        {%- for post in paginator.posts -%}
-        <div>
-            <h2 class="post-title">
-                <a href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}
-                </a>
-            </h2>
-            <span class="post-meta">{{ post.date | date: date_format }} // Publicado em {{ post.category }}</span>
-            {{ post.excerpt }} <a href="{{ post.url | relative_url }}">Leia mais...</a>
+    {% if site.posts.size > 0 %}
+    {% assign date_format = site.minima.date_format | default: "%d/%m/%Y" %}
+    {% for post in paginator.posts %}
+    <div class=post>
+        <h2 class="title">
+            <a href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+            </a>
+        </h2>
+        <span class="meta">{{ post.date | date: date_format }} // Publicado em {{ post.category }}</span>
+        <div class="content">
+            {{ post.excerpt }}
         </div>
-        {%- endfor -%}
+        <span><a href="{{ post.url | relative_url }}">Leia mais...</a></span>
     </div>
+    {% endfor %}
 
-    <div class="pagination">
+    <ul class="pagination">
         {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Posts anteriores</a>
+        <li class="page-item d-flex next"><a href="{{ paginator.next_page_path }}" class="page-link link-dark">Posts
+                anteriores</a></li>
         {% else %}
-        <span class="next">Posts anteriores</span>
+        <li class="page-item d-flex next"><span class="page-link link-dark">Posts anteriores</span></li>
         {% endif %}
+
+        <span class="d-flex flex-fill"></span>
 
         {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">
-            Posts recentes
-        </a>
+        <li class="page-item d-flex previous"><a href="{{ paginator.previous_page_path }}"
+                class="page-link link-dark">Posts
+                recentes</a>
+        </li>
         {% else %}
-        <span class="previous">Posts recentes</span>
+        <li class="page-item d-flex previous"><span class="page-link link-dark">Posts recentes</span></li>
         {% endif %}
-    </div>
+    </ul>
 
-    {%- endif -%}
+    {% endif %}
 
 </div>
