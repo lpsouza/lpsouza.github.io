@@ -70,5 +70,6 @@
         "vlogs",
         "webdesigners",
         "wifi"
-    ]
+    ],
+    "scss.validate": false
 }

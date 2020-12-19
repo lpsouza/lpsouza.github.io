@@ -1,0 +1,76 @@
+---
+---
+
+@charset 'UTF-8';
+
+// Dark theme
+$foreground: #f8f9fa;
+$background: #212529;
+
+* {
+    color: $foreground;
+    font-size: 14px;
+}
+
+* {
+    a {
+        color: $foreground; 
+    }
+} 
+
+* {
+    a:hover {
+        color: darken($foreground, 30); 
+    }
+}
+
+html, body {
+    background-color: $background;
+}
+
+h1 {
+    font-size: 2.5rem;
+    * {
+        font-size: 2.5rem;
+    }
+}
+
+h2 {
+    font-size: 2.0rem;
+    * {
+        font-size: 2.0rem;
+    }
+}
+
+h3 {
+    font-size: 1.5rem;
+    * {
+        font-size: 1.5rem;
+    }   
+}
+
+.home {
+    .post {
+        .title {
+            padding-top: 20px;
+            a {
+                text-decoration: none;
+            }
+        }
+        .content {
+            text-align: justify;
+        } 
+    }
+    .pagination {
+        .previous {
+            .page-link {
+                border-radius: .25rem;
+            }
+        }
+        .next {
+            .page-link {
+                border-radius: .25rem;
+            }
+        }
+    }
+}
