@@ -12,9 +12,12 @@ layout: default
                 {{ post.title | escape }}
             </a>
         </h2>
-        <span class="meta">{{ post.date | date: date_format }} // Publicado em {{ post.category }}</span>
+        <div class="meta">
+            <span class="date"><i class="far fa-calendar-alt"></i> {{ post.date | date: date_format }}</span>
+            <span class="category"><i class="fas fa-tag"></i> {{ post.category }}</span>
+        </div>
         <div class="content">
-            {{ post.excerpt }}
+            {{ post.content }}
         </div>
         <div class="comments">
             Este e o fim do post. Gostou? Deixe <a href="{{ post.url | relative_url }}#disqus_thread">um comentário</a>!
