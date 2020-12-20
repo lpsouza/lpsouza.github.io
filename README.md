@@ -2,20 +2,16 @@
 
 This repository contains the files of my website!
 
-My site was originally created with Wordpress, but today it's all migrated to Jekyll!
+## History
 
-## Theme
+- Original website has created in 2009 using Wordpress technology.
+- In 2019 has changes to Jekyll and hosted on Github Pages.
+- In 2020 I create a original Jekyll Theme.
 
-Based on [thelehhman/plainwhite-jekyll](https://github.com/thelehhman/plainwhite-jekyll) theme.
+## To do
 
-![Theme Screenshot](https://github.com/thelehhman/plainwhite-jekyll/raw/master/screenshot.png)
-
-## Work in progress
-
-* [X] Export all content to Jekyll files.
-* [X] Choose a simple but cool theme.
-* [X] Translate all features from chosen theme to Brazilian Portuguese (my native language).
-* [X] Review all posts: Checking spelling.
-* [X] Review all posts: Removing Wordpress plugins code that no longer exist.
-* [X] Review all posts: Removing excessive use of HTML on Markdown.
-* [ ] Organize folders structure from Wordpress exports to my improved structure.
+- [ ] Improve the history on this README.md file.
+- [ ] [Search engine](https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/)
+- [ ] [OpenSearch pattern](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md#OpenSearch_description_document)
+- [ ] [Dark or light theme switcher](https://web.dev/prefers-color-scheme/)
+- [ ] [Reading time](https://carlosbecker.com/posts/jekyll-reading-time-without-plugins/)
