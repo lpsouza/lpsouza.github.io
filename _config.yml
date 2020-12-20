@@ -2,7 +2,6 @@ title: Luiz Souza
 author: Luiz Pereira de Souza Filho
 email: lpsouza@gmail.com
 remote_theme: thelehhman/plainwhite-jekyll
-# theme: plainwhite
 show_excerpts: true
 permalink: "/:year/:month/:day/:title/"
 
