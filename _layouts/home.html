@@ -16,7 +16,9 @@ layout: default
         <div class="content">
             {{ post.excerpt }}
         </div>
-        <span><a href="{{ post.url | relative_url }}">Leia mais...</a></span>
+        <div class="comments">
+            Este e o fim do post. Gostou? Deixe <a href="{{ post.url | relative_url }}#disqus_thread">um comentário</a>!
+        </div>
     </div>
     {% endfor %}
 

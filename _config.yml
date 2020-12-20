@@ -7,7 +7,9 @@ twitter_username: lpsouza
 github_username: lpsouza
 linkedin_username: lpsouza
 
-# theme: minima
+disqus:
+    shortname: luiz-souza
+
 plugins:
     - jekyll-feed
     - jekyll-paginate
