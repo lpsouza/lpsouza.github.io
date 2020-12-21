@@ -3,23 +3,21 @@
 
 @charset 'UTF-8';
 
-// Dark theme
-$foreground: #f8f9fa;
-$background: #212529;
+@import 'bootstrap-colors';
 
 * {
-    color: $foreground;
+    color: $light;
     font-size: 14px;
     a {
-        color: $foreground; 
+        color: lighten($primary, 23); 
     }
     a:hover {
-        color: darken($foreground, 30); 
+        color: lighten($primary, 30); 
     }
 }
 
 html, body {
-    background-color: $background;
+    background-color: $dark;
 }
 
 h1 {
@@ -44,7 +42,7 @@ h3 {
 }
 
 .site-info {
-    width: 350px;
+    width: 270px;
     div {
         h1, p {
             padding: 0;
@@ -63,9 +61,16 @@ h3 {
     padding-bottom: 15px;
     .meta {
         padding: 7px 0;
-        .date {
-        }
-        .category {
+        .date, .category, .comments {
+            a {
+                color: $light; 
+                text-decoration: none;
+            }
+            a:hover {
+                color: darken($light, 30); 
+            }
+        }        
+        .category, .comments {
             padding-left: 5px;
         }
     }
@@ -83,11 +88,14 @@ h3 {
             margin-left: auto;
             margin-right: auto;
         }
+        code {
+            color: $light;
+        }
         .highlight {
             padding: 1px 5px 0 5px;
-            background-color: lighten($background, 70);
+            background-color: lighten($dark, 70);
             * {
-                color: darken($foreground, 70);
+                color: darken($light, 70);
             }
         }
     }
@@ -96,12 +104,9 @@ h3 {
 .home {
     .post {
         .title {
-            padding: 7px;
-            background-color: $foreground;
-            * {
-                color: $background;
-            }
+            padding: 7px 0 7px 0;
             a {
+                color: $light;
                 text-decoration: none;
             }
         }

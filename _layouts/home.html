@@ -29,21 +29,21 @@ layout: default
 
     <ul class="pagination">
         {% if paginator.next_page %}
-        <li class="page-item d-flex next"><a href="{{ paginator.next_page_path }}" class="page-link link-dark">Posts
+        <li class="page-item d-flex next"><a href="{{ paginator.next_page_path }}" class="page-link link-primary">Posts
                 anteriores</a></li>
         {% else %}
-        <li class="page-item d-flex next"><span class="page-link link-dark">Posts anteriores</span></li>
+        <li class="page-item d-flex next"><span class="page-link link-primary">Posts anteriores</span></li>
         {% endif %}
 
         <span class="d-flex flex-fill"></span>
 
         {% if paginator.previous_page %}
         <li class="page-item d-flex previous"><a href="{{ paginator.previous_page_path }}"
-                class="page-link link-dark">Posts
+                class="page-link link-primary">Posts
                 recentes</a>
         </li>
         {% else %}
-        <li class="page-item d-flex previous"><span class="page-link link-dark">Posts recentes</span></li>
+        <li class="page-item d-flex previous"><span class="page-link link-primary">Posts recentes</span></li>
         {% endif %}
     </ul>
 
