@@ -15,12 +15,14 @@ layout: default
         <div class="meta">
             <span class="date"><i class="far fa-calendar-alt"></i> {{ post.date | date: date_format }}</span>
             <span class="category"><i class="fas fa-tag"></i> {{ post.category }}</span>
+            <span class="comments"><i class="fas fa-comments"></i> <a
+                    href="{{ post.url | relative_url }}#disqus_thread">Deixe seu comentário</a></span>
         </div>
         <div class="content">
-            {{ post.content }}
+            {{ post.excerpt }}
         </div>
-        <div class="comments">
-            Este e o fim do post. Gostou? Deixe <a href="{{ post.url | relative_url }}#disqus_thread">um comentário</a>!
+        <div class="more">
+            <a href="{{ post.url | relative_url }}" class="btn btn-sm btn-primary">Leia mais...</a>
         </div>
     </div>
     {% endfor %}
