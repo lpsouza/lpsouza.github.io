@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="search" id="search-results"></div>
+
+<script>
+    window.store = [
+    {% assign date_format = site.minima.date_format | default: "%d/%m/%Y" %}
+    {% for post in site.posts %}
+        {
+            "id": "{{ post.url | slugify }}",
+            "title": "{{ post.title | xml_escape }}",
+            "date": "{{ post.date | date: date_format | xml_escape }}",
+            "author": "{{ post.author | xml_escape }}",
+            "category": "{{ post.category | xml_escape }}",
+            "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+            "excerpt": {{ post.excerpt | jsonify }},
+            "url": "{{ post.url | xml_escape }}"
+        }
+    {% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+    ];
+</script>
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<script src="../assets/js/search.js"></script>
