@@ -9,6 +9,7 @@ layout: default
         <div class="meta">
             <span class="date"><i class="far fa-calendar-alt"></i> {{ page.date | date: date_format }}</span>
             <span class="category"><i class="fas fa-tag"></i> {{ page.category }}</span>
+            {% include reading_time.html %}
         </div>
         <div class="content">
             {{ page.content }}

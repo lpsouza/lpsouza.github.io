@@ -71,5 +71,8 @@
         "webdesigners",
         "wifi"
     ],
-    "scss.validate": false
+    "scss.validate": false,
+    "files.associations": {
+        "*.html": "jekyll"
+    }
 }
