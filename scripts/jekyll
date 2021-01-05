@@ -2,11 +2,15 @@
 
 case $1 in
     serve)
-        CONFIG="serve --host 0.0.0.0 --config _config.yml,_config_dev.yml"
+        COMMAND="jekyll serve --host 0.0.0.0 --config _config.yml,_config_dev.yml"
+        ;;
+    bundle-install)
+        rm -Rf $PWD/Gemfile.lock
+        COMMAND="bundle install"
         ;;
     *)
-        CONFIG="--help"
+        COMMAND="jekyll --help"
         ;;
 esac
 
-docker run --rm -ti -v "$PWD:/srv/jekyll" -p 4000:4000 --name blog jekyll/jekyll jekyll $CONFIG
+docker run --rm -ti -v "$PWD:/srv/jekyll" -p 4000:4000 --name blog jekyll/jekyll $COMMAND
