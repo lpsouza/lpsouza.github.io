@@ -44,6 +44,14 @@ h3 {
     }   
 }
 
+#disqus_thread {
+    iframe {
+        * {
+            color: $light;
+        }
+    }
+}
+
 .site-info {
     width: 300px;
     @media (max-width: 600px) {
