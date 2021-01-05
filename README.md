@@ -12,7 +12,6 @@ This repository contains the files of my website!
 
 - [ ] Improve the history on this README.md file.
 - [X] [Search engine](https://learn.cloudcannon.com/jekyll/jekyll-search-using-lunr-js/)
-- [ ] [OpenSearch pattern](https://github.com/dewitt/opensearch/blob/master/opensearch-1-1-draft-6.md#OpenSearch_description_document)
 - [ ] [Dark or light theme switcher](https://web.dev/prefers-color-scheme/)
 - [ ] [Reading time](https://carlosbecker.com/posts/jekyll-reading-time-without-plugins/)
 - [X] [Add number of comments in post](https://help.disqus.com/en/articles/1717274-adding-comment-count-links-to-your-home-page)
