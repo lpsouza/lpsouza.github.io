@@ -38,3 +38,51 @@ exclude:
     - vendor/ruby/
     - README.md
     - scripts/
+
+prose:
+    rooturl: "_posts"
+    siteurl: "https://luizsouza.com/"
+    media: "media"
+    metadata:
+        _posts:
+            - name: "title"
+              field:
+                  element: "text"
+                  label: "Title"
+            - name: "date"
+              field:
+                  element: "hidden"
+                  value: CURRENT_DATETIME
+            - name: "author"
+              field:
+                  element: "hidden"
+                  value: CURRENT_USER
+            - name: "layout"
+              field:
+                  element: "hidden"
+                  value: "post"
+            - name: "category"
+              field:
+                  element: "select"
+                  options:
+                      - name: "Blogging"
+                        value: "Blogging"
+                      - name: "Tech"
+                        value: "Tech"
+                      - name: "Games"
+                        value: "Games"
+            - name: "tags"
+              field:
+                  element: "multiselect"
+                  label: "Tags"
+                  alterable: true
+            - name: "published"
+              field:
+                  element: "checkbox"
+                  label: "Published"
+                  value: true
+            - name: "image"
+              field:
+                  element: "text"
+                  label: "Featured image"
+                  help: "Optional"
