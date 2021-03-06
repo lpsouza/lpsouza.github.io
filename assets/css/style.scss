@@ -52,6 +52,32 @@ h3 {
     }
 }
 
+.left-menu {
+    padding-top: 50px;
+    text-align: center;
+    .photo {
+        border-radius: 50%;
+    }
+    .title {
+        a {
+            font-size: 2.0rem;
+            text-decoration: none;
+            color: $light;
+        }
+    }
+    .social {
+        padding: 0;
+        li {
+            display: inline;
+            list-style: none;
+            padding: 0 5px;
+        }
+    }
+    .copyright {
+        padding-top: 15px;
+    }
+}
+
 .site-info {
     width: 300px;
     @media (max-width: 600px) {
