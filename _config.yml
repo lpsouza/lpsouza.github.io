@@ -55,8 +55,6 @@ prose:
                         value: "Blogging"
                       - name: "Tech"
                         value: "Tech"
-                      - name: "Linux"
-                        value: "Linux"
                       - name: "Games"
                         value: "Games"
             - name: "tags"
