@@ -11,5 +11,5 @@ files.sort()
 for file in files:
     post = frontmatter.load(join(dirPath, file))
     category = post.metadata['category']
-    if (category == "blog"):
+    if (category == "Etc"):
         print("[" + category + "] " + file)
