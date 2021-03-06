@@ -1,6 +1,6 @@
 ---
 author: lpsouza
-category: Blogging
+category: Etc
 date: 2020-07-12 14:41 -0300
 layout: post
 published: true

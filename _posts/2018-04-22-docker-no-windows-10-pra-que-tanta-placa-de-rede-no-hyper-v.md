@@ -1,7 +1,7 @@
 ---
 author: lpsouza
-category: blog
-date: 2018-04-22 09:30:25+00:00
+category: Tech
+date: 2018-04-22 09:30:25
 image: https://luizsouza.com.br/wp-content/uploads/2018/04/Capturar.png
 layout: post
 published: true

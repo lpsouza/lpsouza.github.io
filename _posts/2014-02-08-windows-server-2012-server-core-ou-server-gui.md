@@ -1,7 +1,7 @@
 ---
 author: lpsouza
-category: blog
-date: 2014-02-08 20:39:06+00:00
+category: Tech
+date: 2014-02-08 20:39:06
 image: https://luizsouza.com.br/wp-content/uploads/2014/02/IC2357571.png
 layout: post
 published: true

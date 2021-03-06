@@ -1,7 +1,7 @@
 ---
 author: lpsouza
-category: blog
-date: 2015-03-22 17:00:23+00:00
+category: Tech
+date: 2015-03-22 17:00:23
 image: https://luizsouza.com.br/wp-content/uploads/2015/03/imagem-sublime.png
 layout: post
 published: true
