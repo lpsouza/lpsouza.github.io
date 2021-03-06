@@ -1,7 +1,7 @@
 ---
 author: lpsouza
-category: blog
-date: 2012-01-05 16:11:11+00:00
+category: Tech
+date: 2012-01-05 16:11:11
 layout: post
 published: true
 tags:

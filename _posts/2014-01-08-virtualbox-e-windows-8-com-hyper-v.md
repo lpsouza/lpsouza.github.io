@@ -1,7 +1,7 @@
 ---
 author: lpsouza
-category: blog
-date: 2014-01-08 02:13:05+00:00
+category: Tech
+date: 2014-01-08 02:13:05
 image: https://luizsouza.com.br/wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
 layout: post
 published: true

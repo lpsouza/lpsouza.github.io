@@ -1,7 +1,7 @@
 ---
 author: lpsouza
-category: blog
-date: 2014-07-27 19:06:38+00:00
+category: Tech
+date: 2014-07-27 19:06:38
 image: https://luizsouza.com.br/wp-content/uploads/2014/07/netflix.jpg
 layout: post
 published: true

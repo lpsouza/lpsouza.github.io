@@ -1,7 +1,7 @@
 ---
 author: lpsouza
-category: blog
-date: 2010-11-23 08:40:58+00:00
+category: Etc
+date: 2010-11-23 08:40:58
 layout: post
 published: true
 tags:

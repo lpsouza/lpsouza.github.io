@@ -1,7 +1,7 @@
 ---
 author: lpsouza
-category: blog
-date: 2014-08-03 20:35:45+00:00
+category: Tech
+date: 2014-08-03 20:35:45
 image: https://luizsouza.com.br/wp-content/uploads/2014/08/Screenshot-from-2014-05-26-103053.png
 layout: post
 published: true

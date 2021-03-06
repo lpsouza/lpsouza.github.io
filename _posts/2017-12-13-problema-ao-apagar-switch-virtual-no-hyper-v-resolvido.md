@@ -1,7 +1,7 @@
 ---
 author: lpsouza
-category: blog
-date: 2017-12-13 23:52:00+00:00
+category: Tech
+date: 2017-12-13 23:52:00
 image: https://luizsouza.com.br/wp-content/uploads/2017/12/erro-deletando-vmswitch.png
 layout: post
 published: true

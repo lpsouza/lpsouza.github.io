@@ -1,7 +1,7 @@
 ---
 author: lpsouza
-category: blog
-date: 2014-09-03 11:54:49+00:00
+category: Tech
+date: 2014-09-03 11:54:49
 image: https://luizsouza.com.br/wp-content/uploads/2014/09/enabling-ics-windows-7.png
 layout: post
 published: true

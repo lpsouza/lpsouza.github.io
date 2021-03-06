@@ -1,7 +1,7 @@
 ---
 author: lpsouza
-category: blog
-date: 2014-01-15 12:04:21+00:00
+category: Tech
+date: 2014-01-15 12:04:21
 image: https://luizsouza.com.br/wp-content/uploads/2014/01/repair.jpg
 layout: post
 published: true
