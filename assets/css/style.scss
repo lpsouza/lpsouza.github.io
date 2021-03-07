@@ -4,6 +4,7 @@
 @charset 'UTF-8';
 
 @import 'bootstrap-colors';
+@import 'vim';
 
 * {
     color: $light;
@@ -144,14 +145,9 @@ h3 {
             margin-left: auto;
             margin-right: auto;
         }
-        code {
-            color: $light;
-        }
-        .highlight {
-            padding: 1px 5px 0 5px;
-            background-color: lighten($dark, 10);
-            * {
-                color: $light;
+        pre {
+            &.highlight {
+                padding: 10px;
             }
         }
     }

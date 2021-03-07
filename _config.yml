@@ -17,6 +17,8 @@ social:
 disqus:
     shortname: luiz-souza
 
+highlighter: rouge
+
 plugins:
     - jekyll-feed
     - jekyll-paginate
