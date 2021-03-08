@@ -16,7 +16,7 @@
 
 <body>
     <div class="container">
-        {%- comment -%} <nav class="navbar navbar-expand-lg navbar-dark">
+        <nav class="navbar navbar-expand-lg navbar-dark d-lg-none">
             <div class="container-fluid">
                 <div class="site-info">
                     <div class="float-start">
@@ -33,20 +33,19 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    {%- comment -%} <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="/about/">Sobre</a>
+                            <a class="nav-link" href="#">Sobre</a>
                         </li>
-                    </ul>
+                    </ul> {%- endcomment -%}
                     <form action="/search/" method="get" class="d-flex">
                         <input type="text" name="s" id="search-box" class="form-control" placeholder="Busca">
                     </form>
                 </div>
             </div>
-        </nav> {%- endcomment -%}
-        
+        </nav>
         <div class="row">
-            <div class="left-menu col-md-3">
+            <div class="left-menu col-md-3 d-none d-lg-block">
                 <img class="photo" src="https://www.gravatar.com/avatar/ce87a4c115c24ba10709878170134546?s=120">
                 <h1 class="title"><a href="/">{{ site.title }}</a></h1>
                 <p class="description">{{ site.description }}</p>
