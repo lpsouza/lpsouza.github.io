@@ -1,15 +1,15 @@
 ---
-author: lpsouza
-category: Etc
-date: 2020-07-12 14:41 -0300
 layout: post
+author: lpsouza
+date: '2020-07-12 14:41 -0300'
+category: Tech
 published: true
 tags:
-- Jekyll
-- Prose
-- Prose.io
-- Blog
-- Markdown
+  - Jekyll
+  - Prose
+  - Prose.io
+  - Blog
+  - Markdown
 title: Criando posts para Jekyll usando o Prose.io
 ---
 
