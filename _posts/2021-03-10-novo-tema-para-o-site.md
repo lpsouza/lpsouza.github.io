@@ -3,7 +3,7 @@ layout: post
 author: lpsouza
 date: '2021-03-10 21:49 -0300'
 category: Etc
-published: false
+published: true
 title: Novo tema para o site!
 tags:
   - Blog
