@@ -51,12 +51,12 @@ prose:
               field:
                   element: "select"
                   options:
-                      - name: "Blogging"
-                        value: "Blogging"
                       - name: "Tech"
                         value: "Tech"
                       - name: "Games"
                         value: "Games"
+                      - name: "Etc"
+                        value: "Etc"
             - name: "tags"
               field:
                   element: "multiselect"
