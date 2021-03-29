@@ -1,4 +1,4 @@
-# My Website :-)
+# My Website 😅
 
 This repository contains the files of my website!
 
