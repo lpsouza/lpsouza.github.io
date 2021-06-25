@@ -16,7 +16,7 @@ title: Google solar e a teoria do Exterminador do Futuro
 
 Quando eu digo que os filmes de ficção são na verdade possíveis analises do nosso futuro de forma muito introspectiva, pensam que sou doido das ideias.
 
-![Google Logo](/wp-content/upload/2009/09/googlelogo1.jpg)
+![Google Logo](/wp-content/uploads/2009/09/googlelogo1.jpg)
 
 Olha o caso do Google, que querendo ou não, já domina boa parte da internet e boa parte dos serviços espalhados em todo o globo (alguns até de cunho militar!). Agora li a reportagem da [@VivoVerde](http://twitter.com/vivoverde) falando sobre a ideia de sustentabilidade do Google por causa dos altos investimentos em energia solar.
 

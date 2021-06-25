@@ -21,7 +21,7 @@ Isso já era uma realidade que esperava acontecer muito que em breve: Os acessos
 
 E minha aposta estava mesmo no Android. Um sistema operacional "eclético", atendendo do celular ao tablet..
 
-![Smartphone](/wp-content/upload/2010/12/1252606639294_581.jpg)
+![Smartphone](/wp-content/uploads/2010/12/1252606639294_581.jpg)
 
 > A crescente popularidade dos smartphones Android - fabricado por diversas marcas, como HTC e Samsung Electronics - surge no momento em que os aparelhos parecem substituir computadores como forma mais usada para navegar na internet.
 

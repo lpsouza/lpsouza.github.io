@@ -23,7 +23,7 @@ Feliz Ano Novo pessoal! 🙂
 >
 > _Foto: Reprodução/WZTV_
 >
-> ![David Scherer](/wp-content/upload/2010/01/033535633-FMM00.jpg)
+> ![David Scherer](/wp-content/uploads/2010/01/033535633-FMM00.jpg)
 >
 > _David Scherer pretende jogar videogame por 72 horas seguidas. (Foto: Reprodução/Fox 17)_
 >

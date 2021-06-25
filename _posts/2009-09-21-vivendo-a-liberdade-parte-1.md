@@ -24,7 +24,7 @@ tags:
 title: Vivendo a liberdade - parte 1
 ---
 
-![TUX](/wp-content/upload/2009/09/tux-seiyar.png)
+![TUX](/wp-content/uploads/2009/09/tux-seiyar.png)
 
 E aqui começa a minha jornada na mudança de estilo de vida Windows para Linux.
 
