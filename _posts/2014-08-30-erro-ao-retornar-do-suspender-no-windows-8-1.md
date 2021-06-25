@@ -2,7 +2,7 @@
 author: lpsouza
 category: Tech
 date: 2014-08-30 16:27:36
-image: https://luizsouza.com.br/wp-content/uploads/2014/08/0x00000113.png
+image: /wp-content/uploads/2014/08/0x00000113.png
 layout: post
 published: true
 tags:
@@ -49,4 +49,4 @@ No artigo, pede para rodar um hotfix lançado pela Microsoft. Para quem quiser, 
 
 Problema resolvido! 😀
 
-**Edit 22/04/2018**: O link da Microsoft para o FixIt leva a uma mensagem do fim do suporte ao FixIt! Mas nosso amigo [Douglas](https://luizsouza.com.br/2014/08/30/erro-ao-retornar-do-suspender-no-windows-8-1/#comment-4122478287) conseguiu uma alma caridosa que subiu no Mega o arquivo! Segue o link: [https://mega.nz/#!kdsUxSJR!lYUkppKJjNtSJ\_xJoubqrrV\_dPLdPMKlMV0kmVojdk8](https://mega.nz/#!kdsUxSJR!lYUkppKJjNtSJ_xJoubqrrV_dPLdPMKlMV0kmVojdk8)
+**Edit 22/04/2018**: O link da Microsoft para o FixIt leva a uma mensagem do fim do suporte ao FixIt! Mas nosso amigo [Douglas](https://luizsouza.com/2014/08/30/erro-ao-retornar-do-suspender-no-windows-8-1/#comment-4122478287) conseguiu uma alma caridosa que subiu no Mega o arquivo! Segue o link: [https://mega.nz/#!kdsUxSJR!lYUkppKJjNtSJ\_xJoubqrrV\_dPLdPMKlMV0kmVojdk8](https://mega.nz/#!kdsUxSJR!lYUkppKJjNtSJ_xJoubqrrV_dPLdPMKlMV0kmVojdk8)

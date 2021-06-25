@@ -37,7 +37,7 @@ Nas primeiras versões dele, o peso do arquivo era um problema claro. Mas nas ú
 
 Vamos analisar a imagem a baixo:
 
-![Exemplo](https://luizsouza.com.br/wp-content/upload/2013/03/1362831418416.jpg)
+![Exemplo](/wp-content/upload/2013/03/1362831418416.jpg)
 
 É uma screenshot do meu tablet, onde estava lendo uma reportagem, e para existir o site de notícias em questão, eles trabalham com publicidade, certo? Ok, então reparem que existia propagandas que conseguiu abrir em meu tablet e outra não.
 
@@ -45,7 +45,7 @@ Imagina se eu fosse o anunciante, que pagou para ter minha propaganda (que pelo 
 
 ### Pare de reclamar, me fale de soluções
 
-![No flash inside](https://luizsouza.com.br/wp-content/upload/2013/03/html5_no_flash_inside.jpg)
+![No flash inside](/wp-content/upload/2013/03/html5_no_flash_inside.jpg)
 
 A melhor solução é trabalhar com as novas plataformas da web 2.0, o HTML5, unido ao CSS3 e frameworks de JavaScript, como [jQuery](http://www.jquery.com).
 

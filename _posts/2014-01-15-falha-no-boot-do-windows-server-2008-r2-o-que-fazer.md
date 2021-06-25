@@ -2,7 +2,7 @@
 author: lpsouza
 category: Tech
 date: 2014-01-15 12:04:21
-image: https://luizsouza.com.br/wp-content/uploads/2014/01/repair.jpg
+image: /wp-content/uploads/2014/01/repair.jpg
 layout: post
 published: true
 tags:

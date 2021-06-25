@@ -24,4 +24,4 @@ Ok, mas me esbarrei neste infográfico muito legal, por uma razão simples: Quer
 
 Abaixo essa super solução:
 
-![Blueprint](https://luizsouza.com.br/wp-content/uploads/2013/08/social-media-design-blueprint.png)
+![Blueprint](/wp-content/uploads/2013/08/social-media-design-blueprint.png)

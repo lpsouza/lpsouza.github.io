@@ -2,7 +2,7 @@
 author: lpsouza
 category: Tech
 date: 2016-01-11 23:53:58
-image: https://luizsouza.com.br/wp-content/uploads/2016/01/chrome-error1.jpg
+image: /wp-content/uploads/2016/01/chrome-error1.jpg
 layout: post
 published: true
 tags:

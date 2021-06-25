@@ -2,7 +2,7 @@
 author: lpsouza
 category: Tech
 date: 2014-01-08 02:13:05
-image: https://luizsouza.com.br/wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
+image: /wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
 layout: post
 published: true
 tags:
@@ -63,7 +63,7 @@ e
 
 Pronto! Dois boots ao mesmo sistema operacional, um com Hyper-V e outro não! 😉
 
-![Dual boot depois de alterado](https://www.lambda3.com.brhttps://luizsouza.com.br/wp-content/uploads/2013/01/image32.png)  
+![Dual boot depois de alterado](https://www.lambda3.com.br/wp-content/uploads/2013/01/image32.png)  
 Fonte: Blog do Lambda3
 
 O legal, pelo menos comigo, é que não fico quieto, e já estou estudando esse boot manager do Windows 8 para outras personalizações! Agradeço ao Igor pelo post no Blog do Lambda3! Até a próxima!

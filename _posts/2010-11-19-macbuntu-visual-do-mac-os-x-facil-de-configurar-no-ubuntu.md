@@ -21,7 +21,7 @@ Neste quesito eu já imaginava que alguém criaria um tema para transformar o Ub
 
 Confira mais no post do BR-Linux.
 
-![Macbuntu](https://luizsouza.com.br/wp-content/upload/2010/11/500x_macbuntu_01.jpg)
+![Macbuntu](/wp-content/upload/2010/11/500x_macbuntu_01.jpg)
 
 > Os anos passam e cada vez fico menos convencido da validade dos argumentos a favor do mimetismo de ambientes como apoio a estratégias de migração e similares - afinal, as similaridades no visual e configurações logo encontram seu limite.
 >

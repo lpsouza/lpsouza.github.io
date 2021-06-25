@@ -29,4 +29,4 @@ Então como tive recentemente problemas ao sincronizar um git que fiz entre serv
 * Clique em "Open"
 * Pronto! 🙂
 
-![Putty](https://luizsouza.com.br/wp-content/upload/2015/01/putty.png)
+![Putty](/wp-content/upload/2015/01/putty.png)
