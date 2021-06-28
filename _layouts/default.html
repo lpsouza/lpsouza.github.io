@@ -2,6 +2,9 @@
 <html lang="pt-br">
 
 <head>
+    {% if site.google-analytics %}
+    {% include gtag.html %}
+    {% endif %}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ site.title }}</title>
