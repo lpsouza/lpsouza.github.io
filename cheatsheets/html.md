@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 # Cheatsheet HTML
 
 ## Títulos
