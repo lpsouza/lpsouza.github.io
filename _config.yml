@@ -1,5 +1,5 @@
 title: "Luiz Souza"
-description: "DevSecOps. Professor."
+description: "DevSecOps Specialist"
 permalink: "/:year/:month/:day/:title/"
 paginate: 10
 paginate_path: "/page/:num/"
