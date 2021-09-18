@@ -4,7 +4,7 @@ layout: default
 
 <div class="blog">
     {% assign date_format = site.minima.date_format | default: "%d/%m/%Y" %}
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
     <div class=post>
         <h2 class="title">
             <a href="{{ post.url | relative_url }}">
