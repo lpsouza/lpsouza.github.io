@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="home">
+<div class="blog">
     {% if site.posts.size > 0 %}
     {% assign date_format = site.minima.date_format | default: "%d/%m/%Y" %}
     {% for post in paginator.posts %}
@@ -23,28 +23,22 @@ layout: default
             {{ post.excerpt }}
         </div>
         <div class="more">
-            <a href="{{ post.url | relative_url }}" class="btn btn-sm btn-primary">Leia mais...</a>
+            <a href="{{ post.url | relative_url }}">Leia mais...</a>
         </div>
     </div>
     {% endfor %}
 
     <ul class="pagination">
         {% if paginator.next_page %}
-        <li class="page-item d-flex next"><a href="{{ paginator.next_page_path }}" class="page-link link-primary">Posts
-                anteriores</a></li>
+        <li class="next"><a href="{{ paginator.next_page_path }}">Posts anteriores</a></li>
         {% else %}
-        <li class="page-item d-flex next"><span class="page-link link-primary">Posts anteriores</span></li>
+        <li class="next"><span>Posts anteriores</span></li>
         {% endif %}
 
-        <span class="d-flex flex-fill"></span>
-
         {% if paginator.previous_page %}
-        <li class="page-item d-flex previous"><a href="{{ paginator.previous_page_path }}"
-                class="page-link link-primary">Posts
-                recentes</a>
-        </li>
+        <li class="previous"><a href="{{ paginator.previous_page_path }}">Posts recentes</a></li>
         {% else %}
-        <li class="page-item d-flex previous"><span class="page-link link-primary">Posts recentes</span></li>
+        <li class="previous"><span>Posts recentes</span></li>
         {% endif %}
     </ul>
 
