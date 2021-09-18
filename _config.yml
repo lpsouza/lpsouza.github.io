@@ -2,7 +2,7 @@ title: "Luiz Souza"
 description: "DevSecOps Specialist"
 permalink: "/:year/:month/:day/:title/"
 paginate: 10
-paginate_path: "/page/:num/"
+paginate_path: "/blog/page/:num/"
 
 twitter_username: lpsouza
 github_username: lpsouza
