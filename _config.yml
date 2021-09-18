@@ -23,7 +23,7 @@ highlighter: rouge
 
 plugins:
     - jekyll-feed
-    - jekyll-paginate
+    - jekyll-paginate-v2
 
 sass:
     sass_dir: _sass
