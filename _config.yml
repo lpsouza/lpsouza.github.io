@@ -23,7 +23,7 @@ pagination:
     enabled: true
     debug: false
     per_page: 10
-    permalink: "/page/:num/" # Pages are index.html inside this folder (default)
+    permalink: "/page/:num/"
 
 plugins:
     - jekyll-feed
