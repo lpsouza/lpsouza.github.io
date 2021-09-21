@@ -1,5 +1,7 @@
 ---
 layout: default
+pagination: 
+  enabled: true
 ---
 
 <div class="blog">
@@ -27,7 +29,7 @@ layout: default
     </div>
     {% endfor %}
 
-    {%- comment -%} <ul class="pagination">
+    <ul class="pagination">
         {% if paginator.next_page %}
         <li class="next"><a href="{{ paginator.next_page_path }}">Posts anteriores</a></li>
         {% else %}
@@ -39,5 +41,5 @@ layout: default
         {% else %}
         <li class="previous"><span>Posts recentes</span></li>
         {% endif %}
-    </ul> {%- endcomment -%}
+    </ul>
 </div>
