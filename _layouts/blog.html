@@ -2,59 +2,58 @@
 layout: default
 ---
 
-<div class="main flex-1">
-    <img src="https://www.gravatar.com/avatar/ce87a4c115c24ba10709878170134546?s=150" class="rounded-full">
-    <h1>{{ site.title }}</h1>
-    <h2>{{ site.description }}</h2>
-    <ul class="menu">
-        <li class="inline px-1"><a href="/blog/">Blog</a></li>
-        <li class="inline px-1"><a href="#">Cursos</a></li>
-        <li class="inline px-1"><a href="#">Consultoria</a></li>
-    </ul>
-    <ul class="social">
-        <li class="inline px-1"><a href="https://linkedin.com/in/lpsouza" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a></li>
-        <li class="inline px-1"><a href="https://github.com/lpsouza" target="_blank"><i class="fab fa-github fa-2x"></i></a></li>
-        <li class="inline px-1"><a href="https://instagram.com/lpsouza" target="_blank"><i class="fab fa-instagram fa-2x"></i></a></li>
-        <li class="inline px-1"><a href="https://youtube.com/user/lpsouza" target="_blank"><i class="fab fa-youtube fa-2x"></i></a></li>
-    </ul>
-</div>
-
-<div class="blog flex-auto">
-    {% assign date_format = site.minima.date_format | default: "%d/%m/%Y" %}
-    {% for post in paginator.posts %}
-    <div class=post>
-        <h2 class="title">
-            <a href="{{ post.url | relative_url }}">
-                {{ post.title | escape }}
-            </a>
-        </h2>
-        <div class="meta">
-            <span class="date"><i class="far fa-calendar-alt"></i> {{ post.date | date: date_format }}</span>
-            <span class="category"><i class="fas fa-tag"></i> {{ post.category }}</span>
-            {% include reading_time.html %}
-            <span class="comments"><i class="fas fa-comments"></i> <a
-                    href="{{ post.url | relative_url }}#disqus_thread">Deixe seu comentário</a></span>
+<div class="grid grid-cols-4">
+    <div class="grid grid-cols-6">
+        <div></div>
+        <div class="col-span-4 text-center py-3">
+            <img src="https://www.gravatar.com/avatar/ce87a4c115c24ba10709878170134546?s=150" class="rounded-full inline">
+            <h1 class="text-2xl">{{ site.title }}</h1>
+            <h2 class="text-xl">{{ site.description }}</h2>
+            <ul class="py-3">
+                <li class="px-1"><a href="/">Inicial</a></li>
+                <li class="px-1"><a href="#">Cursos</a></li>
+                <li class="px-1"><a href="#">Consultoria</a></li>
+            </ul>
+            <ul>
+                <li class="inline px-1"><a href="https://linkedin.com/in/lpsouza" target="_blank"><i class="fab fa-linkedin fa-2x"></i></a></li>
+                <li class="inline px-1"><a href="https://github.com/lpsouza" target="_blank"><i class="fab fa-github fa-2x"></i></a></li>
+                <li class="inline px-1"><a href="https://instagram.com/lpsouza" target="_blank"><i class="fab fa-instagram fa-2x"></i></a></li>
+                <li class="inline px-1"><a href="https://youtube.com/user/lpsouza" target="_blank"><i class="fab fa-youtube fa-2x"></i></a></li>
+            </ul>
         </div>
-        <div class="content">
-            {{ post.excerpt }}
-        </div>
-        <div class="more">
-            <a href="{{ post.url | relative_url }}">Leia mais...</a>
-        </div>
+        <div></div>
     </div>
-    {% endfor %}
+    <div class="col-span-3">
+        {% assign date_format = site.minima.date_format | default: "%d/%m/%Y" %}
+        {% for post in paginator.posts %}
+        <div class="py-3">
+            <h3 class="text-2xl pb-1"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+            <ul class="pb-1">
+                <li class="inline px-1"><i class="far fa-calendar-alt"></i> {{ post.date | date: date_format }}</li>
+                <li class="inline px-1"><i class="fas fa-tag"></i> {{ post.category }}</li>
+                {% include reading_time.html %}
+                <li class="inline px-1"><i class="fas fa-comments"></i> <a href="{{ post.url | relative_url }}#disqus_thread">Deixe seu comentário</a></li>
+            </ul>
+            <div>
+                {{ post.excerpt }}
+            </div>
+            <div>
+                <a href="{{ post.url | relative_url }}">Leia mais...</a>
+            </div>
+        </div>
+        {% endfor %}
+        <ul class="p-2">
+            {% if paginator.next_page %}
+            <li class="inline float-left p-2 bg-purple-900 text-gray-300"><a href="{{ paginator.next_page_path }}">Posts anteriores</a></li>
+            {% else %}
+            <li class="inline float-left p-2 bg-purple-800 text-gray-400"><span>Posts anteriores</span></li>
+            {% endif %}
 
-    <ul class="pagination">
-        {% if paginator.next_page %}
-        <li class="next"><a href="{{ paginator.next_page_path }}">Posts anteriores</a></li>
-        {% else %}
-        <li class="next"><span>Posts anteriores</span></li>
-        {% endif %}
-
-        {% if paginator.previous_page %}
-        <li class="previous"><a href="{{ paginator.previous_page_path }}">Posts recentes</a></li>
-        {% else %}
-        <li class="previous"><span>Posts recentes</span></li>
-        {% endif %}
-    </ul>
+            {% if paginator.previous_page %}
+            <li class="inline float-right p-2 bg-purple-900 text-gray-300"><a href="{{ paginator.previous_page_path }}">Posts recentes</a></li>
+            {% else %}
+            <li class="inline float-right p-2 bg-purple-800 text-gray-400"><span>Posts recentes</span></li>
+            {% endif %}
+        </ul>
+    </div>
 </div>

@@ -3,11 +3,14 @@
 
 @charset 'UTF-8';
 @import 'vim';
+@import 'tailwind';
 
+a {
+    --tw-text-opacity: 1;
+    color: rgba(196, 181, 253, var(--tw-text-opacity));
+    &:hover {
+        --tw-text-opacity: 1;
+        color: rgba(237, 233, 254, var(--tw-text-opacity));
+    }
+}
 
-h1 {
-    font-size: 2em;
-}
-h2 {
-    font-size: 1.5em;
-}

@@ -1,4 +1,4 @@
-<span class="reading-time"><i class="fas fa-clock"></i>
+<li class="inline px-1"><i class="fas fa-clock"></i>
   {% assign words = content | number_of_words %}
   {% if words == 0 %}
     {% assign words = post.content | number_of_words %}
@@ -8,4 +8,4 @@
   {% else %}
     {{ words | divided_by:180 }} minutos para ler
   {% endif %}
-</span>
+</li>
