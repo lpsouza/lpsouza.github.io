@@ -5,12 +5,36 @@
 @import 'vim';
 @import 'tailwind';
 
-a {
-    --tw-text-opacity: 1;
-    color: rgba(196, 181, 253, var(--tw-text-opacity));
-    &:hover {
+.post-content {
+    a {
         --tw-text-opacity: 1;
-        color: rgba(237, 233, 254, var(--tw-text-opacity));
+        color: rgba(196, 181, 253, var(--tw-text-opacity));
+        &:hover {
+            --tw-text-opacity: 1;
+            color: rgba(237, 233, 254, var(--tw-text-opacity));
+        }
     }
+    p {
+        padding-bottom: 0.25rem;
+    }
+    ul { 
+        list-style-type: disc; 
+        list-style-position: inside; 
+     }
+     ol { 
+        list-style-type: decimal; 
+        list-style-position: inside; 
+     }
+     ul ul,
+     ol ul { 
+        list-style-type: circle; 
+        list-style-position: inside; 
+        margin-left: 15px; 
+     }
+     ol ol,
+     ul ol { 
+        list-style-type: lower-latin; 
+        list-style-position: inside; 
+        margin-left: 15px; 
+     }
 }
-
