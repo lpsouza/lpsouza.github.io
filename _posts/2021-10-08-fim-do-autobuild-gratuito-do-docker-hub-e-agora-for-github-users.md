@@ -11,9 +11,9 @@ tags:
   - Github
   - Github Actions
 ---
-Então o pessoal do Docker [encerrou o autobuild do Docker Hub para contas gratuitas depois do dia 18 de junho agora (de 2021)](https://www.docker.com/blog/changes-to-docker-hub-autobuilds/ "Changes to Docker Hub Autobuilds") e eu que tinha uns 3 projetos buildando lá e no caso só me toquei hoje, quase 4 meses depois. 🙄
+Então o pessoal do Docker [encerrou o autobuild do Docker Hub para contas gratuitas depois do dia 18 de junho agora (de 2021)](https://www.docker.com/blog/changes-to-docker-hub-autobuilds/ "Changes to Docker Hub Autobuilds") e eu que tinha uns três projetos buildando lá e no caso só me toquei hoje, quase 4 meses depois. 🙄
 
-Depois da frustração de ter subido meu 4 projeto de imagem lá e só aí ter percebido que todos os meus projetos estavam sem builds recentes, comecei a analisar como resolver esse problema, e claro, achei a solução usando o [Github Actions](https://docs.github.com/pt/actions "GitHub Actions")! E para isso foi mais simples do que pensei e o legal é que me aprofundei mais no mundo do CI/CD do Github. Então sem mais delongas, vamos colocar um projeto de imagem para o Docker Hub pra funcionar automagicamente com Github Actions!
+Depois da frustração de ter subido meu quarto projeto de imagem lá e só aí ter percebido que todos os meus projetos estavam sem builds recentes, comecei a analisar como resolver esse problema, e claro, achei a solução usando o [Github Actions](https://docs.github.com/pt/actions "GitHub Actions")! E para isso foi mais simples do que pensei e o legal é que me aprofundei mais no mundo do CI/CD do Github. Então sem mais delongas, vamos colocar um projeto de imagem para o Docker Hub pra funcionar automagicamente com Github Actions!
 
 ## Receita de bolo
 
