@@ -3,8 +3,13 @@ layout: post
 author: lpsouza
 date: '2021-10-08 10:13 -0300'
 category: Tech
-published: false
+published: true
 title: 'Fim do autobuild gratuito do Docker Hub?!?? E agora?? [For Github users]'
+tags:
+  - Docker
+  - Docker Hub
+  - Github
+  - Github Actions
 ---
 Então o pessoal do Docker [encerrou o autobuild do Docker Hub para contas gratuitas depois do dia 18 de junho agora (de 2021)](https://www.docker.com/blog/changes-to-docker-hub-autobuilds/ "Changes to Docker Hub Autobuilds") e eu que tinha uns 3 projetos buildando lá e no caso só me toquei hoje, quase 4 meses depois. 🙄
 
@@ -47,4 +52,7 @@ jobs:
 
 Lembrando umas questões importantes aqui:
 
-- 
+1. Tanto a variável **${{ secrets.DOCKER_USERNAME }}** quanto a variável **${{ secrets.DOCKER_PASSWORD }}** pegam essas informações da [área de secrets do teu repositório](https://docs.github.com/pt/actions/security-guides/encrypted-secrets "Segredos criptografados").
+2. Na chave **tags** onde aparece `<docker-username>` devemos alterar pelo usuário do Docker Hub e na `<image-name>` colocar o nome da nossa imagem.
+
+Fazendo estes ajustes é só subir este novo arquivo para o repositório do Github e sair para o abraço!
