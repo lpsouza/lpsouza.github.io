@@ -3,9 +3,13 @@
 <meta property="og:title" content="{{ page.title }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:description" content="{{ page.excerpt }}">
-{%- comment -%} <meta property="og:image" content="www.meusite.com.br/imagem.jpg"> {%- endcomment -%}
+{% if page.image %}
+<meta property="og:image" content="{{ page.image }}">
+{% else %}
+<meta property="og:image" content="{{ page.author.photo }}">
+{% endif %}
 <meta property="og:type" content="article">
-<meta property="article:author" content="{{ site.author }}">
+<meta property="article:author" content="{{ site.author.name }}">
 <meta property="article:section" content="{{ page.category }}">
 {%- comment -%} <meta property="article:tag" content="Facebook, tags, og, open graph"> {%- endcomment -%}
 <meta property="article:published_time" content="date_time">
