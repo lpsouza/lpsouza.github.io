@@ -19,6 +19,8 @@ Depois da frustração de ter subido meu quarto projeto de imagem lá e só aí 
 
 Vamos lá, primeiramente precisamos no nosso projeto de um arquivo que podemos chamar de `main.yaml` (mas podemos colocar o nome que quisermos) e colocar ele numa pasta específica, isto é, na `.github/workflows/` do teu projeto. Blza, mas vamos ao conteúdo deste arquivo, antes de subir ele para o Github:
 
+{% raw %}
+
 ```yaml
 name: Publish Docker image
 
@@ -39,8 +41,8 @@ jobs:
       - name: Log in to Docker Hub
         uses: docker/login-action@f054a8b539a109f9f41c372932f1ae047eff08c9
         with:
-          username: $\{\{ secrets.DOCKER_USERNAME \}\}
-          password: $\{\{ secrets.DOCKER_PASSWORD \}\}
+          username: ${{ secrets.DOCKER_USERNAME }}
+          password: ${{ secrets.DOCKER_PASSWORD }}
       
       - name: Build and push Docker image
         uses: docker/build-push-action@ad44023a93711e3deb337508980b4b5e9bcdc5dc
@@ -49,6 +51,8 @@ jobs:
           push: true
           tags: '<docker-username>/<image-name>:latest'
 ```
+
+{% endraw %}
 
 Lembrando umas questões importantes aqui:
 
