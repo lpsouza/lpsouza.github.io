@@ -1,5 +1,6 @@
 title: "Luiz Souza"
 description: "DevSecOps Specialist"
+author: "Luiz Pereira de Souza Filho"
 permalink: "/:year/:month/:day/:title/"
 paginate: 10
 paginate_path: "/page/:num/"
