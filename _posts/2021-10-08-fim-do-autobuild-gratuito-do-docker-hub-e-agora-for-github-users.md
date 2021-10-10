@@ -39,8 +39,8 @@ jobs:
       - name: Log in to Docker Hub
         uses: docker/login-action@f054a8b539a109f9f41c372932f1ae047eff08c9
         with:
-          username: ${{ secrets.DOCKER_USERNAME }}
-          password: ${{ secrets.DOCKER_PASSWORD }}
+          username: $\{\{ secrets.DOCKER_USERNAME \}\}
+          password: $\{\{ secrets.DOCKER_PASSWORD \}\}
       
       - name: Build and push Docker image
         uses: docker/build-push-action@ad44023a93711e3deb337508980b4b5e9bcdc5dc
@@ -52,7 +52,7 @@ jobs:
 
 Lembrando umas questões importantes aqui:
 
-1. Tanto a variável **${{ secrets.DOCKER_USERNAME }}** quanto a variável **${{ secrets.DOCKER_PASSWORD }}** pegam essas informações da [área de secrets do teu repositório](https://docs.github.com/pt/actions/security-guides/encrypted-secrets "Segredos criptografados").
+1. Tanto a variável **$\{\{ secrets.DOCKER_USERNAME \}\}** quanto a variável **$\{\{ secrets.DOCKER_PASSWORD \}\}** pegam essas informações da [área de secrets do teu repositório](https://docs.github.com/pt/actions/security-guides/encrypted-secrets "Segredos criptografados").
 2. Na chave **tags** onde aparece `<docker-username>` devemos alterar pelo usuário do Docker Hub e na `<image-name>` colocar o nome da nossa imagem.
 
 Fazendo estes ajustes é só subir este novo arquivo para o repositório do Github e sair para o abraço!
