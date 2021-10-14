@@ -7,7 +7,16 @@
     {% endif %}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% if page.layout == "post" %}
+    {% include og.html %}
+    {% endif %}
+
+    {% if page.layout == "post" %}
+    <title>{{ page.title }} - {{ site.title }}</title>
+    {% else %}
     <title>{{ site.title }}</title>
+    {% endif %}
 
     <link rel="stylesheet" href="/assets/css/style.css">
 
