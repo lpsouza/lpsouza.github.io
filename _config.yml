@@ -2,7 +2,7 @@ title: "Luiz Souza"
 description: "DevSecOps Specialist"
 author:
     name: "Luiz Pereira de Souza Filho"
-    photo: "https://www.gravatar.com/avatar/ce87a4c115c24ba10709878170134546"
+    photo: "https://www.gravatar.com/avatar/ce87a4c115c24ba10709878170134546?s=512"
 permalink: "/:year/:month/:day/:title/"
 paginate: 10
 paginate_path: "/page/:num/"
