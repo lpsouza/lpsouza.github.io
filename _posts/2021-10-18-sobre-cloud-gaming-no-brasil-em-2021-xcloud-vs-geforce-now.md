@@ -29,4 +29,12 @@ Ok, devidamente explicada as propostas, vou agora dar um "zoom" em cada uma dela
 
 ### XCloud
 
+Aproveitei que o primeiro mês do XBox Game Pass custava R$ 5,00 (depois ele custa R$ 44,90 por mês) e assinei o serviço para ver se valia ou não a pena começar a usar este tipo de serviço e também se ele se mantinha funcional em diversos dispositivos e para minha surpresa, por mais que estejamos falando de um produto dito como "em beta", o serviço me surpreendeu! Meus testes foram:
+
+- Usando o navegador (chrome) em um Chromecast com processador Celerom, 4GB de memória, 32GB de disco e placa de vídeo integrada. Rodei o jogo Need for Speed Heat e com performance igual ao meu note (Dell G7 com processador Core i7 (8th gen), 16GB de memória, disco SSD de 250GB e SATA de 2TB e placa de vídeo GeForce GTX 1050ti).
+- Meu celular (Samsung S21+) usando o aplicativo do Game Pass em dois modos:
+	- Via celular mesmo, com meu controle de XBox One pareado com ele.
+    - Usando ele plugado na minha TV, com o Samsung DeX e com o mesmo controle de XBox One pareado.
+
+
 ### GeForce Now
