@@ -36,5 +36,6 @@ Aproveitei que o primeiro mês do XBox Game Pass custava R$ 5,00 (depois ele cus
 	- Via celular mesmo, com meu controle de XBox One pareado com ele.
     - Usando ele plugado na minha TV, com o Samsung DeX e com o mesmo controle de XBox One pareado.
 
+![XCloud rodando em um chromebook]({{site.baseurl}}/media/IMG_20211019_131330436.jpg)
 
 ### GeForce Now
