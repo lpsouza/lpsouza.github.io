@@ -41,7 +41,7 @@ Aproveitei que o primeiro mês do XBox Game Pass custava R$ 5,00 (depois ele cus
     - Usando ele plugado na minha TV, com o Samsung DeX e com o mesmo controle de XBox One pareado.
 
 ![XCloud rodando em um celular Samsung S21+]({{site.baseurl}}/media/IMG_20211019_131632256.jpg)
-![XCloud rodando em uma TV conectada a um celular Samsung S21+]({{site.baseurl}}/media/IMG_20211019_131632256.jpg)
+
 ![XCloud rodando em uma TV conectada a um celular Samsung S21+]({{site.baseurl}}/media/IMG_20211019_132202332.jpg)
 
 ### GeForce Now
