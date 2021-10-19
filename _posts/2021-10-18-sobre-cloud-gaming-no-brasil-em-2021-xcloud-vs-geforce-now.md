@@ -15,7 +15,7 @@ tags:
   - Microsoft
   - NVidia
   - streaming
-image: '{{site.baseurl}}/media/IMG_20211019_131330436.jpg'
+image: '{{site.baseurl}}/assets/IMG_20211019_131330436.jpg'
 ---
 No dia 30 de setembro [a Microsoft anunciou a chegada oficial do serviço de games na nuvem (conhecido como XCloud ou como XBox Gaming Cloud)](https://www.tecmundo.com.br/voxel/225871-xcloud-chega-oficialmente-brasil-30-100-jogos.htm "xCloud chega oficialmente ao Brasil hoje (30) com mais de 100 jogos") e agora mais recente, a NVidia anuncia em 14 de outubro [a chegada do GeForce Now, seu também serviço de games na nuvem](https://www.techtudo.com.br/noticias/2021/10/geforce-now-chega-ao-brasil-veja-jogos-requisitos-e-precos-do-servico.ghtml "GeForce Now chega ao Brasil: veja jogos, requisitos e preços do serviço"). Eu testei os dois serviços e como um gamer casual (jogo em média duas vezes por semana apenas) que sempre correu atras de jogar seus jogos com placas de vídeo mais modestas (só hoje que posso dizer que tenho um notebook com placa de vídeo "ok" pra jogos), resolvi trazer minhas opiniões sobre os serviços.
 
@@ -34,13 +34,13 @@ Aproveitei que o primeiro mês do XBox Game Pass custava R$ 5,00 (depois ele cus
 
 Meu primeiro teste foi usando um Chromebook com processador Celerom, 4GB de memória, 32GB de disco e placa de vídeo integrada. Rodei o jogo Need for Speed Heat e com performance igual ao meu note (Dell G7 com processador Core i7 (8th gen), 16GB de memória, disco SSD de 250GB e SATA de 2TB e placa de vídeo GeForce GTX 1050ti).
 
-![XCloud rodando em um chromebook]({{site.baseurl}}/media/IMG_20211019_131330436.jpg)
+![XCloud rodando em um chromebook]({{site.baseurl}}/assets/IMG_20211019_131330436.jpg)
 
 O segundo teste foi usando meu celular (Samsung S21+) usando o aplicativo do Game Pass em dois modos, o primeiro via celular mesmo, com meu controle de XBox One pareado com ele e o segundo usando ele plugado na minha TV, com o Samsung DeX e com o mesmo controle de XBox One pareado.
 
-![XCloud rodando em um celular Samsung S21+]({{site.baseurl}}/media/IMG_20211019_131632256.jpg)
+![XCloud rodando em um celular Samsung S21+]({{site.baseurl}}/assets/IMG_20211019_131632256.jpg)
 
-![XCloud rodando em uma TV conectada a um celular Samsung S21+]({{site.baseurl}}/media/IMG_20211019_132202332.jpg)
+![XCloud rodando em uma TV conectada a um celular Samsung S21+]({{site.baseurl}}/assets/IMG_20211019_132202332.jpg)
 
 Em todas as opções a performance foi muito boa para um serviço em beta e tive raros momentos onde meu input do controle foi perdido ou teve atraso na resposta e na resposta da tela, mas nada que para mim atrapalhasse completamente minha jogatina. Vamos aos meus prós e contras:
 
@@ -64,7 +64,7 @@ Resolvi instalar o cliente no meu Dell G7 (o que descrevi acima) e então nada s
 
 Não preciso dizer depois deste paragrafo acima que foi a pior experiência que pude ter num sistema de streaming, né? Ok, vamos assinar o serviço, pois deve ser problemas da versão gratuita né? Fui alterar o meu plano e para minha surpresa...
 
-![Planos esgotados na GeForce Now em menos de 1 semana?!??]({{site.baseurl}}/media/Screenshot 2021-10-19 140946.png)
+![Planos esgotados na GeForce Now em menos de 1 semana?!??]({{site.baseurl}}/assets/Screenshot 2021-10-19 140946.png)
 
 Isso mesmo, não tem como assinar mais porque "esgotou". Sim, "esgotou" um sistema de planos de streaming... Como se a Netflix avisasse que os planos dela estivessem "esgotados"! É pra rir e chorar ao mesmo tempo! 😂
 
