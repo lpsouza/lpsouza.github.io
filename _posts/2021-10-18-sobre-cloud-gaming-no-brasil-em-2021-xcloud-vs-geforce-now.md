@@ -30,18 +30,58 @@ Ok, devidamente explicada as propostas, vou agora dar um "zoom" em cada uma dela
 
 ### XCloud
 
-Aproveitei que o primeiro mês do XBox Game Pass custava R$ 5,00 (depois ele custa R$ 44,90 por mês) e assinei o serviço para ver se valia ou não a pena começar a usar este tipo de serviço e também se ele se mantinha funcional em diversos dispositivos e para minha surpresa, por mais que estejamos falando de um produto dito como "em beta", o serviço me surpreendeu! Meus testes foram:
+Aproveitei que o primeiro mês do XBox Game Pass custava R$ 5,00 (depois ele custa R$ 44,90 por mês) e assinei o serviço para ver se valia ou não a pena começar a usar este tipo de serviço e também se ele se mantinha funcional em diversos dispositivos e para minha surpresa, por mais que estejamos falando de um produto dito como "em beta", o serviço me surpreendeu!
 
-- Usando o navegador (chrome) em um Chromecast com processador Celerom, 4GB de memória, 32GB de disco e placa de vídeo integrada. Rodei o jogo Need for Speed Heat e com performance igual ao meu note (Dell G7 com processador Core i7 (8th gen), 16GB de memória, disco SSD de 250GB e SATA de 2TB e placa de vídeo GeForce GTX 1050ti).
+Meu primeiro teste foi usando um Chromebook com processador Celerom, 4GB de memória, 32GB de disco e placa de vídeo integrada. Rodei o jogo Need for Speed Heat e com performance igual ao meu note (Dell G7 com processador Core i7 (8th gen), 16GB de memória, disco SSD de 250GB e SATA de 2TB e placa de vídeo GeForce GTX 1050ti).
 
 ![XCloud rodando em um chromebook]({{site.baseurl}}/media/IMG_20211019_131330436.jpg)
 
-- Meu celular (Samsung S21+) usando o aplicativo do Game Pass em dois modos:
-	- Via celular mesmo, com meu controle de XBox One pareado com ele.
-    - Usando ele plugado na minha TV, com o Samsung DeX e com o mesmo controle de XBox One pareado.
+O segundo teste foi usando meu celular (Samsung S21+) usando o aplicativo do Game Pass em dois modos, o primeiro via celular mesmo, com meu controle de XBox One pareado com ele e o segundo usando ele plugado na minha TV, com o Samsung DeX e com o mesmo controle de XBox One pareado.
 
 ![XCloud rodando em um celular Samsung S21+]({{site.baseurl}}/media/IMG_20211019_131632256.jpg)
 
 ![XCloud rodando em uma TV conectada a um celular Samsung S21+]({{site.baseurl}}/media/IMG_20211019_132202332.jpg)
 
+Em todas as opções a performance foi muito boa para um serviço em beta e tive raros momentos onde meu input do controle foi perdido ou teve atraso na resposta e na resposta da tela, mas nada que para mim atrapalhasse completamente minha jogatina. Vamos aos meus prós e contras:
+
+#### Prós
+
+- Estabilidade do serviço (levando em conta que é beta);
+- Facilidade em qualquer dispositivo;
+- Possiblidade de substituir a compra de um console ou um "PC gamer".
+
+#### Contras
+
+- Rotatividade de títulos (uma hora tu não terá mais o jogo que você quer);
+- Para os mais críticos de gráficos e performance vão sentir diferenças;
+- Filas para jogar (meu tempo máximo em filas foi em média 10 minutos).
+
 ### GeForce Now
+
+Agora vamos para os meus testes com o GeForce Now e esse será rápido, pois na realidade não consegui testar no celular por erros no aplicativo (desde erros no login, quanto erros ao tentar vincular minha conta da Steam e tentar jogar alguma coisa). Resolvi então esquecer o fato que eles pretender ser multidispositivo e apostei no clássico "no PC a NVidia tem conhecimento de causa, deve rodar"... Será?
+
+Resolvi instalar o cliente no meu Dell G7 (o que descrevi acima) e então nada seria problema para rodar, pensei eu. Vamos a realidade: Testei primeiro usando o a conta gratuita, onde de cara vi que as sessões seriam de 30 minutos e que haveria fila e até aí ok. Desta vez consegui vincular a conta da Steam e da Epic no cliente e começou a primeira decepção, dos meus quase 400 jogos, apenas 71 seriam disponíveis via GeForce Now! Me caiu os butiás do bolso, mas ok, vamos continuar os testes, se funcionar bem tá valendo (pensei eu novamente)! Escolhi o jogo Life is Strange 2, pois já tinha terminado (testar se meu save era importado para a rodar na nuvem) e porque é um jogo relativamente leve até no meu note local, logo teria parametros para comparar. Uma vez iniciado, entrei em fila que até que foi rápida (levou mais ou menos o mesmo tempo que no XCloud), mas quando consegui jogar, começou o choque de relidade. Recebi o aviso que minha sessão tinha iniciado e para a minha surpresa, mesmo tendo já vinculado a conta da Steam no site, ele pediu para autenticar a aplicação da Steam. Como minhas senhas são grandes (24 digitos no mínimo) e são complexas, tenho elas guardadas em um cofre de senhas. Peguei a senha, copiar e.... não cola no campo senha dentro do GeForce Now. Vamos digitar na mão então, depois segundo fator de autenticação, depois tela inicial, escolha do capítulo e cutscene... Que começa a travar e perder frame, coisa que nem meu note acontece. Até eu ter o controle para jogar e contanto tudo que passei, deu seus 20 minutos, fui jogar e o game travando todo, perdendo o controle e novamente pedendo fps as ganhas! E aos 25 minutos o aviso: Somente mais 5 minutos e sua sessão terminará!
+
+Não preciso dizer depois deste paragrafo acima que foi a pior experiência que pude ter num sistema de streaming, né? Ok, vamos assinar o serviço, pois deve ser problemas da versão gratuita né? Fui alterar o meu plano e para minha surpresa...
+
+![Planos esgotados na GeForce Now em menos de 1 semana?!??]({{site.baseurl}}/media/Screenshot 2021-10-19 140946.png)
+
+Isso mesmo, não tem como assinar mais porque "esgotou". Sim, "esgotou" um sistema de planos de streaming... Como se a Netflix avisasse que os planos dela estivessem "esgotados"! É pra rir e chorar ao mesmo tempo! 😂
+
+Com isso vamos aos prós (se é que tem) e os contras:
+
+#### Prós
+
+- Proposta interessante já que jogadores de PC normalmente em contas na Steam e possuem diversos jogos. Para novos nessa área não sei se isso á um item de vantagem.
+
+#### Contras
+
+- Nitidamente não foi um serviço planejado para entrar no mercado;
+- Para vender a ideia que sua bliblioteca da Steam pode ser acessível e liberarem cerca de 25% dela foi de matar;
+- Instabilidade total do serviço desde o uso com multiplos dispositivos a no PC (que deveria ser o domínio da empresa).
+
+### Conclusões
+
+Já se fala de jogos por streamming de diversas formas e propostas, desde o quase falecido Stadia ao sumido do PS Now e passando pelos XCloud e GeForce Now que finalmente apostaram no mercado brasileiro. Nitidamente a Microsoft se saiu muito bem nessa e se estruturou de forma exemplar! Muito se deve, acredito eu, a eles terem literalmente a faca e o queijo na mão, isto é, eles tem a infraestrutura (Microsoft Azure, um dos maiores serviços de nuvem do planeta) e o console (sim, por de baixo dos panos você está rodando um jogo no XBox Series S|X). Embora a NVidia tenha também know-how sobre jogos, eles erraram valendo em montar uma estrutura que não foi pensada no mercado que eles querem atender, alias posso dizer que o mesmo erro operacional que o Google fez ao trazer o Stadia a público!
+
+E era isso! Novamente, essas são minhas opiniões e impressões até o momento sobre os serviços de Cloud Gaming que sairam recentemente aqui no Brasil! Tô quase tendido a assinar de vez o Game Pass Ultimate e seguir nesse novo mundo do XBox na núvem! 😅 E você?
