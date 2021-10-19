@@ -48,7 +48,7 @@ Em todas as opções a performance foi muito boa para um serviço em beta e tive
 
 - Estabilidade do serviço (levando em conta que é beta);
 - Facilidade em qualquer dispositivo;
-- Possiblidade de substituir a compra de um console ou um "PC gamer".
+- Possibilidade de substituir a compra de um console ou um "PC gamer".
 
 #### Contras
 
@@ -60,7 +60,7 @@ Em todas as opções a performance foi muito boa para um serviço em beta e tive
 
 Agora vamos para os meus testes com o GeForce Now e esse será rápido, pois na realidade não consegui testar no celular por erros no aplicativo (desde erros no login, quanto erros ao tentar vincular minha conta da Steam e tentar jogar alguma coisa). Resolvi então esquecer o fato que eles pretender ser multidispositivo e apostei no clássico "no PC a NVidia tem conhecimento de causa, deve rodar"... Será?
 
-Resolvi instalar o cliente no meu Dell G7 (o que descrevi acima) e então nada seria problema para rodar, pensei eu. Vamos a realidade: Testei primeiro usando o a conta gratuita, onde de cara vi que as sessões seriam de 30 minutos e que haveria fila e até aí ok. Desta vez consegui vincular a conta da Steam e da Epic no cliente e começou a primeira decepção, dos meus quase 400 jogos, apenas 71 seriam disponíveis via GeForce Now! Me caiu os butiás do bolso, mas ok, vamos continuar os testes, se funcionar bem tá valendo (pensei eu novamente)! Escolhi o jogo Life is Strange 2, pois já tinha terminado (testar se meu save era importado para a rodar na nuvem) e porque é um jogo relativamente leve até no meu note local, logo teria parametros para comparar. Uma vez iniciado, entrei em fila que até que foi rápida (levou mais ou menos o mesmo tempo que no XCloud), mas quando consegui jogar, começou o choque de relidade. Recebi o aviso que minha sessão tinha iniciado e para a minha surpresa, mesmo tendo já vinculado a conta da Steam no site, ele pediu para autenticar a aplicação da Steam. Como minhas senhas são grandes (24 digitos no mínimo) e são complexas, tenho elas guardadas em um cofre de senhas. Peguei a senha, copiar e.... não cola no campo senha dentro do GeForce Now. Vamos digitar na mão então, depois segundo fator de autenticação, depois tela inicial, escolha do capítulo e cutscene... Que começa a travar e perder frame, coisa que nem meu note acontece. Até eu ter o controle para jogar e contanto tudo que passei, deu seus 20 minutos, fui jogar e o game travando todo, perdendo o controle e novamente pedendo fps as ganhas! E aos 25 minutos o aviso: Somente mais 5 minutos e sua sessão terminará!
+Resolvi instalar o cliente no meu Dell G7 (o que descrevi acima) e então nada seria problema para rodar, pensei eu. Vamos a realidade: Testei primeiro usando o a conta gratuita, onde de cara vi que as sessões seriam de 30 minutos e que haveria fila e até aí ok. Desta vez consegui vincular a conta da Steam e da Epic no cliente e começou a primeira decepção, dos meus quase 400 jogos, apenas 71 seriam disponíveis via GeForce Now! Me caiu os butiás do bolso, mas ok, vamos continuar os testes, se funcionar bem tá valendo (pensei eu novamente)! Escolhi o jogo Life is Strange 2, pois já tinha terminado (testar se meu save era importado para a rodar na nuvem) e porque é um jogo relativamente leve até no meu note local, logo teria parametros para comparar. Uma vez iniciado, entrei em fila que até que foi rápida (levou mais ou menos o mesmo tempo que no XCloud), mas quando consegui jogar, começou o choque de realidade. Recebi o aviso que minha sessão tinha iniciado e para a minha surpresa, mesmo tendo já vinculado a conta da Steam no site, ele pediu para autenticar a aplicação da Steam. Como minhas senhas são grandes (24 digitos no mínimo) e são complexas, tenho elas guardadas em um cofre de senhas. Peguei a senha, copiar e.... não cola no campo senha dentro do GeForce Now. Vamos digitar na mão então, depois segundo fator de autenticação, depois tela inicial, escolha do capítulo e cutscene... Que começa a travar e perder frame, coisa que nem meu note acontece. Até eu ter o controle para jogar e contanto tudo que passei, deu seus 20 minutos, fui jogar e o game travando todo, perdendo o controle e novamente perdendo fps as ganhas! E aos 25 minutos o aviso: Somente mais 5 minutos e sua sessão terminará!
 
 Não preciso dizer depois deste paragrafo acima que foi a pior experiência que pude ter num sistema de streaming, né? Ok, vamos assinar o serviço, pois deve ser problemas da versão gratuita né? Fui alterar o meu plano e para minha surpresa...
 
@@ -72,16 +72,16 @@ Com isso vamos aos prós (se é que tem) e os contras:
 
 #### Prós
 
-- Proposta interessante já que jogadores de PC normalmente em contas na Steam e possuem diversos jogos. Para novos nessa área não sei se isso á um item de vantagem.
+- Proposta interessante já que jogadores de PC normalmente em contas na Steam e possuem diversos jogos. Para novos nessa área não sei se isso seria um item de vantagem.
 
 #### Contras
 
 - Nitidamente não foi um serviço planejado para entrar no mercado;
-- Para vender a ideia que sua bliblioteca da Steam pode ser acessível e liberarem cerca de 25% dela foi de matar;
+- Para vender a ideia que sua biblioteca da Steam pode ser acessível e liberarem cerca de 25% dela foi de matar;
 - Instabilidade total do serviço desde o uso com multiplos dispositivos a no PC (que deveria ser o domínio da empresa).
 
 ### Conclusões
 
-Já se fala de jogos por streamming de diversas formas e propostas, desde o quase falecido Stadia ao sumido do PS Now e passando pelos XCloud e GeForce Now que finalmente apostaram no mercado brasileiro. Nitidamente a Microsoft se saiu muito bem nessa e se estruturou de forma exemplar! Muito se deve, acredito eu, a eles terem literalmente a faca e o queijo na mão, isto é, eles tem a infraestrutura (Microsoft Azure, um dos maiores serviços de nuvem do planeta) e o console (sim, por de baixo dos panos você está rodando um jogo no XBox Series S|X). Embora a NVidia tenha também know-how sobre jogos, eles erraram valendo em montar uma estrutura que não foi pensada no mercado que eles querem atender, alias posso dizer que o mesmo erro operacional que o Google fez ao trazer o Stadia a público!
+Já se fala de jogos por streaming de diversas formas e propostas, desde o quase falecido Stadia ao sumido do PS Now e passando pelos XCloud e GeForce Now que finalmente apostaram no mercado brasileiro. Nitidamente a Microsoft se saiu muito bem nessa e se estruturou de forma exemplar! Muito se deve, acredito eu, a eles terem literalmente a faca e o queijo na mão, isto é, eles tem a infraestrutura (Microsoft Azure, um dos maiores serviços de nuvem do planeta) e o console (sim, por de baixo dos panos você está rodando um jogo no XBox Series S/X). Embora a NVidia tenha também know-how sobre jogos, eles erraram valendo em montar uma estrutura que não foi pensada no mercado que eles querem atender, alias posso dizer que o mesmo erro operacional que o Google fez ao trazer o Stadia a público!
 
-E era isso! Novamente, essas são minhas opiniões e impressões até o momento sobre os serviços de Cloud Gaming que sairam recentemente aqui no Brasil! Tô quase tendido a assinar de vez o Game Pass Ultimate e seguir nesse novo mundo do XBox na núvem! 😅 E você?
+E era isso! Novamente, essas são minhas opiniões e impressões até o momento sobre os serviços de Cloud Gaming que sairam recentemente aqui no Brasil! Tô quase tendido a assinar de vez o Game Pass Ultimate e seguir nesse novo mundo do XBox na nuvem! 😅 E você?
