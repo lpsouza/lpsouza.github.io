@@ -15,7 +15,7 @@ tags:
   - Microsoft
   - NVidia
   - streaming
-image: '{{site.baseurl}}/assets/IMG_20211019_131330436.jpg'
+image: 'https://luizsouza.com/assets/IMG_20211019_131330436.jpg'
 ---
 No dia 30 de setembro [a Microsoft anunciou a chegada oficial do serviço de games na nuvem (conhecido como XCloud ou como XBox Gaming Cloud)](https://www.tecmundo.com.br/voxel/225871-xcloud-chega-oficialmente-brasil-30-100-jogos.htm "xCloud chega oficialmente ao Brasil hoje (30) com mais de 100 jogos") e agora mais recente, a NVidia anuncia em 14 de outubro [a chegada do GeForce Now, seu também serviço de games na nuvem](https://www.techtudo.com.br/noticias/2021/10/geforce-now-chega-ao-brasil-veja-jogos-requisitos-e-precos-do-servico.ghtml "GeForce Now chega ao Brasil: veja jogos, requisitos e preços do serviço"). Eu testei os dois serviços e como um gamer casual (jogo em média duas vezes por semana apenas) que sempre correu atras de jogar seus jogos com placas de vídeo mais modestas (só hoje que posso dizer que tenho um notebook com placa de vídeo "ok" pra jogos), resolvi trazer minhas opiniões sobre os serviços.
 
