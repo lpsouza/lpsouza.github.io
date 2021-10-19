@@ -1,7 +1,7 @@
 ---
 layout: post
 author: lpsouza
-date: '2021-10-18 18:22 -0300'
+date: '2021-10-19 17:30 -0300'
 category: Games
 published: false
 title: Sobre cloud gaming no Brasil em 2021 (XCloud vs Geforce Now)
