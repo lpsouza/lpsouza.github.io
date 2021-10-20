@@ -43,7 +43,7 @@ exclude:
 prose:
     rooturl: "_posts"
     siteurl: "https://luizsouza.com/"
-    media: "media"
+    media: "assets"
     metadata:
         _posts:
             - name: "title"
