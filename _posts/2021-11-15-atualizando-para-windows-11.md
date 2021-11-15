@@ -3,7 +3,7 @@ layout: post
 author: lpsouza
 date: '2021-11-15 11:26 -0300'
 category: Tech
-published: false
+published: true
 title: Atualizando para Windows 11
 tags:
   - Windows
