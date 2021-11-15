@@ -20,3 +20,4 @@ Mas aí vem a pergunta: Se tu tem todo esse conhecimento de como funciona os sis
 
 ### Método 2: Formatar completamente o notebook e instalar o Windows 11 do zero
 
+Este sim é um método que muitos tentam nem começar, pois envolve perder tudo que está no computador. Então envolve desde backup a até lembrar de todos os programas que tu tinha instalado no computador. Existe um lado bom nisso: Podemos ter diversos programas mais nos atrapalhando do que sendo útil, e isso serve como uma "faxina pesada".
