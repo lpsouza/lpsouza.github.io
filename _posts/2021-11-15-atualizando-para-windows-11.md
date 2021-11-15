@@ -12,6 +12,7 @@ tags:
   - Upgrade
   - Atualização
   - Microsoft
+image: 'https://luizsouza.com/assets/windows-11-system.png'
 ---
 E lá vamos nós para mais uma atualização do Windows... Possuo um Dell G7 que veio com Windows 10 Professional de fábrica instalado e por tanto, com todos os suportes por parte da fabricante, para que mantenha o pleno funcionamento. Outra questão a salientar no inicio deste post é que sou técnico na área de informática e posso dar um spoiler violento aqui dizendo que, como sempre, o processo de upgrade da Microsoft é sempre um processo sofrido!
 
