@@ -21,3 +21,18 @@ Mas aí vem a pergunta: Se tu tem todo esse conhecimento de como funciona os sis
 ### Método 2: Formatar completamente o notebook e instalar o Windows 11 do zero
 
 Este sim é um método que muitos tentam nem começar, pois envolve perder tudo que está no computador. Então envolve desde backup a até lembrar de todos os programas que tu tinha instalado no computador. Existe um lado bom nisso: Podemos ter diversos programas mais nos atrapalhando do que sendo útil, e isso serve como uma "faxina pesada". Pô, agora sim a coisa funcionou né? Novamente... Não! Ué? Porque não deu certo? Spoiler: Lembram quando disse que o Windows 10 veio de fábrica? Isso não quer dizer que ele vem instalado pra uso apenas, quer dizer que a Dell fez todas a personalizações para que o hardware funcione em perfeitas condições e pensando que o modelo do meu é um notebook da linha Gaming, ele possui algumas customizações da Dell. Logo, instalar um Windows 11 do zero acarreta em não ter essas personalizações e por sua vez o inicio de uma batalha: Deixar o Windows 11 compatível com as customizações da fabricante do hardware.
+
+Passei basicamente uma semana tentando configurar tudo o que o Windows precisava, mas sempre tinha um driver ou um componente que se apresentava como "incompatível". Até existem "soluções milagrosas" que uma vez instalado prometem varrer o computador e dar exatamente todos os drivers para instalar. Olha, pode ser que essas soluções sejam boas, mas a ideia de instalar um programa na maquina (que por sua vez as vezes podem instalar mais do que apenas o programa) que vai ser usado uma vez na vida, não me parece uma boa abordagem. Então ficamos com a porta de número 3, digo.. Metodo 3!
+
+### Método 3: Reinstalar o Windows 10 de fábrica (Dell Recovery OS) e atualizar para o Windows 11
+
+E então chegamos na opção mais radical de todas (radical porque se analisar, esse que vos escreve está realmente querendo usar o Windows 11, não? 😅) que é um processo longo de algumas horas (principalmente dependendo do computador e internet contratada). A ideia é recuperar o Windows 10 com todos os drivers e aplicações customizados, ir para a última versão de updates do Windows 10 e por fim subir a versão para o Windows 11. E provavelmente a pergunta que paira no ar: Funcionou? E minha resposta: Até o momento sim!
+
+Esta opção é uma mescla dos dois métodos anteriores, pois temos o Windows 10 de fábrica sendo atualizado para o Windows 11, mas sem a variável "usuário deu uma zoada na versão atual", hehehe. E sendo assim, o Windows 10 veio todo configurado como se recem tivesse retirado da caixa o notebook e assim ele foi atualizado para o Windows 11 (como se tivesse saído da caixa)!
+
+### Tá, mas depois de tudo isso, vale a pena?
+
+Como já comentei anteriormente, não sou eu que vou ditar o teu gosto, mas posso dar a minha singela opinião sobre o Windows 11: Um sistema operacional que pensou em arredondar as bordas de tudo (o que achei bem bonito), integrou muito melhor o Windows Terminal e o WSL (coisas que uso no meu dia a dia) e ainda tenho que rever como ficou a parte gaming da coisa, pois até o final deste post não havia instalado nenhum jogo para testar, mas o que posso dizer é que no método 2 eu tinha instalado alguns jogos e estava com sérios problemas com a comunicação bluetooth (uso controle de Xbox One sem fio e fones de ouvido sem fio) quando estava em jogo (basicamente ficava "surdo" do nada ou ficava sem o controle por alguns instantes).
+
+Mas novamente, essas são minhas opiniões e impressões de atualizar o Windows 10 para o novo Windows 11. Alguem teve uma experiência "menos traumatica" quando a minha? Comentem aí!
+
