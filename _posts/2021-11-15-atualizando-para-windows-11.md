@@ -5,6 +5,13 @@ date: '2021-11-15 11:26 -0300'
 category: Tech
 published: false
 title: Atualizando para Windows 11
+tags:
+  - Windows
+  - Windows 10
+  - Windows 11
+  - Upgrade
+  - Atualização
+  - Microsoft
 ---
 E lá vamos nós para mais uma atualização do Windows... Possuo um Dell G7 que veio com Windows 10 Professional de fábrica instalado e por tanto, com todos os suportes por parte da fabricante, para que mantenha o pleno funcionamento. Outra questão a salientar no inicio deste post é que sou técnico na área de informática e posso dar um spoiler violento aqui dizendo que, como sempre, o processo de upgrade da Microsoft é sempre um processo sofrido!
 
@@ -35,4 +42,3 @@ Esta opção é uma mescla dos dois métodos anteriores, pois temos o Windows 10
 Como já comentei anteriormente, não sou eu que vou ditar o teu gosto, mas posso dar a minha singela opinião sobre o Windows 11: Um sistema operacional que pensou em arredondar as bordas de tudo (o que achei bem bonito), integrou muito melhor o Windows Terminal e o WSL (coisas que uso no meu dia a dia) e ainda tenho que rever como ficou a parte gaming da coisa, pois até o final deste post não havia instalado nenhum jogo para testar, mas o que posso dizer é que no método 2 eu tinha instalado alguns jogos e estava com sérios problemas com a comunicação bluetooth (uso controle de Xbox One sem fio e fones de ouvido sem fio) quando estava em jogo (basicamente ficava "surdo" do nada ou ficava sem o controle por alguns instantes).
 
 Mas novamente, essas são minhas opiniões e impressões de atualizar o Windows 10 para o novo Windows 11. Alguem teve uma experiência "menos traumatica" quando a minha? Comentem aí!
-
