@@ -73,6 +73,7 @@
     ],
     "scss.validate": false,
     "files.associations": {
-        "*.html": "jekyll"
+        "*.html": "jekyll",
+        "*.xml": "jekyll"
     }
 }
