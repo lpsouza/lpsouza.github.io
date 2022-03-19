@@ -7,10 +7,6 @@ permalink: "/:year/:month/:day/:title/"
 paginate: 10
 paginate_path: "/page/:num/"
 
-twitter_username: lpsouza
-github_username: lpsouza
-linkedin_username: lpsouza
-
 social:
     github: lpsouza
     linkedin: lpsouza
