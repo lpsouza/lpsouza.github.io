@@ -3,7 +3,7 @@ layout: page
 title: Quem e o Luiz Souza?
 ---
 
-Olá! Eu me chamo **Luiz Pereira de Souza Filho**, tenho seus <span id="years"></span> anos, sou [RPGista](https://pt.wikipedia.org/wiki/Categoria:RPGistas), [core gamer](https://en.wikipedia.org/wiki/Gamer#Dedication_spectrum) e [nerd](https://en.wikipedia.org/wiki/Nerd), que desde 1997 se diverte no mundo da Tecnologia da Informação. Quando digo que me divirto é porque tenho um *modus operandi* que rege que se você trabalha em algo que ama fazer, você não esta mais trabalhando um dia sequer em sua vida!
+Olá! Eu me chamo **Luiz Pereira de Souza Filho**, tenho seus <span id="years"></span> anos, sou [RPGista](https://pt.wikipedia.org/wiki/Categoria:RPGistas), [core gamer](https://en.wikipedia.org/wiki/Gamer#Dedication_spectrum) e [geek](https://en.wikipedia.org/wiki/Geek), que desde 1997 se diverte no mundo da Tecnologia da Informação. Quando digo que me divirto é porque tenho um *modus operandi* que rege que se você trabalha em algo que ama fazer, você não esta mais trabalhando um dia sequer em sua vida!
 
 ### Trabalho
 
