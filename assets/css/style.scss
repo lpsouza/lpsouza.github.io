@@ -3,7 +3,7 @@
 
 @charset 'UTF-8';
 
-@import 'bootstrap-colors';
+@import 'bootstrap';
 @import 'vim';
 
 * {
@@ -58,6 +58,7 @@ h3 {
     text-align: center;
     .photo {
         border-radius: 50%;
+        width: 60%;
     }
     .title {
         a {
