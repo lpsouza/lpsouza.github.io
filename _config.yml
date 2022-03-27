@@ -17,7 +17,9 @@ social:
 disqus:
     shortname: luiz-souza
 
-google-analytics: G-QXL6JNE5NC
+analytics:
+    google: UA-177307059-1
+    google-ga4: G-QXL6JNE5NC
 
 highlighter: rouge
 
