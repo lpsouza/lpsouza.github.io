@@ -2,7 +2,7 @@
 author: lpsouza
 category: Tech
 date: 2017-12-13 23:52:00
-image: /wp-content/uploads/2017/12/erro-deletando-vmswitch.png
+image: https://luizsouza.com/wp-content/uploads/2017/12/erro-deletando-vmswitch.png
 layout: post
 published: true
 tags:

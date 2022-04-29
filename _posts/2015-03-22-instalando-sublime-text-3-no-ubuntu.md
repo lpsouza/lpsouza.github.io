@@ -2,7 +2,7 @@
 author: lpsouza
 category: Tech
 date: 2015-03-22 17:00:23
-image: /wp-content/uploads/2015/03/imagem-sublime.png
+image: https://luizsouza.com/wp-content/uploads/2015/03/imagem-sublime.png
 layout: post
 published: true
 tags:

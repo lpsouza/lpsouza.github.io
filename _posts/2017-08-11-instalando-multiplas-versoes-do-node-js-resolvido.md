@@ -2,7 +2,7 @@
 author: lpsouza
 category: Tech
 date: 2017-08-11 20:37:46
-image: /wp-content/uploads/2017/08/Capturar2.png
+image: https://luizsouza.com/wp-content/uploads/2017/08/Capturar2.png
 layout: post
 published: true
 tags:

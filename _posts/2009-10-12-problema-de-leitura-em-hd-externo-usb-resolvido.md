@@ -2,7 +2,7 @@
 author: lpsouza
 category: Tech
 date: 2009-10-12 08:07:11+00:00
-image: /wp-content/uploads/2009/10/tela-chkdsk.png
+image: https://luizsouza.com/wp-content/uploads/2009/10/tela-chkdsk.png
 layout: post
 published: true
 tags:

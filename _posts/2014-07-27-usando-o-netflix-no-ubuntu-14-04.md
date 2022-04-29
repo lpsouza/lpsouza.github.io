@@ -2,7 +2,7 @@
 author: lpsouza
 category: Tech
 date: 2014-07-27 19:06:38
-image: /wp-content/uploads/2014/07/netflix.jpg
+image: https://luizsouza.com/wp-content/uploads/2014/07/netflix.jpg
 layout: post
 published: true
 tags:

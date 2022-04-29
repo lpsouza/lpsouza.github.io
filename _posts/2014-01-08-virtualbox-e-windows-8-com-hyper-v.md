@@ -2,7 +2,7 @@
 author: lpsouza
 category: Tech
 date: 2014-01-08 02:13:05
-image: /wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
+image: https://luizsouza.com/wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
 layout: post
 published: true
 tags:

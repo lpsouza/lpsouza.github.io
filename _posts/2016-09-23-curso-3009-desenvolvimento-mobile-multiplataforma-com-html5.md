@@ -2,7 +2,7 @@
 author: lpsouza
 category: Etc
 date: 2016-09-23 08:38:41
-image: /wp-content/uploads/2016/09/site-html-5-3-edicao.jpg
+image: https://luizsouza.com/wp-content/uploads/2016/09/site-html-5-3-edicao.jpg
 layout: post
 published: true
 tags:

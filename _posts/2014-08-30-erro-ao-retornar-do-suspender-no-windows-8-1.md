@@ -2,7 +2,7 @@
 author: lpsouza
 category: Tech
 date: 2014-08-30 16:27:36
-image: /wp-content/uploads/2014/08/0x00000113.png
+image: https://luizsouza.com/wp-content/uploads/2014/08/0x00000113.png
 layout: post
 published: true
 tags:
