@@ -1,23 +1,28 @@
 ---
-author: lpsouza
-category: Tech
-date: 2017-12-25 20:42:08
-image: https://luizsouza.com/wp-content/uploads/2017/12/Capturar.png
+notion_id: 84a2deaa-c69b-4685-9ea2-670296a391dc
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2017-12-25T20:42:00.000Z
+last_modified_at: 2022-05-19T22:05:00.000Z
+category: Tech
 published: true
-tags:
-- Desenvolvimento
-- Fica a dica
-- Hospedagem
-- Hospedagem de Sites
-- Linux
-- Mac
-- SSH
-- Ubuntu
-- Ubuntu on Windows
-- Umbler
-- Windows
 title: Problemas ao acessar a Umbler via SSH [Resolvido]
+tags:
+  - Desenvolvimento
+  - Fica a dica
+  - hospedagem
+  - Hospedagem de Sites
+  - linux
+  - Mac
+  - SSH
+  - ubuntu
+  - Ubuntu on Windows
+  - Umbler
+  - windows
+image: https://luizsouza.com/wp-content/uploads/2017/12/Capturar.png
 ---
 
 Faz alguns meses que estou usando a [Umbler](https://app.umbler.com/u/0jrm3d6k) como meu provedor de hospedagem de sites (ué? Tu não tinha um provedor próprio? a [IHCenter](https://ihcenter.com.br/)? - É, tinha... Essa fica para outro post!) e uma coisa muito legal que esta equipe do coala fornecesse é o acesso via SSH, tornando muito mais prática a vida do desenvolvedor de raiz! Pois muito bem, para configurar é extremamente simples, indo apenas pelo painel de controle deles (chamado carinhosamente de APP) e com alguns clicks, tanto em Windows, quanto Linux ou até mesmo MAC, vocês configuram este tipo de acesso. Ah sim! Sugiro configurar com uso de chave pública, porque permite configurações de publicação com uso de GIT (Próprio, Github ou Bitbucket)!
@@ -37,7 +42,9 @@ Ok, entendendo de Google Translator, o erro diz: "Não foi possível negociar co
 Então para solucionar, crie ou edite o arquivo `~/.ssh/config` e adicione as seguintes linhas:
 
     Host servidor-ssh-da-umbler
+
       HostName servidor-ssh-da-umbler
+
       HostKeyAlgorithms=+ssh-dss
 
 Salve e tente o acesso novamente!
@@ -45,3 +52,4 @@ Salve e tente o acesso novamente!
 Vale lembrar que este problema, pelo descrito, ocorre nas versões de Ubuntu 16.04 ou superior! E no caso, no Ubuntu on Windows que a Canonical fez para o Windows 10! Bom, sinceramente eu não sei se ocorre em MAC ou usando no Windows o bom e velho PuTTY, uma vez que não uso Apple e desde que a Microsoft e a Canonical criaram essa maravilha de Ubuntu on Windows, eu nunca mais penso no mister PuTTY! E era isso!
 
 :wq
+
