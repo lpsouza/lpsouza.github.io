@@ -1,27 +1,32 @@
 ---
-author: lpsouza
-category: Tech
-date: 2014-08-30 16:27:36
-image: https://luizsouza.com/wp-content/uploads/2014/08/0x00000113.png
+notion_id: 478b11e2-0a92-4fec-a8d5-5f47da0ee7e3
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2014-08-30T16:27:00.000Z
+last_modified_at: 2022-05-19T22:04:00.000Z
+category: Tech
 published: true
-tags:
-- '0x00000113'
-- 8670M
-- AMD
-- Direct X
-- Erro
-- Fica a dica
-- Fix It
-- HD Graphics
-- Intel
-- Microsoft
-- Radeon
-- SFC
-- Video
-- Windows
-- Windows 8.1
 title: Erro ao retornar do suspender no Windows 8.1
+tags:
+  - "0x00000113"
+  - 8670M
+  - AMD
+  - Direct X
+  - Erro
+  - Fica a dica
+  - Fix It
+  - HD Graphics
+  - Intel
+  - microsoft
+  - Radeon
+  - SFC
+  - Video
+  - windows
+  - Windows 8.1
+image: https://luizsouza.com/wp-content/uploads/2014/08/0x00000113.png
 ---
 
 Estive com um problema nas últimas semanas com meu notebook, onde ao retornar de um suspender, ele simplesmente reiniciava! Para os mais leigos, quando um computador com Windows (desktop) reiniciar do nada, ou por uma ação, é bem provável que é um caso de BSOD (Blue Screen Of Death), ou a famosa "Tela Azul Da Morte".
@@ -39,8 +44,11 @@ Ao final do diagnostico, ele informou que ainda tinha arquivos que estavam corro
 Após pesquisar um pouco, achei no site de suporte da Microsoft um artigo que caiu como uma luva: <a title="0x113 de erro de parada se você usar adaptadores de gráficos Intel e AMD em um computador baseado em Windows 8.1" href="http://support.microsoft.com/kb/2990029" target="_blank">0x113 de erro de parada se você usar adaptadores de gráficos Intel e AMD em um computador baseado em Windows 8.1</a>. Este é exatamente o universo do meu note:
 
 * Windows 8.1
+
 * Duas placas de vídeo
+
   * Intel HD Graphics
+
   * AMD Radeon HD 8670M
 
 No artigo, pede para rodar um hotfix lançado pela Microsoft. Para quem quiser, deixou ele abaixo.
@@ -50,3 +58,4 @@ No artigo, pede para rodar um hotfix lançado pela Microsoft. Para quem quiser, 
 Problema resolvido! 😀
 
 **Edit 22/04/2018**: O link da Microsoft para o FixIt leva a uma mensagem do fim do suporte ao FixIt! Mas nosso amigo [Douglas](https://luizsouza.com/2014/08/30/erro-ao-retornar-do-suspender-no-windows-8-1/#comment-4122478287) conseguiu uma alma caridosa que subiu no Mega o arquivo! Segue o link: [https://mega.nz/#!kdsUxSJR!lYUkppKJjNtSJ\_xJoubqrrV\_dPLdPMKlMV0kmVojdk8](https://mega.nz/#!kdsUxSJR!lYUkppKJjNtSJ_xJoubqrrV_dPLdPMKlMV0kmVojdk8)
+
