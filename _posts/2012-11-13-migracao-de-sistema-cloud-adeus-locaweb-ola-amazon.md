@@ -1,23 +1,29 @@
 ---
-author: lpsouza
-category: Tech
-date: 2012-11-13 23:55:29
+notion_id: f15a6fce-3311-4414-9d87-b8ea963460db
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2012-11-13T23:55:00.000Z
+last_modified_at: 2022-05-19T22:03:00.000Z
+category: Tech
 published: true
-tags:
-- Amazon
-- AWS
-- Cloud
-- Comparativo
-- Computação
-- Computing
-- Instância
-- Linux
-- Locaweb
-- Núvens
-- Services
-- Web
 title: Migração de sistema Cloud (Adeus Locaweb, olá Amazon)
+tags:
+  - Amazon
+  - AWS
+  - Cloud
+  - Comparativo
+  - Computação
+  - Computing
+  - Instância
+  - linux
+  - Locaweb
+  - Núvens
+  - Services
+  - Web
+image: null
 ---
 
 Desde o dia 2 de Novembro, estive migrando os meus clientes da IHCenter do servidor (em cloud) que tinha na Locaweb, para a Amazon Web Services (AWS). Depois de uma semana e meia, mudei todos os clientes (incluindo, claro, o meu blog). Mas, o que levou a esta mudança?
@@ -31,3 +37,4 @@ Começou com o tempo que precisei esperar para a instância esta operacional. Do
 Hoje, no meio da manhã, terminei meu último backup de segurança da instância da Locaweb e mandei encerrar ela. Ainda levou mais tempo para encerrar a instância do que para criar uma na AWS. Parece brincadeira, mas não é! Sinceramente, sabe o que parece? Parece que deixei de ser criança no mundo de sistemas em Cloud Computing e entrei pra brincar com brinquedos de gente grande! Ahahaha...
 
 E paramos por aqui? Não! Hoje estou já com 2 instâncias na AWS, uma para os serviços web e outra só para o banco de dados! E a IHCenter, vai mudar completamente a forma de cobrar e trabalhar com hospedagens e sistemas (SaaS) que eu coordeno e desenvolvo! Bora voltar para o trabalho! 😉
+
