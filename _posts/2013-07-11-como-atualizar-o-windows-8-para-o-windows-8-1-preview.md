@@ -1,16 +1,22 @@
 ---
-author: lpsouza
-category: Tech
-date: 2013-07-11 18:37:07
+notion_id: 510e907f-a0b6-4a37-b416-24849caa6b00
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2013-07-11T18:37:00.000Z
+last_modified_at: 2022-05-19T22:04:00.000Z
+category: Tech
 published: true
-tags:
-- Microsoft
-- Sistema Operacional
-- Windows
-- Windows 8
-- Windows 8.1
 title: Como atualizar o Windows 8 para o Windows 8.1 Preview
+tags:
+  - microsoft
+  - Sistema Operacional
+  - windows
+  - Windows 8
+  - Windows 8.1
+image: null
 ---
 
 [Windows 8.1](/wp-content/uploads/2013/07/windows-8_1.jpg)
@@ -26,3 +32,4 @@ Resumo da ópera: Baixando [esta atualização para Windows 8](http://go.microso
 Boa sorte aí para vocês! O meu está atualizando neste exato momento! 😉
 
 via [Como atualizar para o Windows 8.1](http://www.techtudo.com.br/dicas-e-tutoriais/noticia/2013/06/como-atualizar-para-o-windows-81.html)
+
