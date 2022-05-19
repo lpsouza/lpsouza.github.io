@@ -1,17 +1,23 @@
 ---
-author: lpsouza
-category: Tech
-date: 2011-04-26 19:11:58
+notion_id: 4c04293e-0f17-40a8-9449-c82038524a8c
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2011-04-26T19:11:00.000Z
+last_modified_at: 2022-05-19T22:02:00.000Z
+category: Tech
 published: true
+title: "Servidor Windows 2008: SNMP e MRTG [Resolvido]"
 tags:
-- '2008'
-- Computadores
-- MRTG
-- Tráfego
-- Windows
-- Windows Server
-title: 'Servidor Windows 2008: SNMP e MRTG [Resolvido]'
+  - "2008"
+  - Computadores
+  - MRTG
+  - Tráfego
+  - windows
+  - Windows Server
+image: null
 ---
 
 Desde sempre usei em meus servidores linux e roteadores o [MRTG](http://pt.wikipedia.org/wiki/Multi_Router_Traffic_Grapher) para controlar a quantidade de banda internet que estava consumindo. Isso é importantíssimo para o controle de qualquer gargalo de rede, prever os momentos de pico do uso dos recursos de rede, etc.
@@ -41,3 +47,4 @@ Tá, mas e como o c:\www vira uma pasta no IIS? Primeiro verifique e instale o I
 Faltou alguma coisa? Hum… Ah sim! Seguindo a idéia do tutorial, coloquei como RunAsDaemon!
 
 E era isso! MRTG no Windows sem muito esforço!
+
