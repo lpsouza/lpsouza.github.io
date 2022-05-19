@@ -1,27 +1,32 @@
 ---
-author: lpsouza
-category: Tech
-date: 2014-07-27 19:06:38
-image: https://luizsouza.com/wp-content/uploads/2014/07/netflix.jpg
+notion_id: a8f0a375-8a10-4430-b4d1-31efb794ae2d
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2014-07-27T19:06:00.000Z
+last_modified_at: 2022-05-19T22:04:00.000Z
+category: Tech
 published: true
-tags:
-- Computadores
-- Emaulator
-- Fica a dica
-- Filmes
-- Interface Gráfica
-- Linux
-- Netflix
-- Problema
-- Problemas
-- Seriados
-- Séries
-- Silverlight
-- Ubuntu
-- Windows
-- Wine
 title: Usando o Netflix no Ubuntu 14.04
+tags:
+  - Computadores
+  - Emaulator
+  - Fica a dica
+  - Filmes
+  - Interface Gráfica
+  - linux
+  - Netflix
+  - Problema
+  - Problemas
+  - Seriados
+  - Séries
+  - Silverlight
+  - ubuntu
+  - windows
+  - Wine
+image: https://luizsouza.com/wp-content/uploads/2014/07/netflix.jpg
 ---
 
 Estou usando o **Ubuntu 14.04** no meu note e a tempos queria usar o Netflix nele, mas como para usar, precisa do [Silverlight](http://pt.wikipedia.org/wiki/Silverlight) e este é proprietário da Microsoft, fica um pouco complicado... Será?
@@ -51,4 +56,6 @@ Após terminar, execute o Netflix Desktop e logue na conta! Seja feliz!
 Fontes:
 
 * [Netflix no Linux Mint, Ubuntu, Fedora e CentOS](http://www.vivaolinux.com.br/dica/Netflix-no-Linux-Mint-Ubuntu-Fedora-e-CentOS)
+
 * [How can I accept the Microsoft EULA agreement for ttf-mscorefonts-installer?](http://askubuntu.com/questions/16225/how-can-i-accept-the-microsoft-eula-agreement-for-ttf-mscorefonts-installer)
+
