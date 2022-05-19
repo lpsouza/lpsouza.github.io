@@ -1,18 +1,24 @@
 ---
-author: lpsouza
-category: Tech
-date: 2015-07-09 12:31:48
+notion_id: e0e50b44-0914-4283-afe1-8828e00661e5
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2015-07-09T12:31:00.000Z
+last_modified_at: 2022-05-19T22:04:00.000Z
+category: Tech
 published: true
-tags:
-- Fica a dica
-- Informática
-- log
-- PowerShell
-- Sistema Operacional
-- tail
-- Windows
 title: Fazendo um "tail" em arquivos no Windows [PowerShell]
+tags:
+  - Fica a dica
+  - Informática
+  - log
+  - Powershell
+  - Sistema Operacional
+  - tail
+  - windows
+image: null
 ---
 
 Sempre que estou usando meu ambiente em Windows, acho um problema a forma de fazer um "tail" nos arquivos, para ler em tempo de inserção (normalmente arquivos de log).
@@ -20,13 +26,18 @@ Sempre que estou usando meu ambiente em Windows, acho um problema a forma de faz
 Eis que hoje me deparo com um artigo muito legal que é [13 Ways to Tail a Log File on Windows & Linux](http://stackify.com/11-ways-to-tail-a-log-file-on-windows-unix/). No artigo mostra diversas formas de fazer a leitura de arquivos tanto no Windows, quando no Linux, mas a que achei mais simples, fácil e sem requerer instalações é a usando o **PowerShell**:
 
 ```powershell
+
 Get-Content arquivo.log -Wait
+
 ```
 
 Se quiser fazer filtros, podemos usar outro comando concatenado chamado **where**:
 
 ```powershell
+
 Get-Content myTestLog.log -wait | where { $_ -match "WARNING" }
+
 ```
 
 Barbadinha né? 😉
+
