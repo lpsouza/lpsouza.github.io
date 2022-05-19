@@ -1,25 +1,30 @@
 ---
-author: lpsouza
-category: Tech
-date: 2009-10-12 08:07:11+00:00
-image: https://luizsouza.com/wp-content/uploads/2009/10/tela-chkdsk.png
+notion_id: 1290d357-d251-4ba2-9615-d0afc6216419
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2009-10-12T08:07:00.000Z
+last_modified_at: 2022-05-19T22:01:00.000Z
+category: Tech
 published: true
-tags:
-- chkdsk
-- DataBack
-- Disco Rígido
-- Fica a dica
-- Format
-- GetDataBack
-- Hardware
-- HD externo
-- MS-DOS
-- RAW
-- Recuperar dados
-- Recuperar formato
-- USB
 title: Problema de leitura em HD externo USB [Resolvido!]
+tags:
+  - chkdsk
+  - DataBack
+  - Disco Rígido
+  - Fica a dica
+  - Format
+  - GetDataBack
+  - Hardware
+  - HD externo
+  - MS-DOS
+  - RAW
+  - Recuperar dados
+  - Recuperar formato
+  - USB
+image: https://luizsouza.com/wp-content/uploads/2009/10/tela-chkdsk.png
 ---
 
 Ontem de noite me deparei com um problema que me deixou com frio na espinha: Meu HD externo USB de 250 Gb simplesmente "perdeu a formatação". Este era simplesmente meu disco de dados, onde tinha tudo.. Fotos, vídeos, softwares, etc..
@@ -33,11 +38,15 @@ Entrei no grande Oraculo da internet, e perguntei a ele pelo erro que o Linux re
 Entrei no DOS e fiz um comando que havia testado no Windows sem sucesso: chkdsk. E não é que ele passou na unidade, e RECUPEROU o formato?? Não preciso dizer que dei pulos "desta idade" de alegria!!!
 
 **Receita de bolo:**
+
   
+
 Para quem tiver um problema parecido, entre no MS-DOS (ou CMD) e digite:
 
 ```cmd
+
 chkdsk g: /f
+
 ```
 
 Lembrando que "g:" é a unidade que estava o meu HD externo.. Ajuste para a sua unidade..
@@ -51,8 +60,12 @@ Alguns estão encontrando dificuldades ao executar a "receita de bolo", como: Un
 Problemas encontrados pelos leitores (e possíveis soluções):
 
 * [How To Fix: External Disk Drive Suddenly Became RAW](http://html5.litten.com/updated-how-to-fix-external-disk-drive-suddenly-became-raw/) (em Inglês, leiam com cuidado)
+
 * [Não há suporte para o pedido. (0x80070032)](http://answers.microsoft.com/pt-br/windows/forum/windows_7-security/n%C3%A3o-h%C3%A1-suporte-para-o-pedido-0x80070032/45719cf0-1c83-4b06-ad71-c10f0e90c769?auth=1) (Microsoft Community)
+
 * [Mensagem de erro "Não é possível abrir o volume para acesso direto" quando o Chkdsk é executado na inicialização](https://support.microsoft.com/pt-br/kb/823439)
+
   * Informação adicional: Olha, o link comenta em Windows XP, o qual nem tem mais suporte pela Microsoft. Se não for este o seu caso, e tiver um windows mais recente, tente iniciar o prompt de comando como administrador.
 
 **Editado em 01/03/2016:** Conforme dica do **Pedro Romero**, alterei a letra da unidade pra _g:_ ao invés do _f:_. Obrigado pela dica! 🙂
+
