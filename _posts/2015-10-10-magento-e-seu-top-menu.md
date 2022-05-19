@@ -1,20 +1,26 @@
 ---
-author: lpsouza
-category: Tech
-date: 2015-10-10 19:51:55
+notion_id: 602722e8-6666-4eae-b6a0-1e9b1fec20a4
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2015-10-10T19:51:00.000Z
+last_modified_at: 2022-05-19T22:04:00.000Z
+category: Tech
 published: true
-tags:
-- Custom
-- e-commerce
-- Fica a dica
-- Magento
-- Menu
-- Personalizado
-- PHP
-- Programação
-- Topmenu
 title: Magento e seu top menu!
+tags:
+  - Custom
+  - e-commerce
+  - Fica a dica
+  - Magento
+  - Menu
+  - Personalizado
+  - PHP
+  - Programação
+  - Topmenu
+image: null
 ---
 
 Estive trabalhando em um projeto de personalização de menu do Magento e percebi uma questão muito chata dele: A documentação oficial é muito fraca! 🙁
@@ -24,38 +30,64 @@ Com isso tive que pesquisar na internet para entender os objetos que o Magento m
 Depois de ler e fazer meus testes, resumi o código para remover a linha `<?php $_menu = $this->getHtml('level-top') ?>` e adicionar:
 
 ```php
+
 <?php
 
 $obj = new Mage_Catalog_Block_Navigation();
+
 $storeCategories = $obj-&gt;getStoreCategories();
 
 $_menu = '';
 
 foreach ($storeCategories as $_category) {
+
     $_menu .= '&lt;li&gt;&lt;a href="'. $obj-&gt;getCategoryUrl($_category) .'"&gt;' . $_category-&gt;getName() . '&lt;/a&gt;' . "n";
+
     $categoryChildren = $_category-&gt;getChildren();
+
     if($categoryChildren-&gt;count()) {
+
         $_menu .= '&lt;ul&gt;' . "n";
+
         foreach($categoryChildren as $_categoryChild) {
+
             $_categoryChildModel = Mage::getModel('catalog/category')-&gt;load($_categoryChild-&gt;getId());
+
             $categoryGrandchildren=$_categoryChild-&gt;getChildren();
+
             $_menu .= '&lt;li&gt;&lt;a href="' . $_categoryChildModel-&gt;getUrl() . '"&gt;' . $_categoryChild-&gt;getName() . '&lt;/a&gt;&lt;/li&gt;' . "n";
+
             if($categoryGrandchildren-&gt;count()) {
+
                 $_menu .= '&lt;ul&gt;' . "n";
+
                 $_menu .= '&lt;ul&gt;' . "n";
+
                 foreach($categoryGrandchildren as $_categoryGrandchild) {
+
                     $_categoryGrandchildModel = Mage::getModel('catalog/category')-&gt;load($_categoryGrandchild-&gt;getId());
+
                     $_menu .= '&lt;li&gt;&lt;a href="' . $_categoryGrandchildModel-&gt;getUrl() . '"&gt;' .  $_categoryGrandchild-&gt;getName() . '&lt;/a&gt;&lt;/li&gt;' . "n";
+
                 }
+
                 $_menu .= '&lt;/ul&gt;' . "n";
+
             }
+
         }
+
         $_menu .= '&lt;/ul&gt;' . "n";
+
     }
+
     $_menu .= '&lt;/li&gt;' . "n";
+
 }
 
 ?>
+
 ```
 
 Depois foi só personalizar a realidade do cliente! 😀
+
