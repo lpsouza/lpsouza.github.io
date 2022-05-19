@@ -1,14 +1,20 @@
 ---
-author: lpsouza
-category: Tech
-date: 2009-09-08 22:35:50+00:00
+notion_id: 9abecdc4-afb5-4601-9893-9072a727937b
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2009-09-08T22:35:00.000Z
+last_modified_at: 2022-05-19T22:00:00.000Z
+category: Tech
 published: true
-tags:
-- Mobilidade
-- Netbook
-- Nokia
 title: Computador com celular é nova aposta, diz Nokia
+tags:
+  - Mobilidade
+  - Netbook
+  - Nokia
+image: null
 ---
 
 Esse vai ser um Netbook no minimo foda! Deixo esse video que achei no Youtube, o video de apresentação do produto. Apreciem sem moderações!!! 😛
@@ -18,3 +24,4 @@ Esse vai ser um Netbook no minimo foda! Deixo esse video que achei no Youtube, o
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6cNfqeMq-30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 via [Computador com celular é nova aposta, diz Nokia](http://www1.folha.uol.com.br/folha/informatica/ult124u621163.shtml)
+
