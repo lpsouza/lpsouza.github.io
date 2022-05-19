@@ -1,17 +1,23 @@
 ---
-author: lpsouza
-category: Tech
-date: 2009-09-02 21:42:38+00:00
+notion_id: fc09ae9a-a1ca-41c4-b29e-35fba5dcdb45
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2009-09-02T21:42:00.000Z
+last_modified_at: 2022-05-19T22:00:00.000Z
+category: Tech
 published: true
-tags:
-- Blog
-- Conversas
-- Fica a dica
-- MP3
-- Podcast
-- Skype
 title: On cast... No podcast!
+tags:
+  - blog
+  - Conversas
+  - Fica a dica
+  - MP3
+  - Podcast
+  - Skype
+image: null
 ---
 
 Como hoje é simples as pessoas colocarem suas opiniões na internet.. E todos assim ler/ouvir/assistir..
@@ -29,3 +35,4 @@ Mas voltando aos podcasts, assunto deste post.. Acredito em sua facilidade e pra
 Acredito que cada vez mais a tecnologia vai se tornando barata.. E que o valor das idéias sim tem um valor cada vez mais alto.. E o que é o podcast do que a junção de varias ideias e opiniões?
 
 Publicado pelo Wordmobi
+
