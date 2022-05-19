@@ -1,36 +1,46 @@
 ---
-author: lpsouza
-category: Tech
-date: 2015-12-19 12:45:49
+notion_id: 5e82315a-0496-4383-9fe4-574fcecf8c8f
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2015-12-19T12:45:00.000Z
+last_modified_at: 2022-05-19T22:04:00.000Z
+category: Tech
 published: true
+title: "Mundo das nuvens: Swap em linux"
 tags:
-- Cloud
-- Cloud Computing
-- Compute
-- Linux
-- Memory
-- Storage
-- Swap
-- Swap Memory
-- swapfile
-- Virtual Machine
-- Virtual Memory
-- VM
-- VM image
-title: 'Mundo das nuvens: Swap em linux'
+  - Cloud
+  - Cloud Computing
+  - Compute
+  - linux
+  - Memory
+  - Storage
+  - Swap
+  - Swap Memory
+  - swapfile
+  - Virtual Machine
+  - Virtual Memory
+  - VM
+  - VM image
+image: null
 ---
 
 Desde que iniciei minha vida nas nuvens (cloud computing ou cloud services), uma questão que sempre tenho que resolver, é a questão de criar a memória de swap. Os provedores de nuvem pública não deixam configurados espaços de memória swap, mas porque?
 
 1. A maneira mais fácil de ter uma imagem de sistema operacional para qualquer configuração de máquina
+
 2. Como prever um espaço em disco para swap em um disco que nem sabemos qual tamanho vai ter? 🙂
 
 Então uma boa prática quando falamos em nuvem e ambiente Linux, é configurar a memória swap! Mas e a áreas de disco? Preciso de outro HD virtual só para isso? Mais custos? - Calma! Vamos a fatos que nos permitem criar uma área de swap de maneira fácil e prática de mover, aumentar ou diminuir (bem conceitos de nuvem)!
 
 * Podemos criar uma área de swap em arquivo, então, dependendo podemos usar as partições que temos disponíveis
+
 * Usar swap é sempre interessante, justamente em ambientes que podem sofrer "bursts" (pequenos surtos de uso intenso de memória) inesperados (outro conceito de nuvem)
+
 * Para um data center de alto desempenho (ambiente esperado em provedores de nuvem) trabalhar com área de disco ou arquivo é _quase_ a mesma coisa
+
 * Alguns data centers (eu conheço apenas a [Microsoft Azure](https://azure.microsoft.com)), que permitem ter um "disco temporário", que foi concebido exatamente para fins de cache ou swap de aplicações
 
 Ok, vamos a **receita de bolo**:
@@ -38,12 +48,20 @@ Ok, vamos a **receita de bolo**:
 Deixo um conjunto de comandos que podem ser facilmente colocados em um script de inicialização.
 
 ```bash
+
 fallocate -l 512m /tmp/swapfile
+
 chown root:root /tmp/swapfile
+
 chmod 600 /tmp/swapfile
+
 mkswap /tmp/swapfile
+
 chmod 600 /tmp/swapfile
+
 swapon /tmp/swapfile
+
 ```
 
 Lembro aqui que estou criando um arquivo `swapfile` em um diretório `/tmp/`, isso não deve ser feito em ambientes de produção (use o espaço que você tem para dados).
+
