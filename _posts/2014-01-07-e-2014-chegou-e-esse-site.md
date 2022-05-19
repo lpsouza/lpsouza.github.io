@@ -1,18 +1,24 @@
 ---
-author: lpsouza
-category: Etc
-date: 2014-01-07 13:33:29
+notion_id: 3a5c2f05-4274-4b65-8b38-947f9a697a11
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2014-01-07T13:33:00.000Z
+last_modified_at: 2022-05-19T22:04:00.000Z
+category: Etc
 published: true
-tags:
-- '2014'
-- Ano Novo
-- Blog
-- Nerd
-- Site
-- TI
-- Wordpress
 title: E 2014 chegou... e esse site?
+tags:
+  - "2014"
+  - Ano Novo
+  - blog
+  - Nerd
+  - site
+  - TI
+  - wordpress
+image: null
 ---
 
 Nossa, novamente deixei meu site largado as traças por um tempo (desde agosto de 2013)! Passou 2013, muita coisa de lá pra cá veio ao encontro de minha vida, algumas coisas boas e outra nem tanto assim.
@@ -28,7 +34,10 @@ Voltando a falar deste site aqui, vou mudar ele, quero deixar ele mais "adulto".
 Deixo aqui algumas delas:
 
 * Alteração no layout (sim, abandonei de vez a ideia do "Simples", o tema que havia feito para WordPress, mas porque agora melhorei esse conhecimento de temas e não quero reinventar a roda para um site que é querendo ou não um blog);
+
 * Alteração nas categorias (pois é, essa é a parte que penso quando disse que estou mais "adulto". Eu tinha uma ideia de categorias, mas como hoje, este site tem um foco mais Nerd-o-IT, pense em um site nerd, mas que foca em tecnologia da informação e segurança em boa parte dos posts, então vamos repaginar isso!)
+
 * Análise de TAGs (e com isso tirar alguns lixos que tem ali)
 
 Acredito que seria isso! Vamos trabalhar! 😀
+
