@@ -1,10 +1,17 @@
 ---
-author: lpsouza
-category: Tech
-date: 2010-10-08 23:50:04+00:00
+notion_id: c525e3dd-4376-48e8-91bf-97dccee3bf2c
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2010-10-08T23:50:00.000Z
+last_modified_at: 2022-05-19T22:02:00.000Z
+category: Tech
 published: true
 title: Para onde vai a banda larga?
+tags: []
+image: null
 ---
 
 Meu professor (Eduardo Leiva Bastos) da cadeira de Fundamentos de Redes do curso de Segurança da Informação (Tecnólogo) na [Unisinos](http://unisinos.br) pediu como trabalho, um pequeno ensaio sobre o futuro da internet banda larga, falando nas tecnologias de meio físico, ou como a internet chega nas casas das pessoas. A versão final teve ajuda da minha chefe e amiga Karem Medeiros, mas infelizmente não foi a versão que ela corrigiu os erros de concordância que ficou aqui pra vocês.. Então, aqui está:
@@ -24,3 +31,4 @@ Chegando a esse ponto, o cabo com uma velocidade monstruosa chegando a casa, o q
 Ok, mas e o 4G que comentei? Onde ele entra neste cenário? Ele entra como "acesso do movimento", isto é, quando estiver na rua, fora do range dos access point de casa ou do trabalho.
 
 Acredito que pela necessidade da humanidade pela internet, o conforto já hoje tem com as redes wifi ligadas a ADSLs de seus 10 a 20mbps, a tendência da internet banda larga será esta. Essa mescla de serviços onde a palavra-chave será mobilidade, mobilidade na internet!
+
