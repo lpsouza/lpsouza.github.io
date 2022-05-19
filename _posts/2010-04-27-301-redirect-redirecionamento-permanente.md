@@ -1,21 +1,27 @@
 ---
-author: lpsouza
-category: Tech
-date: 2010-04-27 11:44:07+00:00
+notion_id: 61023db7-7e5b-4241-a472-3d049cfb95a5
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2010-04-27T11:44:00.000Z
+last_modified_at: 2022-05-19T22:01:00.000Z
+category: Tech
 published: true
-tags:
-- '301'
-- Blog
-- Google
-- Informática
-- Internet
-- Networking
-- Problemas
-- Redirect 301
-- Redirect
-- Webmaster
 title: 301 Redirect - Redirecionamento permanente
+tags:
+  - "301"
+  - blog
+  - Google
+  - Informática
+  - Internet
+  - Networking
+  - Problemas
+  - Redirect 301
+  - Redirect
+  - Webmaster
+image: null
 ---
 
 Pois e não é que a internet sempre me ensina algo? Hoje em dia (a alguns dias, pra falar a verdade) estou tendo que aprender a fazer esse tipo de redirecionamento de página tipo "permanente". Mas, para que afinal isso??
@@ -27,3 +33,4 @@ Redirecionamento permanente?? Heim?? Pois é, foi exatamente isso que eu pensei;
 Mas, ainda não vi mudanças no buscador sobre isso, as páginas continuam caindo no seu endereço antigo. Agora, não sei que isso tem haver que mudei o caminho de uma pasta para outra, ou seja, de [https://luizsouza.com](https://luizsouza.com) para [https://luizsouza.com/blog](https://luizsouza.com/blog). Vou aguardar mais um tempo... Gostaria muito que o tio Google ajustasse isso para que possa colocar o conteúdo da página no ar...
 
 É esperar para ver! 😀
+
