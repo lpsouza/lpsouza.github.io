@@ -1,19 +1,25 @@
 ---
-author: lpsouza
-category: Tech
-date: 2009-08-29 12:10:52+00:00
+notion_id: c1e38258-44fe-4556-abe1-fa162f1081dc
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2009-08-29T12:10:00.000Z
+last_modified_at: 2022-05-19T22:00:00.000Z
+category: Tech
 published: true
-tags:
-- Blog
-- CMS
-- Content Management Systems
-- Joomla
-- SGC
-- Sistema de Gestão de Conteúdo
-- Software
-- Wordpress
 title: Meu segundo projeto usando WordPress (em andamento)
+tags:
+  - blog
+  - CMS
+  - Content Management Systems
+  - Joomla
+  - SGC
+  - Sistema de Gestão de Conteúdo
+  - Software
+  - wordpress
+image: null
 ---
 
 Realmente estou gostando de trabalhar usando o Wordpress em meu segundo projeto.. O site da IHCenter.
@@ -31,3 +37,4 @@ Mais uma vez tenho que puxar o saco dos criadores do WordPress e dizer que estã
 E vamos voltar a minha migração Joomla2Wordpress!!
 
 Publicado pelo Wordmobi
+
