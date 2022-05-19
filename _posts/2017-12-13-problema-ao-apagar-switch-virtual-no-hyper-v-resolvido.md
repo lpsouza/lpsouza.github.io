@@ -1,26 +1,31 @@
 ---
-author: lpsouza
-category: Tech
-date: 2017-12-13 23:52:00
-image: https://luizsouza.com/wp-content/uploads/2017/12/erro-deletando-vmswitch.png
+notion_id: 9bbbd511-cd50-447d-bd0f-e18eb4dee525
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2017-12-13T23:52:00.000Z
+last_modified_at: 2022-05-19T22:05:00.000Z
+category: Tech
 published: true
-tags:
-- Comutador
-- Comutador Virtual
-- Fall Creators Update
-- Fica a dica
-- Hyper-V
-- Hypervisor
-- Microsoft
-- NAT
-- PowerShell
-- Rede
-- Switch
-- vSwitch
-- Windows
-- Windows 10
 title: Problema ao apagar switch virtual no Hyper-V [Resolvido]
+tags:
+  - Comutador
+  - Comutador Virtual
+  - Fall Creators Update
+  - Fica a dica
+  - hyper-v
+  - Hypervisor
+  - microsoft
+  - NAT
+  - Powershell
+  - Rede
+  - Switch
+  - vSwitch
+  - windows
+  - Windows 10
+image: https://luizsouza.com/wp-content/uploads/2017/12/erro-deletando-vmswitch.png
 ---
 
 Após instalada a versão 1709 do Windows 10, também conhecida como _Fall Creators Update_, comecei a ter problemas com os switchs virtuais do Hyper-V. Bom, como não costumo ser um usuário "padrão", eu havia um diferêncial: Alem do Hyper-V, já estava instalado antes da atualização, havia também o Docker instalado em sua versão 17.09. Então o que antes havia apenas o switch "DockerNAT", agora surgiu mais dois! Um tal de "Opção Padrão" e um "nat" e logo pensei: Ué? Quem mandou ter mais de um vSwitch aqui (Sim, tenho uns ticks)? Eis que me deparei com uma surpresa "agradável".
@@ -32,8 +37,11 @@ Ok, um deles não posso apagar por isso, mas e este "nat"?!?? Vou deletar... Eis
 A solução consiste em remover o switch virtual "na marra" do registro, uma vez que ele realmente é um lixo apenas. Se quiserem podem usar o famoso _regedit_ para resolver a questão, mas como eu adoro uma tela de console, vou mostrar como resolver isso não mão mesmo, via PowerShell! Para isso abra então a console do PowerShell e digite os seguintes comandos:
 
 ```powershell
+
 Set-Location HKLM:\SYSTEM\CurrentControlSet\Services\VMSMP\Parameters\SwitchList
+
 Get-ChildItem`
+
 ```
 
 Aqui você verá algo como esta tela aqui:
@@ -43,9 +51,12 @@ Aqui você verá algo como esta tela aqui:
 Identifique qual o nome da chave que se encontra o "lixo", isto é o nome "nat". No meu caso foi este: E42053F4-A8F7-4062-97DF-F7EAB1156438. Então agora é só deletar a chave!
 
 ```powershell
+
 Remove-Item .\E42053F4-A8F7-4062-97DF-F7EAB1156438\
+
 ```
 
 Escolha a opção [S] e resolvido! Não existe mais este switch virtual!
 
 BONUS: Se por um acaso acontecer como aconteceu comigo, de continuar o switch virtual aparecendo no Hyper-V, olhe seus dispositivos de rede se não há um adaptador de rede do Hyper-V dando erro. Se sim, basta remover ele!
+
