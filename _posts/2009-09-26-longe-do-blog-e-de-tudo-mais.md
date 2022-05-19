@@ -1,33 +1,39 @@
 ---
-author: lpsouza
-category: Etc
-date: 2009-09-26 21:00:19
+notion_id: 4056db4f-15df-4e0b-92cf-9688020f0843
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2009-09-26T21:00:00.000Z
+last_modified_at: 2022-05-19T22:01:00.000Z
+category: Etc
 published: true
-tags:
-- 3G
-- Blog
-- Claro
-- Computadores
-- E71
-- Hardware
-- Informática
-- Linux
-- Mobilidade
-- Nerd
-- Networking
-- Nokia
-- Notebook
-- Problemas
-- Redes de Computadores
-- S60
-- Shellscript
-- Smartphone
-- Software
-- Symbian
-- TI
-- Trabalho
 title: Longe do blog.. E de tudo mais..
+tags:
+  - 3G
+  - blog
+  - Claro
+  - Computadores
+  - E71
+  - Hardware
+  - Informática
+  - linux
+  - Mobilidade
+  - Nerd
+  - Networking
+  - Nokia
+  - Notebook
+  - Problemas
+  - Redes de Computadores
+  - S60
+  - Shellscript
+  - Smartphone
+  - Software
+  - Symbian
+  - TI
+  - Trabalho
+image: null
 ---
 
 Olá pessoal.. Andei distante do blog e de quase tudo, porque já sabem né? Murphy é o padroeiro de todo o técnico em TI, e então ele me fez uma visita de quase 2 semanas!!
@@ -49,3 +55,4 @@ No mais.. Comentários sobre a instalação do Ubuntu, fica pra outro post..
 See ya!
 
 Publicado pelo Wordmobi
+
