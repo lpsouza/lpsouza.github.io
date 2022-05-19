@@ -1,18 +1,24 @@
 ---
-author: lpsouza
-category: Tech
-date: 2014-03-29 14:21:55
+notion_id: 85bf044d-5808-490e-b0ad-c853d77a3ba3
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2014-03-29T14:21:00.000Z
+last_modified_at: 2022-05-19T22:04:00.000Z
+category: Tech
 published: true
-tags:
-- Desktop
-- Informática
-- Interface Gráfica
-- Linux
-- Ubuntu
-- Unity
-- Window Maker
 title: Como remover o Unity do Ubuntu sem stress
+tags:
+  - Desktop
+  - Informática
+  - Interface Gráfica
+  - linux
+  - ubuntu
+  - Unity
+  - Window Maker
+image: null
 ---
 
 Estava instalando um Ubuntu 13.10 em uma VM e como não queria o Unity como interface gráfica, resolvi procurar uma forma de remover e instalar a interface que eu mais gosto, isto é, a Window Maker!
@@ -30,11 +36,16 @@ Ok, chega de explicação e me dê esse comando maravilhoso, diria o pessoal que
 Depois que fizer isso, não terá mais interface gráfica instalada, para remover as dependências rode ainda:
 
 ```sh
+
 sudo apt-get autoremove
+
 sudo apt-get purge `deborphan`
+
 sudo dpkg --purge `dpkg -l | egrep "^rc" | cut -d' ' -f3`
+
 ```
 
 E agora, instale sua inteface preferida! 🙂
 
 Se quiser instalar a maravilhosa e leve Windowmaker: `sudo apt-get install wmaker` 😉
+
