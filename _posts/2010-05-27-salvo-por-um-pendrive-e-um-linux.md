@@ -1,23 +1,29 @@
 ---
-author: lpsouza
-category: Tech
-date: 2010-05-27 22:25:05+00:00
+notion_id: ea7ceb63-9305-44a6-89a5-fc4e4bc91a46
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2010-05-27T22:25:00.000Z
+last_modified_at: 2022-05-19T22:01:00.000Z
+category: Tech
 published: true
-tags:
-- chkdsk
-- Disco Rígido
-- Format
-- Hardware
-- HD externo
-- Informática
-- Linux
-- Notebook
-- Problema
-- Recuperar dados
-- Sistema Operacional
-- TI
 title: Salvo por um pendrive.. E um Linux!
+tags:
+  - chkdsk
+  - Disco Rígido
+  - Format
+  - Hardware
+  - HD externo
+  - Informática
+  - linux
+  - Notebook
+  - Problema
+  - Recuperar dados
+  - Sistema Operacional
+  - TI
+image: null
 ---
 
 Os anos passam, mas uma frase sempre continua viva:   _"Em casa de ferreiro, espeto é de pau"_ !! E como não podemos fugir a regra, este que vos escreve está passando por uma situação muito constrangedora.
@@ -39,3 +45,4 @@ Pois é.. Por falta de $tempo$ na $agenda$ eu tomei uma atitude que muitos vão 
 Então aqui estou, vivendo com um Notebook sem HD e usando um Linux em um pendrive!! 🙂
 
 Publicado pelo Wordmobi
+
