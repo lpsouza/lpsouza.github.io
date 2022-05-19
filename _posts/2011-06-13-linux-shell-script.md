@@ -1,17 +1,23 @@
 ---
-author: lpsouza
-category: Tech
-date: 2011-06-13 15:32:41
+notion_id: 227b9864-1024-4248-9247-837da21c32c0
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2011-06-13T15:32:00.000Z
+last_modified_at: 2022-05-19T22:02:00.000Z
+category: Tech
 published: true
+title: "Linux: Shell Script"
 tags:
-- Computadores
-- Fica a dica
-- Linux
-- Programação
-- Script
-- Shell Script
-title: 'Linux: Shell Script'
+  - Computadores
+  - Fica a dica
+  - linux
+  - Programação
+  - Script
+  - Shell Script
+image: null
 ---
 
 Tá aí uma coisa que poucos usuários linux atuais sabem mexer a fundo: Shell Script.
@@ -27,11 +33,17 @@ Como é uma linguagem de scripts para interpretadores de comandos, eles precisam
 Um exemplo de script:
 
 ```bash
+
 if [ $1 -lt 10 ]; then
+
     echo "Número menor que 10"
+
 else
+
     echo "Número igual ou maior que 10"
+
 fi
+
 ```
 
 Se quiserem aprender mais, eu deixo uma página interessante que li hoje sobre isso:
@@ -39,3 +51,4 @@ Se quiserem aprender mais, eu deixo uma página interessante que li hoje sobre i
 [http://www.devin.com.br/shell_script/](http://www.devin.com.br/shell_script/)
 
 Neste link, vocês podem ver um mini curso muito bem explicado de como usar os principais scripts deste poderosa ferramenta!
+
