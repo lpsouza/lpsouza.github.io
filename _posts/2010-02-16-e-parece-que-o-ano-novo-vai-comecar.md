@@ -1,33 +1,39 @@
 ---
-author: lpsouza
-category: Etc
-date: 2010-02-16 19:14:20
+notion_id: 1fd73dab-3cb5-4ff9-ad48-0c7470625468
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2010-02-16T19:14:00.000Z
+last_modified_at: 2022-05-19T22:01:00.000Z
+category: Etc
 published: true
-tags:
-- '2010'
-- Ano Novo
-- Brasília
-- Fica a dica
-- Games
-- Jogos
-- Nerd
-- Playstation 3
-- Playstation Portable
-- PS3
-- PSP
-- Rock Band
-- Terror
-- Viagem
-- Video-game
-- X-Box
-- XBOX
-- XBOX 360
-- Zombieland
-- Zombies
-- Zumbilândia
-- Zumbis
 title: E parece que o ano novo vai começar...
+tags:
+  - "2010"
+  - Ano Novo
+  - Brasília
+  - Fica a dica
+  - games
+  - jogos
+  - Nerd
+  - Playstation 3
+  - Playstation Portable
+  - PS3
+  - PSP
+  - Rock Band
+  - Terror
+  - Viagem
+  - Video-game
+  - X-Box
+  - XBOX
+  - XBOX 360
+  - Zombieland
+  - Zombies
+  - Zumbilândia
+  - Zumbis
+image: null
 ---
 
 Bom... Pode ser que para o resto do mundo comece no dia primeiro de janeiro... Mas aqui no Brasil começa na quarta-feira de cinzas, ou seja: amanhã!
@@ -69,3 +75,4 @@ Valeu mesmo a todos: Brimstonne (por sempre me acolher e me fazer sempre me sent
 Mas, acabou a festa (por enquanto) e o ano começa amanhã!!
 
 Publicado pelo Wordmobi
+
