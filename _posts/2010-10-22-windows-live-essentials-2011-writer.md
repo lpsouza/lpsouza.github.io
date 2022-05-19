@@ -1,22 +1,28 @@
 ---
-author: lpsouza
-category: Tech
-date: 2010-10-22 08:30:00+00:00
+notion_id: 9b6e1692-1669-4e45-aef2-5ae50b9f1d7f
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2010-10-22T08:30:00.000Z
+last_modified_at: 2022-05-19T22:02:00.000Z
+category: Tech
 published: true
+title: "Windows Live Essentials 2011: Writer"
 tags:
-- Blog
-- Blogger
-- Internet
-- Linux
-- MySQL
-- PHP
-- Windows
-- Windows Live
-- Windows Live Essentials
-- Wordpress
-- Writer
-title: 'Windows Live Essentials 2011: Writer'
+  - blog
+  - Blogger
+  - Internet
+  - linux
+  - MySQL
+  - PHP
+  - windows
+  - Windows Live
+  - Windows Live Essentials
+  - wordpress
+  - Writer
+image: null
 ---
 
 Existindo desde as primeiras versões do Live Essentials, o Writer nunca foi um sistema que me chamou a atenção. Um editor da microsoft, para blog… Qual blog? Deve ser o tal do Spaces… Nem vou atras… Isso que me passava na cabeça quando lia a descrição deste. Mas depois de atualizar meu “MSN”, nome erroneamente apelidado do Messenger para a versão 2011, entrei em meu profile do Live, e vi meu spaces a tanto tempo esquecido. Nostalgia a parte, a noticia que me chama a atenção: A Microsoft vai descontinuar o Spaces e pede pra galera migrar para o WordPress! A noticia me chama mais a atenção por que a engine do WordPress (tanto a wordpress.com, quanto a para download no wordpress.org) é em PHP + MySQL, e todos sabemos onde essa combinação é mais encontrada e mais divulgada no mundo, não? (Linux)
@@ -34,3 +40,4 @@ Certo, mas como o Writer consegue conversar com um monte de editores de blog? F�
 Então, para encerrar minha visão inicial do aplicativo, quero salientar que realmente o aplicativo cumpre o quesito facilidade de uso e acredito que é a solução para aqueles que querem ter um blog, mas não gostam das estranhas interfaces de criação de post via web. Para criação de posts offline e  com agendamento de data de postagem…
 
 Deixo 2 questões para quem ler: Alguém conhece outras soluções do gênero? E ambientes Linux também tem algo parecido?
+
