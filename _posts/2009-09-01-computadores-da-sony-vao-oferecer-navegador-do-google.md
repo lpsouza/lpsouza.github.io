@@ -1,18 +1,24 @@
 ---
-author: lpsouza
-category: Tech
-date: 2009-09-01 17:04:59+00:00
+notion_id: 9eee3f60-151b-401b-94f5-e3b96cd82c22
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2009-09-01T17:04:00.000Z
+last_modified_at: 2022-05-19T22:00:00.000Z
+category: Tech
 published: true
-tags:
-- Computadores
-- Google
-- Google Chrome
-- Ha-ha!
-- Hardware
-- Software
-- Sony
 title: Computadores da Sony vão oferecer navegador do Google
+tags:
+  - Computadores
+  - Google
+  - Google Chrome
+  - Ha-ha!
+  - Hardware
+  - Software
+  - Sony
+image: null
 ---
 
 Tá, vamos falar sério agora. Como assim os computadores da Sony vão começar a vir com o Chrome?!??
@@ -24,7 +30,10 @@ Chrome ainda é muito novo para isso.. Conto apenas os bancos, que a maioria nã
 Bem.. É esperar pra ver.. E se preparar para boas risadas!!!
 
 > _Eitan Bencuya, porta-voz do Google, afirmou que o acordo com a Sony entrou em vigor recentemente, mas se recusou a discutir seus termos, como por exemplo que modelos da Sony virão pré-equipados com o Chrome, ou as condições financeiras da transação._
+
 >
+
 > _O Google afirmou que está estudando maneiras de tornar o Chrome acessível a número maior de usuários. "Estamos testando um desses canais, com a Sony", anunciou a empresa em comunicado._
 
 via [Folha Online - Informática - Computadores da Sony vão oferecer navegador do Google - 01/09/2009](http://www1.folha.uol.com.br/folha/informatica/ult124u617950.shtml).
+
