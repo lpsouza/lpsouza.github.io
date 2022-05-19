@@ -1,48 +1,66 @@
 ---
-author: lpsouza
-category: Linux
-date: 2018-11-01 21:18:00-03:00
+notion_id: c01134c7-3853-4663-b264-21be073dd9f0
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2018-11-02T00:18:00.000Z
+last_modified_at: 2022-05-19T22:05:00.000Z
+category: Linux
 published: true
-tags:
-- docker
-- nosudo
-- sudo
-- ubuntu
-- linux
-- permissions
 title: Docker sem sudo no Ubuntu 18.04
+tags:
+  - docker
+  - nosudo
+  - sudo
+  - ubuntu
+  - linux
+  - permissions
+image: null
 ---
 
 Tenho o costume de usar o docker para algo mais inusitado que o normal: Criar comandos para coisas que não quero instalar no computador. Como assim? Um exemplo foi o `dotnet` que queria não ter instalado, mas queria o comando para criar meus projetos em .NET Core. E então eu crio um shell script chamado dotnet, coloco em um diretório `/bin` e não preciso mais me preocupar se esta instalado ou não! Veja o exemplo do script abaixo:
 
 ```bash
+
 #/bin/sh
 
 docker run --rm -ti -v $PWD:/app --link=mysql-server lpsouza/dotnet dotnet $*
+
 ```
 
 Só com esse script eu posso rodar o `dotnet` sem ele! :-)
 
 Ok, aí temos o problema do sudo que deveria ser rodado sempre para que meu script rodasse o Docker. Então para isso resolvi procurar na internet se posso usar meu usuário local para utilizar o Docker sem precisar do sudo e não é que dá mesmo? Segue a receita de bolo abaixo.
 
-### Receita de bolo
+###  Receita de bolo
 
 1. (Se não existir) crie um grupo para o Docker: `sudo groupadd docker`
+
 2. Adicione o seu usuário no grupo: `sudo usermod -aG docker $USER`
+
 3. Faça o logoff do usuário e o login novamente
+
 4. Faça o teste (né?) com o comando: `docker run hello-world`
+
    - Caso apareça o erro `WARNING: Error loading config file: /home/user/.docker/config.json - stat /home/user/.docker/config.json: permission denied` é possível que você já tenha utilizado alguma vez o Docker com este usuário, usando o `sudo`. Se for este o caso, use estes comandos:
 
 ```bash
+
 sudo chown "$USER":"$USER" /home/"$USER"/.docker -R
+
 sudo chmod g+rwx "$HOME/.docker" -R
+
 ```
 
 Esta receita eu peguei na página da [documentação do Docker](https://docs.docker.com/install/linux/linux-postinstall/#manage-docker-as-a-non-root-user) e ela termina aqui dizendo que tudo funciona! Mas não foi o caso para mim! Então continuou com erro de acesso, como se precisasse usar o sudo para rodar o comando do Docker. Achei a solução em um [post do AskUbuntu](https://askubuntu.com/a/982187) que se resume em rodar mais um comando:
 
 ```bash
+
 sudo setfacl -m user:$USER:rw /var/run/docker.sock
+
 ```
 
 Agora sim! Tudo funcional! :-D
+
