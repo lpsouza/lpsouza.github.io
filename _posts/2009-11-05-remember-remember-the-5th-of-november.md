@@ -1,23 +1,29 @@
 ---
-author: lpsouza
-category: Etc
-date: 2009-11-05 09:44:28
+notion_id: 46bca5ea-5603-4e14-812b-8ce32b615033
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2009-11-05T09:44:00.000Z
+last_modified_at: 2022-05-19T22:01:00.000Z
+category: Etc
 published: true
-tags:
-- 5 de Novembro
-- 5th of November
-- Blog
-- CQC
-- Fica a dica
-- Governo
-- Guy Fawkes
-- Idéia
-- Marcelo Tas
-- Medo
-- V de Vingança
-- V for Vendetta
 title: Remember, remember, the 5th of November
+tags:
+  - 5 de Novembro
+  - 5th of November
+  - blog
+  - CQC
+  - Fica a dica
+  - Governo
+  - Guy Fawkes
+  - Idéia
+  - Marcelo Tas
+  - Medo
+  - V de Vingança
+  - V for Vendetta
+image: null
 ---
 
 É isso aí... Hoje é dia de ver/ler V for Vendetta, lembrar que:
@@ -37,15 +43,26 @@ Não parem de questionar seus governantes, não parem de comprovar o trabalho de
 Por fim, deixo outra citação do filme.. De uma garota chamada Valerie. Ela que na história foi presa pelo governo por ser "diferente" do padrão:
 
 > "Sei que não há como convencê-la de que isto não é um truque mas não faz mal. Sou eu. Meu nome é Valerie. Não creio que viverei muito tempo e quero falar sobre a minha vida. Esta é a única biografia que eu vou escrever e faço isso em papel higiênico.
+
 >
+
 > Nasci em Nottingham, em 1985. Não me lembro muito da infância, mas eu me lembro da chuva. Minha avó tinha uma fazenda e ela dizia que Deus estava na chuva. Fui aprovada no exame para o curso secundário. Na escola, conheci minha primeira namorada. Seu nome era Sarah. Foram seus pulsos. Eles eram lindos. Achei que nos amaríamos para sempre. O professor dizia que era uma fase da adolescência que superaríamos. A Sarah superou. Eu não superei.
+
 >
+
 > Em 2002, eu me apaixonei por uma garota chamada Christina. Naquele ano, contei aos meu pais. Não poderia ter feito isso sem a Chris segurando minha mão. Meu pai não olhou para mim. Disse-me para ir embora e nunca mais voltar. Minha mãe não falou nada. Mas eu só contei a verdade a eles. Isso foi egoísmo demais? Nossa integridade vale tão pouco, mas é tudo o que temos. É o mais importante em nós. Mantendo nossa integridade, somos livres. Sempre soube o que queria da vida.
+
 >
+
 > Em 2015, eu estrelei meu primeiro filme, As Dunas de Sal. Foi o papel mais importante da minha vida, não pela carreira, mas porque assim conheci a Ruth. Na primeira vez em que nos beijamos, eu soube que nunca mais iria querer beijar outros lábios. Nós nos mudamos para um apartamento em Londres. Ela plantou Scarlet Carsons para mim na janela e nosso apartamento sempre cheirava a rosas. Foram os melhores anos da minha vida.
+
 >
+
 > Mas a guerra dos EUA foi piorando e, no fim, chegou a Londres. Depois disso, não havia mais rosas... Não para todos. O significado das palavras começou a mudar. Palavras como "colateral" e "rendição" inspiravam medo... Enquanto ganhavam força "Nórdica Chama" e "Artigos de Submissão". Lembro-me de como "diferente" virou "perigoso". Ainda não entendo por que nos odeiam tanto. Eles levaram a Ruth enquanto ela comprava comida. Nunca chorei tanto na minha vida. Não demorou para virem me buscar. Parece estranho terminar a vida em um lugar tão horrível... Mas durante três anos eu tive rosas e não pedi desculpas a ninguém. Eu morrerei aqui. Cada pedacinho do meu ser perecerá. Cada pedacinho... Menos um. O da integridade. É pequeno e frágil... E é a única coisa que vale a pena ter. Nós jamais devemos perdê-lo. Nem deixar que o tomem de nós. Espero que, quem quer que você seja, escape daqui. Espero que o mundo mude e a vida fique melhor. Mas o que mais quero é que entenda a minha mensagem...Quando falo que mesmo sem conhecer você... E mesmo que talvez jamais conheça você... Ria com você, chore com você... Ou beije você... Eu amo você. De todo o coração... Eu amo você.
+
 >
+
 > - _Valerie_"
 
 Sempre brinco com "fica a dica", mas hoje eu vou dizer: Fica a IDÉIA!
+
