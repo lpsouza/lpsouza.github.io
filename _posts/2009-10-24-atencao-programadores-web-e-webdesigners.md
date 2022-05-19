@@ -1,26 +1,32 @@
 ---
-author: lpsouza
-category: Etc
-date: 2009-10-24 10:52:02
+notion_id: 1a812902-64a7-4006-8353-135a8e99c7f6
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2009-10-24T10:52:00.000Z
+last_modified_at: 2022-05-19T22:01:00.000Z
+category: Etc
 published: true
-tags:
-- 3G
-- Celular
-- E71
-- Fica a dica
-- Mobilidade
-- Nerd
-- Nokia
-- Programação
-- PSP
-- S60
-- Smartphone
-- Software
-- Symbian
-- Tecnologia
-- Tecnologia móvel
 title: Atenção programadores web e webdesigners..
+tags:
+  - 3G
+  - Celular
+  - E71
+  - Fica a dica
+  - Mobilidade
+  - Nerd
+  - Nokia
+  - Programação
+  - PSP
+  - S60
+  - Smartphone
+  - Software
+  - Symbian
+  - Tecnologia
+  - Tecnologia móvel
+image: null
 ---
 
 ... reparem a sua volta! Olha a tecnologia móvel tomando conta!!
@@ -34,3 +40,4 @@ E que tipo de site seriam os mais evidentes a ter versão móvel? Eu diria todos
 Estão vendo que isso implica em muito trabalho não? Tá aí o diferencial em meio a essa selva e guerra de mercado de desenvolvimento para web.. O que está esperando? Pegue seu celular e comece a vender sites!!
 
 Publicado pelo Wordmobi
+
