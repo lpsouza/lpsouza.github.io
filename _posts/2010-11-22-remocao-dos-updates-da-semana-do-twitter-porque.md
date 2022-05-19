@@ -1,18 +1,24 @@
 ---
-author: lpsouza
-category: Etc
-date: 2010-11-22 08:08:14
+notion_id: f8683a0f-e111-4f9b-b5de-d1bd7004134d
 layout: post
+author:
+  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
+  name: Luiz Pereira de Souza Filho
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
+date: 2010-11-22T08:08:00.000Z
+last_modified_at: 2022-05-19T22:02:00.000Z
+category: Etc
 published: true
-tags:
-- Blog
-- Fica a dica
-- Página pessoal
-- Redes Sociais
-- Software
-- Twitter
-- Wordpress
 title: Remoção dos Updates da semana do Twitter, porque?
+tags:
+  - blog
+  - Fica a dica
+  - página pessoal
+  - Redes Sociais
+  - Software
+  - Twitter
+  - wordpress
+image: null
 ---
 
 Bom, depois de testar essa solução para WordPress, vi que não há muito sentido em copiar meus posts do Twitter pra cá..
@@ -28,3 +34,4 @@ Bom, fica a dica e estarei apagando os resumos do meu site!
 See ya!
 
 Posted by Wordmobi
+
