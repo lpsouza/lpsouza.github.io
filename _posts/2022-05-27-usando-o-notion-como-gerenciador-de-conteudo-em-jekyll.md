@@ -6,7 +6,7 @@ author:
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2022-05-27T02:28:00.000Z
-last_modified_at: 2022-05-27T02:28:00.000Z
+last_modified_at: 2022-05-27T02:59:00.000Z
 category: Tech
 published: true
 title: Usando o Notion como gerenciador de conteúdo em Jekyll
@@ -17,15 +17,15 @@ tags:
   - Github
   - docker
   - Docker Hub
-image: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/478cc05b-6b5a-497d-bca5-e4f4f29f9c36/notion-gerenciador.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T023806Z&X-Amz-Expires=3600&X-Amz-Signature=e2ae7b0400f89f937a079f9f6d5f6b538294a5dd3039ad34a46b3f630d75cd27&X-Amz-SignedHeaders=host&x-id=GetObject
+image: https://s3.us-west-2.amazonaws.com/secure.notion-static.com/478cc05b-6b5a-497d-bca5-e4f4f29f9c36/notion-gerenciador.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T030100Z&X-Amz-Expires=3600&X-Amz-Signature=4072325e6a7b5617e078294cbc00ea75ec66639b9271e185425d54bd6034f2ae&X-Amz-SignedHeaders=host&x-id=GetObject
 ---
 
 Desde o momento que [migrei meu blog do Wordpress para Jekyll](https://luizsouza.com/2018/10/11/larguei-o-wordpress/), eu vi a beleza que era poder ter um blog muito mais leve, pois o Jekyll usa o conceito de páginas estáticas, geradas por um servidor antes de colocar no ar, ou trocando em miúdos, o visitante acessa uma página estática, imutável, sem o pré-processamento do PHP ou queries sendo rodadas em um MySQL da vida.
 
 Mas ao mesmo tempo que vi esta beleza, eu sabia dos desafios, pois a página se resume a um [repositório no GitHub e com um monte de arquivos em formato markdown](https://github.com/lpsouza/lpsouza.github.io/tree/main/_posts) que tem a vantagem de ser um “arquivo texto” que se transforma em HTML graças ao poder do Jekyll. Isto quer dizer que não tenho um bom editor WYSIWYG (What You See Is What You Get, ou O que você vê é o que você tem), ou para leigos, o editor que o Wordpress te fornece.
 
-![Editor WYSIWYG clássico do Wordpress.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47812400-53fd-4a00-9846-0d7f9084ebad/wordpress-editor.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T023808Z&X-Amz-Expires=3600&X-Amz-Signature=5575f3752e336229c682462c3bf1761d0bf67979d200decee2debfbeebfdebd6&X-Amz-SignedHeaders=host&x-id=GetObject)
-Editor WYSIWYG clássico do Wordpress.
+![Editor WYSIWYG clássico do Wordpress.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47812400-53fd-4a00-9846-0d7f9084ebad/wordpress-editor.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T030101Z&X-Amz-Expires=3600&X-Amz-Signature=f7969a81ee5c2599a05dc207ef98b88efd60e53ba6824927377a2f0c7d336173&X-Amz-SignedHeaders=host&x-id=GetObject)
+<span class="caption">Editor WYSIWYG clássico do Wordpress.</span>
 
 No início a falta deste tipo de editor não me fez falta alguma. Ao contrário, eu me sentia mais livre escrevendo sem ele. Mas com o tempo comecei a sentir falta de facilidades simples, como um corretor ortográfico, ou simplesmente a liberdade de escrever e criar um link ou mudar a formatação de maneira mais visual. Então começou o caminho quase inverso: Buscar uma forma de escrever em markdown mas com facilidades que os editores WYSIWYG poderiam me proporcionar. Agora, se alguém que conhece o Wordpress estiver lendo isso vai rir e pensar “mas como assim? o Wordpress já tem o suporte de permitir a escrita em markdown nativa a algumas versões já”. E sim, quem pensou isso está absolutamente correto! Mas não foi este o motivo principal da minha troca, isso eu explico [no meu post sobre porque larguei o Wordpress](https://luizsouza.com/2018/10/11/larguei-o-wordpress/), mas resumindo? Performance.
 
@@ -42,8 +42,8 @@ Este projeto tem a premissa de:
 
 Simples não? Bem, mais ou menos! Além disso temos os dois mundos para fazer conversar, isto é um texto em RichText (como o Notion usa para ser WYSIWYG) precisa converter e virar um arquivo markdown no repositório do Jekyll e vice e versa! Outra questão era o FrontMatter do Jekyll, que precisaria ser atualizado entre ele e o Notion! Quanto a primeira questão foi um trabalhão, mas nada que muito estudo e paciência (famoso tentativas e erros) não ajudem. Fora que tanto a [API do Github](https://docs.github.com/en/rest), quanto a [API do Notion](https://developers.notion.com/) são super bem documentadas e possuem client para NodeJS! A segunda questão foi uma questão de analisar a ideia do Notion sobre o que seriam as propriedades do banco de dados e fazer isso ser os valores do FrontMatter!
 
-![Exemplo das propriedades no meu Notion que se transformam no FrontMatter no Jekyll.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d0e953d-5703-40af-ab88-e95168fb9aa5/propriedades-notion.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T023808Z&X-Amz-Expires=3600&X-Amz-Signature=dc1ae6211b514026ecb948e26a8f6ed249a707f7b041ce7ef845f4dcef2e77c8&X-Amz-SignedHeaders=host&x-id=GetObject)
-Exemplo das propriedades no meu Notion que se transformam no FrontMatter no Jekyll.
+![Exemplo das propriedades no meu Notion que se transformam no FrontMatter no Jekyll.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1d0e953d-5703-40af-ab88-e95168fb9aa5/propriedades-notion.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220527%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220527T030101Z&X-Amz-Expires=3600&X-Amz-Signature=ab9192c8d3555e4a234f7d477de904c3ea394122fe5e31aadb5029e9bf5fadf8&X-Amz-SignedHeaders=host&x-id=GetObject)
+<span class="caption">Exemplo das propriedades no meu Notion que se transformam no FrontMatter no Jekyll.</span>
 
 Mais uma coisa deste projeto que eu queria que ele fizesse era ser [uma imagem no Docker](https://hub.docker.com/r/lpsouza/jekyll-notion-sync) para uso em automações. E aí está! Inclusive inaugurado com este post! Se você gosta de conteúdos em Jekyll, vale a pena conhecer (e porque não contribuir) com esse projeto!
 
