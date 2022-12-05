@@ -6,7 +6,7 @@ author:
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2022-12-03T11:03:00.000Z
-last_modified_at: 2022-12-05T01:09:00.000Z
+last_modified_at: 2022-12-05T12:11:00.000Z
 category: Etc
 published: true
 title: Sobre planejamentos… Já é dezembro novamente?
@@ -18,7 +18,7 @@ tags:
   - google agenda
   - google calendar
   - produtividade
-image: null
+image: https://luizsouza.com/assets/xmas-2022.jpg
 ---
 
 Sabe aquele momento que você acorda e nota que o ano já basicamente acabou? Então deixa te contar que esse é o meu momento! Chegamos ao final de 2022, particularmente em meio a um turbilhão de coisas, e como para a maioria das pessoas é um momento de reflexão de como foi o ano e como podemos entrar no próximo com o “pé direito”, então vamos lá!
