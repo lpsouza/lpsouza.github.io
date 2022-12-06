@@ -6,7 +6,7 @@ author:
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2022-12-03T11:03:00.000Z
-last_modified_at: 2022-12-06T21:39:00.000Z
+last_modified_at: 2022-12-06T21:49:00.000Z
 category: Etc
 published: true
 title: Sobre planejamentos… Já é dezembro novamente?
