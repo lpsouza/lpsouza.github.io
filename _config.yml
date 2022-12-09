@@ -1,93 +1,45 @@
 title: "Luiz Souza"
 description: "DevSecOps Specialist"
 author:
-    name: "Luiz Pereira de Souza Filho"
-    photo: "https://www.gravatar.com/avatar/ce87a4c115c24ba10709878170134546?s=512"
+  name: "Luiz Pereira de Souza Filho"
+  photo: "https://www.gravatar.com/avatar/ce87a4c115c24ba10709878170134546?s=512"
 permalink: "/:year/:month/:day/:title/"
 paginate: 10
 paginate_path: "/page/:num/"
 
 social:
-    github: lpsouza
-    linkedin: lpsouza
-    instagram: lpsouza
-    twitter: lpsouza
-    youtube: lpsouza
+  github: lpsouza
+  linkedin: lpsouza
+  instagram: lpsouza
+  twitter: lpsouza
+  youtube: lpsouza
 
 disqus:
-    shortname: luiz-souza
+  shortname: luiz-souza
 
 analytics:
-    google: UA-177307059-1
-    google-ga4: G-QXL6JNE5NC
+  google: UA-177307059-1
+  google-ga4: G-QXL6JNE5NC
 
 highlighter: rouge
 
 plugins:
-    - jekyll-feed
-    - jekyll-paginate
+  - jekyll-feed
+  - jekyll-paginate
 
 sass:
-    sass_dir: _sass
+  sass_dir: _sass
 
 exclude:
-    - .sass-cache/
-    - .jekyll-cache/
-    - gemfiles/
-    - Gemfile
-    - Gemfile.lock
-    - node_modules/
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
-    - README.md
-    - scripts/
-
-prose:
-    rooturl: "_posts"
-    siteurl: "https://luizsouza.com/"
-    media: "assets"
-    metadata:
-        _posts:
-            - name: "title"
-              field:
-                  element: "text"
-                  label: "Title"
-            - name: "date"
-              field:
-                  element: "hidden"
-                  value: CURRENT_DATETIME
-            - name: "author"
-              field:
-                  element: "hidden"
-                  value: CURRENT_USER
-            - name: "layout"
-              field:
-                  element: "hidden"
-                  value: "post"
-            - name: "category"
-              field:
-                  element: "select"
-                  options:
-                      - name: "Tech"
-                        value: "Tech"
-                      - name: "Games"
-                        value: "Games"
-                      - name: "Etc"
-                        value: "Etc"
-            - name: "tags"
-              field:
-                  element: "multiselect"
-                  label: "Tags"
-                  alterable: true
-            - name: "published"
-              field:
-                  element: "checkbox"
-                  label: "Published"
-                  value: true
-            - name: "image"
-              field:
-                  element: "text"
-                  label: "Featured image"
-                  help: "Optional"
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - scripts/
