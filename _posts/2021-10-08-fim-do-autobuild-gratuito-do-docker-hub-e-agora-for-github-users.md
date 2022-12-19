@@ -1,20 +1,20 @@
 ---
-notion_id: 323f82a3-2ab8-4c28-b883-75b4d1f82f5b
+notion_id: ce76ba00-8662-4384-842e-da1ee21b5620
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2021-10-08T13:13:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:49:00.000Z
 category: Tech
 published: true
 title: Fim do autobuild gratuito do Docker Hub?!?? E agora?? [For Github users]
 tags:
   - docker
-  - Docker Hub
-  - Github
-  - Github Actions
+  - docker hub
+  - github
+  - github actions
 image: null
 ---
 
