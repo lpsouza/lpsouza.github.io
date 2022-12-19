@@ -1,31 +1,31 @@
 ---
-notion_id: a8f0a375-8a10-4430-b4d1-31efb794ae2d
+notion_id: 799742a1-a267-41cb-85c2-1e8581751a02
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2014-07-27T19:06:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Usando o Netflix no Ubuntu 14.04
 tags:
-  - Computadores
-  - Emaulator
-  - Fica a dica
-  - Filmes
-  - Interface Gráfica
+  - computadores
+  - emaulator
+  - fica a dica
+  - filmes
+  - interface gráfica
   - linux
-  - Netflix
-  - Problema
-  - Problemas
-  - Seriados
-  - Séries
-  - Silverlight
+  - netflix
+  - problema
+  - problemas
+  - seriados
+  - séries
+  - silverlight
   - ubuntu
   - windows
-  - Wine
+  - wine
 image: https://luizsouza.com/wp-content/uploads/2014/07/netflix.jpg
 ---
 
