@@ -1,25 +1,25 @@
 ---
-notion_id: 602722e8-6666-4eae-b6a0-1e9b1fec20a4
+notion_id: da2cb5a4-0e1c-42ee-b554-1943bf5245e4
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2015-10-10T19:51:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: Magento e seu top menu!
 tags:
-  - Custom
+  - custom
   - e-commerce
-  - Fica a dica
-  - Magento
-  - Menu
-  - Personalizado
-  - PHP
-  - Programação
-  - Topmenu
+  - fica a dica
+  - magento
+  - menu
+  - personalizado
+  - php
+  - programação
+  - topmenu
 image: null
 ---
 
