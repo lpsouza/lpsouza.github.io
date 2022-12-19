@@ -1,22 +1,22 @@
 ---
-notion_id: fc09ae9a-a1ca-41c4-b29e-35fba5dcdb45
+notion_id: d5506cbf-d11d-4867-9b7f-c2f4636783d9
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-02T21:42:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: On cast... No podcast!
 tags:
   - blog
-  - Conversas
-  - Fica a dica
-  - MP3
-  - Podcast
-  - Skype
+  - conversas
+  - fica a dica
+  - mp3
+  - podcast
+  - skype
 image: null
 ---
 
