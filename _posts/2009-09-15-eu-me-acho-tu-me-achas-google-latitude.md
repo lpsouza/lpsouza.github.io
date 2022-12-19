@@ -1,31 +1,31 @@
 ---
-notion_id: c75e5b78-cdaf-429a-be4f-c3ce53cc8008
+notion_id: 4b5b6c41-1f6d-4790-928c-2addfb53dad1
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-15T16:20:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: Eu me acho, tu me achas! - Google Latitude
 tags:
   - blog
-  - GeoJSON
-  - Google
-  - Google Maps
-  - GPS
-  - Gtalk
-  - KML
-  - Mobilidade
-  - Nokia
-  - Orkut
-  - Programação
-  - RSS
-  - Smartphone
-  - Software
-  - Symbian
+  - geojson
+  - google
+  - google maps
+  - gps
+  - gtalk
+  - kml
+  - mobilidade
+  - nokia
+  - orkut
+  - programação
+  - rss
+  - smartphone
+  - software
+  - symbian
 image: null
 ---
 
