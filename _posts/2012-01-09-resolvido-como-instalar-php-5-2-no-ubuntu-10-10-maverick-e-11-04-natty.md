@@ -1,24 +1,24 @@
 ---
-notion_id: f10ebe3d-d83a-4539-9f70-c6886872fa1b
+notion_id: 6eff948b-8f5b-41bc-9411-640f3a13f71d
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-01-09T09:30:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: "[Resolvido] Como instalar PHP 5.2 no Ubuntu 10.10 (Maverick) e 11.04 (Natty)"
 tags:
-  - Downgrade
-  - Fica a dica
+  - downgrade
+  - fica a dica
   - linux
-  - PHP
-  - Server
+  - php
+  - server
   - ubuntu
-  - Upgrade
-  - Versão
+  - upgrade
+  - versão
 image: null
 ---
 
