@@ -1,20 +1,20 @@
 ---
-notion_id: 6fa4afd3-62fd-4425-bb81-6ea4ba821c63
+notion_id: 51829336-cf82-407c-91ec-c160c86eef4e
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-01T13:23:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: Ebay vai vender 65% do Skype por US$ 1,9 bilhão
 tags:
-  - eBay
-  - Skype
-  - Software
-  - Venda
+  - ebay
+  - skype
+  - software
+  - venda
 image: null
 ---
 
