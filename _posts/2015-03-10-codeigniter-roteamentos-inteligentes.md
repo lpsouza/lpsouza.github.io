@@ -1,22 +1,22 @@
 ---
-notion_id: f2fc19c5-b572-41d9-9336-835ec651b0c2
+notion_id: 5299eecb-941a-495d-9944-f7b6d6adf8e2
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2015-03-10T16:30:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: "CodeIgniter: Roteamentos Inteligentes"
 tags:
-  - CodeIgniter
-  - Controller
-  - Fica a dica
-  - Programação
-  - Rotas
-  - Roteamento
+  - codeigniter
+  - controller
+  - fica a dica
+  - programação
+  - rotas
+  - roteamento
   - _remap
 image: null
 ---
@@ -27,7 +27,7 @@ O roteamento inteligente permite criar URLs personalizadas. Com isso, a URL padr
 
 * [http://{blog}/{página}](http://{blog}/{página})
 
-###  Código fonte do arquivo `[project-root]/application/controller/defaultController.php`
+###   Código fonte do arquivo `[project-root]/application/controller/defaultController.php`
 
 ```php
 
@@ -67,7 +67,7 @@ class DefaultController extends CI_Controller {
 
 ```
 
-###  Código fonte do arquivo  `[project-root]/application/config/routes.php`
+###   Código fonte do arquivo  `[project-root]/application/config/routes.php`
 
 ```php
 
