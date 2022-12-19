@@ -6,7 +6,7 @@ author:
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2022-05-27T02:28:00.000Z
-last_modified_at: 2022-12-19T20:49:00.000Z
+last_modified_at: 2022-12-19T20:59:00.000Z
 category: Tech
 published: true
 title: Usando o Notion como gerenciador de conteúdo em Jekyll
@@ -44,7 +44,7 @@ Este projeto tem a premissa de:
 
 ![Projeto jekyll-notion-sync rodando em modo de desenvoldimento.](https://luizsouza.com/assets/jekyll-notion-sync.png)
 
-<span class="caption">Projeto jekyll-notion-sync rodando em modo de desenvoldimento.</span>
+<span class="caption">Projeto jekyll-notion-sync rodando em modo de desenvolvimento.</span>
 
 Simples não? Bem, mais ou menos! Além disso temos os dois mundos para fazer conversar, isto é um texto em RichText (como o Notion usa para ser WYSIWYG) precisa converter e virar um arquivo markdown no repositório do Jekyll e vice e versa! Outra questão era o FrontMatter do Jekyll, que precisaria ser atualizado entre ele e o Notion! Quanto a primeira questão foi um trabalhão, mas nada que muito estudo e paciência (famoso tentativas e erros) não ajudem. Fora que tanto a [API do Github](https://docs.github.com/en/rest), quanto a [API do Notion](https://developers.notion.com/) são super bem documentadas e possuem client para NodeJS! A segunda questão foi uma questão de analisar a ideia do Notion sobre o que seriam as propriedades do banco de dados e fazer isso ser os valores do FrontMatter!
 
