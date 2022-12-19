@@ -1,21 +1,21 @@
 ---
-notion_id: e0e50b44-0914-4283-afe1-8828e00661e5
+notion_id: 4e6540c5-c67a-474e-b690-12d0396c3a1f
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2015-07-09T12:31:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: Fazendo um "tail" em arquivos no Windows [PowerShell]
 tags:
-  - Fica a dica
-  - Informática
+  - fica a dica
+  - informática
   - log
-  - Powershell
-  - Sistema Operacional
+  - powershell
+  - sistema operacional
   - tail
   - windows
 image: null
