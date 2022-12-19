@@ -1,29 +1,29 @@
 ---
-notion_id: 5e82315a-0496-4383-9fe4-574fcecf8c8f
+notion_id: 152a38ca-55a0-493f-ad45-21ec8afe7349
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2015-12-19T12:45:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: "Mundo das nuvens: Swap em linux"
 tags:
-  - Cloud
-  - Cloud Computing
-  - Compute
+  - cloud
+  - cloud computing
+  - compute
   - linux
-  - Memory
-  - Storage
-  - Swap
-  - Swap Memory
+  - memory
+  - storage
+  - swap
+  - swap memory
   - swapfile
-  - Virtual Machine
-  - Virtual Memory
-  - VM
-  - VM image
+  - virtual machine
+  - virtual memory
+  - vm
+  - vm image
 image: null
 ---
 
