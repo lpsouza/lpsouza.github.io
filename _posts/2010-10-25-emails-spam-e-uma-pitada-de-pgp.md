@@ -1,26 +1,26 @@
 ---
-notion_id: 52b96a45-1042-4487-ad15-64d641c626e8
+notion_id: dfe2414a-b00c-430f-aafb-2a7c712dd1a6
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-10-25T07:52:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Emails, Spam e uma pitada de PGP!
 tags:
-  - Criptografia
-  - Datacenter
-  - Email
-  - ISP
-  - Mail
-  - Marketing
-  - PGP
-  - POP3
-  - SMTP
-  - SPAM
+  - criptografia
+  - datacenter
+  - email
+  - isp
+  - mail
+  - marketing
+  - pgp
+  - pop3
+  - smtp
+  - spam
 image: null
 ---
 
