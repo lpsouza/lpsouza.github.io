@@ -1,25 +1,25 @@
 ---
-notion_id: 9bffac07-a5b2-4298-ab71-960b2f07d4ba
+notion_id: 66b06913-4c5f-4b9b-97e7-916fa4a6ae1a
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-11-23T08:40:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Etc
 published: true
 title: Qual foi sua maior conquista quando você tinha 12 anos?
 tags:
   - 12 anos
-  - Analise
-  - Browser
-  - Computadores
-  - Conquista
-  - Dólares
-  - Firefox
-  - Informática
-  - Internet
+  - analise
+  - browser
+  - computadores
+  - conquista
+  - dólares
+  - firefox
+  - informática
+  - internet
 image: null
 ---
 
