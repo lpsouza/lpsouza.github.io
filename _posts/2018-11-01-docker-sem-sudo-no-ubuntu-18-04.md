@@ -1,12 +1,12 @@
 ---
-notion_id: c01134c7-3853-4663-b264-21be073dd9f0
+notion_id: 5d553d82-ef13-448c-9881-18aae0e3a0ad
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2018-11-02T00:18:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Linux
 published: true
 title: Docker sem sudo no Ubuntu 18.04
@@ -34,7 +34,7 @@ Só com esse script eu posso rodar o `dotnet` sem ele! :-)
 
 Ok, aí temos o problema do sudo que deveria ser rodado sempre para que meu script rodasse o Docker. Então para isso resolvi procurar na internet se posso usar meu usuário local para utilizar o Docker sem precisar do sudo e não é que dá mesmo? Segue a receita de bolo abaixo.
 
-###  Receita de bolo
+###   Receita de bolo
 
 1. (Se não existir) crie um grupo para o Docker: `sudo groupadd docker`
 
