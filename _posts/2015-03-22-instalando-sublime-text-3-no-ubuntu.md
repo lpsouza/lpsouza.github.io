@@ -1,27 +1,27 @@
 ---
-notion_id: caaca4db-444b-4d3f-894b-6d5fa2222b21
+notion_id: 71415aed-a655-4395-9845-594a97ebf473
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2015-03-22T17:00:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Instalando Sublime Text 3 no Ubuntu
 tags:
-  - APT
+  - apt
   - apt-get
-  - Desenvolvimento
-  - Editor
-  - Fica a dica
-  - Install
-  - Installer
+  - desenvolvimento
+  - editor
+  - fica a dica
+  - install
+  - installer
   - linux
   - repository
-  - Sublime Text
-  - Sublime Text 3
+  - sublime text
+  - sublime text 3
   - ubuntu
 image: https://luizsouza.com/wp-content/uploads/2015/03/imagem-sublime.png
 ---
