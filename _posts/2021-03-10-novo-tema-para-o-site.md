@@ -1,24 +1,24 @@
 ---
-notion_id: c3c206a2-197e-41b1-be15-ea2c171b9941
+notion_id: d0a0c9df-1be2-4b61-af28-b394799bda17
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2021-03-11T00:49:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:49:00.000Z
 category: Etc
 published: true
 title: Novo tema para o site!
 tags:
   - blog
   - jekyll
-  - Static Site
-  - Bootstrap
-  - Design
-  - Black in white
-  - White in black
-  - Dark mode
+  - static site
+  - bootstrap
+  - design
+  - black in white
+  - white in black
+  - dark mode
 image: null
 ---
 
