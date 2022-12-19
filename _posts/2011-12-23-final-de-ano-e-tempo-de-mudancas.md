@@ -1,23 +1,23 @@
 ---
-notion_id: 9a159f77-18fe-4319-92bf-6b30b338ecfa
+notion_id: f3174a5c-7141-4782-8dd3-283b3b11af1b
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2011-12-23T10:07:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Etc
 published: true
 title: Final de ano é tempo de mudanças...
 tags:
   - blog
-  - Final de ano
-  - Informática
+  - final de ano
+  - informática
   - mudanças
-  - Projetos
-  - Sites
-  - Software
+  - projetos
+  - sites
+  - software
   - wordpress
 image: null
 ---
