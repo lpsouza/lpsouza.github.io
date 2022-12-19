@@ -1,24 +1,24 @@
 ---
-notion_id: 2f6bf1e3-fce4-4f9b-982a-049d7949c1b0
+notion_id: 69ee6ff9-e631-490a-978f-ad94a13ca818
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-11-30T13:30:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Window Maker?
 tags:
-  - AfterStep
-  - Computadores
-  - Interface Gráfica
-  - Leve
+  - afterstep
+  - computadores
+  - interface gráfica
+  - leve
   - linux
-  - Unix
-  - Window Maker
-  - X Window
+  - unix
+  - window maker
+  - x window
 image: null
 ---
 
