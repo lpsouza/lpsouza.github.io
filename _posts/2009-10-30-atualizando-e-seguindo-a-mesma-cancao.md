@@ -1,19 +1,19 @@
 ---
-notion_id: 9ed03ab4-b620-4739-af5d-b64240cb619c
+notion_id: 1490893b-6d40-4db1-9821-f6ae8c9db7dd
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-10-30T13:10:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Etc
 published: true
 title: Atualizando e seguindo a mesma canção...
 tags:
   - blog
-  - Fica a dica
-  - Programação
+  - fica a dica
+  - programação
   - wordpress
 image: null
 ---
