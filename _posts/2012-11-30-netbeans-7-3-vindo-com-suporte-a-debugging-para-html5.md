@@ -1,26 +1,26 @@
 ---
-notion_id: 5ae1065b-2890-48a0-a354-9185dc7d530a
+notion_id: fbd82fe7-b284-40d7-b688-db3c87abe449
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-11-30T12:00:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: NetBeans 7.3 vindo com suporte a debugging para HTML5!
 tags:
-  - Beta
-  - Debugging
-  - Fica a dica
-  - HTML
-  - HTML5
-  - Informática
-  - NetBeans
-  - Novidades
-  - Programação
-  - Project Easel
+  - beta
+  - debugging
+  - fica a dica
+  - html
+  - html5
+  - informática
+  - netbeans
+  - novidades
+  - programação
+  - project easel
 image: null
 ---
 
