@@ -1,21 +1,21 @@
 ---
-notion_id: ece2ff85-851b-4759-8c07-0280036ff6f3
+notion_id: 4e804ac7-02ae-4989-ae31-6cc57153a456
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-05-14T09:30:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: Ubuntu-Tweak
 tags:
-  - Configurações
-  - Fica a dica
+  - configurações
+  - fica a dica
   - linux
-  - Login
-  - Tweak
+  - login
+  - tweak
   - ubuntu
 image: null
 ---
