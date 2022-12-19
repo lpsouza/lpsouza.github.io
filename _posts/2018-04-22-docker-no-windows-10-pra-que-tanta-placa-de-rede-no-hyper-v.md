@@ -1,26 +1,26 @@
 ---
-notion_id: 1b8e9e04-3531-4fab-9c97-69ead727bc77
+notion_id: 7fb3df08-fa0b-4223-b01c-5dcdbd8ca081
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2018-04-22T09:30:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: "Docker no windows 10: Pra que tanta placa de rede no Hyper-V?"
 tags:
   - "1709"
   - docker
-  - Fall Creators Update
+  - fall creators update
   - hyper-v
-  - Hypervisor
-  - NAT
-  - Networking
-  - vEthernet
+  - hypervisor
+  - nat
+  - networking
+  - vethernet
   - windows
-  - Windows 10
+  - windows 10
 image: https://luizsouza.com/wp-content/uploads/2018/04/Capturar.png
 ---
 
