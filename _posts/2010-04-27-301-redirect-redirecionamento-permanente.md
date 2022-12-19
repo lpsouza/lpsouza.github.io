@@ -1,26 +1,26 @@
 ---
-notion_id: 61023db7-7e5b-4241-a472-3d049cfb95a5
+notion_id: 4fc96f54-c797-4ddc-a149-a90b1b97a06d
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-04-27T11:44:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: 301 Redirect - Redirecionamento permanente
 tags:
   - "301"
   - blog
-  - Google
-  - Informática
-  - Internet
-  - Networking
-  - Problemas
-  - Redirect 301
-  - Redirect
-  - Webmaster
+  - google
+  - informática
+  - internet
+  - networking
+  - problemas
+  - redirect 301
+  - redirect
+  - webmaster
 image: null
 ---
 
