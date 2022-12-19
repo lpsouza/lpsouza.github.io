@@ -1,24 +1,24 @@
 ---
-notion_id: 075a2967-c004-4a67-9a87-80b81f9b8307
+notion_id: 9a6536b9-38ff-44f3-afc2-3cbb20c4a71a
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-18T04:34:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Etc
 published: true
 title: Tô virando um ser noturno..
 tags:
   - blog
-  - E71
-  - Mobilidade
-  - Nokia
-  - S60
-  - Smartphone
-  - Symbian
-  - Trabalho
+  - e71
+  - mobilidade
+  - nokia
+  - s60
+  - smartphone
+  - symbian
+  - trabalho
   - wordpress
 image: null
 ---
