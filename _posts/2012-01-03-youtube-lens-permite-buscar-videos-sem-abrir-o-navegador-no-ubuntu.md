@@ -1,22 +1,22 @@
 ---
-notion_id: 72ceab9e-5a41-492d-9a6c-6cd6dfcf9b25
+notion_id: 33c40a9b-fdb9-45b3-9033-b180c259d2a0
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-01-03T09:11:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: YouTube Lens permite buscar vídeos sem abrir o navegador no Ubuntu
 tags:
-  - Fica a dica
-  - Google
+  - fica a dica
+  - google
   - linux
   - ppa
   - ubuntu
-  - Youtube
+  - youtube
 image: null
 ---
 
