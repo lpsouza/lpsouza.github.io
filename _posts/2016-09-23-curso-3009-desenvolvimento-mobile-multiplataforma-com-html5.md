@@ -1,30 +1,30 @@
 ---
-notion_id: ea0eff97-ed53-42f9-93f3-cb9d6be9cca6
+notion_id: 00cfe0e7-1483-4c90-a40f-a03549ae9c01
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2016-09-23T08:38:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Etc
 published: true
 title: "Curso 07/10: Desenvolvimento Mobile Multiplataforma com HTML5"
 tags:
-  - Apache Cordova
-  - Celular
-  - Cordova
-  - CSS
-  - Curso
-  - Desenvolvimento
-  - Fica a dica
-  - HTML5
-  - Ionic
-  - JavaScript
-  - Mobilidade
-  - Phonegap
-  - Programação
-  - Smartphone
+  - apache cordova
+  - celular
+  - cordova
+  - css
+  - curso
+  - desenvolvimento
+  - fica a dica
+  - html5
+  - ionic
+  - javascript
+  - mobilidade
+  - phonegap
+  - programação
+  - smartphone
 image: https://luizsouza.com/wp-content/uploads/2016/09/site-html-5-3-edicao.jpg
 ---
 
