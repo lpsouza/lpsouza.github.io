@@ -1,22 +1,22 @@
 ---
-notion_id: 0138d282-736d-42e6-aeed-1731d1fed852
+notion_id: 92184730-f277-4a71-a3e6-be3fb055eb00
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2018-10-11T00:52:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Etc
 published: true
 title: Larguei o Wordpress!
 tags:
   - wordpress
   - blog
-  - Migração
+  - migração
   - jekyll
-  - Static
-  - Markdown
+  - static
+  - markdown
 image: null
 ---
 
