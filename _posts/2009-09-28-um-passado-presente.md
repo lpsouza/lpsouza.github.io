@@ -1,25 +1,25 @@
 ---
-notion_id: 0e1092c5-0038-4cdc-a51d-9aea59d1b56d
+notion_id: 0179f7ee-4ed0-4bf2-851a-605979a6fff8
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-28T20:18:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Etc
 published: true
 title: Um passado presente..
 tags:
-  - Fica a dica
-  - Futuro
+  - fica a dica
+  - futuro
   - games
-  - Natureza
-  - Passado
-  - Playstation 3
-  - Presente
-  - PS3
-  - Video-game
+  - natureza
+  - passado
+  - playstation 3
+  - presente
+  - ps3
+  - video-game
 image: null
 ---
 
