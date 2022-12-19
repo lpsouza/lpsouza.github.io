@@ -1,28 +1,28 @@
 ---
-notion_id: ea7ceb63-9305-44a6-89a5-fc4e4bc91a46
+notion_id: ce79a856-3787-4a2e-94fe-0cdc8bc62967
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-05-27T22:25:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Salvo por um pendrive.. E um Linux!
 tags:
   - chkdsk
-  - Disco Rígido
-  - Format
-  - Hardware
-  - HD externo
-  - Informática
+  - disco rígido
+  - format
+  - hardware
+  - hd externo
+  - informática
   - linux
-  - Notebook
-  - Problema
-  - Recuperar dados
-  - Sistema Operacional
-  - TI
+  - notebook
+  - problema
+  - recuperar dados
+  - sistema operacional
+  - ti
 image: null
 ---
 
