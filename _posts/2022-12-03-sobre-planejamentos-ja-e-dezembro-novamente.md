@@ -1,18 +1,18 @@
 ---
-notion_id: 78e5c081-32d4-4ff5-954a-4d37fd3b9dbf
+notion_id: 192774ce-78d0-456f-9985-22ed2afb56d2
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2022-12-03T11:03:00.000Z
-last_modified_at: 2022-12-09T14:53:00.000Z
+last_modified_at: 2022-12-19T20:49:00.000Z
 category: Etc
 published: true
 title: Sobre planejamentos… Já é dezembro novamente?
 tags:
   - opnião
-  - Pessoal
+  - pessoal
   - planner
   - agenda
   - google agenda
@@ -28,7 +28,9 @@ Notei que 2022 foi um ano um tanto [sabático](https://www.dicio.com.br/sabatico
 Se eu analisar o meu ano acredito que passei batido por algumas conquistas que queria ter alcançado, vide por exemplo:
 
 - Queria ter dado mais atenção ao meu blog (escrever mais);
+
 - Começado a fazer vídeos (para o YouTube) com tutoriais e dicas na área de TI;
+
 - Focar em fazer alguns cursos e certificações.
 
 Mas claro que se analisar no geral o meu ano foi bom, obtive conquistas principalmente pessoais muito legais e tive acredito que um tempo considerável para estar mais com a família e com os amigos, e isso é muito bom também. Acho que se posso colocar o meu ano como produtivo, posso dizer que foi no sentido pessoal. Mas sabe quando mesmo “tudo dando certo” tu ainda poderias ter feito mais?
