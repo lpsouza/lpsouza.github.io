@@ -1,23 +1,23 @@
 ---
-notion_id: 780ff5a8-ca9a-4036-84dc-b65a688fb5bc
+notion_id: 72ff58ab-6b8d-4e01-8b85-27925559bcf6
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-06-06T16:48:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: Meu primeiro aplicativo para Android!
 tags:
-  - Android
-  - Aplicativo
-  - Google
-  - Mobilidade
-  - Smartphone
-  - Software
-  - Tecnologia
+  - android
+  - aplicativo
+  - google
+  - mobilidade
+  - smartphone
+  - software
+  - tecnologia
 image: null
 ---
 
