@@ -1,44 +1,44 @@
 ---
-notion_id: b916d25a-0b30-4ee1-ba81-6daacfa32ddc
+notion_id: 9fcd1729-5071-4ad7-a44d-dac16cf89fca
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-17T22:09:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: "Palestra: Programando para uma vida móvel"
 tags:
-  - 3G
-  - Algorítimo
-  - Cenecista
-  - Claro
-  - Colégio
-  - E71
-  - Fica a dica
-  - Firewall
-  - Gmail
-  - Google
-  - Google Maps
-  - KML
+  - 3g
+  - algorítimo
+  - cenecista
+  - claro
+  - colégio
+  - e71
+  - fica a dica
+  - firewall
+  - gmail
+  - google
+  - google maps
+  - kml
   - linux
-  - Mobilidade
-  - Netbook
-  - Nokia
-  - Notebook
-  - Palestra
-  - Programação
-  - Qik
-  - Redes de Computadores
-  - RSS
-  - S60
-  - Smartphone
-  - Symbian
-  - TI
-  - Twitter
-  - Video
+  - mobilidade
+  - netbook
+  - nokia
+  - notebook
+  - palestra
+  - programação
+  - qik
+  - redes de computadores
+  - rss
+  - s60
+  - smartphone
+  - symbian
+  - ti
+  - twitter
+  - video
 image: null
 ---
 
