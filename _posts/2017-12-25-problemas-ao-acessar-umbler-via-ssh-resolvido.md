@@ -1,26 +1,26 @@
 ---
-notion_id: 84a2deaa-c69b-4685-9ea2-670296a391dc
+notion_id: d496c759-bb4c-44d2-af8a-dad10228942e
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2017-12-25T20:42:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: Problemas ao acessar a Umbler via SSH [Resolvido]
 tags:
-  - Desenvolvimento
-  - Fica a dica
+  - desenvolvimento
+  - fica a dica
   - hospedagem
-  - Hospedagem de Sites
+  - hospedagem de sites
   - linux
-  - Mac
-  - SSH
+  - mac
+  - ssh
   - ubuntu
-  - Ubuntu on Windows
-  - Umbler
+  - ubuntu on windows
+  - umbler
   - windows
 image: https://luizsouza.com/wp-content/uploads/2017/12/Capturar.png
 ---
