@@ -72,6 +72,7 @@
         "wifi"
     ],
     "scss.validate": false,
+    "editor.formatOnSave": false,
     "files.associations": {
         "*.html": "jekyll",
         "*.xml": "jekyll"

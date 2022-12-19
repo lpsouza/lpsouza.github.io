@@ -11,6 +11,11 @@ layout: default
             <span class="category"><i class="fas fa-tag"></i> {{ page.category }}</span>
             {% include reading_time.html %}
         </div>
+        <div class="tags">
+            {% for tag in page.tags %}
+            <span class="tag"><i class="fas fa-hashtag"></i>{{ tag }}</span>
+            {% endfor %}
+        </div>
         <div class="content">
             {{ page.content }}
         </div>
