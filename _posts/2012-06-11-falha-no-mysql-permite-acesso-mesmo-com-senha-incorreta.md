@@ -1,12 +1,12 @@
 ---
-notion_id: f33c049d-22b7-4601-9317-88fb1a3d32a1
+notion_id: 0d2d86fd-a54b-466d-98e8-f803a0aa311b
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-06-11T12:08:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: Falha no MySQL permite acesso mesmo com senha incorreta
