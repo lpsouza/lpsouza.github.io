@@ -1,22 +1,22 @@
 ---
-notion_id: d359ec4f-7a7e-44ec-935b-56212d9aeed3
+notion_id: 761a76a1-cced-4c2d-9595-a304cbf5c5bb
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-14T20:35:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: Google solar e a teoria do Exterminador do Futuro
 tags:
-  - Controle
-  - Energia solar
-  - Google
-  - Humanidade
-  - Solar
-  - Sustentável
+  - controle
+  - energia solar
+  - google
+  - humanidade
+  - solar
+  - sustentável
 image: null
 ---
 
