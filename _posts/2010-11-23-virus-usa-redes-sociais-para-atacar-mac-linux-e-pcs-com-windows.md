@@ -1,28 +1,28 @@
 ---
-notion_id: 84c37421-0619-46ba-9cf7-c0c87fc7d6fd
+notion_id: f75db3f8-1538-4c9e-a0cd-b33fb6d80796
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-11-23T09:09:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Vírus usa redes sociais para atacar Mac, Linux e PCs com Windows
 tags:
-  - Facebook
-  - Koobface
+  - facebook
+  - koobface
   - linux
-  - Mac
-  - Mac OS
-  - MySpace
-  - Praga
-  - Redes Sociais
-  - Sistema Operacional
-  - Twitter
-  - Video
-  - Virus
+  - mac
+  - mac os
+  - myspace
+  - praga
+  - redes sociais
+  - sistema operacional
+  - twitter
+  - video
+  - virus
   - windows
 image: null
 ---
