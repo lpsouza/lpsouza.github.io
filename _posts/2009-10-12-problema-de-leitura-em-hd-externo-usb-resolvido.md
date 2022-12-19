@@ -1,29 +1,29 @@
 ---
-notion_id: 1290d357-d251-4ba2-9615-d0afc6216419
+notion_id: c7cf1bf9-df43-4216-8068-0688bceb247c
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-10-12T08:07:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: Problema de leitura em HD externo USB [Resolvido!]
 tags:
   - chkdsk
-  - DataBack
-  - Disco Rígido
-  - Fica a dica
-  - Format
-  - GetDataBack
-  - Hardware
-  - HD externo
-  - MS-DOS
-  - RAW
-  - Recuperar dados
-  - Recuperar formato
-  - USB
+  - databack
+  - disco rígido
+  - fica a dica
+  - format
+  - getdataback
+  - hardware
+  - hd externo
+  - ms-dos
+  - raw
+  - recuperar dados
+  - recuperar formato
+  - usb
 image: https://luizsouza.com/wp-content/uploads/2009/10/tela-chkdsk.png
 ---
 
