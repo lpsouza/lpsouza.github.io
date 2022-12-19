@@ -1,22 +1,22 @@
 ---
-notion_id: 3a5c2f05-4274-4b65-8b38-947f9a697a11
+notion_id: 58b4e4c8-cb8a-42d9-981f-e81f1f63ddb1
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2014-01-07T13:33:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Etc
 published: true
 title: E 2014 chegou... e esse site?
 tags:
   - "2014"
-  - Ano Novo
+  - ano novo
   - blog
-  - Nerd
+  - nerd
   - site
-  - TI
+  - ti
   - wordpress
 image: null
 ---
