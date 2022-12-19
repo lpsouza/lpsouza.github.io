@@ -1,22 +1,22 @@
 ---
-notion_id: fc522e23-cc77-4cc6-b682-de3424912c32
+notion_id: 4c8d02ee-b68f-4f87-8675-0f4996f3f104
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-10-06T09:41:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Etc
 published: true
 title: Blog / site em novo servidor
 tags:
   - blog
-  - Internet
+  - internet
   - linux
-  - Performance
-  - Problemas
-  - Twitter
+  - performance
+  - problemas
+  - twitter
   - wordpress
 image: null
 ---
