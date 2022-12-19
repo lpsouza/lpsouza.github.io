@@ -1,21 +1,21 @@
 ---
-notion_id: 48d5176e-cbb6-4050-ae6a-13d54d392003
+notion_id: 9ed77b45-e0fe-4c85-88f9-d82e52355c2b
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2020-07-12T17:41:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: Criando posts para Jekyll usando o Prose.io
 tags:
   - jekyll
-  - Prose
-  - Prose.io
+  - prose
+  - prose.io
   - blog
-  - Markdown
+  - markdown
 image: null
 ---
 
