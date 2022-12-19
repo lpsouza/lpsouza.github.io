@@ -1,24 +1,24 @@
 ---
-notion_id: dea1e314-2680-4ece-b8df-dadb4a08f125
+notion_id: 8d999176-7306-4ac4-96ae-ca23a40136cf
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-09-21T09:00:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Novell será vendida em 2 partes - diz NY Post
 tags:
-  - Informática
+  - informática
   - linux
-  - Networking
-  - NOS
-  - Redes de Computadores
-  - Sistema Operacional
-  - Software
-  - SuSE
+  - networking
+  - nos
+  - redes de computadores
+  - sistema operacional
+  - software
+  - suse
 image: null
 ---
 
