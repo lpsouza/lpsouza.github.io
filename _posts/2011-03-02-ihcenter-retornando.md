@@ -1,31 +1,31 @@
 ---
-notion_id: 966b2a07-70a8-4006-a4c8-9bc70c7fa472
+notion_id: 311017b7-9791-4216-a14f-bbca80877add
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2011-03-02T15:30:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Etc
 published: true
 title: IHCenter retornando...
 tags:
-  - Apache
-  - Consultoria
-  - FTP
+  - apache
+  - consultoria
+  - ftp
   - hospedagem
-  - Hosting
-  - IHCenter
-  - Informática
+  - hosting
+  - ihcenter
+  - informática
   - linux
-  - Revenda
-  - Serviços
-  - Sistema
-  - Sites
-  - Trabalho
-  - Web
-  - WWW
+  - revenda
+  - serviços
+  - sistema
+  - sites
+  - trabalho
+  - web
+  - www
 image: null
 ---
 
