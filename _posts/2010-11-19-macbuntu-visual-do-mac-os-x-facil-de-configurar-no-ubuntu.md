@@ -1,24 +1,24 @@
 ---
-notion_id: 0aea53f9-206b-4aa4-b16f-e999994e5452
+notion_id: 9956b157-8b36-4f1e-b247-99bbd7190ca4
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-11-19T16:35:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: "Macbuntu: visual do Mac OS X - fácil de configurar - no Ubuntu"
 tags:
-  - Apple
-  - Computadores
-  - Fica a dica
+  - apple
+  - computadores
+  - fica a dica
   - linux
-  - Mac
-  - Mac OS
-  - Sistema Operacional
-  - Tema
+  - mac
+  - mac os
+  - sistema operacional
+  - tema
   - ubuntu
 image: null
 ---
