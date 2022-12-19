@@ -1,12 +1,12 @@
 ---
-notion_id: 94a51675-0744-4233-bd79-0e0b1fd0070e
+notion_id: cac1542a-f46f-42d5-bd36-bcd62fd0b20f
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-08-26T18:56:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Libreoffice Calc - Como apagar linhas repetidas
