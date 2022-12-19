@@ -1,22 +1,22 @@
 ---
-notion_id: 227b9864-1024-4248-9247-837da21c32c0
+notion_id: 10585bc7-65b5-429f-9357-ba5b20cb208d
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2011-06-13T15:32:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: "Linux: Shell Script"
 tags:
-  - Computadores
-  - Fica a dica
+  - computadores
+  - fica a dica
   - linux
-  - Programação
-  - Script
-  - Shell Script
+  - programação
+  - script
+  - shell script
 image: null
 ---
 
