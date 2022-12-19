@@ -1,23 +1,23 @@
 ---
-notion_id: 22f4459d-ce3f-46c3-a9ad-348f91670c7d
+notion_id: c00e1730-9c7a-4d04-adb6-46d9a3fd2d1f
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-11-27T19:44:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Vivendo e aprendendo (Gravatar)
 tags:
-  - Avatar
+  - avatar
   - blog
-  - Email
-  - Fica a dica
-  - Foto
-  - Gravatar
-  - Imagem
+  - email
+  - fica a dica
+  - foto
+  - gravatar
+  - imagem
   - wordpress
 image: null
 ---
