@@ -1,24 +1,24 @@
 ---
-notion_id: 539d9fe5-bae5-4d0e-aca9-dd5f180bcfcb
+notion_id: 3759e90b-748a-4ad5-b532-786c6d19b6d0
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-10-31T14:46:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Instalar o Unity no Ubuntu 10.10
 tags:
-  - Fica a dica
-  - Informática
+  - fica a dica
+  - informática
   - linux
-  - Netbook
-  - PC
+  - netbook
+  - pc
   - ubuntu
-  - Unity
-  - VirtualBox
+  - unity
+  - virtualbox
 image: null
 ---
 
