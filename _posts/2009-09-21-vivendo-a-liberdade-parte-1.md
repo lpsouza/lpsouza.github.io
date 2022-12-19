@@ -1,32 +1,32 @@
 ---
-notion_id: 449fa0fb-1b6d-4251-b06c-cdfc834bc6d9
+notion_id: 33fd68dc-d84c-4320-837a-fc96e0a19145
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-21T16:49:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Linux
 published: true
 title: Vivendo a liberdade - parte 1
 tags:
-  - Computadores
-  - Curiosidade
-  - Hardware
-  - Informática
+  - computadores
+  - curiosidade
+  - hardware
+  - informática
   - linux
-  - Networking
-  - Notebook
-  - Pessoal
-  - Redes de Computadores
-  - SegInfo
-  - Shellscript
-  - Software
-  - TI
-  - Trabalho
+  - networking
+  - notebook
+  - pessoal
+  - redes de computadores
+  - seginfo
+  - shellscript
+  - software
+  - ti
+  - trabalho
   - windows
-  - Windows XP
+  - windows xp
 image: null
 ---
 
