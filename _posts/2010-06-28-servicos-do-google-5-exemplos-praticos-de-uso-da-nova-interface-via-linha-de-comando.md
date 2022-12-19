@@ -1,26 +1,26 @@
 ---
-notion_id: 278e9edb-e38e-4657-a8c1-f39db6757a50
+notion_id: 19810f99-b03d-42b7-9949-6cec38b1bb1f
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-06-28T10:31:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: "Serviços do Google: 5 exemplos práticos de uso da nova interface via
   linha de comando"
 tags:
-  - Console
-  - Docs
-  - Fica a dica
-  - Google
-  - GoogleCL
+  - console
+  - docs
+  - fica a dica
+  - google
+  - googlecl
   - linux
-  - MS-DOS
-  - OSX
-  - Youtube
+  - ms-dos
+  - osx
+  - youtube
 image: null
 ---
 
