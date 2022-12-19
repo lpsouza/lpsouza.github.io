@@ -1,22 +1,22 @@
 ---
-notion_id: 6d37e309-12e5-4fda-8c27-72db566ef390
+notion_id: 9a6fae43-369c-4b25-be56-013b0bf03b3a
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-09T06:56:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Games
 published: true
 title: Rock band transforma história dos Beatles em clássico interativo
 tags:
-  - Beatles
-  - Boa música
+  - beatles
+  - boa música
   - games
-  - Música
-  - Number 9
-  - Rock Band
+  - música
+  - number 9
+  - rock band
 image: null
 ---
 
