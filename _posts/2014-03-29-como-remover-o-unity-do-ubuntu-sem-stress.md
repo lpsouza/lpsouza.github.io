@@ -1,23 +1,23 @@
 ---
-notion_id: 85bf044d-5808-490e-b0ad-c853d77a3ba3
+notion_id: 10f4af7c-5882-4ee0-8c50-09c208e15f18
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2014-03-29T14:21:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Como remover o Unity do Ubuntu sem stress
 tags:
-  - Desktop
-  - Informática
-  - Interface Gráfica
+  - desktop
+  - informática
+  - interface gráfica
   - linux
   - ubuntu
-  - Unity
-  - Window Maker
+  - unity
+  - window maker
 image: null
 ---
 
