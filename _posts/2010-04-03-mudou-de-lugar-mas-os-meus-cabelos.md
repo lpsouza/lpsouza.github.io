@@ -1,31 +1,31 @@
 ---
-notion_id: 97a8554b-ae4d-4f78-bb38-b2f4cb38b19f
+notion_id: 890f8e5f-60d5-4883-b2f8-61ebbae41ee5
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-04-03T12:56:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Etc
 published: true
 title: Mudou de lugar, mas os meus cabelos...
 tags:
   - blog
-  - Brasília
-  - EAD
-  - Educação
-  - Emprego
-  - Informática
-  - Internet
-  - Melhorias
-  - Networking
+  - brasília
+  - ead
+  - educação
+  - emprego
+  - informática
+  - internet
+  - melhorias
+  - networking
   - página pessoal
-  - Palestra
-  - Pascoa
-  - SegInfo
-  - Software
-  - TI
+  - palestra
+  - pascoa
+  - seginfo
+  - software
+  - ti
   - wordpress
 image: null
 ---

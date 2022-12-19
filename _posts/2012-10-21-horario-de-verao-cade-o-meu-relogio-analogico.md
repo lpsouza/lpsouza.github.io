@@ -1,24 +1,24 @@
 ---
-notion_id: a8841acc-4c1c-4d02-9f10-5623cb37378a
+notion_id: 321cfe9e-af35-45fe-83c1-9fccf5288d45
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-10-21T04:02:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Etc
 published: true
 title: "Horário de verão: cade o meu relógio analógico?"
 tags:
   - analógico
-  - Brasil
-  - Fica a dica
+  - brasil
+  - fica a dica
   - gadgets
   - horário de verão
   - relógio
   - smartphones
-  - Tecnologia
+  - tecnologia
 image: null
 ---
 

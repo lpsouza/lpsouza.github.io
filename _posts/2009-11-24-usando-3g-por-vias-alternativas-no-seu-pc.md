@@ -1,32 +1,32 @@
 ---
-notion_id: d422f13a-b54c-4825-affc-b3d59e6de091
+notion_id: acc54c8b-dedd-45af-ac3b-514a4b80d9ab
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-11-24T12:02:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Usando 3G por vias alternativas no seu PC
 tags:
-  - 3G
-  - Claro
-  - Computadores
-  - E71
-  - Fica a dica
-  - Hardware
-  - Informática
-  - Netbook
-  - Networking
-  - Nokia
-  - Notebook
-  - Redes de Computadores
-  - S60
-  - Smartphone
-  - Software
-  - Symbian
+  - 3g
+  - claro
+  - computadores
+  - e71
+  - fica a dica
+  - hardware
+  - informática
+  - netbook
+  - networking
+  - nokia
+  - notebook
+  - redes de computadores
+  - s60
+  - smartphone
+  - software
+  - symbian
 image: null
 ---
 

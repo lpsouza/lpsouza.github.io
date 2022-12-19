@@ -1,30 +1,30 @@
 ---
-notion_id: 9bbbd511-cd50-447d-bd0f-e18eb4dee525
+notion_id: 283598b5-f886-4ee0-8306-e52be7e02433
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2017-12-13T23:52:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: Problema ao apagar switch virtual no Hyper-V [Resolvido]
 tags:
-  - Comutador
-  - Comutador Virtual
-  - Fall Creators Update
-  - Fica a dica
+  - comutador
+  - comutador virtual
+  - fall creators update
+  - fica a dica
   - hyper-v
-  - Hypervisor
+  - hypervisor
   - microsoft
-  - NAT
-  - Powershell
-  - Rede
-  - Switch
-  - vSwitch
+  - nat
+  - powershell
+  - rede
+  - switch
+  - vswitch
   - windows
-  - Windows 10
+  - windows 10
 image: https://luizsouza.com/wp-content/uploads/2017/12/erro-deletando-vmswitch.png
 ---
 

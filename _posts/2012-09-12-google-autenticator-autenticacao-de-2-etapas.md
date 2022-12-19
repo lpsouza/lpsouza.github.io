@@ -1,25 +1,25 @@
 ---
-notion_id: 129f903f-c05c-4027-ab90-66a9c8cdc3f7
+notion_id: 6eb7cae8-f1ec-4b40-8e9e-8bc9a3be6eb5
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-09-12T17:31:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Google Autenticator (Autenticação de 2 etapas)
 tags:
-  - Android
-  - Autenticator
-  - Fica a dica
-  - Google
-  - Informática
-  - Internet
-  - Mobilidade
-  - Programação
-  - Sistemas
+  - android
+  - autenticator
+  - fica a dica
+  - google
+  - informática
+  - internet
+  - mobilidade
+  - programação
+  - sistemas
   - wordpress
 image: null
 ---

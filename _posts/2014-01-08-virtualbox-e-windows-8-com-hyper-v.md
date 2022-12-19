@@ -1,30 +1,30 @@
 ---
-notion_id: 1ec087e8-090c-4440-bb0a-8b05dbd20c77
+notion_id: 7a6cd34b-204c-4237-b00d-4968d41e738b
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2014-01-08T02:13:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Virtualbox e Windows 8 com Hyper-V!
 tags:
-  - BCDEdit
-  - Boot
-  - Desktop
-  - Dual Boot
-  - Hardware
-  - Hipervisor
+  - bcdedit
+  - boot
+  - desktop
+  - dual boot
+  - hardware
+  - hipervisor
   - hyper-v
-  - Hypervisor
-  - Informática
-  - Prompt de Comando
-  - VirtualBox
+  - hypervisor
+  - informática
+  - prompt de comando
+  - virtualbox
   - windows
-  - Windows 8
-  - Windows 8.1
+  - windows 8
+  - windows 8.1
 image: https://luizsouza.com/wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
 ---
 
@@ -60,7 +60,7 @@ No blog, o Igor comenta na solução em prompt, que eu até então desconhecia, 
 
 Vou ser sincero com vocês que preciso urgente aprender mais sobre comandos em prompt desde o Windows 7 para frente, tem muita coisa boa e ainda por cima tem o Powershell, que aí é só maravilha!
 
-###  Receita de bolo
+###   Receita de bolo
 
 Para resolver a questão de usar o Virtualbox, junto com o Hyper-V, então precisamos fazer um Dual Boot na maquina, um inicializando o Hypervisor e outro não (para o Virtualbox ter seu espaço direto ao hardware). Não se preocupe, se pensou que precisa reinstalar o Windows para isso, são apenas dois comandos, usando o Prompt de Comando com elevação:
 

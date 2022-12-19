@@ -1,25 +1,25 @@
 ---
-notion_id: 36c83089-1673-45b2-84a9-8deb0bbf9070
+notion_id: c5311436-3ae2-446e-9ef1-10f2abf6b7a4
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2016-10-27T00:14:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: Usando Virtualbox com boot seguro no Ubuntu 16.04 [Resolvido]
 tags:
-  - Computadores
-  - Fica a dica
-  - Kernel
+  - computadores
+  - fica a dica
+  - kernel
   - linux
-  - Maquina Virtual
+  - maquina virtual
   - ubuntu
-  - Vagrant
-  - VirtualBox
-  - VM
+  - vagrant
+  - virtualbox
+  - vm
 image: null
 ---
 
@@ -27,7 +27,7 @@ Recentemente instalei no meu computador a última versão LTS do Ubuntu, a 16.04
 
 Ok, lá vamos nós para a internet e o que mais lia por aí era: Desabilite o _Secure Boot_. Sinceramente, eu achei essa solução muito "gambiarra" mesmo, logo, não foi o que resolvi seguir. Então, o que vi em um desses links que apareceram no Google, foi um post no blog do [Flávio Prino](https://flavioprimo.xyz/) que explica como **assinar digitalmente o arquivo de driver** do virtualbox, e assim permitindo que possamos acessar as máquinas do Virtualbox sem erros e com o _Secure Boot_ ativado! 😀
 
-###  Receita do bolo
+###   Receita do bolo
 
 ~~O post tem um passo a passo de 5 etapas, bem simples: [https://flavioprimo.xyz/linux/how-to-install-virtualbox-on-ubuntu-having-uefi-secure-boot-enabled/](https://flavioprimo.xyz/linux/how-to-install-virtualbox-on-ubuntu-having-uefi-secure-boot-enabled/)~~
 
@@ -51,7 +51,7 @@ Siga os 5 passos abaixo:
 
 5. Reinicie e siga as telas que aparecerem durante o boot do UEFI para registrar a nova chave. Este procedimento é permanente, então deve ser feito somente uma vez.
 
-###  Dica adicional
+###   Dica adicional
 
 Como o kernel pode ser atualizado constantemente (principalmente na versão desktop), eu recomento criar o seguinte script:
 

@@ -1,27 +1,27 @@
 ---
-notion_id: 75dbd5d0-dc22-43f2-a389-ae8bb91026c1
+notion_id: 2a016a73-3a11-4208-94b2-6c8765637202
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2014-01-15T12:04:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Falha no boot do Windows Server 2008 R2 - O que fazer?
 tags:
-  - Boot
-  - Informática
-  - Networking
-  - Problema
-  - Prompt de Comando
-  - Servidores
-  - Sistema Operacional
-  - Solução
+  - boot
+  - informática
+  - networking
+  - problema
+  - prompt de comando
+  - servidores
+  - sistema operacional
+  - solução
   - windows
-  - Windows Server
-  - Windows Server 2008 R2
+  - windows server
+  - windows server 2008 r2
 image: https://luizsouza.com/wp-content/uploads/2014/01/repair.jpg
 ---
 

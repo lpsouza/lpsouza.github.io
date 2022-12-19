@@ -1,33 +1,33 @@
 ---
-notion_id: d00c59db-9e4c-406c-821d-dac53d9986bc
+notion_id: 13f90205-c608-44a8-9d82-336e5ec93355
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-12-11T09:49:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Nimbuzz Updates - Novas funcionalidades!
 tags:
-  - 3G
-  - Celular
-  - E71
-  - Fica a dica
-  - Gtalk
-  - Mobilidade
-  - MSN
-  - Nimbuzz
-  - Nokia
-  - Redes Sociais
-  - S60
-  - Skype
-  - Smartphone
-  - Software
-  - Symbian
-  - Twitter
-  - Yahoo
+  - 3g
+  - celular
+  - e71
+  - fica a dica
+  - gtalk
+  - mobilidade
+  - msn
+  - nimbuzz
+  - nokia
+  - redes sociais
+  - s60
+  - skype
+  - smartphone
+  - software
+  - symbian
+  - twitter
+  - yahoo
 image: null
 ---
 

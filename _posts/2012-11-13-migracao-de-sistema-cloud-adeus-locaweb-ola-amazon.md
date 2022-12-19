@@ -1,28 +1,28 @@
 ---
-notion_id: f15a6fce-3311-4414-9d87-b8ea963460db
+notion_id: 2a5b1041-0491-49a1-934f-edb789caf030
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-11-13T23:55:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Migração de sistema Cloud (Adeus Locaweb, olá Amazon)
 tags:
-  - Amazon
-  - AWS
-  - Cloud
-  - Comparativo
-  - Computação
-  - Computing
-  - Instância
+  - amazon
+  - aws
+  - cloud
+  - comparativo
+  - computação
+  - computing
+  - instância
   - linux
-  - Locaweb
-  - Núvens
-  - Services
-  - Web
+  - locaweb
+  - núvens
+  - services
+  - web
 image: null
 ---
 

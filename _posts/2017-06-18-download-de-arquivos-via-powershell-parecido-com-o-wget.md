@@ -1,22 +1,22 @@
 ---
-notion_id: c3488a6d-f2f1-4e10-b9ce-aee2630b3797
+notion_id: 55cc0bda-db2a-46e3-9d0e-e22d530983d0
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2017-06-18T18:15:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: Download de arquivos via Powershell (parecido com o wget)
 tags:
-  - Download
-  - Fica a dica
-  - Powershell
+  - download
+  - fica a dica
+  - powershell
   - wget
   - windows
-  - Windows Server
+  - windows server
 image: null
 ---
 

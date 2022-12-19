@@ -1,22 +1,22 @@
 ---
-notion_id: ab1f3123-ef76-4310-b398-8ebf3547c9fe
+notion_id: a11ed936-954d-4fbb-bf4b-8d3e0464a41c
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2018-12-08T21:31:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: Iniciando os trabalhos com LXD
 tags:
-  - Containers
-  - LXC
-  - LXD
+  - containers
+  - lxc
+  - lxd
   - linux
   - ubuntu
-  - Fica a dica
+  - fica a dica
 image: null
 ---
 

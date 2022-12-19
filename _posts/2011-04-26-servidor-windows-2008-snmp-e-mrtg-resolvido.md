@@ -1,22 +1,22 @@
 ---
-notion_id: 4c04293e-0f17-40a8-9449-c82038524a8c
+notion_id: 8ce28f35-866a-41d7-b1e6-49c8e4623561
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2011-04-26T19:11:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: "Servidor Windows 2008: SNMP e MRTG [Resolvido]"
 tags:
   - "2008"
-  - Computadores
-  - MRTG
-  - Tráfego
+  - computadores
+  - mrtg
+  - tráfego
   - windows
-  - Windows Server
+  - windows server
 image: null
 ---
 

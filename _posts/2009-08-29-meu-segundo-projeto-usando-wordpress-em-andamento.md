@@ -1,23 +1,23 @@
 ---
-notion_id: c1e38258-44fe-4556-abe1-fa162f1081dc
+notion_id: 6daff6a4-cfe2-4400-9a11-2d4896e386ae
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-08-29T12:10:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: Meu segundo projeto usando WordPress (em andamento)
 tags:
   - blog
-  - CMS
-  - Content Management Systems
-  - Joomla
-  - SGC
-  - Sistema de Gestão de Conteúdo
-  - Software
+  - cms
+  - content management systems
+  - joomla
+  - sgc
+  - sistema de gestão de conteúdo
+  - software
   - wordpress
 image: null
 ---

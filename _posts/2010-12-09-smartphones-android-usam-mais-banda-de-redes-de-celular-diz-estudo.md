@@ -1,25 +1,25 @@
 ---
-notion_id: 545f58f0-908b-4bdd-b7ad-eed9d91e5a7e
+notion_id: b80c01e8-fcc9-4a77-8fd1-862d2a6b1504
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-12-09T13:03:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Smartphones Android usam mais banda de redes de celular, diz estudo
 tags:
-  - 3G
-  - Android
-  - Google
-  - Internet
+  - 3g
+  - android
+  - google
+  - internet
   - linux
-  - Mobilidade
-  - Smartphone
-  - Tablet
-  - Tablet PC
+  - mobilidade
+  - smartphone
+  - tablet
+  - tablet pc
 image: null
 ---
 

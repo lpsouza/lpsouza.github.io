@@ -1,27 +1,27 @@
 ---
-notion_id: 9b6e1692-1669-4e45-aef2-5ae50b9f1d7f
+notion_id: 653d22b1-bf08-4975-b6a1-f90704b56d0c
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-10-22T08:30:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: "Windows Live Essentials 2011: Writer"
 tags:
   - blog
-  - Blogger
-  - Internet
+  - blogger
+  - internet
   - linux
-  - MySQL
-  - PHP
+  - mysql
+  - php
   - windows
-  - Windows Live
-  - Windows Live Essentials
+  - windows live
+  - windows live essentials
   - wordpress
-  - Writer
+  - writer
 image: null
 ---
 

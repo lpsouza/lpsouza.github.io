@@ -1,19 +1,19 @@
 ---
-notion_id: 9856f5c2-c199-4cf7-ae99-103b8df73398
+notion_id: 19ba6ce7-4769-4f20-bcb7-a84be3b59634
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-08-31T16:19:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: Notebook "panorâmico" junta duas telas de 15,4 polegadas
 tags:
-  - Mobilidade
-  - Notebook
-  - Tela
+  - mobilidade
+  - notebook
+  - tela
 image: null
 ---
 

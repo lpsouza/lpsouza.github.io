@@ -1,31 +1,31 @@
 ---
-notion_id: 1a812902-64a7-4006-8353-135a8e99c7f6
+notion_id: d546be77-edc9-4a59-ba92-ef554a217a78
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-10-24T10:52:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Etc
 published: true
 title: Atenção programadores web e webdesigners..
 tags:
-  - 3G
-  - Celular
-  - E71
-  - Fica a dica
-  - Mobilidade
-  - Nerd
-  - Nokia
-  - Programação
-  - PSP
-  - S60
-  - Smartphone
-  - Software
-  - Symbian
-  - Tecnologia
-  - Tecnologia móvel
+  - 3g
+  - celular
+  - e71
+  - fica a dica
+  - mobilidade
+  - nerd
+  - nokia
+  - programação
+  - psp
+  - s60
+  - smartphone
+  - software
+  - symbian
+  - tecnologia
+  - tecnologia móvel
 image: null
 ---
 

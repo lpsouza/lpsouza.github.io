@@ -1,25 +1,25 @@
 ---
-notion_id: 3fd5e0d6-b13e-45ef-9477-280f0d7acce3
+notion_id: 2b5bb407-9063-4b6e-a51e-8b7ab908fac2
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-08-26T14:34:00.000Z
-last_modified_at: 2022-05-02T15:15:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Etc
 published: true
 title: WordPress como CMS?
 tags:
   - blog
-  - CMS
-  - Content Management Systems
-  - Joomla
-  - PC
-  - SGC
-  - Sistema de Gestão de Conteúdo
-  - Smartphone
-  - Symbian
+  - cms
+  - content management systems
+  - joomla
+  - pc
+  - sgc
+  - sistema de gestão de conteúdo
+  - smartphone
+  - symbian
   - wordpress
 image: null
 ---

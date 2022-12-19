@@ -1,28 +1,28 @@
 ---
-notion_id: 46bca5ea-5603-4e14-812b-8ce32b615033
+notion_id: 41e4398f-b87a-4288-9b0a-01bca0043494
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-11-05T09:44:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Etc
 published: true
 title: Remember, remember, the 5th of November
 tags:
-  - 5 de Novembro
-  - 5th of November
+  - 5 de novembro
+  - 5th of november
   - blog
-  - CQC
-  - Fica a dica
-  - Governo
-  - Guy Fawkes
-  - Idéia
-  - Marcelo Tas
-  - Medo
-  - V de Vingança
-  - V for Vendetta
+  - cqc
+  - fica a dica
+  - governo
+  - guy fawkes
+  - idéia
+  - marcelo tas
+  - medo
+  - v de vingança
+  - v for vendetta
 image: null
 ---
 

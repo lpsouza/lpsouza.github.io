@@ -1,25 +1,25 @@
 ---
-notion_id: 47968a1e-e02a-4c27-a4c6-061453df9740
+notion_id: 70ffbbf6-5c75-43bd-b123-f801e55b3f3f
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-01-05T16:11:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: A vulnerabilidade no WPS que torna o WPA/WPA2 vulnerável a ataques
 tags:
-  - Fica a dica
-  - Informação
-  - Informática
-  - Networking
-  - Redes de Computadores
-  - SegInfo
-  - WiFi
-  - Wireless
-  - WPS
+  - fica a dica
+  - informação
+  - informática
+  - networking
+  - redes de computadores
+  - seginfo
+  - wifi
+  - wireless
+  - wps
 image: null
 ---
 

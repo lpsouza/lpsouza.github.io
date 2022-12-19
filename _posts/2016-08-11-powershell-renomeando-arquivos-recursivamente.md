@@ -1,21 +1,21 @@
 ---
-notion_id: 49efb1b3-ac72-4423-a871-2f45f9cf4122
+notion_id: 1d518266-6da7-4a45-8992-41a1120b1c00
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2016-08-11T15:46:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: "Powershell: Renomeando arquivos recursivamente"
 tags:
-  - Fica a dica
-  - Powershell
-  - Prompt de Comando
-  - Recursivo
-  - Rename
+  - fica a dica
+  - powershell
+  - prompt de comando
+  - recursivo
+  - rename
   - windows
 image: null
 ---

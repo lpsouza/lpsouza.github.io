@@ -1,27 +1,27 @@
 ---
-notion_id: c3082827-033b-4d14-a116-48e1dc6fbbcf
+notion_id: b669982a-3c90-47b1-bdff-85c7c47396c7
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2017-08-11T20:37:00.000Z
-last_modified_at: 2022-05-19T22:05:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: Instalando múltiplas versões do Node.JS [Resolvido]
 tags:
-  - Fica a dica
-  - Install
-  - Installer
-  - Node
-  - Node.JS
-  - NodeJS
-  - NPM
-  - NVM
-  - Programação
-  - Versions
-  - Versões
+  - fica a dica
+  - install
+  - installer
+  - node
+  - node.js
+  - nodejs
+  - npm
+  - nvm
+  - programação
+  - versions
+  - versões
 image: https://luizsouza.com/wp-content/uploads/2017/08/Capturar2.png
 ---
 

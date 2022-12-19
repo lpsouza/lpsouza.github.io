@@ -1,12 +1,12 @@
 ---
-notion_id: 33fd7898-5d8f-4783-8293-5af47f10f341
+notion_id: c3e3b075-6a4d-4a41-829a-c2a3f5197cda
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-06-08T10:55:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Etc
 published: true
 title: Design Web.. Profissão perigo!

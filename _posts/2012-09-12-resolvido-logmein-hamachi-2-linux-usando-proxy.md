@@ -1,26 +1,26 @@
 ---
-notion_id: d8ba87ad-d9f4-46f1-901b-070035114ba4
+notion_id: 8e505f5f-ff59-43d1-a188-a2f4ddf3a270
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-09-12T18:20:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: "[Resolvido] Logmein Hamachi 2 (Linux) usando Proxy"
 tags:
-  - Acesso
-  - Bloqueio
-  - Hamachi
-  - Hamachi2
+  - acesso
+  - bloqueio
+  - hamachi
+  - hamachi2
   - linux
-  - Logmein
-  - Proxy
-  - Slackware
+  - logmein
+  - proxy
+  - slackware
   - ubuntu
-  - VPN
+  - vpn
 image: null
 ---
 

@@ -1,21 +1,21 @@
 ---
-notion_id: 9fd43ccd-101a-4b74-970e-183b974c6eef
+notion_id: dacd630e-6ef8-4a2e-85e7-26c23d6795f5
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-18T15:19:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: Celular + Windows XP = Não boto fé!
 tags:
-  - Celular
-  - Ha-ha!
-  - Smartphone
-  - Windows XP
-  - xpPhone
+  - celular
+  - ha-ha!
+  - smartphone
+  - windows xp
+  - xpphone
 image: null
 ---
 

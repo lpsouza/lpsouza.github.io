@@ -1,22 +1,22 @@
 ---
-notion_id: fa10789c-47c9-4184-a082-6b4b4d000e89
+notion_id: a63752e7-5d01-401f-8539-41451cf52e26
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-08T12:53:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Etc
 published: true
 title: Blog is back!
 tags:
   - blog
-  - Painel de Controle
-  - Software
-  - Tarifador
-  - Trabalho
-  - Webmail
+  - painel de controle
+  - software
+  - tarifador
+  - trabalho
+  - webmail
 image: null
 ---
 

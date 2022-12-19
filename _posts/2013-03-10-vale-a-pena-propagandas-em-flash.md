@@ -1,26 +1,26 @@
 ---
-notion_id: 9e8b3c7a-9b49-4dbd-8fb4-c70e6a666bd3
+notion_id: 15ce06ea-8128-41a1-9461-3cd8ed6f07c5
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2013-03-10T12:10:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Vale a pena propagandas em Flash?
 tags:
-  - CSS
-  - Fica a dica
-  - Flash
-  - HTML
-  - HTML5
-  - JavaScript
-  - jQuery
-  - JS
-  - Marketing
-  - Publicidade
+  - css
+  - fica a dica
+  - flash
+  - html
+  - html5
+  - javascript
+  - jquery
+  - js
+  - marketing
+  - publicidade
 image: null
 ---
 
@@ -30,7 +30,7 @@ Então resolvi fazer este post, para conscientizar o pessoal que desenvolve solu
 
 Então alguns devem estar se perguntando: “Mas então projeto a campanha de marketing em que?” e a resposta é: HTML + CSS + JS! Como quase tudo na Web deveria ser, o projeto de uma página, toda a parte escrita precisa ser em HTML, e a parte multimídia, um conjunto de CSS e JS. Não é dificil, apenas precisa de profissional qualificado, um programador.
 
-###  Mas porque não usar Flash
+###   Mas porque não usar Flash
 
 Se observarmos na internet, o Flash é usado direto em campanhas de marketing, então porque não usar?
 
@@ -40,7 +40,7 @@ Nas primeiras versões dele, o peso do arquivo era um problema claro. Mas nas ú
 
   2. Dependendo do dispositivo, ele não abre (porque precisa de plugin, ou porque não tem suporte).
 
-###  Um estudo de caso (o que me levou a este post)
+###   Um estudo de caso (o que me levou a este post)
 
 Vamos analisar a imagem a baixo:
 
@@ -50,7 +50,7 @@ Vamos analisar a imagem a baixo:
 
 Imagina se eu fosse o anunciante, que pagou para ter minha propaganda (que pelo tamanho é a de destaque no site), ver que ela não abriu na página em que anunciei. Qual o impacto negativo que isso vai passar? Fiz um investimento e o mesmo não me gerou retorno. Culpo quem? O site? A empresa de propaganda? E alias, se pensam que “devo fazer em Flash por causa da interatividade”, a propaganda no canto superior direito era animada.
 
-###  Pare de reclamar, me fale de soluções
+###   Pare de reclamar, me fale de soluções
 
 ![No flash inside](/wp-content/uploads/2013/03/html5_no_flash_inside.jpg)
 
@@ -68,7 +68,7 @@ Alguns scripts de configuração de publicidade com jQuery:
 
 E por aí vai! Faça uma busca no [Google](http://www.google.com)!
 
-### # Por fim…
+###  # Por fim…
 
 Deixo pr vocês a definição da Adobe, sobre o que é o Flash:
 

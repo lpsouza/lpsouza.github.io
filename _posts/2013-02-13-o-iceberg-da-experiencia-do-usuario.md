@@ -1,24 +1,24 @@
 ---
-notion_id: 48964fc8-b499-4999-bb8d-f60d43ab3895
+notion_id: 1d57abd1-c219-4adf-8ac5-883df46e2b8d
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2013-02-13T13:06:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: O iceberg da experiência do usuário
 tags:
-  - Desenvolvimento
-  - Experiência
-  - Fica a dica
-  - Projetos
-  - UI
-  - Usuário
-  - Web
-  - WWW
+  - desenvolvimento
+  - experiência
+  - fica a dica
+  - projetos
+  - ui
+  - usuário
+  - web
+  - www
 image: null
 ---
 

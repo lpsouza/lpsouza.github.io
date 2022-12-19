@@ -1,27 +1,27 @@
 ---
-notion_id: b680793a-66df-460c-9cab-f72b338b9e99
+notion_id: df756be2-fa73-412b-95a1-b40ab874eb57
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2015-03-08T23:03:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: CodeIgniter 3 na Azure Websites
 tags:
-  - Azure
-  - CodeIgniter
-  - CodeIgniter 3
-  - Fica a dica
-  - IIS
+  - azure
+  - codeigniter
+  - codeigniter 3
+  - fica a dica
+  - iis
   - microsoft
-  - Microsoft Azure
-  - PHP
-  - Programação
-  - SQL
-  - SQL Azure
+  - microsoft azure
+  - php
+  - programação
+  - sql
+  - sql azure
   - web.config
 image: null
 ---
@@ -30,7 +30,7 @@ Estou usando faz um mês, a [Microsoft Azure](http://azure.microsoft.com/pt-br/)
 
 Então, depois de algumas pesquisas, coloco aqui as configurações de como usar a conexão com o SQL Azure e também como ativar as URL amigáveis no IIS:
 
-###  Conectando ao SQL Azure
+###   Conectando ao SQL Azure
 
 Edite o arquivo `application/config/database.php` e use conforme o exemplo abaixo (substituir os valores entre colchetes):
 
@@ -82,7 +82,7 @@ $db['default'] = array(
 
 ```
 
-###  Ativando as URL amigáveis
+###   Ativando as URL amigáveis
 
 E para ativar as URL amigáveis, crie um arquivo `web.config` dentro da pasta raiz do projeto e use o conteúdo do exemplo abaixo:
 

@@ -1,28 +1,28 @@
 ---
-notion_id: 18b8276b-63ec-4aad-845e-c0d087f44f84
+notion_id: 9e90818f-a141-4f21-b4c4-8c79de7777bd
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-08-27T17:49:00.000Z
-last_modified_at: 2022-05-19T21:42:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: Diário de um Smartphone sem 3G
 tags:
-  - 3G
-  - Claro
-  - E71
-  - Fica a dica
-  - Ha-ha!
-  - Mobilidade
-  - Nokia
-  - Problemas
-  - PSP
-  - S60
-  - Smartphone
-  - Symbian
+  - 3g
+  - claro
+  - e71
+  - fica a dica
+  - ha-ha!
+  - mobilidade
+  - nokia
+  - problemas
+  - psp
+  - s60
+  - smartphone
+  - symbian
 image: null
 ---
 

@@ -1,12 +1,12 @@
 ---
-notion_id: 84b427b1-1f82-4890-8844-2d925403cd7a
+notion_id: ddd30f6f-f17f-4484-86dc-61c4ac8f69ad
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2022-05-27T02:28:00.000Z
-last_modified_at: 2022-05-27T14:01:00.000Z
+last_modified_at: 2022-12-19T20:59:00.000Z
 category: Tech
 published: true
 title: Usando o Notion como gerenciador de conteúdo em Jekyll
@@ -14,9 +14,9 @@ tags:
   - blog
   - jekyll
   - notion
-  - Github
+  - github
   - docker
-  - Docker Hub
+  - docker hub
 image: https://luizsouza.com/assets/notion-gerenciador.png
 ---
 
@@ -25,6 +25,7 @@ Desde o momento que [migrei meu blog do Wordpress para Jekyll](https://luizsouza
 Mas ao mesmo tempo que vi esta beleza, eu sabia dos desafios, pois a página se resume a um [repositório no GitHub e com um monte de arquivos em formato markdown](https://github.com/lpsouza/lpsouza.github.io/tree/main/_posts) que tem a vantagem de ser um “arquivo texto” que se transforma em HTML graças ao poder do Jekyll. Isto quer dizer que não tenho um bom editor WYSIWYG (What You See Is What You Get, ou O que você vê é o que você tem), ou para leigos, o editor que o Wordpress te fornece.
 
 ![Editor WYSIWYG clássico do Wordpress.](https://luizsouza.com/assets/wordpress-editor.png)
+
 <span class="caption">Editor WYSIWYG clássico do Wordpress.</span>
 
 No início a falta deste tipo de editor não me fez falta alguma. Ao contrário, eu me sentia mais livre escrevendo sem ele. Mas com o tempo comecei a sentir falta de facilidades simples, como um corretor ortográfico, ou simplesmente a liberdade de escrever e criar um link ou mudar a formatação de maneira mais visual. Então começou o caminho quase inverso: Buscar uma forma de escrever em markdown mas com facilidades que os editores WYSIWYG poderiam me proporcionar. Agora, se alguém que conhece o Wordpress estiver lendo isso vai rir e pensar “mas como assim? o Wordpress já tem o suporte de permitir a escrita em markdown nativa a algumas versões já”. E sim, quem pensou isso está absolutamente correto! Mas não foi este o motivo principal da minha troca, isso eu explico [no meu post sobre porque larguei o Wordpress](https://luizsouza.com/2018/10/11/larguei-o-wordpress/), mas resumindo? Performance.
@@ -38,14 +39,17 @@ Tudo começou quando em minhas pesquisas eu encontrei [esse projeto](https://git
 Este projeto tem a premissa de:
 
 - Pegar os posts no Jekyll e criar eles no Notion
+
 - Pegar os posts no Notion e criar ou atualizar ele no Jekyll
 
 ![Projeto jekyll-notion-sync rodando em modo de desenvoldimento.](https://luizsouza.com/assets/jekyll-notion-sync.png)
-<span class="caption">Projeto jekyll-notion-sync rodando em modo de desenvoldimento.</span>
+
+<span class="caption">Projeto jekyll-notion-sync rodando em modo de desenvolvimento.</span>
 
 Simples não? Bem, mais ou menos! Além disso temos os dois mundos para fazer conversar, isto é um texto em RichText (como o Notion usa para ser WYSIWYG) precisa converter e virar um arquivo markdown no repositório do Jekyll e vice e versa! Outra questão era o FrontMatter do Jekyll, que precisaria ser atualizado entre ele e o Notion! Quanto a primeira questão foi um trabalhão, mas nada que muito estudo e paciência (famoso tentativas e erros) não ajudem. Fora que tanto a [API do Github](https://docs.github.com/en/rest), quanto a [API do Notion](https://developers.notion.com/) são super bem documentadas e possuem client para NodeJS! A segunda questão foi uma questão de analisar a ideia do Notion sobre o que seriam as propriedades do banco de dados e fazer isso ser os valores do FrontMatter!
 
 ![Exemplo das propriedades no meu Notion que se transformam no FrontMatter no Jekyll.](https://luizsouza.com/assets/propriedades-notion.png)
+
 <span class="caption">Exemplo das propriedades no meu Notion que se transformam no FrontMatter no Jekyll.</span>
 
 Mais uma coisa deste projeto que eu queria que ele fizesse era ser [uma imagem no Docker](https://hub.docker.com/r/lpsouza/jekyll-notion-sync) para uso em automações. E aí está! Inclusive inaugurado com este post! Se você gosta de conteúdos em Jekyll, vale a pena conhecer (e porque não contribuir) com esse projeto!

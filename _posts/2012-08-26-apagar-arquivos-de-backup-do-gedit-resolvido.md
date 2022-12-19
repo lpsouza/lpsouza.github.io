@@ -1,24 +1,24 @@
 ---
-notion_id: 2eac7380-b491-4910-9965-99039bd9313f
+notion_id: 65330f02-8059-4d97-b653-893b02a7690c
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-08-26T19:54:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Apagar arquivos de backup do gEdit [resolvido]
 tags:
-  - Acesso
-  - Backup
-  - Fica a dica
-  - gEdit
-  - Limpeza
-  - Linha de Comando
+  - acesso
+  - backup
+  - fica a dica
+  - gedit
+  - limpeza
+  - linha de comando
   - linux
-  - X
+  - x
 image: null
 ---
 

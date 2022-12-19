@@ -1,26 +1,26 @@
 ---
-notion_id: bf57e4bd-176e-4ac9-990b-92e38cacceed
+notion_id: b1191bf6-5bff-4c3e-9ff9-5eba7f9908c2
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2015-04-11T15:49:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: Instalando Ubuntu Desktop 14.04 no Hyper-V (2-gen)
 tags:
-  - Computadores
-  - Fica a dica
+  - computadores
+  - fica a dica
   - hyper-v
   - linux
-  - Performance
+  - performance
   - ubuntu
-  - Ubuntu 14.04
-  - VirtualBox
+  - ubuntu 14.04
+  - virtualbox
   - windows
-  - Windows 8.1
+  - windows 8.1
 image: null
 ---
 

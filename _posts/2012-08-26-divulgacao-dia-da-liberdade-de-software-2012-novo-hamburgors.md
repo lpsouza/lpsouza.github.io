@@ -1,23 +1,23 @@
 ---
-notion_id: 4faf0984-b187-4ff6-81e0-369389d7651e
+notion_id: f7cce373-279c-4623-8a3e-240e323687c2
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-08-26T20:52:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: "Divulgação: Dia da Liberdade de Software 2012 - Novo Hamburgo/RS"
 tags:
-  - Evento
-  - Fica a dica
-  - Liberdade
-  - Livre
-  - Novo Hamburgo
-  - Programação
-  - Software
+  - evento
+  - fica a dica
+  - liberdade
+  - livre
+  - novo hamburgo
+  - programação
+  - software
 image: null
 ---
 

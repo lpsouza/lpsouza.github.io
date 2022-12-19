@@ -1,29 +1,29 @@
 ---
-notion_id: 265fb521-e7ce-4980-ad5d-9a7c32b13f66
+notion_id: 18af3da8-fee2-4762-b75e-0493fe996431
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2014-09-03T11:54:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: ICS - Internet Connection Sharing, alteração dos IPs padrão
 tags:
-  - Compartilhar
+  - compartilhar
   - hyper-v
-  - ICS
-  - Internet Connection Sharing
-  - IP
+  - ics
+  - internet connection sharing
+  - ip
   - microsoft
-  - Roteamento
-  - Share
-  - Winconnection
+  - roteamento
+  - share
+  - winconnection
   - windows
-  - Windows 8
-  - Windows 8.1
-  - Wingate
+  - windows 8
+  - windows 8.1
+  - wingate
 image: https://luizsouza.com/wp-content/uploads/2014/09/enabling-ics-windows-7.png
 ---
 

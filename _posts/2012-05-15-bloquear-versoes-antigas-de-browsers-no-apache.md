@@ -1,24 +1,24 @@
 ---
-notion_id: 11161a31-111c-4108-8994-0a17c45989c3
+notion_id: f5dbfb85-9be9-4cf0-b90a-065634137a71
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-05-15T09:30:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: Bloquear versões antigas de browsers no Apache
 tags:
-  - Apache
-  - Bloqueio
-  - DOS
-  - Internet
+  - apache
+  - bloqueio
+  - dos
+  - internet
   - linux
-  - SegInfo
-  - Server
-  - Servidor
+  - seginfo
+  - server
+  - servidor
 image: null
 ---
 

@@ -1,27 +1,27 @@
 ---
-notion_id: 5a3cbe05-b48e-4ad1-8ca9-6bb3a534db3f
+notion_id: 10f53e09-aa52-4e09-abed-ef4857e1126a
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2015-02-07T14:44:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Adicionando informações do computador na imagem de fundo - BGInfo
 tags:
-  - BGInfo
-  - Desktop
-  - Fica a dica
-  - Informações
-  - Informática
-  - Sistema Operacional
-  - Sysinternals
-  - Tecnologia
-  - TI
+  - bginfo
+  - desktop
+  - fica a dica
+  - informações
+  - informática
+  - sistema operacional
+  - sysinternals
+  - tecnologia
+  - ti
   - windows
-  - Windows Sysinternals
+  - windows sysinternals
 image: null
 ---
 

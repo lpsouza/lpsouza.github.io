@@ -1,25 +1,25 @@
 ---
-notion_id: 46da32f3-3da7-4373-9c7e-e51400013091
+notion_id: fe150809-209c-48de-b89d-d89a6fd4abcd
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2014-08-03T20:35:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Acesso remoto ao Ubuntu 14.04 [Resolvido]
 tags:
-  - Acesso Remoto
-  - Fica a dica
+  - acesso remoto
+  - fica a dica
   - linux
-  - Remote Desktop
-  - Sharing
+  - remote desktop
+  - sharing
   - ubuntu
   - vino
-  - VNC
-  - VNC Viewer
+  - vnc
+  - vnc viewer
 image: https://luizsouza.com/wp-content/uploads/2014/08/Screenshot-from-2014-05-26-103053.png
 ---
 

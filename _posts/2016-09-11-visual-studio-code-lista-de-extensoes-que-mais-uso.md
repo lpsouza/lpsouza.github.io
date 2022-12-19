@@ -1,31 +1,31 @@
 ---
-notion_id: f6a15e57-77e2-4e05-bc22-a8996241feea
+notion_id: 0ccfb487-3dc9-41db-ae17-066341170a96
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2016-09-11T07:07:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
 published: true
 title: "Visual Studio Code: Lista de extensões que mais uso"
 tags:
-  - Code
-  - Desenvolvimento
-  - Developer
-  - Extensões
-  - Fica a dica
-  - Informática
+  - code
+  - desenvolvimento
+  - developer
+  - extensões
+  - fica a dica
+  - informática
   - linux
-  - Mac OS
+  - mac os
   - microsoft
-  - Multiplataforma
-  - Programação
-  - Software
-  - Visual Studio
-  - Visual Studio Code
-  - VSCode
+  - multiplataforma
+  - programação
+  - software
+  - visual studio
+  - visual studio code
+  - vscode
   - windows
 image: null
 ---

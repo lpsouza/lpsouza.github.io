@@ -1,24 +1,24 @@
 ---
-notion_id: e52303fd-2b3e-41ec-b823-34e61512dca0
+notion_id: c5d13625-4f7f-4f23-93ab-5897d9fd8695
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-09-10T10:28:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Ubuntu rodando MS Office 2007?
 tags:
-  - BR-Office
-  - Computadores
-  - Fica a dica
+  - br-office
+  - computadores
+  - fica a dica
   - linux
   - microsoft
-  - Office
-  - Office 2007
-  - OpenOffice
+  - office
+  - office 2007
+  - openoffice
   - ubuntu
 image: null
 ---

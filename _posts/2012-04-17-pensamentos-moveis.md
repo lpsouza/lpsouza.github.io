@@ -1,23 +1,23 @@
 ---
-notion_id: 739e667f-433a-46d3-9c2c-cadc4b51a8c1
+notion_id: a8a7db68-5020-4ef4-a274-4d4caec7f472
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-04-17T14:23:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Etc
 published: true
 title: Pensamentos móveis...
 tags:
-  - Android
-  - Desenvolvimentos
-  - iPhone
-  - Mobilidade
-  - Pensamentos
-  - Programação
-  - Windows Phone
+  - android
+  - desenvolvimentos
+  - iphone
+  - mobilidade
+  - pensamentos
+  - programação
+  - windows phone
 image: null
 ---
 

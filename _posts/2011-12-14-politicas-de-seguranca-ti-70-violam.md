@@ -1,22 +1,22 @@
 ---
-notion_id: 258cf192-32c3-4031-8a74-e1ded6a15411
+notion_id: 7443f440-7ab8-4e02-a7df-ef10078a5bdc
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2011-12-14T17:17:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: "Políticas de segurança TI: 70% violam"
 tags:
-  - Informação
-  - Informática
-  - Politica
-  - Redes de Computadores
-  - SegInfo
-  - Tecnologia
+  - informação
+  - informática
+  - politica
+  - redes de computadores
+  - seginfo
+  - tecnologia
 image: null
 ---
 

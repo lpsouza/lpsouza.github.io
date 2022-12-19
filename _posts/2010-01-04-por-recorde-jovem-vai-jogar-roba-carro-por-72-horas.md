@@ -1,23 +1,23 @@
 ---
-notion_id: 2bc4583a-9147-47d6-bca3-92fed3c34b25
+notion_id: 3743e864-c425-4d47-9fb3-1d69b5635af5
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-01-04T08:34:00.000Z
-last_modified_at: 2022-05-19T22:01:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Games
 published: true
 title: Por recorde, jovem vai jogar "roba carro" por 72 horas!
 tags:
   - "2010"
   - games
-  - Grand Theft Auto
-  - Ha-ha!
+  - grand theft auto
+  - ha-ha!
   - jogos
-  - Roba Carro
-  - Video-game
+  - roba carro
+  - video-game
 image: null
 ---
 

@@ -1,22 +1,22 @@
 ---
-notion_id: 44330f21-51af-4556-ba0c-e5e8fa0a713b
+notion_id: 25786f74-5b66-49f9-a6ea-a93efe525f2c
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-06-16T01:38:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Netbeans IDE no Ubuntu 12.04, problemas visuais [resolvido]
 tags:
-  - Informática
-  - Java
+  - informática
+  - java
   - linux
-  - Lunux
-  - NetBeans
-  - Programação
+  - lunux
+  - netbeans
+  - programação
   - ubuntu
 image: null
 ---

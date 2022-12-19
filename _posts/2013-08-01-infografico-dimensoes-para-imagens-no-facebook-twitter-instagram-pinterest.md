@@ -1,27 +1,27 @@
 ---
-notion_id: 809fe495-5ecb-4ec4-bdc5-53c1dd0dc09a
+notion_id: d9beb943-9223-453d-b2e7-54113d04a2a5
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2013-08-01T02:50:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: "[Infográfico] Dimensões para imagens no Facebook, Twitter, Instagram,
   Pinterest"
 tags:
-  - Dimensões
-  - Facebook
-  - Imagem
-  - Imagens
-  - Infográfico
-  - Instagram
-  - Pinterest
-  - Redes Sociais
-  - Social Media
-  - Twitter
+  - dimensões
+  - facebook
+  - imagem
+  - imagens
+  - infográfico
+  - instagram
+  - pinterest
+  - redes sociais
+  - social media
+  - twitter
 image: null
 ---
 

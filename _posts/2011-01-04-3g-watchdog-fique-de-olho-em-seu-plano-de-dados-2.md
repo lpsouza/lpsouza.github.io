@@ -1,22 +1,22 @@
 ---
-notion_id: c212540e-eb64-409e-8a06-b20f2cd44472
+notion_id: c5d5046b-f6ca-492f-9ede-0ff8d02e33ce
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2011-01-04T09:02:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: "3G Watchdog: fique de olho em seu plano de dados"
 tags:
-  - 3G
-  - Android
-  - Informática
-  - Mobilidade
-  - Smartphone
-  - Watchdog
+  - 3g
+  - android
+  - informática
+  - mobilidade
+  - smartphone
+  - watchdog
 image: null
 ---
 

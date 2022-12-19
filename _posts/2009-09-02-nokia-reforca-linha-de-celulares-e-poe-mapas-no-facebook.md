@@ -1,22 +1,22 @@
 ---
-notion_id: 8dbef9fc-1712-4e9b-bfdd-156e767f8b85
+notion_id: 3b76ff7d-3499-4a8c-8752-619523563944
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-02T17:30:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: Nokia reforça linha de celulares e põe mapas no Facebook
 tags:
-  - Facebook
-  - Mobilidade
-  - Nokia
-  - Smartphone
-  - Software
-  - Symbian
+  - facebook
+  - mobilidade
+  - nokia
+  - smartphone
+  - software
+  - symbian
 image: null
 ---
 

@@ -1,23 +1,23 @@
 ---
-notion_id: d9774b04-0ff0-4933-a230-0b491d916bbf
+notion_id: 5585eb81-af32-407f-83f0-832cb855664f
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-08-21T21:26:00.000Z
-last_modified_at: 2022-05-02T15:15:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Etc
 published: true
 title: Novo point! Bem vindo a minha página pessoal!
 tags:
   - blog
-  - Blogger
-  - Hello world
-  - Mobilidade
+  - blogger
+  - hello world
+  - mobilidade
   - página pessoal
-  - Pessoal
-  - Smartphone
+  - pessoal
+  - smartphone
 image: null
 ---
 

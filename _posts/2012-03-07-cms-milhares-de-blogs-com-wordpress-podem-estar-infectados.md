@@ -1,23 +1,23 @@
 ---
-notion_id: 9640b02f-88cc-43f5-8904-816a2b20cc6d
+notion_id: 72e4b683-0147-4e83-a9fb-a2fc6d5ec21d
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-03-07T08:49:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: "CMS: Milhares de blogs com WordPress podem estar infectados"
 tags:
-  - Atualizado
+  - atualizado
   - blog
-  - Maliciosos
-  - Malware
-  - Rede
-  - SegInfo
-  - Virus
+  - maliciosos
+  - malware
+  - rede
+  - seginfo
+  - virus
   - wordpress
 image: null
 ---

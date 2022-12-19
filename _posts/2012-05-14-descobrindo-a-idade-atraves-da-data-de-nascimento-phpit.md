@@ -1,23 +1,23 @@
 ---
-notion_id: 557b2a36-95ed-441e-9566-cc107b62cf5f
+notion_id: b1bc7d62-319e-476e-9613-c67dc31fdb4d
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-05-14T15:30:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: Descobrindo a idade através da data de nascimento
 tags:
-  - Algoritimo
-  - Calculo
-  - Data
-  - Idade
-  - Nascimento
-  - PHP
-  - Programação
+  - algoritimo
+  - calculo
+  - data
+  - idade
+  - nascimento
+  - php
+  - programação
 image: null
 ---
 

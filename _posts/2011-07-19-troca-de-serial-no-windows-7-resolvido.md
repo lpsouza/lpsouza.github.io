@@ -1,25 +1,25 @@
 ---
-notion_id: 328728d8-b01c-42e0-a749-367a50779a20
+notion_id: 248664fd-52d5-4ece-b68d-ab385cb0d6ab
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2011-07-19T09:30:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
 published: true
 title: Troca de serial no Windows 7 [Resolvido]
 tags:
-  - Ativação
-  - CD-Key
-  - Computadores
-  - Dell
-  - Fica a dica
+  - ativação
+  - cd-key
+  - computadores
+  - dell
+  - fica a dica
   - microsoft
-  - Resolvido
-  - Serial
-  - Windows 7
+  - resolvido
+  - serial
+  - windows 7
 image: null
 ---
 

@@ -1,21 +1,21 @@
 ---
-notion_id: 510e907f-a0b6-4a37-b416-24849caa6b00
+notion_id: 07cdbc11-66ba-4ae6-b5b5-35f32e830339
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2013-07-11T18:37:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Como atualizar o Windows 8 para o Windows 8.1 Preview
 tags:
   - microsoft
-  - Sistema Operacional
+  - sistema operacional
   - windows
-  - Windows 8
-  - Windows 8.1
+  - windows 8
+  - windows 8.1
 image: null
 ---
 

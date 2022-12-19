@@ -1,26 +1,26 @@
 ---
-notion_id: 63f5d9f8-757e-4cc4-bcb4-09fce6051b16
+notion_id: 657efba8-a72a-4858-937a-cfdbf7207ecc
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2014-02-08T20:39:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: "Windows Server 2012: Server Core ou Server GUI?"
 tags:
-  - Computadores
-  - Fica a dica
-  - Informática
-  - Powershell
-  - Server
-  - Server Core
-  - Server GUI
+  - computadores
+  - fica a dica
+  - informática
+  - powershell
+  - server
+  - server core
+  - server gui
   - windows
-  - Windows Server
-  - Windows Server 2012
+  - windows server
+  - windows server 2012
 image: https://luizsouza.com/wp-content/uploads/2014/02/IC2357571.png
 ---
 

@@ -1,12 +1,12 @@
 ---
-notion_id: c525e3dd-4376-48e8-91bf-97dccee3bf2c
+notion_id: 9bcc4d51-df3d-4eb2-a545-5d2668393588
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2010-10-08T23:50:00.000Z
-last_modified_at: 2022-05-19T22:02:00.000Z
+last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
 published: true
 title: Para onde vai a banda larga?
