@@ -1,19 +1,19 @@
 ---
-notion_id: 9abecdc4-afb5-4601-9893-9072a727937b
+notion_id: 71f14678-fc88-42e6-8ccb-95d9d97a6a18
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-08T22:35:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: Computador com celular é nova aposta, diz Nokia
 tags:
-  - Mobilidade
-  - Netbook
-  - Nokia
+  - mobilidade
+  - netbook
+  - nokia
 image: null
 ---
 
