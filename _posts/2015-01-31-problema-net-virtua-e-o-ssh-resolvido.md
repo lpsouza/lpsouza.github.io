@@ -1,27 +1,27 @@
 ---
-notion_id: c0841a3b-f5d9-4bc2-8c55-534bd78b1ecb
+notion_id: eeda49f9-bfbe-4eb9-96bf-28a4c8361374
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2015-01-31T15:22:00.000Z
-last_modified_at: 2022-05-19T22:04:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: Problema NET Virtua e o SSH [Resolvido]
 tags:
-  - Acesso Remoto
-  - Computadores
-  - Fica a dica
-  - Informática
+  - acesso remoto
+  - computadores
+  - fica a dica
+  - informática
   - linux
-  - NET
-  - Net Combo
-  - Net Virtua
-  - Networking
-  - PuTTY
-  - SSH
+  - net
+  - net combo
+  - net virtua
+  - networking
+  - putty
+  - ssh
   - windows
 image: null
 ---
