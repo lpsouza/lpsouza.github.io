@@ -1,23 +1,23 @@
 ---
-notion_id: 9eee3f60-151b-401b-94f5-e3b96cd82c22
+notion_id: e7cdea26-0169-4df6-8dcc-60c5d130e1d8
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2009-09-01T17:04:00.000Z
-last_modified_at: 2022-05-19T22:00:00.000Z
+last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
 published: true
 title: Computadores da Sony vão oferecer navegador do Google
 tags:
-  - Computadores
-  - Google
-  - Google Chrome
-  - Ha-ha!
-  - Hardware
-  - Software
-  - Sony
+  - computadores
+  - google
+  - google chrome
+  - ha-ha!
+  - hardware
+  - software
+  - sony
 image: null
 ---
 
