@@ -1,22 +1,22 @@
 ---
-notion_id: 7234623d-ca23-4c49-8bd1-743a64061002
+notion_id: b420673f-76d1-4504-924d-ad7913f8d488
 layout: post
 author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
   avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
 date: 2012-10-10T11:10:00.000Z
-last_modified_at: 2022-05-19T22:03:00.000Z
+last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
 published: true
 title: WordPress 3.4 “perde” a tradução dos temas Twenty Ten e Twenty Eleven
 tags:
-  - Dica
-  - Fica a dica
-  - Temas
-  - Themes
-  - Twenty Eleven
-  - Twenty Ten
+  - dica
+  - fica a dica
+  - temas
+  - themes
+  - twenty eleven
+  - twenty ten
   - wordpress
 image: null
 ---
