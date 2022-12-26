@@ -6,6 +6,7 @@ author:
 permalink: "/:year/:month/:day/:title/"
 paginate: 10
 paginate_path: "/page/:num/"
+url: "https://luisouza.com"
 
 social:
     github: lpsouza
