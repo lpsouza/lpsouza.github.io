@@ -1,12 +1,9 @@
 ---
-author:
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
+author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2020-07-12 14:41:00-03:00
 image: null
-last_modified_at: 2022-12-19 17:48:00-03:00
+last_modified_at: 2023-10-15 01:55:00-03:00
 layout: post
 published: true
 tags:
@@ -28,9 +25,9 @@ Bom, mas como diria [Joseph Climber](https://www.youtube.com/watch?v=d88x4qZ_zKU
 
 layout: blog
 
-author: lpsouza
+author: Luiz Pereira de Souza Filho
 
-date: '2020-07-12 14:41 -0300'
+date: '2020-07-12 14:41:00-03:00'
 
 category: Blogging
 

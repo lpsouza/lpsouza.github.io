@@ -1,8 +1,5 @@
 ---
-author:
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
+author: Luiz Pereira de Souza Filho
 category: Linux
 date: 2023-07-17 12:40:00-03:00
 image: https://asciinema.org/a/9AzN9fY1oNHO1b8xaEYKOhUA4.svg

@@ -1,8 +1,5 @@
 ---
-author:
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
+author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2014-08-03 17:35:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2014/08/Screenshot-from-2014-05-26-103053.png
