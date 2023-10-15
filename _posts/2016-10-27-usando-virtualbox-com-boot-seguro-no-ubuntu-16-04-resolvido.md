@@ -1,26 +1,26 @@
 ---
-notion_id: c5311436-3ae2-446e-9ef1-10f2abf6b7a4
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2016-10-27T00:14:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
-published: true
-title: Usando Virtualbox com boot seguro no Ubuntu 16.04 [Resolvido]
-tags:
-  - computadores
-  - fica a dica
-  - kernel
-  - linux
-  - maquina virtual
-  - ubuntu
-  - vagrant
-  - virtualbox
-  - vm
+date: 2016-10-27 00:14:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.304983-03:00
+layout: post
+notion_id: c5311436-3ae2-446e-9ef1-10f2abf6b7a4
+published: true
+tags:
+- computadores
+- fica-a-dica
+- kernel
+- linux
+- maquina-virtual
+- ubuntu
+- vagrant
+- virtualbox
+- vm
+title: Usando Virtualbox com boot seguro no Ubuntu 16.04 [Resolvido]
 ---
 
 Recentemente instalei no meu computador a última versão LTS do Ubuntu, a 16.04. E quando fui usar o combo [**Vagrant**](https://www.vagrantup.com/) e [**Virtualbox**](https://www.virtualbox.org/), me deparei com um problema ocasionado por alguma mudança na assinatura dos aplicativos para uso de computadores com _Secure Boot** **_(Inicialização Segura), como é o caso do meu notebook.
@@ -68,4 +68,3 @@ CERTDIR="/path/to/certs"
 ```
 
 Salve com um nome como **update-vboxdrv.sh** e use sempre que sua versão de kernel for atualizada! 😉
-

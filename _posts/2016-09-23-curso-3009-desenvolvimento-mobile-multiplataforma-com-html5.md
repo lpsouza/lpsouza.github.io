@@ -1,31 +1,31 @@
 ---
-notion_id: 00cfe0e7-1483-4c90-a40f-a03549ae9c01
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2016-09-23T08:38:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
 category: Etc
-published: true
-title: "Curso 07/10: Desenvolvimento Mobile Multiplataforma com HTML5"
-tags:
-  - apache cordova
-  - celular
-  - cordova
-  - css
-  - curso
-  - desenvolvimento
-  - fica a dica
-  - html5
-  - ionic
-  - javascript
-  - mobilidade
-  - phonegap
-  - programação
-  - smartphone
+date: 2016-09-23 08:38:00+00:00
 image: https://luizsouza.com/wp-content/uploads/2016/09/site-html-5-3-edicao.jpg
+last_modified_at: 2023-10-15 01:01:20.303941-03:00
+layout: post
+notion_id: 00cfe0e7-1483-4c90-a40f-a03549ae9c01
+published: true
+tags:
+- apache-cordova
+- celular
+- cordova
+- css
+- curso
+- desenvolvimento
+- fica-a-dica
+- html5
+- ionic
+- javascript
+- mobilidade
+- phonegap
+- programação
+- smartphone
+title: 'Curso 07/10: Desenvolvimento Mobile Multiplataforma com HTML5'
 ---
 
 Olá pessoal!
@@ -57,4 +57,3 @@ Este curso acontece na [IENH](http://ienh.com.br/), na cidade de Novo Hambugo - 
 Quem se interessou ou deseja saber mais, pode acessar a página de inscrição do curso aqui: [http://ienh.com.br/cursosextensao/cursosextensao/ver_curso.php?codigo_evento=275](http://ienh.com.br/cursosextensao/cursosextensao/ver_curso.php?codigo_evento=275)
 
 **Edit 27/09**: A data anterior de 30/09 foi postergada devido a um evento na IENH. Mais uma semaninha para quem quer aproveitar e se matricular! 😉
-

@@ -1,25 +1,25 @@
 ---
-notion_id: 321cfe9e-af35-45fe-83c1-9fccf5288d45
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-10-21T04:02:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
 category: Etc
-published: true
-title: "Horário de verão: cade o meu relógio analógico?"
-tags:
-  - analógico
-  - brasil
-  - fica a dica
-  - gadgets
-  - horário de verão
-  - relógio
-  - smartphones
-  - tecnologia
+date: 2012-10-21 04:02:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.286428-03:00
+layout: post
+notion_id: 321cfe9e-af35-45fe-83c1-9fccf5288d45
+published: true
+tags:
+- analógico
+- brasil
+- fica-a-dica
+- gadgets
+- horário-de-verão
+- relógio
+- smartphones
+- tecnologia
+title: 'Horário de verão: cade o meu relógio analógico?'
 ---
 
 Acordei do nada hoje de manhã pelas 3hs (?) e lembrei que hoje entrava em vigor o horário brasileiro de verão. E por incrível que pareça, senti falta aqui em casa se um simples relógio analógico. Porque? Queria ter certeza de que horas eram neste momento.
@@ -29,4 +29,3 @@ Reparei que aqui em casa, todos os relógios deveriam atualizar a hora com seus 
 Em um mundo cada vez mais tecnológico, coisas simples nos fogem, o analógico nos faz falta, talvez falta de lembrar que ser humano e usar nossos telentos pessoais. Então, para garantir, reiniciei meu smartphone.
 
 Eram 4hs. Reiniciei todos os aparelhos e gadgets. Os análogicos fazem mesmo uma falta.
-

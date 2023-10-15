@@ -1,24 +1,24 @@
 ---
-notion_id: f7cce373-279c-4623-8a3e-240e323687c2
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-08-26T20:52:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
-published: true
-title: "Divulgação: Dia da Liberdade de Software 2012 - Novo Hamburgo/RS"
-tags:
-  - evento
-  - fica a dica
-  - liberdade
-  - livre
-  - novo hamburgo
-  - programação
-  - software
+date: 2012-08-26 20:52:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.283827-03:00
+layout: post
+notion_id: f7cce373-279c-4623-8a3e-240e323687c2
+published: true
+tags:
+- evento
+- fica-a-dica
+- liberdade
+- livre
+- novo-hamburgo
+- programação
+- software
+title: 'Divulgação: Dia da Liberdade de Software 2012 - Novo Hamburgo/RS'
 ---
 
 Fica a divulgação para todos aqui no meu site para dar um pulo e ver o evento!
@@ -114,4 +114,3 @@ Fica a divulgação para todos aqui no meu site para dar um pulo e ver o evento!
 >
 
 > O grupo de usuários SoftwareLivreVS é um grupo de pessoas que usam Software Livre na região do Vale do Sinos. Nós divulgamos o Software Livre e convidamos as pessoas a fazerem parte de nosso grupo. Para saber mais, entre na nossa página na Internet em [http://www.softwarelivre-vs.org/](http://www.softwarelivre-vs.org/)
-

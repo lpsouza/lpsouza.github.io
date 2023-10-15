@@ -1,23 +1,23 @@
 ---
-notion_id: ad2dacb7-19f1-474e-968d-f3fd3a07e7d1
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2023-03-27T00:19:00.000Z
-last_modified_at: 2023-10-15T02:00:00.000Z
 category: Tech
-published: true
-title: 8 comandos úteis para programadores em Linux
-tags:
-  - linux
-  - terminal
-  - programação
-  - pessoal
-  - comandos
-  - linha de comando
+date: 2023-03-27 00:19:00+00:00
 image: https://luizsouza.com/assets/tmux-command.png
+last_modified_at: 2023-10-15 01:01:20.316112-03:00
+layout: post
+notion_id: ad2dacb7-19f1-474e-968d-f3fd3a07e7d1
+published: true
+tags:
+- linux
+- terminal
+- programação
+- pessoal
+- comandos
+- linha-de-comando
+title: 8 comandos úteis para programadores em Linux
 ---
 
 Esses dias a minha colega da Umbler, a Dani, me fez uma pergunta inusitada: “*tu pode me passar quais são os comandos (mesmo que básicos) que mais tu usa no dia a dia?*” Eu achei a pergunta muito boa, tanto que resolvi transformar a resposta neste post! Então bora lá!

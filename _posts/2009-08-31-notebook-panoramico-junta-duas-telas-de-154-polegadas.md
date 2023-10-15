@@ -1,20 +1,20 @@
 ---
-notion_id: 19ba6ce7-4769-4f20-bcb7-a84be3b59634
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-08-31T16:19:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
-published: true
-title: Notebook "panorâmico" junta duas telas de 15,4 polegadas
-tags:
-  - mobilidade
-  - notebook
-  - tela
+date: 2009-08-31 16:19:00+00:00
 image: null
+last_modified_at: 2022-12-19 20:44:00+00:00
+layout: post
+notion_id: 19ba6ce7-4769-4f20-bcb7-a84be3b59634
+published: true
+tags:
+- mobilidade
+- notebook
+- tela
+title: Notebook "panorâmico" junta duas telas de 15,4 polegadas
 ---
 
 To precisando de um desses, só que poderia der de 14,1"...
@@ -26,4 +26,3 @@ To precisando de um desses, só que poderia der de 14,1"...
   
 
 via [Notebook 'panorâmico' junta duas telas de 15,4 polegadas](http://g1.globo.com/Noticias/Tecnologia/0,,MUL1287081-6174,00.html).
-

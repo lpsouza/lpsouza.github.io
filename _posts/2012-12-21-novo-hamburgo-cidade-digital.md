@@ -1,26 +1,26 @@
 ---
-notion_id: e67d42fc-3808-4413-abb0-e22d251c9acb
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-12-21T20:11:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
-published: true
-title: "Novo Hamburgo: Cidade Digital"
-tags:
-  - dados abertos
-  - fibra óptica
-  - fibra ótica
-  - fica a dica
-  - informática
-  - novo hamburgo
-  - open data
-  - prefeitura
-  - tecnologia
+date: 2012-12-21 20:11:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.288178-03:00
+layout: post
+notion_id: e67d42fc-3808-4413-abb0-e22d251c9acb
+published: true
+tags:
+- dados-abertos
+- fibra-óptica
+- fibra-ótica
+- fica-a-dica
+- informática
+- novo-hamburgo
+- open-data
+- prefeitura
+- tecnologia
+title: 'Novo Hamburgo: Cidade Digital'
 ---
 
 ![Prefeito Tarcísio Zimmermann](/wp-content/uploads/2012/12/prefeito.jpg)
@@ -38,4 +38,3 @@ Eles ainda comentaram sobre o apoio que as escolas de ensino técnico e superior
 ![Dados Abertos](/wp-content/uploads/2012/12/dados-abertos.jpg)
 
 Podemos ver claramente os avanços tecnológicos que a cidade de Novo Hamburgo teve nos últimos anos, desde a implementação de um super data center, passando pelo sistema de vigilância por câmeras, e agora o inicio do projeto do Anel Óptico e o portal de dados abertos. E o papel das escolas de ensino profissionalizante e superior é fundamental para a melhora na qualidade de vida da população, uma vez que os jovens talentos podem inovar criando aplicações usando os dados abertos da prefeitura. O ano de 2013 promete para a cidade de Novo Hamburgo.
-

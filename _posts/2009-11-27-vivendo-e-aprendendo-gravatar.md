@@ -1,25 +1,25 @@
 ---
-notion_id: c00e1730-9c7a-4d04-adb6-46d9a3fd2d1f
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-11-27T19:44:00.000Z
-last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
-published: true
-title: Vivendo e aprendendo (Gravatar)
-tags:
-  - avatar
-  - blog
-  - email
-  - fica a dica
-  - foto
-  - gravatar
-  - imagem
-  - wordpress
+date: 2009-11-27 19:44:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.231880-03:00
+layout: post
+notion_id: c00e1730-9c7a-4d04-adb6-46d9a3fd2d1f
+published: true
+tags:
+- avatar
+- blog
+- email
+- fica-a-dica
+- foto
+- gravatar
+- imagem
+- wordpress
+title: Vivendo e aprendendo (Gravatar)
 ---
 
 Poxa vida pessoal!
@@ -35,4 +35,3 @@ Hoje estava acessando o blog da [Garota Sem Fio](http://www.garotasemfio.com.br/
 O que gostei mais dessa solução é que ela pode ser implementado em qualquer sistema que aceite imagens por URL, e então abre caminhos tanto para desenvolvedores, quanto para sites que aceitem buscar fotos de outros lugares!
 
 Pode parecer que "sou o único a não saber", mas a ideia é tão boa, que vale comentar ela aqui! E então, tá esperando o que? Não fez seu Gravatar? Corre no site e faz como eu! Hehe!
-

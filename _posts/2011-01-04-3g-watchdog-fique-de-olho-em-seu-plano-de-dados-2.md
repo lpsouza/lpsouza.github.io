@@ -1,23 +1,23 @@
 ---
-notion_id: c5d5046b-f6ca-492f-9ede-0ff8d02e33ce
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2011-01-04T09:02:00.000Z
-last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
-published: true
-title: "3G Watchdog: fique de olho em seu plano de dados"
-tags:
-  - 3g
-  - android
-  - informática
-  - mobilidade
-  - smartphone
-  - watchdog
+date: 2011-01-04 09:02:00+00:00
 image: null
+last_modified_at: 2022-12-19 20:45:00+00:00
+layout: post
+notion_id: c5d5046b-f6ca-492f-9ede-0ff8d02e33ce
+published: true
+tags:
+- 3g
+- android
+- informática
+- mobilidade
+- smartphone
+- watchdog
+title: '3G Watchdog: fique de olho em seu plano de dados'
 ---
 
 Eu tinha um Nokia E71 e de Natal resolvi me dar de presente um Samsung Galaxy 5, porque tinha Android e quero programar e tal.. Na real teve outros motivos, mas não vem ao caso no momento.
@@ -33,4 +33,3 @@ Hoje, a [@garotasemfio](https://twitter.com/garotasemfio) me deu uma luz sem que
 Fui atras, instalei e realmente... Um DataQuota pra Android, e com mais: Se instalar o APNDroid, ele pode bloquear seu acesso 3G se tu atingir determinada porcentagem de uso!!! Maravilha, não??
 
 Tu tens Android? Não perca tempo! Market e manda instalar que é tudo de graça! 😀
-

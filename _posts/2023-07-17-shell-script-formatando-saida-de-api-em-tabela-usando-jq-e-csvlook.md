@@ -1,26 +1,26 @@
 ---
-notion_id: 2790830e-e2f1-453b-b716-8241def4ee87
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2023-07-17T15:40:00.000Z
-last_modified_at: 2023-10-15T02:03:00.000Z
 category: Linux
-published: true
-title: "Shell script: Formatando saída de API em tabela usando jq e csvlook"
-tags:
-  - linux
-  - csv
-  - json
-  - shell script
-  - shellscript
-  - jq
-  - csvlook
-  - csvkit
-  - curl
+date: 2023-07-17 15:40:00+00:00
 image: https://asciinema.org/a/9AzN9fY1oNHO1b8xaEYKOhUA4.svg
+last_modified_at: 2023-10-15 01:01:20.316650-03:00
+layout: post
+notion_id: 2790830e-e2f1-453b-b716-8241def4ee87
+published: true
+tags:
+- linux
+- csv
+- json
+- shell-script
+- shellscript
+- jq
+- csvlook
+- csvkit
+- curl
+title: 'Shell script: Formatando saída de API em tabela usando jq e csvlook'
 ---
 
 Estava fazendo uns acessos a API usando apenas shell script (`curl`) e `jq` para formatar a saída em JSON quando pensei: “poxa, bem que eu poderia ter uma saída em formato tabela né?” e comecei a pesquisar uma forma legal de fazer isso e encontrei esse tal `csvlook` (aplicação do pacote `csvkit`). Então resolvi compartilhar essa ideia.

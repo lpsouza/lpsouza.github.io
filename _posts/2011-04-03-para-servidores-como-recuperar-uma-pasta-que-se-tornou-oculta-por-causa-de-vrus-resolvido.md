@@ -1,28 +1,28 @@
 ---
-notion_id: 874930e5-dc2d-47e0-96f5-71978c50647a
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2011-04-03T17:26:00.000Z
-last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
-published: true
-title: "Para servidores: Como recuperar uma pasta que se tornou oculta por causa
-  de vírus [Resolvido]"
-tags:
-  - "2003"
-  - "2008"
-  - attrib
-  - microsoft
-  - problema
-  - recuperar formato
-  - servidor
-  - virus
-  - windows
-  - windows server
+date: 2011-04-03 17:26:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.263016-03:00
+layout: post
+notion_id: 874930e5-dc2d-47e0-96f5-71978c50647a
+published: true
+tags:
+- '2003'
+- '2008'
+- attrib
+- microsoft
+- problema
+- recuperar-formato
+- servidor
+- virus
+- windows
+- windows-server
+title: 'Para servidores: Como recuperar uma pasta que se tornou oculta por causa de
+  vírus [Resolvido]'
 ---
 
 Este foi um problema que me assolou por causa dos vírus de pendrive que aparecem pelo colégio onde trabalho. Simplesmente quando colocava um pendrive infectado, ele colocava pastas ocultas com o nome de DOBRERIBE e instalava um arquivo infectado dentro. E pra piorar, alterava os atributos da pasta compartilhada, deixando ela oculta e como “pasta de sistema”, provavelmente para explorar alguma falha do sistema operacional referente a tal.
@@ -50,4 +50,3 @@ Onde o “h:\*.\*” é o caminho onde a pasta se encontra. No meu caso, como er
 Fácil não?
 
 via [Hidden folders in pen drive-because of virus [Solved/Closed]](http://en.kioskea.net/forum/affich-220814-hidden-folders-in-pen-drive-because-of-virus)
-

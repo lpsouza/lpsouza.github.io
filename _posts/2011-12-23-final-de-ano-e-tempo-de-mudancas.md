@@ -1,25 +1,25 @@
 ---
-notion_id: f3174a5c-7141-4782-8dd3-283b3b11af1b
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2011-12-23T10:07:00.000Z
-last_modified_at: 2022-12-19T20:46:00.000Z
 category: Etc
-published: true
-title: Final de ano é tempo de mudanças...
-tags:
-  - blog
-  - final de ano
-  - informática
-  - mudanças
-  - projetos
-  - sites
-  - software
-  - wordpress
+date: 2011-12-23 10:07:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.269236-03:00
+layout: post
+notion_id: f3174a5c-7141-4782-8dd3-283b3b11af1b
+published: true
+tags:
+- blog
+- final-de-ano
+- informática
+- mudanças
+- projetos
+- sites
+- software
+- wordpress
+title: Final de ano é tempo de mudanças...
 ---
 
 Neste final de ano, vamos a diversas mudanças e melhorias de serviços no quesito servidores, sites e wordpress! Vamos a elas:
@@ -35,4 +35,3 @@ Neste final de ano, vamos a diversas mudanças e melhorias de serviços no quesi
 * Ano que vem é época de casamento (meu casamento :P) e com algumas mudanças que vieram de um dos meus trabalhos, terei tempo para tocar e melhorar projetos específicos, como o Projeto MOP, [Spellfire.com.br](http://spellfire.com.br), Moodle da IHCenter e este site mesmo!!
 
 Acho que é isso!
-

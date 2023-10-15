@@ -1,23 +1,23 @@
 ---
-notion_id: 5d8ae434-b924-49b9-ad84-9a8fe3719e47
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2022-06-20T02:45:00.000Z
-last_modified_at: 2022-12-19T20:49:00.000Z
 category: Tech
-published: true
-title: Quando a Microsoft salvou minha “vida estranha”
-tags:
-  - jogos
-  - lifeisstrange
-  - truecolors
-  - games
-  - onedrive
-  - recover files
+date: 2022-06-20 02:45:00+00:00
 image: https://luizsouza.com/assets/onedrive-true-colors.png
+last_modified_at: 2023-10-15 01:01:20.315044-03:00
+layout: post
+notion_id: 5d8ae434-b924-49b9-ad84-9a8fe3719e47
+published: true
+tags:
+- jogos
+- lifeisstrange
+- truecolors
+- games
+- onedrive
+- recover-files
+title: Quando a Microsoft salvou minha “vida estranha”
 ---
 
 Eis que hoje a Microsoft salvou literalmente minha “vida estranha”, ou para ser mais exato, os saves do meu jogo [Life is Strange: True Colors](https://store.steampowered.com/app/936790/Life_is_Strange_True_Colors/)! E depois da trabalheira, resolvi contar aqui no meu blog essa história e trazer uma dica superimportante para quem usa o OneDrive (e para quem não usa entender a diferença que isso fez na minha vida aqui) 😅
@@ -37,4 +37,3 @@ Sim, parece que andei até aqui para nada não? Pois não foi não, o OneDrive t
 E graças a essas duas opções consegui não apenas achar o arquivo que havia sido substituído e gerado isso, mas voltar a uma versão onde apenas havia terminado a campanha principal e nunca iniciado a história adicional!
 
 Entendem por que essa história mereceu um post? Não apenas para contar que recuperei um save, mas para lembrar a quem usa já esse tipo de backup das formas de restaurar um dado dele, mas principalmente para quem não faz backup das suas pastas, da importância de uma solução deste tipo! O que posso dizer é que a Microsoft ganhou vários pontinhos comigo depois desta! 😅
-

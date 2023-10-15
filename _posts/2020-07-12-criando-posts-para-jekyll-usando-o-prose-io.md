@@ -1,22 +1,22 @@
 ---
-notion_id: 9ed77b45-e0fe-4c85-88f9-d82e52355c2b
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2020-07-12T17:41:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
-published: true
-title: Criando posts para Jekyll usando o Prose.io
-tags:
-  - jekyll
-  - prose
-  - prose.io
-  - blog
-  - markdown
+date: 2020-07-12 17:41:00+00:00
 image: null
+last_modified_at: 2022-12-19 20:48:00+00:00
+layout: post
+notion_id: 9ed77b45-e0fe-4c85-88f9-d82e52355c2b
+published: true
+tags:
+- jekyll
+- prose
+- prose.io
+- blog
+- markdown
+title: Criando posts para Jekyll usando o Prose.io
 ---
 
 A um pouco mais de um ano, publiquei um post onde comentei da minha [mudança do Wordpress para usar o Jekyll](https://luizsouza.com/2018/10/10/larguei-o-wordpress/) e lá apresento minha opinião sobre usar páginas estáticas para manter meu blog, usando arquivos em formato [Markdown](https://daringfireball.net/projects/markdown/). Bom, isso pareceu bem simples e prático, porque posso escrever um post virtualmente com qualquer sistema operacional, mesmo com ou sem interface gráfica ou ainda com ou sem um navegador! 😍
@@ -124,4 +124,3 @@ prose:
 Por fim eu fiz este post utilizando o **Prose.io** e curti bastante! Ele é extremamente simples de usar e ainda continuo com a liberdade de produzir posts nele (de maneira facilitada com o uso das metadata) e na forma tradicional utilizando qualquer editor de texto, em qualquer sistema operacional!
 
 E era isso! EOF ✌
-

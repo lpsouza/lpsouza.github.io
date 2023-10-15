@@ -1,24 +1,24 @@
 ---
-notion_id: 5299eecb-941a-495d-9944-f7b6d6adf8e2
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2015-03-10T16:30:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
-published: true
-title: "CodeIgniter: Roteamentos Inteligentes"
-tags:
-  - codeigniter
-  - controller
-  - fica a dica
-  - programação
-  - rotas
-  - roteamento
-  - _remap
+date: 2015-03-10 16:30:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.297827-03:00
+layout: post
+notion_id: 5299eecb-941a-495d-9944-f7b6d6adf8e2
+published: true
+tags:
+- codeigniter
+- controller
+- fica-a-dica
+- programação
+- rotas
+- roteamento
+- _remap
+title: 'CodeIgniter: Roteamentos Inteligentes'
 ---
 
 O roteamento inteligente permite criar URLs personalizadas. Com isso, a URL padrão do Codeigniter pode ser customizada. O cuidado extra é no _default controller_ onde deve ter um método para implementar o erro de _not found_ (404). No exemplo dos arquivos, ele simula as URLs encontradas em um blog:
@@ -86,4 +86,3 @@ $route['404_override'] = '';
 ```
 
 E era isso! 😉
-

@@ -1,28 +1,28 @@
 ---
-notion_id: ad59380f-0dd7-4baf-b580-43d56e9c030c
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-05-12T22:50:00.000Z
-last_modified_at: 2022-12-19T20:46:00.000Z
 category: Etc
-published: true
-title: "Simples: Meu primeiro tema original para WordPress!"
-tags:
-  - css
-  - fica a dica
-  - informática
-  - internet
-  - jquery
-  - programação
-  - software
-  - tecnologia
-  - tema
-  - theme
-  - wordpress
+date: 2012-05-12 22:50:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.273499-03:00
+layout: post
+notion_id: ad59380f-0dd7-4baf-b580-43d56e9c030c
+published: true
+tags:
+- css
+- fica-a-dica
+- informática
+- internet
+- jquery
+- programação
+- software
+- tecnologia
+- tema
+- theme
+- wordpress
+title: 'Simples: Meu primeiro tema original para WordPress!'
 ---
 
 É com orgulho que comunico a todos que meu primeiro tema totalmente original (isto é, feito sem uso de outros temas, ou tema-filho) no WordPress! Ele é feito baseado no framework de jQuery e CSS em português que estou desenvolvendo, o Simples-UI (site em construção)!
@@ -44,4 +44,3 @@ Estou ainda  desenvolvendo a idéia, por isso que nem site do projeto tem. E n�
 Então é isso! Se você tem alguma opinião a dar sobre este post, é só comentar! 😉
 
 **[Atualização em 08/03/2015]** Algumas pessoas me perguntam como anda esse projeto, então resolvi adicionar esta informação aqui neste post. Infelizmente eu descontinuei a ideia, porque acabei vendo que temos muitos frameworks bons aí pela internet, então o projeto meio que entrou em desuso e por fim foi descontinuado. Desculpe pessoal pra quem veio procurando suporte ao tema ou ao framework. Mesmo deixei de atender os últimos clientes que usavam base deste tema. Veremos o que o futuro nos reserva, não é?
-

@@ -1,21 +1,21 @@
 ---
-notion_id: 51829336-cf82-407c-91ec-c160c86eef4e
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-09-01T13:23:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
-published: true
-title: Ebay vai vender 65% do Skype por US$ 1,9 bilhão
-tags:
-  - ebay
-  - skype
-  - software
-  - venda
+date: 2009-09-01 13:23:00+00:00
 image: null
+last_modified_at: 2022-12-19 20:44:00+00:00
+layout: post
+notion_id: 51829336-cf82-407c-91ec-c160c86eef4e
+published: true
+tags:
+- ebay
+- skype
+- software
+- venda
+title: Ebay vai vender 65% do Skype por US$ 1,9 bilhão
 ---
 
 E começa o vende-vende? Ontem falando da Marvel.. Hoje o Skype? E estranhamente se fala isso logo depois que se falou de vírus para o skype. Estranho não? E leia-se que o eBay não conseguiu uma forma rentável de manter o Skype.. Meio logico! Ahauhauahau... Então? Quero conversar, como vai ser?
@@ -35,4 +35,3 @@ E começa o vende-vende? Ontem falando da Marvel.. Hoje o Skype? E estranhamente
 > _Embora o Skype tenha conquistado uma base substancial de usuários - na manhã desta terça-feira aproximadamente 16 milhões de pessoas estavam conectadas - a Ebay não conseguiu transformá-lo em algo rentável, disse o presidente da consultoria de tecnologia Endpoint Technologies, Roger Kay. As informações são da Dow Jones._
 
 via [Ebay vai vender 65% do Skype por US$ 1,9 bilhão](http://www.estadao.com.br/noticias/economia,ebay-vai-vender-65-do-skype-por-us-19-bilhao,427945,0.htm).
-

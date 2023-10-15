@@ -1,24 +1,24 @@
 ---
-notion_id: b1bc7d62-319e-476e-9613-c67dc31fdb4d
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-05-14T15:30:00.000Z
-last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
-published: true
-title: Descobrindo a idade através da data de nascimento
-tags:
-  - algoritimo
-  - calculo
-  - data
-  - idade
-  - nascimento
-  - php
-  - programação
+date: 2012-05-14 15:30:00+00:00
 image: null
+last_modified_at: 2022-12-19 20:46:00+00:00
+layout: post
+notion_id: b1bc7d62-319e-476e-9613-c67dc31fdb4d
+published: true
+tags:
+- algoritimo
+- calculo
+- data
+- idade
+- nascimento
+- php
+- programação
+title: Descobrindo a idade através da data de nascimento
 ---
 
 Dica do Rafael Jaques:
@@ -62,4 +62,3 @@ print $idade;
 ```
 
 via [Descobrindo a idade através da data de nascimento | PHPit](http://www.phpit.com.br/artigos/descobrindo-a-idade-atraves-da-data-de-nascimento.phpit)
-

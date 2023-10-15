@@ -1,26 +1,26 @@
 ---
-notion_id: 248664fd-52d5-4ece-b68d-ab385cb0d6ab
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2011-07-19T09:30:00.000Z
-last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
-published: true
-title: Troca de serial no Windows 7 [Resolvido]
-tags:
-  - ativação
-  - cd-key
-  - computadores
-  - dell
-  - fica a dica
-  - microsoft
-  - resolvido
-  - serial
-  - windows 7
+date: 2011-07-19 09:30:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.268088-03:00
+layout: post
+notion_id: 248664fd-52d5-4ece-b68d-ab385cb0d6ab
+published: true
+tags:
+- ativação
+- cd-key
+- computadores
+- dell
+- fica-a-dica
+- microsoft
+- resolvido
+- serial
+- windows-7
+title: Troca de serial no Windows 7 [Resolvido]
 ---
 
 Estava eu, junto com meus colegas de trabalho, pensando em resolver um problema que criamos com a clonagem de um laboratório inteiro de informática. O serial clonou junto!
@@ -48,4 +48,3 @@ Apenas para ver se tudo está nos conformes
 Agora use a imaginação, pode criar um batch para cada serial de computador com estes comandos, pode rodar manualmente, validação de alguma forma… Como preferir!
 
 Assim mantemos uma rede legalizada e organizada!
-

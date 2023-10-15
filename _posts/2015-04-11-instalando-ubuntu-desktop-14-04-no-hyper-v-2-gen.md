@@ -1,27 +1,27 @@
 ---
-notion_id: b1191bf6-5bff-4c3e-9ff9-5eba7f9908c2
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2015-04-11T15:49:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
-published: true
-title: Instalando Ubuntu Desktop 14.04 no Hyper-V (2-gen)
-tags:
-  - computadores
-  - fica a dica
-  - hyper-v
-  - linux
-  - performance
-  - ubuntu
-  - ubuntu 14.04
-  - virtualbox
-  - windows
-  - windows 8.1
+date: 2015-04-11 15:49:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.298925-03:00
+layout: post
+notion_id: b1191bf6-5bff-4c3e-9ff9-5eba7f9908c2
+published: true
+tags:
+- computadores
+- fica-a-dica
+- hyper-v
+- linux
+- performance
+- ubuntu
+- ubuntu-14.04
+- virtualbox
+- windows
+- windows-8.1
+title: Instalando Ubuntu Desktop 14.04 no Hyper-V (2-gen)
 ---
 
 Depois de reinstalar o meu [Windows 8.1 Pro](http://windows.microsoft.com/pt-br/windows/home), e reinstalar o [Hyper-V](http://www.microsoft.com/pt-br/server-cloud/solutions/virtualization.aspx) nele, me perguntei se precisaria instalar o [Virtualbox](https://www.virtualbox.org/) para fazer uma estação de trabalho [Ubuntu](http://www.ubuntu.com/). Depois de dar uma verificada na internet, achei dois artigos super interessantes que me ajudou a instalar em modo "Geração 2" das Maquinas Virtuais no Hyper-V. Os artigos foram: [Ubuntu 14.04 in a Generation 2 VM](http://blogs.msdn.com/b/virtual_pc_guy/archive/2014/06/09/ubuntu-14-04-in-a-generation-2-vm.aspx) e [Changing Ubuntu Screen Resolution in a Hyper-V VM](http://blogs.msdn.com/b/virtual_pc_guy/archive/2014/09/19/changing-ubuntu-screen-resolution-in-a-hyper-v-vm.aspx).
@@ -39,4 +39,3 @@ Então o que fiz para instalar?
 5. Coloquei a VM do ubuntu em tela cheia.
 
 Depois disso fiz uns testes, mas senti levemente lento, comparado ao uso no Virtualbox. Mas para um uso básico, não vejo problemas no uso! Aprovado! 😀
-

@@ -1,34 +1,34 @@
 ---
-notion_id: 13f90205-c608-44a8-9d82-336e5ec93355
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-12-11T09:49:00.000Z
-last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
-published: true
-title: Nimbuzz Updates - Novas funcionalidades!
-tags:
-  - 3g
-  - celular
-  - e71
-  - fica a dica
-  - gtalk
-  - mobilidade
-  - msn
-  - nimbuzz
-  - nokia
-  - redes sociais
-  - s60
-  - skype
-  - smartphone
-  - software
-  - symbian
-  - twitter
-  - yahoo
+date: 2009-12-11 09:49:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.232432-03:00
+layout: post
+notion_id: 13f90205-c608-44a8-9d82-336e5ec93355
+published: true
+tags:
+- 3g
+- celular
+- e71
+- fica-a-dica
+- gtalk
+- mobilidade
+- msn
+- nimbuzz
+- nokia
+- redes-sociais
+- s60
+- skype
+- smartphone
+- software
+- symbian
+- twitter
+- yahoo
+title: Nimbuzz Updates - Novas funcionalidades!
 ---
 
 Eu sou uma pessoa que vive conectada por diversos meios com a internet. Isso faz com que use muitos softwares em meu Nokia E71 e cito por exemplo: Cliente [Twitter](http://twitter.com) ([wibble para minha conta pessoal e TweetS60 para o da empresa), cliente mensageiro (Nimbuzz para MSN, Skype, Yahoo, AIM, etc..) e mais alguns ([PuTTY para S60](http://s2putty.sourceforge.net), Joikuspot para dar internet para meu Notebook, etc..). E particularmente, se eu pudesse diminuir isso, eu o faria, e foi o que aconteceu!
@@ -50,4 +50,3 @@ Bom, mas porque estou fazendo esse post? Apenas para contar a novidade? Na reali
 Eu já removi o TweetS60 e só deixo o Twibble para acesso da minha conta Twitter da empresa. E Nimbuzz é titular nos meus acessos a chat e twitter!!
 
 Publicado pelo Wordmobi
-

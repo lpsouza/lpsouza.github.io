@@ -1,26 +1,26 @@
 ---
-notion_id: d92a6c5d-087a-4f8f-a758-7dc4ccc8c01c
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-08-17T10:48:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
-published: true
-title: Cadê minhas imagens e músicas no meu Android?
-tags:
-  - android
-  - cache
-  - fotos
-  - google
-  - imagens
-  - música
-  - problema
-  - smartphone
-  - thumbnail
+date: 2012-08-17 10:48:00+00:00
 image: null
+last_modified_at: 2022-12-19 20:47:00+00:00
+layout: post
+notion_id: d92a6c5d-087a-4f8f-a758-7dc4ccc8c01c
+published: true
+tags:
+- android
+- cache
+- fotos
+- google
+- imagens
+- música
+- problema
+- smartphone
+- thumbnail
+title: Cadê minhas imagens e músicas no meu Android?
 ---
 
 Olá pessoal!
@@ -42,4 +42,3 @@ Achei uma pasta dentro de DCIM no meu cartão de memória com o gerenciador de a
 Bom, porque deletei essa pasta? _Thumbnail_ em inglês é miniaturas, e como estava na pasta DCIM (onde ele grava as fotos), logo pensei que esse era o tal _cache_ do Android para fotos... Agora, porque ele arrumou minhas MP3 se elas ficam no diretório Music? Isso agora é totalmente intuitivo e não tenho embasamento teórico, por tanto, especulação pura: Como deletei uma pasta de cache, deve ter acionado no Android um "estado de pânico", onde ele então para ajustar o erro interno, começou a refazer todos os caches dele.
 
 Era isso! Mais um problema resolvido! Bora pra outro! 😉
-

@@ -1,45 +1,45 @@
 ---
-notion_id: 9fcd1729-5071-4ad7-a44d-dac16cf89fca
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-09-17T22:09:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
-published: true
-title: "Palestra: Programando para uma vida móvel"
-tags:
-  - 3g
-  - algorítimo
-  - cenecista
-  - claro
-  - colégio
-  - e71
-  - fica a dica
-  - firewall
-  - gmail
-  - google
-  - google maps
-  - kml
-  - linux
-  - mobilidade
-  - netbook
-  - nokia
-  - notebook
-  - palestra
-  - programação
-  - qik
-  - redes de computadores
-  - rss
-  - s60
-  - smartphone
-  - symbian
-  - ti
-  - twitter
-  - video
+date: 2009-09-17 22:09:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.223639-03:00
+layout: post
+notion_id: 9fcd1729-5071-4ad7-a44d-dac16cf89fca
+published: true
+tags:
+- 3g
+- algorítimo
+- cenecista
+- claro
+- colégio
+- e71
+- fica-a-dica
+- firewall
+- gmail
+- google
+- google-maps
+- kml
+- linux
+- mobilidade
+- netbook
+- nokia
+- notebook
+- palestra
+- programação
+- qik
+- redes-de-computadores
+- rss
+- s60
+- smartphone
+- symbian
+- ti
+- twitter
+- video
+title: 'Palestra: Programando para uma vida móvel'
 ---
 
 Hoje eu estive no Colégio Cenecista aqui da cidade de Novo Hamburgo - RS, dando uma palestra sobre mobilidade e alguns conceitos interessantes foram comentados:
@@ -77,4 +77,3 @@ E deixo aqui o meu agradecimento a meus amigos, em especial a [@Clarini](http://
 E a todos os alunos por terem assistido, é claro! 🙂
 
 Publicado pelo Wordmobi
-

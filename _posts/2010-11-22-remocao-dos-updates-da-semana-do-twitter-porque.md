@@ -1,24 +1,24 @@
 ---
-notion_id: 19f74cfd-a57e-43c1-9a60-c4fa4e39775d
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2010-11-22T08:08:00.000Z
-last_modified_at: 2022-12-19T20:45:00.000Z
 category: Etc
-published: true
-title: Remoção dos Updates da semana do Twitter, porque?
-tags:
-  - blog
-  - fica a dica
-  - página pessoal
-  - redes sociais
-  - software
-  - twitter
-  - wordpress
+date: 2010-11-22 08:08:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.254106-03:00
+layout: post
+notion_id: 19f74cfd-a57e-43c1-9a60-c4fa4e39775d
+published: true
+tags:
+- blog
+- fica-a-dica
+- página-pessoal
+- redes-sociais
+- software
+- twitter
+- wordpress
+title: Remoção dos Updates da semana do Twitter, porque?
 ---
 
 Bom, depois de testar essa solução para WordPress, vi que não há muito sentido em copiar meus posts do Twitter pra cá..
@@ -34,4 +34,3 @@ Bom, fica a dica e estarei apagando os resumos do meu site!
 See ya!
 
 Posted by Wordmobi
-

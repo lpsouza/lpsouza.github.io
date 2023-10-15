@@ -1,25 +1,25 @@
 ---
-notion_id: 72e4b683-0147-4e83-a9fb-a2fc6d5ec21d
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-03-07T08:49:00.000Z
-last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
-published: true
-title: "CMS: Milhares de blogs com WordPress podem estar infectados"
-tags:
-  - atualizado
-  - blog
-  - maliciosos
-  - malware
-  - rede
-  - seginfo
-  - virus
-  - wordpress
+date: 2012-03-07 08:49:00+00:00
 image: null
+last_modified_at: 2022-12-19 20:46:00+00:00
+layout: post
+notion_id: 72e4b683-0147-4e83-a9fb-a2fc6d5ec21d
+published: true
+tags:
+- atualizado
+- blog
+- maliciosos
+- malware
+- rede
+- seginfo
+- virus
+- wordpress
+title: 'CMS: Milhares de blogs com WordPress podem estar infectados'
 ---
 
 Segurança é sempre a palavra de ordem para nossos sites, blogs, portais, etc.
@@ -31,4 +31,3 @@ Se quiserem melhorar a segurança do seu site ou quer migrar seu blog/site para 
 > Usar temas prontos do WordPress ou complementos visuais sem muitos critérios pode ser uma dor de cabeça e tanto. E ao que tudo indica, milhares de blogueiros mundo afora estão descobrindo isso da pior maneira: um complemento para o WordPress possui uma falha de segurança que está sendo usada para espalhar código malicioso pela internet.
 
 via [Milhares de blogs com WordPress podem estar infectados | Tecnoblog](http://tecnoblog.net/81405/wordpress-blog-infectado-timthumb/)
-

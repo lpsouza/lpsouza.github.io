@@ -1,24 +1,24 @@
 ---
-notion_id: 192774ce-78d0-456f-9985-22ed2afb56d2
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2022-12-03T11:03:00.000Z
-last_modified_at: 2022-12-19T20:49:00.000Z
 category: Etc
-published: true
-title: Sobre planejamentos… Já é dezembro novamente?
-tags:
-  - opnião
-  - pessoal
-  - planner
-  - agenda
-  - google agenda
-  - google calendar
-  - produtividade
+date: 2022-12-03 11:03:00+00:00
 image: https://luizsouza.com/assets/xmas-2022.jpg
+last_modified_at: 2023-10-15 01:01:20.315575-03:00
+layout: post
+notion_id: 192774ce-78d0-456f-9985-22ed2afb56d2
+published: true
+tags:
+- opnião
+- pessoal
+- planner
+- agenda
+- google-agenda
+- google-calendar
+- produtividade
+title: Sobre planejamentos… Já é dezembro novamente?
 ---
 
 Sabe aquele momento que você acorda e nota que o ano já basicamente acabou? Então deixa te contar que esse é o meu momento! Chegamos ao final de 2022, particularmente em meio a um turbilhão de coisas, e como para a maioria das pessoas é um momento de reflexão de como foi o ano e como podemos entrar no próximo com o “pé direito”, então vamos lá!
@@ -42,4 +42,3 @@ Talvez essa não seja a definição mais exata, mas foi por aí que eu entendi e
 Mas para fazer esse tal de planner é só com Google? Mas é claro… que não! 😄 Eu não pesquisei muito afundo “as várias opções”, mas posso comentar de uma que quase usei para substituir o Google Agenda: Microsoft Outlook! O programa que instala no Windows? Também, mas me referia ao online ([https://outlook.live.com/](https://outlook.live.com/)). Em ambos tu podes ter a agenda, tarefas, anotações e com a vantagem do Outlook porque ele se integra muito bem com o Windows, logo adicionando notificações mesmo com o Windows com a tela bloqueada! Mas não migrei porque tenho muita coisa vinculada com o Google e mudar ia requerer ter coisas em um lado e coisas no outro e então perde o sentido da produtividade da coisa.
 
 Bom, e é isso para o momento! Vamos começa então o planejamento de 2023! 🤘🏼
-

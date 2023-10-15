@@ -1,33 +1,33 @@
 ---
-notion_id: 6c7b1127-1f05-4695-9348-ac4ef64e367e
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2015-05-11T01:28:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
 category: Tech
-published: true
-title: "Cansei de esperar: Atualização do Moto X (2013 - 1ª Geração) para o Lollipop!"
-tags:
-  - 1st gen
-  - 1ª geração
-  - "2013"
-  - 4.4.4
-  - "5.1"
-  - android
-  - atualização
-  - kitkat
-  - lolipop
-  - mobilidade
-  - moto x
-  - motorola
-  - ota
-  - primeira geração
-  - sistema operacional
-  - smartphones
+date: 2015-05-11 01:28:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.299557-03:00
+layout: post
+notion_id: 6c7b1127-1f05-4695-9348-ac4ef64e367e
+published: true
+tags:
+- 1st-gen
+- 1ª-geração
+- '2013'
+- 4.4.4
+- '5.1'
+- android
+- atualização
+- kitkat
+- lolipop
+- mobilidade
+- moto-x
+- motorola
+- ota
+- primeira-geração
+- sistema-operacional
+- smartphones
+title: 'Cansei de esperar: Atualização do Moto X (2013 - 1ª Geração) para o Lollipop!'
 ---
 
 E então, até hoje não vi atualizações em meu celular, o Moto X de primeira geração, para o Lolipop. Faz um tempo que foi liberado o 5.0.1 para atualizar e nada do meu telefone avisar que esta disponível. 🙁 Agora foi liberado em abril uma atualização nova, que leva o 5.1 aos Moto X e novamente, nada de aviso! Então, cansado de esperar a boa vontade da Motorola em liberar as atualizações para a minha versão, corri atras de onde encontrar!
@@ -65,4 +65,3 @@ Estes procedimentos devem ser seguidos para cada um dos arquivos que estão acim
   4. Repita o procedimento até o Lolipop 5.1
 
 Finalmente meu Moto X de primeira geração está atualizado! Esperamos que as próximas atualizações venham normalmente pelo OTA! 😀
-

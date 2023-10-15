@@ -1,33 +1,33 @@
 ---
-notion_id: 33fd68dc-d84c-4320-837a-fc96e0a19145
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-09-21T16:49:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
 category: Linux
-published: true
-title: Vivendo a liberdade - parte 1
-tags:
-  - computadores
-  - curiosidade
-  - hardware
-  - informática
-  - linux
-  - networking
-  - notebook
-  - pessoal
-  - redes de computadores
-  - seginfo
-  - shellscript
-  - software
-  - ti
-  - trabalho
-  - windows
-  - windows xp
+date: 2009-09-21 16:49:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.225397-03:00
+layout: post
+notion_id: 33fd68dc-d84c-4320-837a-fc96e0a19145
+published: true
+tags:
+- computadores
+- curiosidade
+- hardware
+- informática
+- linux
+- networking
+- notebook
+- pessoal
+- redes-de-computadores
+- seginfo
+- shellscript
+- software
+- ti
+- trabalho
+- windows
+- windows-xp
+title: Vivendo a liberdade - parte 1
 ---
 
 ![TUX](/wp-content/uploads/2009/09/tux-seiyar.png)
@@ -41,4 +41,3 @@ Agora estou tentando novamente, justamente porque parece que essa parte de compa
 Próximo capitulo: Receita de bolo!
 
 Publicado pelo Wordmobi
-

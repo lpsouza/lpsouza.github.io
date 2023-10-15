@@ -1,32 +1,32 @@
 ---
-notion_id: d546be77-edc9-4a59-ba92-ef554a217a78
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-10-24T10:52:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
 category: Etc
-published: true
-title: Atenção programadores web e webdesigners..
-tags:
-  - 3g
-  - celular
-  - e71
-  - fica a dica
-  - mobilidade
-  - nerd
-  - nokia
-  - programação
-  - psp
-  - s60
-  - smartphone
-  - software
-  - symbian
-  - tecnologia
-  - tecnologia móvel
+date: 2009-10-24 10:52:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.228416-03:00
+layout: post
+notion_id: d546be77-edc9-4a59-ba92-ef554a217a78
+published: true
+tags:
+- 3g
+- celular
+- e71
+- fica-a-dica
+- mobilidade
+- nerd
+- nokia
+- programação
+- psp
+- s60
+- smartphone
+- software
+- symbian
+- tecnologia
+- tecnologia-móvel
+title: Atenção programadores web e webdesigners..
 ---
 
 ... reparem a sua volta! Olha a tecnologia móvel tomando conta!!
@@ -40,4 +40,3 @@ E que tipo de site seriam os mais evidentes a ter versão móvel? Eu diria todos
 Estão vendo que isso implica em muito trabalho não? Tá aí o diferencial em meio a essa selva e guerra de mercado de desenvolvimento para web.. O que está esperando? Pegue seu celular e comece a vender sites!!
 
 Publicado pelo Wordmobi
-

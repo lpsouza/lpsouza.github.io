@@ -1,26 +1,26 @@
 ---
-notion_id: c5d13625-4f7f-4f23-93ab-5897d9fd8695
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2010-09-10T10:28:00.000Z
-last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
-published: true
-title: Ubuntu rodando MS Office 2007?
-tags:
-  - br-office
-  - computadores
-  - fica a dica
-  - linux
-  - microsoft
-  - office
-  - office 2007
-  - openoffice
-  - ubuntu
+date: 2010-09-10 10:28:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.243239-03:00
+layout: post
+notion_id: c5d13625-4f7f-4f23-93ab-5897d9fd8695
+published: true
+tags:
+- br-office
+- computadores
+- fica-a-dica
+- linux
+- microsoft
+- office
+- office-2007
+- openoffice
+- ubuntu
+title: Ubuntu rodando MS Office 2007?
 ---
 
 Acabei de ler um twit do meu amigo [@ubuntudicas](http://twitter.com/ubuntudicas) que me deixou intrigado: "Office 2007 no Ubuntu."
@@ -32,4 +32,3 @@ Ok, então temos a questão do Office: Linux usa OpenOffice (BR-Office). Tem mui
 Então tendo como fazer essa façanha, acredito que muitos conseguirão trabalhar em Linux sem maiores problemas! (Embora eu não passo pra Linux por causa do meu uso de multimídia hardcore mode on extra plus, hehehe)
 
 Segue o artigo: [http://enfatizando.wordpress.com/2010/07/14/office-no-ubuntu/](http://enfatizando.wordpress.com/2010/07/14/office-no-ubuntu/)
-

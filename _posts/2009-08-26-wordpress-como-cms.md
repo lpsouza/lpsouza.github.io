@@ -1,27 +1,27 @@
 ---
-notion_id: 2b5bb407-9063-4b6e-a51e-8b7ab908fac2
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-08-26T14:34:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
 category: Etc
-published: true
-title: WordPress como CMS?
-tags:
-  - blog
-  - cms
-  - content management systems
-  - joomla
-  - pc
-  - sgc
-  - sistema de gestão de conteúdo
-  - smartphone
-  - symbian
-  - wordpress
+date: 2009-08-26 14:34:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.215317-03:00
+layout: post
+notion_id: 2b5bb407-9063-4b6e-a51e-8b7ab908fac2
+published: true
+tags:
+- blog
+- cms
+- content-management-systems
+- joomla
+- pc
+- sgc
+- sistema-de-gestão-de-conteúdo
+- smartphone
+- symbian
+- wordpress
+title: WordPress como CMS?
 ---
 
 Pois é.. Eu já havia lido uma indagação dessas do meu amigo [@kaduazevedo](http://twitter.com/kaduazevedo) no Twitter.. Eu até comentei que WordPress era para Blog e que Joomla era pra CMS e tal.. Mas acreditam que estou com minha mentalidade um pouco mudada sobre este assunto?
@@ -43,4 +43,3 @@ Trocando para WordPress, eu ganho muita facilidade no gerenciamento do conteúdo
 * Mobilidade: Tanto no acesso (plugins próprios e bem melhores) quanto na publicação (clientes até para smartphone).
 
 Essas são as mais marcantes para mim. Vou começar os testes de uma versão WordPress da IHCenter para logo!
-

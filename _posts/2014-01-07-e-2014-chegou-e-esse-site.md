@@ -1,24 +1,24 @@
 ---
-notion_id: 58b4e4c8-cb8a-42d9-981f-e81f1f63ddb1
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2014-01-07T13:33:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
 category: Etc
-published: true
-title: E 2014 chegou... e esse site?
-tags:
-  - "2014"
-  - ano novo
-  - blog
-  - nerd
-  - site
-  - ti
-  - wordpress
+date: 2014-01-07 13:33:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.290941-03:00
+layout: post
+notion_id: 58b4e4c8-cb8a-42d9-981f-e81f1f63ddb1
+published: true
+tags:
+- '2014'
+- ano-novo
+- blog
+- nerd
+- site
+- ti
+- wordpress
+title: E 2014 chegou... e esse site?
 ---
 
 Nossa, novamente deixei meu site largado as traças por um tempo (desde agosto de 2013)! Passou 2013, muita coisa de lá pra cá veio ao encontro de minha vida, algumas coisas boas e outra nem tanto assim.
@@ -40,4 +40,3 @@ Deixo aqui algumas delas:
 * Análise de TAGs (e com isso tirar alguns lixos que tem ali)
 
 Acredito que seria isso! Vamos trabalhar! 😀
-

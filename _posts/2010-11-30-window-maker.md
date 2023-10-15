@@ -1,25 +1,25 @@
 ---
-notion_id: 69ee6ff9-e631-490a-978f-ad94a13ca818
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2010-11-30T13:30:00.000Z
-last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
-published: true
-title: Window Maker?
-tags:
-  - afterstep
-  - computadores
-  - interface gráfica
-  - leve
-  - linux
-  - unix
-  - window maker
-  - x window
+date: 2010-11-30 13:30:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.257572-03:00
+layout: post
+notion_id: 69ee6ff9-e631-490a-978f-ad94a13ca818
+published: true
+tags:
+- afterstep
+- computadores
+- interface-gráfica
+- leve
+- linux
+- unix
+- window-maker
+- x-window
+title: Window Maker?
 ---
 
 Quem lembra deste sistema de janelas para Linux? Os mais antigos (da época do Conectiva 3), lembra deste sistema e a impressão era ou de amor eterno ou de ódio eterno. Porque?
@@ -39,4 +39,3 @@ Pronto! Agora é só ir para a tela de logon e mudar a sessão para Window Maker
 Qualquer dúvida ou ajuda com este sistema de janelas, entre em contato! Adoro conversar, ainda mais sobre este sistema!
 
 Ah claro! Não posso esquecer de agradecer ao cara que fez o sistema Window Maker, o brasileiro [Alfredo Kojima](http://pt.wikipedia.org/wiki/Alfredo_Kojima)!
-

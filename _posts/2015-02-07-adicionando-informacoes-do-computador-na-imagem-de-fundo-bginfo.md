@@ -1,28 +1,28 @@
 ---
-notion_id: 10f53e09-aa52-4e09-abed-ef4857e1126a
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2015-02-07T14:44:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
-published: true
-title: Adicionando informações do computador na imagem de fundo - BGInfo
-tags:
-  - bginfo
-  - desktop
-  - fica a dica
-  - informações
-  - informática
-  - sistema operacional
-  - sysinternals
-  - tecnologia
-  - ti
-  - windows
-  - windows sysinternals
+date: 2015-02-07 14:44:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.296714-03:00
+layout: post
+notion_id: 10f53e09-aa52-4e09-abed-ef4857e1126a
+published: true
+tags:
+- bginfo
+- desktop
+- fica-a-dica
+- informações
+- informática
+- sistema-operacional
+- sysinternals
+- tecnologia
+- ti
+- windows
+- windows-sysinternals
+title: Adicionando informações do computador na imagem de fundo - BGInfo
 ---
 
 Desde que entrei para o mundo do Cloud, uma coisa que sempre encontro em servidores de Infraestrutura como Serviço (IaaS), é as informações do servidor em questão no desktop (claro que estou comentando de ambientes Windows Server, e não de Linux e seus amigos).
@@ -44,4 +44,3 @@ Pronto! Servidores e até estações de trabalho atualizadas para quando você f
 [Desktop com BGInfo](/wp-content/uploads/2015/02/bginfo1.png)
 
 Meu desktop com as informações do BGInfo! 🙂
-

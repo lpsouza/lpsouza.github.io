@@ -1,25 +1,25 @@
 ---
-notion_id: d0a0c9df-1be2-4b61-af28-b394799bda17
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2021-03-11T00:49:00.000Z
-last_modified_at: 2022-12-19T20:49:00.000Z
 category: Etc
-published: true
-title: Novo tema para o site!
-tags:
-  - blog
-  - jekyll
-  - static site
-  - bootstrap
-  - design
-  - black in white
-  - white in black
-  - dark mode
+date: 2021-03-11 00:49:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.312355-03:00
+layout: post
+notion_id: d0a0c9df-1be2-4b61-af28-b394799bda17
+published: true
+tags:
+- blog
+- jekyll
+- static-site
+- bootstrap
+- design
+- black-in-white
+- white-in-black
+- dark-mode
+title: Novo tema para o site!
 ---
 
 E então uma coisa me incomodava quando pensava no meu site: o tema! Embora tenha usado um tema até que bem legal, o [thelehhman/plainwhite-jekyll](https://github.com/thelehhman/plainwhite-jekyll), sempre me apertava quando queria fazer personalizações um pouco mais avançadas. Isso porque quando usamos um tema, abrimos um pouco a mão da liberdade de criar como queremos, em prol de facilitar a administração do site. Inicialmente eu achava essa troca até que justa, até que me vi com uma ideia em mente: Queria o tema do meu site em "dark mode". Isso porque eu gosto destes tipos de temas, acho muito melhor para a leitura (embora sei que terei vários que vão me criticar quanto a isso).
@@ -37,4 +37,3 @@ Com isso apresento o meu novo tema, criado por mim e então até o momento sem n
 Com isso as escolhas foram usar o [Bootstrap](https://getbootstrap.com/) e um CSS personalizado para criar o "dark mode" (na realidade um SCSS). Todos os códigos são visiveis no meu projeto do GitHub, o [lpsouza.github.io](https://github.com/lpsouza/lpsouza.github.io).
 
 Era isso, um post pequeno e rápido para apresentar meu novo tema aqui no site! E aí, o que achou?
-

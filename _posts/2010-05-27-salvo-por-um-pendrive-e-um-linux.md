@@ -1,29 +1,29 @@
 ---
-notion_id: ce79a856-3787-4a2e-94fe-0cdc8bc62967
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2010-05-27T22:25:00.000Z
-last_modified_at: 2022-12-19T20:45:00.000Z
 category: Tech
-published: true
-title: Salvo por um pendrive.. E um Linux!
-tags:
-  - chkdsk
-  - disco rígido
-  - format
-  - hardware
-  - hd externo
-  - informática
-  - linux
-  - notebook
-  - problema
-  - recuperar dados
-  - sistema operacional
-  - ti
+date: 2010-05-27 22:25:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.238442-03:00
+layout: post
+notion_id: ce79a856-3787-4a2e-94fe-0cdc8bc62967
+published: true
+tags:
+- chkdsk
+- disco-rígido
+- format
+- hardware
+- hd-externo
+- informática
+- linux
+- notebook
+- problema
+- recuperar-dados
+- sistema-operacional
+- ti
+title: Salvo por um pendrive.. E um Linux!
 ---
 
 Os anos passam, mas uma frase sempre continua viva:   _"Em casa de ferreiro, espeto é de pau"_ !! E como não podemos fugir a regra, este que vos escreve está passando por uma situação muito constrangedora.
@@ -45,4 +45,3 @@ Pois é.. Por falta de $tempo$ na $agenda$ eu tomei uma atitude que muitos vão 
 Então aqui estou, vivendo com um Notebook sem HD e usando um Linux em um pendrive!! 🙂
 
 Publicado pelo Wordmobi
-

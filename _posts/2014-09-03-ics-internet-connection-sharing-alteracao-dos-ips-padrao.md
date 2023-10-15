@@ -1,30 +1,30 @@
 ---
-notion_id: 18af3da8-fee2-4762-b75e-0493fe996431
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2014-09-03T11:54:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
-published: true
-title: ICS - Internet Connection Sharing, alteração dos IPs padrão
-tags:
-  - compartilhar
-  - hyper-v
-  - ics
-  - internet connection sharing
-  - ip
-  - microsoft
-  - roteamento
-  - share
-  - winconnection
-  - windows
-  - windows 8
-  - windows 8.1
-  - wingate
+date: 2014-09-03 11:54:00+00:00
 image: https://luizsouza.com/wp-content/uploads/2014/09/enabling-ics-windows-7.png
+last_modified_at: 2023-10-15 01:01:20.295576-03:00
+layout: post
+notion_id: 18af3da8-fee2-4762-b75e-0493fe996431
+published: true
+tags:
+- compartilhar
+- hyper-v
+- ics
+- internet-connection-sharing
+- ip
+- microsoft
+- roteamento
+- share
+- winconnection
+- windows
+- windows-8
+- windows-8.1
+- wingate
+title: ICS - Internet Connection Sharing, alteração dos IPs padrão
 ---
 
 Estava pesquisando na internet sobre um problema que ocorre direto no Windows 8 (e persiste no 8.1) Pro, sobre o uso de uma placa de rede wifi em modo externo no Hyper-V. Simplesmente dá tudo quanto é tipo de erro!
@@ -42,4 +42,3 @@ Então, nas mesmas pesquisas que comentei acima, achei um outro artigo bem legal
 Lá, altere os valores de _ScopeAddress_, _ScopeAddressBackup_ e _StandaloneDhcpAddress_ para o novo endereço IP, e o Windows se encarrega do resto! 😉
 
 O artigo na integra é este: [Hyper-V, NAT and tethering with Windows 8.1 and Windows Phone](http://www.vikingweb.it/wordpress/?p=430)
-

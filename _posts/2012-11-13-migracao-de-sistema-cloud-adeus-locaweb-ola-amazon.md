@@ -1,29 +1,29 @@
 ---
-notion_id: 2a5b1041-0491-49a1-934f-edb789caf030
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-11-13T23:55:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
 category: Tech
-published: true
-title: Migração de sistema Cloud (Adeus Locaweb, olá Amazon)
-tags:
-  - amazon
-  - aws
-  - cloud
-  - comparativo
-  - computação
-  - computing
-  - instância
-  - linux
-  - locaweb
-  - núvens
-  - services
-  - web
+date: 2012-11-13 23:55:00+00:00
 image: null
+last_modified_at: 2022-12-19 20:47:00+00:00
+layout: post
+notion_id: 2a5b1041-0491-49a1-934f-edb789caf030
+published: true
+tags:
+- amazon
+- aws
+- cloud
+- comparativo
+- computação
+- computing
+- instância
+- linux
+- locaweb
+- núvens
+- services
+- web
+title: Migração de sistema Cloud (Adeus Locaweb, olá Amazon)
 ---
 
 Desde o dia 2 de Novembro, estive migrando os meus clientes da IHCenter do servidor (em cloud) que tinha na Locaweb, para a Amazon Web Services (AWS). Depois de uma semana e meia, mudei todos os clientes (incluindo, claro, o meu blog). Mas, o que levou a esta mudança?
@@ -37,4 +37,3 @@ Começou com o tempo que precisei esperar para a instância esta operacional. Do
 Hoje, no meio da manhã, terminei meu último backup de segurança da instância da Locaweb e mandei encerrar ela. Ainda levou mais tempo para encerrar a instância do que para criar uma na AWS. Parece brincadeira, mas não é! Sinceramente, sabe o que parece? Parece que deixei de ser criança no mundo de sistemas em Cloud Computing e entrei pra brincar com brinquedos de gente grande! Ahahaha...
 
 E paramos por aqui? Não! Hoje estou já com 2 instâncias na AWS, uma para os serviços web e outra só para o banco de dados! E a IHCenter, vai mudar completamente a forma de cobrar e trabalhar com hospedagens e sistemas (SaaS) que eu coordeno e desenvolvo! Bora voltar para o trabalho! 😉
-

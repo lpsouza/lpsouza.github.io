@@ -1,22 +1,22 @@
 ---
-notion_id: dacd630e-6ef8-4a2e-85e7-26c23d6795f5
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-09-18T15:19:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
 category: Tech
-published: true
-title: Celular + Windows XP = Não boto fé!
-tags:
-  - celular
-  - ha-ha!
-  - smartphone
-  - windows xp
-  - xpphone
+date: 2009-09-18 15:19:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.224237-03:00
+layout: post
+notion_id: dacd630e-6ef8-4a2e-85e7-26c23d6795f5
+published: true
+tags:
+- celular
+- ha-ha!
+- smartphone
+- windows-xp
+- xpphone
+title: Celular + Windows XP = Não boto fé!
 ---
 
 Realmente tá aí uma coisa que não boto fé mesmo! Misturar tecnologia móvel com sistema operacional para PC (Notebooks e Netbooks inclusos).
@@ -64,4 +64,3 @@ Mas aqui está o brinquedo.. Leiam, procurem, morram de rir, etc..
 > _* Weight: 400g (include battery)_
 
 via [FranckSalceBeck: Celular + Windows XP = ?](http://francksalcebeck.blogspot.com/2009/09/celular-windows-xp.html).
-

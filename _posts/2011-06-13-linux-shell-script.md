@@ -1,23 +1,23 @@
 ---
-notion_id: 10585bc7-65b5-429f-9357-ba5b20cb208d
-layout: post
 author:
+  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2011-06-13T15:32:00.000Z
-last_modified_at: 2022-12-19T20:46:00.000Z
 category: Tech
-published: true
-title: "Linux: Shell Script"
-tags:
-  - computadores
-  - fica a dica
-  - linux
-  - programação
-  - script
-  - shell script
+date: 2011-06-13 15:32:00+00:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.265316-03:00
+layout: post
+notion_id: 10585bc7-65b5-429f-9357-ba5b20cb208d
+published: true
+tags:
+- computadores
+- fica-a-dica
+- linux
+- programação
+- script
+- shell-script
+title: 'Linux: Shell Script'
 ---
 
 Tá aí uma coisa que poucos usuários linux atuais sabem mexer a fundo: Shell Script.
@@ -51,4 +51,3 @@ Se quiserem aprender mais, eu deixo uma página interessante que li hoje sobre i
 [http://www.devin.com.br/shell_script/](http://www.devin.com.br/shell_script/)
 
 Neste link, vocês podem ver um mini curso muito bem explicado de como usar os principais scripts deste poderosa ferramenta!
-
