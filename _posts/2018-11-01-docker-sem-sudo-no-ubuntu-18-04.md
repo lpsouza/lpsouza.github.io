@@ -4,9 +4,9 @@ author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
 category: Linux
-date: 2018-11-02 00:18:00+00:00
+date: 2018-11-01 21:18:00-03:00
 image: null
-last_modified_at: 2022-12-19 20:48:00+00:00
+last_modified_at: 2022-12-19 17:48:00-03:00
 layout: post
 notion_id: 5d553d82-ef13-448c-9881-18aae0e3a0ad
 published: true

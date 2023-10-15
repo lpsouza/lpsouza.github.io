@@ -4,9 +4,9 @@ author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
 category: Tech
-date: 2010-10-25 07:52:00+00:00
+date: 2010-10-25 05:52:00-02:00
 image: null
-last_modified_at: 2022-12-19 20:45:00+00:00
+last_modified_at: 2022-12-19 17:45:00-03:00
 layout: post
 notion_id: dfe2414a-b00c-430f-aafb-2a7c712dd1a6
 published: true

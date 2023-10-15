@@ -4,7 +4,7 @@ author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
 category: Etc
-date: 2009-09-08 12:53:00+00:00
+date: 2009-09-08 09:53:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.220300-03:00
 layout: post

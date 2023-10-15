@@ -4,7 +4,7 @@ author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
 category: Tech
-date: 2022-05-27 02:28:00+00:00
+date: 2022-05-26 23:28:00-03:00
 image: https://luizsouza.com/assets/notion-gerenciador.png
 last_modified_at: 2023-10-15 01:01:20.314527-03:00
 layout: post

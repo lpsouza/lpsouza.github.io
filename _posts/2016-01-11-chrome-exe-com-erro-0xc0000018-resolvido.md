@@ -4,7 +4,7 @@ author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
 category: Tech
-date: 2016-01-11 23:53:00+00:00
+date: 2016-01-11 21:53:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2016/01/chrome-error1.jpg
 last_modified_at: 2023-10-15 01:01:20.301784-03:00
 layout: post

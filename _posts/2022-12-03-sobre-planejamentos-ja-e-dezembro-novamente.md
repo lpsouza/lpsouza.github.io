@@ -4,7 +4,7 @@ author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
 category: Etc
-date: 2022-12-03 11:03:00+00:00
+date: 2022-12-03 08:03:00-03:00
 image: https://luizsouza.com/assets/xmas-2022.jpg
 last_modified_at: 2023-10-15 01:01:20.315575-03:00
 layout: post

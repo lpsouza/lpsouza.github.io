@@ -4,7 +4,7 @@ author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
 category: Tech
-date: 2014-07-27 19:06:00+00:00
+date: 2014-07-27 16:06:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2014/07/netflix.jpg
 last_modified_at: 2023-10-15 01:01:20.293872-03:00
 layout: post

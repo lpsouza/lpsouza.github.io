@@ -4,7 +4,7 @@ author:
   id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
   name: Luiz Pereira de Souza Filho
 category: Games
-date: 2021-10-19 20:30:00+00:00
+date: 2021-10-19 17:30:00-03:00
 image: https://luizsouza.com/assets/IMG_20211019_131330436.jpg
 last_modified_at: 2023-10-15 01:01:20.313414-03:00
 layout: post
