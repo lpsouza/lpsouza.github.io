@@ -8,7 +8,6 @@ date: 2021-10-08 10:13:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.312851-03:00
 layout: post
-notion_id: ce76ba00-8662-4384-842e-da1ee21b5620
 published: true
 tags:
 - docker

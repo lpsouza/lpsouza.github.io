@@ -8,7 +8,6 @@ date: 2010-06-28 07:31:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.240883-03:00
 layout: post
-notion_id: 19810f99-b03d-42b7-9949-6cec38b1bb1f
 published: true
 tags:
 - console

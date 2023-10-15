@@ -8,7 +8,6 @@ date: 2018-04-22 06:30:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2018/04/Capturar.png
 last_modified_at: 2023-10-15 01:01:20.307735-03:00
 layout: post
-notion_id: 7fb3df08-fa0b-4223-b01c-5dcdbd8ca081
 published: true
 tags:
 - '1709'

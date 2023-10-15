@@ -8,7 +8,6 @@ date: 2015-03-22 14:00:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2015/03/imagem-sublime.png
 last_modified_at: 2023-10-15 01:01:20.298377-03:00
 layout: post
-notion_id: 71415aed-a655-4395-9845-594a97ebf473
 published: true
 tags:
 - apt

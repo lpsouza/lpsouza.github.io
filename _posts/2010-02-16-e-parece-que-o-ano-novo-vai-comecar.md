@@ -8,7 +8,6 @@ date: 2010-02-16 17:14:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.234247-03:00
 layout: post
-notion_id: 86b19e70-bf52-457f-ad14-a478fdec06f3
 published: true
 tags:
 - '2010'

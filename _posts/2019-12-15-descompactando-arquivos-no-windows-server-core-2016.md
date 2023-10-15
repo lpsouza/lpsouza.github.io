@@ -8,7 +8,6 @@ date: 2019-12-15 19:27:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.310803-03:00
 layout: post
-notion_id: 871bc922-2ea6-4b4a-b98a-a7f8905d82c6
 published: true
 tags:
 - powershell

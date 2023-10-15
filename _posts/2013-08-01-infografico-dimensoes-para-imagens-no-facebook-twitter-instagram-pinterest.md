@@ -8,7 +8,6 @@ date: 2013-07-31 23:50:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.290430-03:00
 layout: post
-notion_id: d9beb943-9223-453d-b2e7-54113d04a2a5
 published: true
 tags:
 - dimensões

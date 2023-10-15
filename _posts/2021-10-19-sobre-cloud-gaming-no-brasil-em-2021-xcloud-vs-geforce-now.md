@@ -8,7 +8,6 @@ date: 2021-10-19 17:30:00-03:00
 image: https://luizsouza.com/assets/IMG_20211019_131330436.jpg
 last_modified_at: 2023-10-15 01:01:20.313414-03:00
 layout: post
-notion_id: 554f39cf-54e7-44dd-86da-b7f00e75b584
 published: true
 tags:
 - xcloud

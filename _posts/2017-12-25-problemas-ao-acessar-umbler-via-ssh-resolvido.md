@@ -8,7 +8,6 @@ date: 2017-12-25 18:42:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2017/12/Capturar.png
 last_modified_at: 2023-10-15 01:01:20.307103-03:00
 layout: post
-notion_id: d496c759-bb4c-44d2-af8a-dad10228942e
 published: true
 tags:
 - desenvolvimento

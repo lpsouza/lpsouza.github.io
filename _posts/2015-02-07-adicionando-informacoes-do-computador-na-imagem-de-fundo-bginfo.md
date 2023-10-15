@@ -8,7 +8,6 @@ date: 2015-02-07 12:44:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.296714-03:00
 layout: post
-notion_id: 10f53e09-aa52-4e09-abed-ef4857e1126a
 published: true
 tags:
 - bginfo

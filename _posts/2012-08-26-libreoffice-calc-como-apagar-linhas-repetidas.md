@@ -8,7 +8,6 @@ date: 2012-08-26 15:56:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:47:00-03:00
 layout: post
-notion_id: cac1542a-f46f-42d5-bd36-bcd62fd0b20f
 published: true
 tags: []
 title: Libreoffice Calc - Como apagar linhas repetidas

@@ -8,7 +8,6 @@ date: 2010-11-19 14:35:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.252938-03:00
 layout: post
-notion_id: 9956b157-8b36-4f1e-b247-99bbd7190ca4
 published: true
 tags:
 - apple

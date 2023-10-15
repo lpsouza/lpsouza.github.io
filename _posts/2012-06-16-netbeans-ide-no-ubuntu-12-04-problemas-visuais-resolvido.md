@@ -8,7 +8,6 @@ date: 2012-06-15 22:38:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:47:00-03:00
 layout: post
-notion_id: 25786f74-5b66-49f9-a6ea-a93efe525f2c
 published: true
 tags:
 - informática

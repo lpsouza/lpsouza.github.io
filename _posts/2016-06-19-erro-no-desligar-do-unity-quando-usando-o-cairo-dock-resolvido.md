@@ -8,7 +8,6 @@ date: 2016-06-18 22:39:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-1200x675.png
 last_modified_at: 2023-10-15 01:01:20.302315-03:00
 layout: post
-notion_id: 2181e0d7-1c32-49d8-bb26-ac6e0149d981
 published: true
 tags:
 - cairo

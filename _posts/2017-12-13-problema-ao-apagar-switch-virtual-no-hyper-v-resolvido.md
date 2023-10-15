@@ -8,7 +8,6 @@ date: 2017-12-13 21:52:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2017/12/erro-deletando-vmswitch.png
 last_modified_at: 2023-10-15 01:01:20.306553-03:00
 layout: post
-notion_id: 283598b5-f886-4ee0-8306-e52be7e02433
 published: true
 tags:
 - comutador

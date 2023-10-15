@@ -8,7 +8,6 @@ date: 2022-06-19 23:45:00-03:00
 image: https://luizsouza.com/assets/onedrive-true-colors.png
 last_modified_at: 2023-10-15 01:01:20.315044-03:00
 layout: post
-notion_id: 5d8ae434-b924-49b9-ad84-9a8fe3719e47
 published: true
 tags:
 - jogos

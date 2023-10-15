@@ -8,7 +8,6 @@ date: 2010-09-10 07:28:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.243239-03:00
 layout: post
-notion_id: c5d13625-4f7f-4f23-93ab-5897d9fd8695
 published: true
 tags:
 - br-office

@@ -8,7 +8,6 @@ date: 2012-03-07 05:49:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:46:00-03:00
 layout: post
-notion_id: 72e4b683-0147-4e83-a9fb-a2fc6d5ec21d
 published: true
 tags:
 - atualizado

@@ -8,7 +8,6 @@ date: 2018-12-08 19:31:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.309274-03:00
 layout: post
-notion_id: a11ed936-954d-4fbb-bf4b-8d3e0464a41c
 published: true
 tags:
 - containers

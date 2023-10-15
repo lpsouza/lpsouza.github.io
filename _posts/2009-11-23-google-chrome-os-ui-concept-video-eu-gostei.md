@@ -8,7 +8,6 @@ date: 2009-11-23 20:23:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.230782-03:00
 layout: post
-notion_id: 031981d6-9693-4a9a-bc51-01bd56d94808
 published: true
 tags:
 - chromeos

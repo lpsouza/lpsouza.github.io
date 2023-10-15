@@ -8,7 +8,6 @@ date: 2022-05-26 23:28:00-03:00
 image: https://luizsouza.com/assets/notion-gerenciador.png
 last_modified_at: 2023-10-15 01:01:20.314527-03:00
 layout: post
-notion_id: ddd30f6f-f17f-4484-86dc-61c4ac8f69ad
 published: true
 tags:
 - blog

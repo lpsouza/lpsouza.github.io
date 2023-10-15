@@ -8,7 +8,6 @@ date: 2010-11-30 11:30:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.257572-03:00
 layout: post
-notion_id: 69ee6ff9-e631-490a-978f-ad94a13ca818
 published: true
 tags:
 - afterstep

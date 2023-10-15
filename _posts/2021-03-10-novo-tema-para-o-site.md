@@ -8,7 +8,6 @@ date: 2021-03-10 21:49:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.312355-03:00
 layout: post
-notion_id: d0a0c9df-1be2-4b61-af28-b394799bda17
 published: true
 tags:
 - blog

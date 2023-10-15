@@ -8,7 +8,6 @@ date: 2011-04-26 16:11:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.264142-03:00
 layout: post
-notion_id: 8ce28f35-866a-41d7-b1e6-49c8e4623561
 published: true
 tags:
 - '2008'

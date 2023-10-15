@@ -8,7 +8,6 @@ date: 2009-11-27 17:44:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.231880-03:00
 layout: post
-notion_id: c00e1730-9c7a-4d04-adb6-46d9a3fd2d1f
 published: true
 tags:
 - avatar

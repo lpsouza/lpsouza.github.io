@@ -8,7 +8,6 @@ date: 2016-09-23 05:38:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2016/09/site-html-5-3-edicao.jpg
 last_modified_at: 2023-10-15 01:01:20.303941-03:00
 layout: post
-notion_id: 00cfe0e7-1483-4c90-a40f-a03549ae9c01
 published: true
 tags:
 - apache-cordova

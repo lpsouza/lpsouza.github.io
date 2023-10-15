@@ -8,7 +8,6 @@ date: 2021-11-15 11:26:00-03:00
 image: https://luizsouza.com/assets/windows-11-system.png
 last_modified_at: 2023-10-15 01:01:20.313971-03:00
 layout: post
-notion_id: 31be013b-af7d-464b-94f2-dc1a3dfbbe2a
 published: true
 tags:
 - windows

@@ -8,7 +8,6 @@ date: 2013-07-11 15:37:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.289884-03:00
 layout: post
-notion_id: 07cdbc11-66ba-4ae6-b5b5-35f32e830339
 published: true
 tags:
 - microsoft

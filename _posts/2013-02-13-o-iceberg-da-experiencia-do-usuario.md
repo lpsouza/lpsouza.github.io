@@ -8,7 +8,6 @@ date: 2013-02-13 11:06:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.288711-03:00
 layout: post
-notion_id: 1d57abd1-c219-4adf-8ac5-883df46e2b8d
 published: true
 tags:
 - desenvolvimento

@@ -8,7 +8,6 @@ date: 2014-03-29 11:21:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.293282-03:00
 layout: post
-notion_id: 10f4af7c-5882-4ee0-8c50-09c208e15f18
 published: true
 tags:
 - desktop

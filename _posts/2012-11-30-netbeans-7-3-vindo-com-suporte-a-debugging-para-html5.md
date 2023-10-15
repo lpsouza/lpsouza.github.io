@@ -8,7 +8,6 @@ date: 2012-11-30 10:00:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.287526-03:00
 layout: post
-notion_id: fbd82fe7-b284-40d7-b688-db3c87abe449
 published: true
 tags:
 - beta

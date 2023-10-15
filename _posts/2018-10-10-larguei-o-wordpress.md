@@ -8,7 +8,6 @@ date: 2018-10-10 21:52:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:48:00-03:00
 layout: post
-notion_id: 92184730-f277-4a71-a3e6-be3fb055eb00
 published: true
 tags:
 - wordpress

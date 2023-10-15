@@ -8,7 +8,6 @@ date: 2012-11-13 21:55:00-02:00
 image: null
 last_modified_at: 2022-12-19 17:47:00-03:00
 layout: post
-notion_id: 2a5b1041-0491-49a1-934f-edb789caf030
 published: true
 tags:
 - amazon

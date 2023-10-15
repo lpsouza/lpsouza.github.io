@@ -8,7 +8,6 @@ date: 2012-10-21 02:02:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.286428-03:00
 layout: post
-notion_id: 321cfe9e-af35-45fe-83c1-9fccf5288d45
 published: true
 tags:
 - analógico

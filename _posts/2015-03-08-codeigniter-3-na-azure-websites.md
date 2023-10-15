@@ -8,7 +8,6 @@ date: 2015-03-08 20:03:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.297302-03:00
 layout: post
-notion_id: df756be2-fa73-412b-95a1-b40ab874eb57
 published: true
 tags:
 - azure

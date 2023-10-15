@@ -8,7 +8,6 @@ date: 2014-09-03 08:54:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2014/09/enabling-ics-windows-7.png
 last_modified_at: 2023-10-15 01:01:20.295576-03:00
 layout: post
-notion_id: 18af3da8-fee2-4762-b75e-0493fe996431
 published: true
 tags:
 - compartilhar

@@ -8,7 +8,6 @@ date: 2010-06-28 06:22:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.239738-03:00
 layout: post
-notion_id: 4dd22bad-7456-4c4d-9363-3c0b62dfd4e6
 published: true
 tags:
 - comparação

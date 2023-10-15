@@ -8,7 +8,6 @@ date: 2017-06-18 15:15:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.305486-03:00
 layout: post
-notion_id: 55cc0bda-db2a-46e3-9d0e-e22d530983d0
 published: true
 tags:
 - download

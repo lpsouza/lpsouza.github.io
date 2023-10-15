@@ -8,7 +8,6 @@ date: 2009-08-26 11:34:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.215317-03:00
 layout: post
-notion_id: 2b5bb407-9063-4b6e-a51e-8b7ab908fac2
 published: true
 tags:
 - blog

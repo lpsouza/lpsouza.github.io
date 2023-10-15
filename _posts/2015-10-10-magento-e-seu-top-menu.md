@@ -8,7 +8,6 @@ date: 2015-10-10 16:51:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.300655-03:00
 layout: post
-notion_id: da2cb5a4-0e1c-42ee-b554-1943bf5245e4
 published: true
 tags:
 - custom

@@ -8,7 +8,6 @@ date: 2023-03-26 21:19:00-03:00
 image: https://luizsouza.com/assets/tmux-command.png
 last_modified_at: 2023-10-15 01:01:20.316112-03:00
 layout: post
-notion_id: ad2dacb7-19f1-474e-968d-f3fd3a07e7d1
 published: true
 tags:
 - linux

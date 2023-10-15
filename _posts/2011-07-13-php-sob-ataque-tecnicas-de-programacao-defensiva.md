@@ -8,7 +8,6 @@ date: 2011-07-13 05:18:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:46:00-03:00
 layout: post
-notion_id: c79e0fe0-f5bd-4be2-864f-b3eafeb48b39
 published: true
 tags:
 - computadores

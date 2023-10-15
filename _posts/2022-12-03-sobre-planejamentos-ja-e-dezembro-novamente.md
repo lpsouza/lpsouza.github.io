@@ -8,7 +8,6 @@ date: 2022-12-03 08:03:00-03:00
 image: https://luizsouza.com/assets/xmas-2022.jpg
 last_modified_at: 2023-10-15 01:01:20.315575-03:00
 layout: post
-notion_id: 192774ce-78d0-456f-9985-22ed2afb56d2
 published: true
 tags:
 - opnião

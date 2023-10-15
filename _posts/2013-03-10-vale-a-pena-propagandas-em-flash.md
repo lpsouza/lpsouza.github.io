@@ -8,7 +8,6 @@ date: 2013-03-10 09:10:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.289305-03:00
 layout: post
-notion_id: 15ce06ea-8128-41a1-9461-3cd8ed6f07c5
 published: true
 tags:
 - css

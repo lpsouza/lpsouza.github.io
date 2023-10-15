@@ -8,7 +8,6 @@ date: 2009-10-12 05:07:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2009/10/tela-chkdsk.png
 last_modified_at: 2023-10-15 01:01:20.227798-03:00
 layout: post
-notion_id: c7cf1bf9-df43-4216-8068-0688bceb247c
 published: true
 tags:
 - chkdsk

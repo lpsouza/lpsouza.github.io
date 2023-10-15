@@ -8,7 +8,6 @@ date: 2012-07-04 05:48:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:47:00-03:00
 layout: post
-notion_id: 7de2602e-43b4-46db-8e36-6218f9113e93
 published: true
 tags:
 - alerta

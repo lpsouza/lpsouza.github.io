@@ -8,7 +8,6 @@ date: 2015-03-10 13:30:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.297827-03:00
 layout: post
-notion_id: 5299eecb-941a-495d-9944-f7b6d6adf8e2
 published: true
 tags:
 - codeigniter

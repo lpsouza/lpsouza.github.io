@@ -8,7 +8,6 @@ date: 2011-12-14 15:17:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.268650-03:00
 layout: post
-notion_id: 7443f440-7ab8-4e02-a7df-ef10078a5bdc
 published: true
 tags:
 - informação

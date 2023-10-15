@@ -8,7 +8,6 @@ date: 2015-05-10 22:28:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.299557-03:00
 layout: post
-notion_id: 6c7b1127-1f05-4695-9348-ac4ef64e367e
 published: true
 tags:
 - 1st-gen

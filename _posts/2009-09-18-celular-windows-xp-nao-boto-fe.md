@@ -8,7 +8,6 @@ date: 2009-09-18 12:19:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.224237-03:00
 layout: post
-notion_id: dacd630e-6ef8-4a2e-85e7-26c23d6795f5
 published: true
 tags:
 - celular

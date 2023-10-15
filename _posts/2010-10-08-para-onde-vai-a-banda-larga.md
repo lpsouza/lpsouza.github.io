@@ -8,7 +8,6 @@ date: 2010-10-08 20:50:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:45:00-03:00
 layout: post
-notion_id: 9bcc4d51-df3d-4eb2-a545-5d2668393588
 published: true
 tags: []
 title: Para onde vai a banda larga?

@@ -8,7 +8,6 @@ date: 2014-08-30 13:27:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2014/08/0x00000113.png
 last_modified_at: 2023-10-15 01:01:20.295002-03:00
 layout: post
-notion_id: 4274e214-7c17-428b-866e-2210a7da696b
 published: true
 tags:
 - '0x00000113'

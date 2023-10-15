@@ -8,7 +8,6 @@ date: 2017-08-11 17:37:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2017/08/Capturar2.png
 last_modified_at: 2023-10-15 01:01:20.306002-03:00
 layout: post
-notion_id: b669982a-3c90-47b1-bdff-85c7c47396c7
 published: true
 tags:
 - fica-a-dica

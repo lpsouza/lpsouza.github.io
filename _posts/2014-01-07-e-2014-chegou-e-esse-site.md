@@ -8,7 +8,6 @@ date: 2014-01-07 11:33:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.290941-03:00
 layout: post
-notion_id: 58b4e4c8-cb8a-42d9-981f-e81f1f63ddb1
 published: true
 tags:
 - '2014'

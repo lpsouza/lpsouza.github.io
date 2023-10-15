@@ -8,7 +8,6 @@ date: 2014-07-27 16:06:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2014/07/netflix.jpg
 last_modified_at: 2023-10-15 01:01:20.293872-03:00
 layout: post
-notion_id: 799742a1-a267-41cb-85c2-1e8581751a02
 published: true
 tags:
 - computadores

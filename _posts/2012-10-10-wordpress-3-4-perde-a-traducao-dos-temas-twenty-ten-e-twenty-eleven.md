@@ -8,7 +8,6 @@ date: 2012-10-10 08:10:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.285904-03:00
 layout: post
-notion_id: b420673f-76d1-4504-924d-ad7913f8d488
 published: true
 tags:
 - dica

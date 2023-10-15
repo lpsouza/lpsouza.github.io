@@ -8,7 +8,6 @@ date: 2016-01-11 21:53:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2016/01/chrome-error1.jpg
 last_modified_at: 2023-10-15 01:01:20.301784-03:00
 layout: post
-notion_id: 45a6b6c9-895b-4980-b456-e40ea2c26f93
 published: true
 tags:
 - '0xc0000018'

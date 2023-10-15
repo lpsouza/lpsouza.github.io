@@ -8,7 +8,6 @@ date: 2015-12-19 10:45:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.301199-03:00
 layout: post
-notion_id: 152a38ca-55a0-493f-ad45-21ec8afe7349
 published: true
 tags:
 - cloud

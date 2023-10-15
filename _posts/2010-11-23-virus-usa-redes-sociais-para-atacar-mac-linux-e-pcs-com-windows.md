@@ -8,7 +8,6 @@ date: 2010-11-23 07:09:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.256393-03:00
 layout: post
-notion_id: f75db3f8-1538-4c9e-a0cd-b33fb6d80796
 published: true
 tags:
 - facebook

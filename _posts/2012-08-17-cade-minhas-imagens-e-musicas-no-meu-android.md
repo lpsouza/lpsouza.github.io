@@ -8,7 +8,6 @@ date: 2012-08-17 07:48:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:47:00-03:00
 layout: post
-notion_id: d92a6c5d-087a-4f8f-a758-7dc4ccc8c01c
 published: true
 tags:
 - android

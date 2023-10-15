@@ -8,7 +8,6 @@ date: 2012-06-08 07:55:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:46:00-03:00
 layout: post
-notion_id: c3e3b075-6a4d-4a41-829a-c2a3f5197cda
 published: true
 tags: []
 title: Design Web.. Profissão perigo!

@@ -8,7 +8,6 @@ date: 2014-01-08 00:13:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
 last_modified_at: 2023-10-15 01:01:20.291477-03:00
 layout: post
-notion_id: 7a6cd34b-204c-4237-b00d-4968d41e738b
 published: true
 tags:
 - bcdedit

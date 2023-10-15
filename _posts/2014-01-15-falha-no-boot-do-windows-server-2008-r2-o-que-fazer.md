@@ -8,7 +8,6 @@ date: 2014-01-15 10:04:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2014/01/repair.jpg
 last_modified_at: 2023-10-15 01:01:20.292131-03:00
 layout: post
-notion_id: 2a016a73-3a11-4208-94b2-6c8765637202
 published: true
 tags:
 - boot

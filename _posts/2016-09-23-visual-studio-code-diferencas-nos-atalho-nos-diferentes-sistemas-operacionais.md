@@ -8,7 +8,6 @@ date: 2016-09-23 19:14:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.304460-03:00
 layout: post
-notion_id: fc986a7c-84d1-4650-8b59-415b77407e8a
 published: true
 tags:
 - atalhos

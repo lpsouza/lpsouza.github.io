@@ -8,7 +8,6 @@ date: 2016-09-11 04:07:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.303372-03:00
 layout: post
-notion_id: 0ccfb487-3dc9-41db-ae17-066341170a96
 published: true
 tags:
 - code

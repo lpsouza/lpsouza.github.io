@@ -8,7 +8,6 @@ date: 2012-05-14 12:30:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:46:00-03:00
 layout: post
-notion_id: b1bc7d62-319e-476e-9613-c67dc31fdb4d
 published: true
 tags:
 - algoritimo

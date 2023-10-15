@@ -8,7 +8,6 @@ date: 2009-08-31 13:19:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:44:00-03:00
 layout: post
-notion_id: 19ba6ce7-4769-4f20-bcb7-a84be3b59634
 published: true
 tags:
 - mobilidade

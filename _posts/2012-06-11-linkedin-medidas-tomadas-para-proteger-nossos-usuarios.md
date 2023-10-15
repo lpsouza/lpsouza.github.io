@@ -8,7 +8,6 @@ date: 2012-06-11 06:53:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.279533-03:00
 layout: post
-notion_id: 03f865ae-3b9e-4fab-bda0-5ec0fce52c45
 published: true
 tags:
 - fica-a-dica

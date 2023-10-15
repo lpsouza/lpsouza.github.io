@@ -8,7 +8,6 @@ date: 2009-12-11 07:49:00-02:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.232432-03:00
 layout: post
-notion_id: 13f90205-c608-44a8-9d82-336e5ec93355
 published: true
 tags:
 - 3g

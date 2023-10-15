@@ -8,7 +8,6 @@ date: 2012-06-11 09:08:00-03:00
 image: null
 last_modified_at: 2022-12-19 17:46:00-03:00
 layout: post
-notion_id: 0d2d86fd-a54b-466d-98e8-f803a0aa311b
 published: true
 tags: []
 title: Falha no MySQL permite acesso mesmo com senha incorreta

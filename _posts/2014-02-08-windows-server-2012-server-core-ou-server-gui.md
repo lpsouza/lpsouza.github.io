@@ -8,7 +8,6 @@ date: 2014-02-08 18:39:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2014/02/IC2357571.png
 last_modified_at: 2023-10-15 01:01:20.292696-03:00
 layout: post
-notion_id: 657efba8-a72a-4858-937a-cfdbf7207ecc
 published: true
 tags:
 - computadores

@@ -8,7 +8,6 @@ date: 2009-09-14 17:35:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.222439-03:00
 layout: post
-notion_id: 761a76a1-cced-4c2d-9595-a304cbf5c5bb
 published: true
 tags:
 - controle

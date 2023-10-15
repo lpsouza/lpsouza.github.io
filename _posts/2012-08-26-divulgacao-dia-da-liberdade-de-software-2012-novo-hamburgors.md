@@ -8,7 +8,6 @@ date: 2012-08-26 17:52:00-03:00
 image: null
 last_modified_at: 2023-10-15 01:01:20.283827-03:00
 layout: post
-notion_id: f7cce373-279c-4623-8a3e-240e323687c2
 published: true
 tags:
 - evento
