@@ -3,7 +3,7 @@ author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2020-07-12 14:41:00-03:00
 image: null
-last_modified_at: 2023-10-15 01:55:00-03:00
+last_modified_at: 2023-10-15 02:01:00-03:00
 layout: post
 published: true
 tags:
@@ -20,23 +20,14 @@ A um pouco mais de um ano, publiquei um post onde comentei da minha [mudança do
 Bom, mas como diria [Joseph Climber](https://www.youtube.com/watch?v=d88x4qZ_zKU), "a vida é uma caixinha de surpresas" e com isso percebi que perdi a vontade de escrever posts no meu blog em Jekyll! E porque?!?? Porque criei uma "dificuldade" em ter que sempre que escrever um post, criar um metadata (exemplo abaixo) com as informações do post. E aí comecei a criar soluções "não elegantes" para isso (lê-se criar um script no meu notebook, outro script em outro computador, esquecer em um terceiro computador, ficar carente no celular, etc). Poxa! Exatamente o que eu queria de praticidade, eu estava criando uma bola de neve! O que fazer?
 
 ```yaml
-
 ---
-
 layout: blog
-
 author: Luiz Pereira de Souza Filho
-
 date: '2020-07-12 14:41:00-03:00'
-
 category: Blogging
-
 published: false
-
 title: Criando posts para Jekyll usando o Prose.io
-
 ---
-
 ```
 
 Com isso eu comecei a pesquisar soluções de como "escrever como no Wordpress, para Jekyll" e encontrei diversas soluções (sinceramente muitas pagas) e cheguei a duas soluções: O [Netlify CMS](https://netlifycms.org/) e o [Prose.io](https://prose.io/). Ambas as soluções se apresentam como gratuitas, e esse foi o meu motivador para testar.
@@ -46,75 +37,40 @@ Comecei pelo **Netlify CMS**, porque ele apresenta uma instalação "plug'n play
 Depois comecei a ver como funciona o **Prose.io** e reparei que ele é realmente gratuito (yeah), mas precisaria acessar a URL dele, com uma autenticação Oauth com o Github. E a configuração de como eu preciso das tais metadata ficam no meu arquivo de configuração do Jekyll, o `_config.yml`. Aqui coloco como fiz minhas configurações:
 
 ```yaml
-
 prose:
-
     rooturl: "_posts"
-
     siteurl: "https://luizsouza.com/"
-
     media: "media"
-
     metadata:
-
         _posts:
-
             - name: "title"
-
               field:
-
                   element: "text"
-
                   label: "title"
-
             - name: "date"
-
               field:
-
                   element: "hidden"
-
                   value: CURRENT_DATETIME
-
             - name: "author"
-
               field:
-
                   element: "hidden"
-
                   value: CURRENT_USER
-
             - name: "layout"
-
               field:
-
                   element: "hidden"
-
                   value: "blog"
-
             - name: "category"
-
               field:
-
                   element: "select"
-
                   options:
-
                       - name: "Blogging"
-
                         value: "Blogging"
-
                       - name: "Tech"
-
                         value: "Tech"
-
                       - name: "Linux"
-
                         value: "Linux"
-
                       - name: "Games"
-
                         value: "Games"
-
 ```
 
 Por fim eu fiz este post utilizando o **Prose.io** e curti bastante! Ele é extremamente simples de usar e ainda continuo com a liberdade de produzir posts nele (de maneira facilitada com o uso das metadata) e na forma tradicional utilizando qualquer editor de texto, em qualquer sistema operacional!
