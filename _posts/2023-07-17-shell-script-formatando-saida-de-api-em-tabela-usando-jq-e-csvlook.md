@@ -3,7 +3,7 @@ author: Luiz Pereira de Souza Filho
 category: Linux
 date: 2023-07-17 12:40:00-03:00
 image: https://asciinema.org/a/9AzN9fY1oNHO1b8xaEYKOhUA4.svg
-last_modified_at: 2023-10-15 01:01:20.316650-03:00
+last_modified_at: 2023-10-19 17:29:00-03:00
 layout: post
 published: true
 tags:
