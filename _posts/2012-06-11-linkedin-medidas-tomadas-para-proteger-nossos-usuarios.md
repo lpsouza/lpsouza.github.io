@@ -1,24 +1,20 @@
 ---
-notion_id: 03f865ae-3b9e-4fab-bda0-5ec0fce52c45
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-06-11T09:53:00.000Z
-last_modified_at: 2022-12-19T20:46:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: "LinkedIn: Medidas Tomadas para Proteger Nossos Usuários"
-tags:
-  - fica a dica
-  - hack
-  - hackers
-  - hash
-  - linkedin
-  - redes sociais
-  - senhas
+date: 2012-06-11 06:53:00-03:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.279533-03:00
+layout: post
+published: true
+tags:
+- fica-a-dica
+- hack
+- hackers
+- hash
+- linkedin
+- redes-sociais
+- senhas
+title: 'LinkedIn: Medidas Tomadas para Proteger Nossos Usuários'
 ---
 
 Como minha conta foi uma das que foram comprometidas, acredito que de muitas pessoas devam ter acontecido o mesmo. Então segue as explicações do Vicente Silveira, do LinkedIn.
@@ -44,4 +40,3 @@ Como minha conta foi uma das que foram comprometidas, acredito que de muitas pes
 Sugiro a todos que usam senhas iguais em diversos serviços na internet que troquem suas senhas imediatamente!
 
 via [Blog do LinkedIn » Medidas Tomadas para Proteger Nossos Usuários](http://blog.linkedin.com/2012/06/07/taking-steps-to-protect-our-members).
-

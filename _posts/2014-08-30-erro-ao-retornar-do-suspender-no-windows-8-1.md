@@ -1,32 +1,28 @@
 ---
-notion_id: 4274e214-7c17-428b-866e-2210a7da696b
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2014-08-30T16:27:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Erro ao retornar do suspender no Windows 8.1
-tags:
-  - "0x00000113"
-  - 8670m
-  - amd
-  - direct x
-  - erro
-  - fica a dica
-  - fix it
-  - hd graphics
-  - intel
-  - microsoft
-  - radeon
-  - sfc
-  - video
-  - windows
-  - windows 8.1
+date: 2014-08-30 13:27:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2014/08/0x00000113.png
+last_modified_at: 2023-10-15 01:01:20.295002-03:00
+layout: post
+published: true
+tags:
+- '0x00000113'
+- 8670m
+- amd
+- direct-x
+- erro
+- fica-a-dica
+- fix-it
+- hd-graphics
+- intel
+- microsoft
+- radeon
+- sfc
+- video
+- windows
+- windows-8.1
+title: Erro ao retornar do suspender no Windows 8.1
 ---
 
 Estive com um problema nas últimas semanas com meu notebook, onde ao retornar de um suspender, ele simplesmente reiniciava! Para os mais leigos, quando um computador com Windows (desktop) reiniciar do nada, ou por uma ação, é bem provável que é um caso de BSOD (Blue Screen Of Death), ou a famosa "Tela Azul Da Morte".
@@ -58,4 +54,3 @@ No artigo, pede para rodar um hotfix lançado pela Microsoft. Para quem quiser, 
 Problema resolvido! 😀
 
 **Edit 22/04/2018**: O link da Microsoft para o FixIt leva a uma mensagem do fim do suporte ao FixIt! Mas nosso amigo [Douglas](https://luizsouza.com/2014/08/30/erro-ao-retornar-do-suspender-no-windows-8-1/#comment-4122478287) conseguiu uma alma caridosa que subiu no Mega o arquivo! Segue o link: [https://mega.nz/#!kdsUxSJR!lYUkppKJjNtSJ\_xJoubqrrV\_dPLdPMKlMV0kmVojdk8](https://mega.nz/#!kdsUxSJR!lYUkppKJjNtSJ_xJoubqrrV_dPLdPMKlMV0kmVojdk8)
-

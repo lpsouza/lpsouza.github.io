@@ -1,28 +1,24 @@
 ---
-notion_id: b669982a-3c90-47b1-bdff-85c7c47396c7
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2017-08-11T20:37:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Instalando múltiplas versões do Node.JS [Resolvido]
-tags:
-  - fica a dica
-  - install
-  - installer
-  - node
-  - node.js
-  - nodejs
-  - npm
-  - nvm
-  - programação
-  - versions
-  - versões
+date: 2017-08-11 17:37:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2017/08/Capturar2.png
+last_modified_at: 2023-10-15 01:01:20.306002-03:00
+layout: post
+published: true
+tags:
+- fica-a-dica
+- install
+- installer
+- node
+- node.js
+- nodejs
+- npm
+- nvm
+- programação
+- versions
+- versões
+title: Instalando múltiplas versões do Node.JS [Resolvido]
 ---
 
 Eu nunca sei qual versão do Node.JS usar... A mais recente, onde tenho um monte de implementações novas como chamadas async, ou se uso a versão LTS e mantenho "tudo compatível"... Pois então, esse dilema é parte da minha vida de desenvolvedor em casa, onde sempre que posso uso a versão mais recente, mas quando vou usar algo de terceiro, como um ionic da vida, sempre tenho que desinstalar a versão mais recente e instalar a LTS.
@@ -58,4 +54,3 @@ Esta solução foi baseada neste dois links abaixo:
 * <https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/>
 
 * <http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/>
-

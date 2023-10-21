@@ -1,31 +1,27 @@
 ---
-notion_id: 45a6b6c9-895b-4980-b456-e40ea2c26f93
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2016-01-11T23:53:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Chrome.exe com erro 0xc0000018 [Resolvido]
-tags:
-  - "0xc0000018"
-  - browser
-  - browsers
-  - chrome
-  - edge
-  - erro
-  - error
-  - fica a dica
-  - internet explorer
-  - microsoft
-  - navegadores
-  - registro
-  - windows
-  - windows 10
+date: 2016-01-11 21:53:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2016/01/chrome-error1.jpg
+last_modified_at: 2023-10-15 01:01:20.301784-03:00
+layout: post
+published: true
+tags:
+- '0xc0000018'
+- browser
+- browsers
+- chrome
+- edge
+- erro
+- error
+- fica-a-dica
+- internet-explorer
+- microsoft
+- navegadores
+- registro
+- windows
+- windows-10
+title: Chrome.exe com erro 0xc0000018 [Resolvido]
 ---
 
 Agora a pouco liguei meu notebook no meu Windows 10, já que fazia uns dias que só estava usando o meu Linux e quando fui abrir meu Google Chrome, me deparei com esta mensagem abaixo:
@@ -49,4 +45,3 @@ A solução para mim foi um pouco diferente do que ele comenta no post, mas foi 
 Reiniciando o computador, consegui acesso a todos os executáveis que estavam dando erro de acesso!
 
 Era isso pessoal! 😉
-

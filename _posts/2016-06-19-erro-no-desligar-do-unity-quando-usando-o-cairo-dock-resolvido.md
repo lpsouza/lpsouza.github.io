@@ -1,27 +1,23 @@
 ---
-notion_id: 2181e0d7-1c32-49d8-bb26-ac6e0149d981
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2016-06-19T01:39:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Erro no desligar do Unity quando usando o Cairo Dock [Resolvido]
-tags:
-  - cairo
-  - cairo dock
-  - computadores
-  - desligar
-  - dock
-  - fica a dica
-  - linux
-  - shutdown
-  - ubuntu
-  - unity
+date: 2016-06-18 22:39:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-1200x675.png
+last_modified_at: 2023-10-15 01:01:20.302315-03:00
+layout: post
+published: true
+tags:
+- cairo
+- cairo-dock
+- computadores
+- desligar
+- dock
+- fica-a-dica
+- linux
+- shutdown
+- ubuntu
+- unity
+title: Erro no desligar do Unity quando usando o Cairo Dock [Resolvido]
 ---
 
 Faz uns meses que resolvi dar uma cara de "Mac OS" para o meu Ubuntu. Como chamei, o meu [Mac OSX Pobre Edition](https://www.instagram.com/p/BFZ-GcKMGDo/), hehehe. Para fazer isso eu instalei o Cairo Dock no meu Ubuntu 14.04, com a interface padrão do Unity. Ok, até que ficou legal! Olha esse screenshot:
@@ -39,4 +35,3 @@ Uma vez dentro do arquivo, vá ao final dele e adicione:
 `X-GNOME-Autostart-Delay=20`
 
 Salve o arquivo e reinicie o Unity. Resolvido! 😀
-

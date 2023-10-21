@@ -1,31 +1,27 @@
 ---
-notion_id: 283598b5-f886-4ee0-8306-e52be7e02433
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2017-12-13T23:52:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Problema ao apagar switch virtual no Hyper-V [Resolvido]
-tags:
-  - comutador
-  - comutador virtual
-  - fall creators update
-  - fica a dica
-  - hyper-v
-  - hypervisor
-  - microsoft
-  - nat
-  - powershell
-  - rede
-  - switch
-  - vswitch
-  - windows
-  - windows 10
+date: 2017-12-13 21:52:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2017/12/erro-deletando-vmswitch.png
+last_modified_at: 2023-10-15 01:01:20.306553-03:00
+layout: post
+published: true
+tags:
+- comutador
+- comutador-virtual
+- fall-creators-update
+- fica-a-dica
+- hyper-v
+- hypervisor
+- microsoft
+- nat
+- powershell
+- rede
+- switch
+- vswitch
+- windows
+- windows-10
+title: Problema ao apagar switch virtual no Hyper-V [Resolvido]
 ---
 
 Após instalada a versão 1709 do Windows 10, também conhecida como _Fall Creators Update_, comecei a ter problemas com os switchs virtuais do Hyper-V. Bom, como não costumo ser um usuário "padrão", eu havia um diferêncial: Alem do Hyper-V, já estava instalado antes da atualização, havia também o Docker instalado em sua versão 17.09. Então o que antes havia apenas o switch "DockerNAT", agora surgiu mais dois! Um tal de "Opção Padrão" e um "nat" e logo pensei: Ué? Quem mandou ter mais de um vSwitch aqui (Sim, tenho uns ticks)? Eis que me deparei com uma surpresa "agradável".
@@ -59,4 +55,3 @@ Remove-Item .\E42053F4-A8F7-4062-97DF-F7EAB1156438\
 Escolha a opção [S] e resolvido! Não existe mais este switch virtual!
 
 BONUS: Se por um acaso acontecer como aconteceu comigo, de continuar o switch virtual aparecendo no Hyper-V, olhe seus dispositivos de rede se não há um adaptador de rede do Hyper-V dando erro. Se sim, basta remover ele!
-

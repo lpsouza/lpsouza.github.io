@@ -1,27 +1,23 @@
 ---
-notion_id: dfe2414a-b00c-430f-aafb-2a7c712dd1a6
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2010-10-25T07:52:00.000Z
-last_modified_at: 2022-12-19T20:45:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Emails, Spam e uma pitada de PGP!
-tags:
-  - criptografia
-  - datacenter
-  - email
-  - isp
-  - mail
-  - marketing
-  - pgp
-  - pop3
-  - smtp
-  - spam
+date: 2010-10-25 05:52:00-02:00
 image: null
+last_modified_at: 2022-12-19 17:45:00-03:00
+layout: post
+published: true
+tags:
+- criptografia
+- datacenter
+- email
+- isp
+- mail
+- marketing
+- pgp
+- pop3
+- smtp
+- spam
+title: Emails, Spam e uma pitada de PGP!
 ---
 
 Eu me indigno com algumas piadas que os ISP/DC inventam para dizer que estão combatendo o SPAM, e ao mesmo tempo criando formas agregadas de continuar com o SPAM, com outro nome. Essa semana aconteceu um problema com um dos meus serviços mais antigos a clientes: Relayhost (ou smarthost). Tá, para quem não entende ou para quem não ta familiarizado com o termo, este  é um sistema antigo que era usado na epoca que a internet não era tão simples e nem tão barata, mas as empresas já queriam ter emails corporativos dentro da empresa. Com internet discada mesmo eles podiam ter este serviço corporativo, usando um servidor de emails externo e disponível na internet 24/7 para manter os emails (entrega e recebimento). Para isso bastava o servidor da empresa (aquele que ficava dentro de uma internet “on-demand”), quando se conectava a internet, enviar os emails para este servidor disponível, e receber o que foi enviado a ele enquanto o período offline do servidor da empresa. Para isso usava-se uma mescla de eSMTP e as vezes POP3 (usando-se de um sistema de fetch no lado do cliente).
@@ -33,4 +29,3 @@ Gente, vamos ser sinceros: Marketing? Isso é a forma charmosa de dizer: Quer ma
 Deixa esclarecer o que é o PGP nos emails: Esta é uma ferramenta de criptografia e assinatura digital, de forma assimétrica, que garante a confiabilidade dos dados ali contidos no email. Então, como uma praga, como é o SPAM poderia continuar, se todos os emails exigissem a legitimidade do mesmo? Isso é o tipo de informação que não é todos que tem acesso, então, fica a dica… Querem confiabilidade e assinatura digital? PGP nele!
 
 Agora, que é triste como o mercado anda agindo, no que diz repeito a emails.. Isso está! Viva ao lixo eletrônico!
-

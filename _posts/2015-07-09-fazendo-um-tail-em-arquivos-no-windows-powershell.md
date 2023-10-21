@@ -1,24 +1,20 @@
 ---
-notion_id: 4e6540c5-c67a-474e-b690-12d0396c3a1f
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2015-07-09T12:31:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Fazendo um "tail" em arquivos no Windows [PowerShell]
-tags:
-  - fica a dica
-  - informática
-  - log
-  - powershell
-  - sistema operacional
-  - tail
-  - windows
+date: 2015-07-09 09:31:00-03:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.300133-03:00
+layout: post
+published: true
+tags:
+- fica-a-dica
+- informática
+- log
+- powershell
+- sistema-operacional
+- tail
+- windows
+title: Fazendo um "tail" em arquivos no Windows [PowerShell]
 ---
 
 Sempre que estou usando meu ambiente em Windows, acho um problema a forma de fazer um "tail" nos arquivos, para ler em tempo de inserção (normalmente arquivos de log).
@@ -40,4 +36,3 @@ Get-Content myTestLog.log -wait | where { $_ -match "WARNING" }
 ```
 
 Barbadinha né? 😉
-

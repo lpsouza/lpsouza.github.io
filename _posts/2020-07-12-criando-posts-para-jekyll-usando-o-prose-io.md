@@ -1,22 +1,18 @@
 ---
-notion_id: 9ed77b45-e0fe-4c85-88f9-d82e52355c2b
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2020-07-12T17:41:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Criando posts para Jekyll usando o Prose.io
-tags:
-  - jekyll
-  - prose
-  - prose.io
-  - blog
-  - markdown
+date: 2020-07-12 14:41:00-03:00
 image: null
+last_modified_at: 2023-10-15 02:01:00-03:00
+layout: post
+published: true
+tags:
+- jekyll
+- prose
+- prose.io
+- blog
+- markdown
+title: Criando posts para Jekyll usando o Prose.io
 ---
 
 A um pouco mais de um ano, publiquei um post onde comentei da minha [mudança do Wordpress para usar o Jekyll](https://luizsouza.com/2018/10/10/larguei-o-wordpress/) e lá apresento minha opinião sobre usar páginas estáticas para manter meu blog, usando arquivos em formato [Markdown](https://daringfireball.net/projects/markdown/). Bom, isso pareceu bem simples e prático, porque posso escrever um post virtualmente com qualquer sistema operacional, mesmo com ou sem interface gráfica ou ainda com ou sem um navegador! 😍
@@ -24,23 +20,14 @@ A um pouco mais de um ano, publiquei um post onde comentei da minha [mudança do
 Bom, mas como diria [Joseph Climber](https://www.youtube.com/watch?v=d88x4qZ_zKU), "a vida é uma caixinha de surpresas" e com isso percebi que perdi a vontade de escrever posts no meu blog em Jekyll! E porque?!?? Porque criei uma "dificuldade" em ter que sempre que escrever um post, criar um metadata (exemplo abaixo) com as informações do post. E aí comecei a criar soluções "não elegantes" para isso (lê-se criar um script no meu notebook, outro script em outro computador, esquecer em um terceiro computador, ficar carente no celular, etc). Poxa! Exatamente o que eu queria de praticidade, eu estava criando uma bola de neve! O que fazer?
 
 ```yaml
-
 ---
-
 layout: blog
-
-author: lpsouza
-
-date: '2020-07-12 14:41 -0300'
-
+author: Luiz Pereira de Souza Filho
+date: '2020-07-12 14:41:00-03:00'
 category: Blogging
-
 published: false
-
 title: Criando posts para Jekyll usando o Prose.io
-
 ---
-
 ```
 
 Com isso eu comecei a pesquisar soluções de como "escrever como no Wordpress, para Jekyll" e encontrei diversas soluções (sinceramente muitas pagas) e cheguei a duas soluções: O [Netlify CMS](https://netlifycms.org/) e o [Prose.io](https://prose.io/). Ambas as soluções se apresentam como gratuitas, e esse foi o meu motivador para testar.
@@ -50,78 +37,42 @@ Comecei pelo **Netlify CMS**, porque ele apresenta uma instalação "plug'n play
 Depois comecei a ver como funciona o **Prose.io** e reparei que ele é realmente gratuito (yeah), mas precisaria acessar a URL dele, com uma autenticação Oauth com o Github. E a configuração de como eu preciso das tais metadata ficam no meu arquivo de configuração do Jekyll, o `_config.yml`. Aqui coloco como fiz minhas configurações:
 
 ```yaml
-
 prose:
-
     rooturl: "_posts"
-
     siteurl: "https://luizsouza.com/"
-
     media: "media"
-
     metadata:
-
         _posts:
-
             - name: "title"
-
               field:
-
                   element: "text"
-
                   label: "title"
-
             - name: "date"
-
               field:
-
                   element: "hidden"
-
                   value: CURRENT_DATETIME
-
             - name: "author"
-
               field:
-
                   element: "hidden"
-
                   value: CURRENT_USER
-
             - name: "layout"
-
               field:
-
                   element: "hidden"
-
                   value: "blog"
-
             - name: "category"
-
               field:
-
                   element: "select"
-
                   options:
-
                       - name: "Blogging"
-
                         value: "Blogging"
-
                       - name: "Tech"
-
                         value: "Tech"
-
                       - name: "Linux"
-
                         value: "Linux"
-
                       - name: "Games"
-
                         value: "Games"
-
 ```
 
 Por fim eu fiz este post utilizando o **Prose.io** e curti bastante! Ele é extremamente simples de usar e ainda continuo com a liberdade de produzir posts nele (de maneira facilitada com o uso das metadata) e na forma tradicional utilizando qualquer editor de texto, em qualquer sistema operacional!
 
 E era isso! EOF ✌
-

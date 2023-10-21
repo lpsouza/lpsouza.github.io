@@ -1,23 +1,19 @@
 ---
-notion_id: 92184730-f277-4a71-a3e6-be3fb055eb00
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2018-10-11T00:52:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Etc
-published: true
-title: Larguei o Wordpress!
-tags:
-  - wordpress
-  - blog
-  - migração
-  - jekyll
-  - static
-  - markdown
+date: 2018-10-10 21:52:00-03:00
 image: null
+last_modified_at: 2022-12-19 17:48:00-03:00
+layout: post
+published: true
+tags:
+- wordpress
+- blog
+- migração
+- jekyll
+- static
+- markdown
+title: Larguei o Wordpress!
 ---
 
 Comecei este meu blog em 2009 (Caramba! Ano que vem faz 10 anos já!) com o post [Novo point! Bem vindo a minha página pessoal!](/2009/08/21/novo-point-bem-vindo-a-minha-pagina-pessoal/). Naquela época eu comecei a usar o Wordpress como solução para administrar o blog. Daquela época pra cá, o Wordpress cresceu e se tornou um dos maiores [CMS](https://pt.wikipedia.org/wiki/Sistema_de_gerenciamento_de_conte%C3%BAdo) do mercado e se tornando [o CMS mais usado no mundo e o que detêm mais da metade do market share mundial](https://w3techs.com/technologies/overview/content_management/all).
@@ -39,4 +35,3 @@ Faz poucos dias que migrei o site que tinha hospedado na [Umbler](https://app.um
 Ok, quem me conhece e sabe que desenvolvo alguns sites por aí deve estar se perguntando se eu larguei o Wordpress de vez e vou usar o Jekyll nos meus clientes... E a resposta é simples: Não, não vou usar Jekyll e vou continuar a usar o Wordpress para os clientes... E porque?!?? Essa é bem simples: Meus clientes precisam de facilidade, simplicidade e um sistema perfeito de controle! Então será sempre o velho combo: Wordpress hospedado na Umbler (PHP + MySQL)! ;-)
 
 E era isso! See ya!
-

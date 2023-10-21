@@ -1,30 +1,26 @@
 ---
-notion_id: 152a38ca-55a0-493f-ad45-21ec8afe7349
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2015-12-19T12:45:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: "Mundo das nuvens: Swap em linux"
-tags:
-  - cloud
-  - cloud computing
-  - compute
-  - linux
-  - memory
-  - storage
-  - swap
-  - swap memory
-  - swapfile
-  - virtual machine
-  - virtual memory
-  - vm
-  - vm image
+date: 2015-12-19 10:45:00-02:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.301199-03:00
+layout: post
+published: true
+tags:
+- cloud
+- cloud-computing
+- compute
+- linux
+- memory
+- storage
+- swap
+- swap-memory
+- swapfile
+- virtual-machine
+- virtual-memory
+- vm
+- vm-image
+title: 'Mundo das nuvens: Swap em linux'
 ---
 
 Desde que iniciei minha vida nas nuvens (cloud computing ou cloud services), uma questão que sempre tenho que resolver, é a questão de criar a memória de swap. Os provedores de nuvem pública não deixam configurados espaços de memória swap, mas porque?
@@ -64,4 +60,3 @@ swapon /tmp/swapfile
 ```
 
 Lembro aqui que estou criando um arquivo `swapfile` em um diretório `/tmp/`, isso não deve ser feito em ambientes de produção (use o espaço que você tem para dados).
-

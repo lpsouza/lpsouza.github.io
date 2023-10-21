@@ -1,39 +1,35 @@
 ---
-notion_id: 86b19e70-bf52-457f-ad14-a478fdec06f3
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2010-02-16T19:14:00.000Z
-last_modified_at: 2022-12-19T20:45:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Etc
-published: true
-title: E parece que o ano novo vai começar...
-tags:
-  - "2010"
-  - ano novo
-  - brasília
-  - fica a dica
-  - games
-  - jogos
-  - nerd
-  - playstation 3
-  - playstation portable
-  - ps3
-  - psp
-  - rock band
-  - terror
-  - viagem
-  - video-game
-  - x-box
-  - xbox
-  - xbox 360
-  - zombieland
-  - zombies
-  - zumbilândia
-  - zumbis
+date: 2010-02-16 17:14:00-02:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.234247-03:00
+layout: post
+published: true
+tags:
+- '2010'
+- ano-novo
+- brasília
+- fica-a-dica
+- games
+- jogos
+- nerd
+- playstation-3
+- playstation-portable
+- ps3
+- psp
+- rock-band
+- terror
+- viagem
+- video-game
+- x-box
+- xbox
+- xbox-360
+- zombieland
+- zombies
+- zumbilândia
+- zumbis
+title: E parece que o ano novo vai começar...
 ---
 
 Bom... Pode ser que para o resto do mundo comece no dia primeiro de janeiro... Mas aqui no Brasil começa na quarta-feira de cinzas, ou seja: amanhã!
@@ -75,4 +71,3 @@ Valeu mesmo a todos: Brimstonne (por sempre me acolher e me fazer sempre me sent
 Mas, acabou a festa (por enquanto) e o ano começa amanhã!!
 
 Publicado pelo Wordmobi
-

@@ -1,29 +1,25 @@
 ---
-notion_id: df756be2-fa73-412b-95a1-b40ab874eb57
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2015-03-08T23:03:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: CodeIgniter 3 na Azure Websites
-tags:
-  - azure
-  - codeigniter
-  - codeigniter 3
-  - fica a dica
-  - iis
-  - microsoft
-  - microsoft azure
-  - php
-  - programação
-  - sql
-  - sql azure
-  - web.config
+date: 2015-03-08 20:03:00-03:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.297302-03:00
+layout: post
+published: true
+tags:
+- azure
+- codeigniter
+- codeigniter-3
+- fica-a-dica
+- iis
+- microsoft
+- microsoft-azure
+- php
+- programação
+- sql
+- sql-azure
+- web.config
+title: CodeIgniter 3 na Azure Websites
 ---
 
 Estou usando faz um mês, a [Microsoft Azure](http://azure.microsoft.com/pt-br/) para meus projetos e estou curtindo bastante! Então, fui começar um projeto usando [CodeIgniter 3](http://www.codeigniter.com/) e me peguei em uns problemas usando ambiente PHP no IIS da Azure Websites: Conexão com o banco de dados (SQL Azure) e redirecionamento de "[URL Amigáveis](http://blog.thiagobelem.net/aprendendo-urls-amigaveis/)".
@@ -141,4 +137,3 @@ E para ativar as URL amigáveis, crie um arquivo `web.config` dentro da pasta ra
 ```
 
 E era isso! Projeto instalado e rodando numa boa em um ambiente altamente escalável em nuvem! 😀
-

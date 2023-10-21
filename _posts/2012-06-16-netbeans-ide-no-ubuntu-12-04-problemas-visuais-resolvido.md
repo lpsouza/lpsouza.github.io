@@ -1,24 +1,20 @@
 ---
-notion_id: 25786f74-5b66-49f9-a6ea-a93efe525f2c
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-06-16T01:38:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Netbeans IDE no Ubuntu 12.04, problemas visuais [resolvido]
-tags:
-  - informática
-  - java
-  - linux
-  - lunux
-  - netbeans
-  - programação
-  - ubuntu
+date: 2012-06-15 22:38:00-03:00
 image: null
+last_modified_at: 2022-12-19 17:47:00-03:00
+layout: post
+published: true
+tags:
+- informática
+- java
+- linux
+- lunux
+- netbeans
+- programação
+- ubuntu
+title: Netbeans IDE no Ubuntu 12.04, problemas visuais [resolvido]
 ---
 
 Desde que atualizei o meu Ubuntu para o 12.04, eu tive um problema no meu NetBeans no qual pensei que teria que conviver com ele: A interface dele ficava horrível de visualizar quando aberto.
@@ -36,4 +32,3 @@ Feche e abra novamente o NetBeans e a interface deve ficar mais ou menos assim:
 ![Como fica o Netbeans depois da alteração](/wp-content/uploads/2012/06/Captura-de-tela-de-2012-06-16-013347.png)
 
 Pronto!
-

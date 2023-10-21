@@ -1,17 +1,13 @@
 ---
-notion_id: c3e3b075-6a4d-4a41-829a-c2a3f5197cda
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-06-08T10:55:00.000Z
-last_modified_at: 2022-12-19T20:46:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Etc
-published: true
-title: Design Web.. Profissão perigo!
-tags: []
+date: 2012-06-08 07:55:00-03:00
 image: null
+last_modified_at: 2022-12-19 17:46:00-03:00
+layout: post
+published: true
+tags: []
+title: Design Web.. Profissão perigo!
 ---
 
 Desde já aviso que eu não sou WebDesigner.. Sou WebDeveloper, mas reparei numas coisas que acredito que outros vão concordar: Design na web (e no mundo da TI em geral) esta mudando muito rápido!
@@ -33,4 +29,3 @@ Complicado né? Foi o que percebi, o design inovando cada vez mais rápido e meu
 O bicho tá pegando, tempo de atualizar.. Rápido!
 
 Desculpe minha fala sucinta, mas estou no trem indo pra POA resolver uns problemas e me deparei com essa problemática do design e deixando a idéia aberta para contribuição externa nos comentários.
-

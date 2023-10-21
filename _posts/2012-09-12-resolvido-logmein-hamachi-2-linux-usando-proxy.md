@@ -1,27 +1,23 @@
 ---
-notion_id: 8e505f5f-ff59-43d1-a188-a2f4ddf3a270
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-09-12T18:20:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: "[Resolvido] Logmein Hamachi 2 (Linux) usando Proxy"
-tags:
-  - acesso
-  - bloqueio
-  - hamachi
-  - hamachi2
-  - linux
-  - logmein
-  - proxy
-  - slackware
-  - ubuntu
-  - vpn
+date: 2012-09-12 15:20:00-03:00
 image: null
+last_modified_at: 2022-12-19 17:47:00-03:00
+layout: post
+published: true
+tags:
+- acesso
+- bloqueio
+- hamachi
+- hamachi2
+- linux
+- logmein
+- proxy
+- slackware
+- ubuntu
+- vpn
+title: '[Resolvido] Logmein Hamachi 2 (Linux) usando Proxy'
 ---
 
 Uso o hamachi ligado no meu servidor de aplicações nas núvens para acesso remoto a ele. Com isso bloqueio no firewall as portas de manutenção (para mim, principalmente 22 e 3306). Mas uma coisa que me deixava de cabelo em pé é que aqui na rede da Unisinos, eu nunca conseguia acessar meu servidor, fazendo com que meu trabalho ficasse para fazer em casa.
@@ -49,4 +45,3 @@ Login.OnLaunch      1
 ```
 
 Eis que estou acessando meu servidor muito tranquilamente! #ficaadica
-

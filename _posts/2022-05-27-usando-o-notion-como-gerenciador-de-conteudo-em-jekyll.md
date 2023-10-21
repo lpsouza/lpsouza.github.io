@@ -1,23 +1,19 @@
 ---
-notion_id: ddd30f6f-f17f-4484-86dc-61c4ac8f69ad
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2022-05-27T02:28:00.000Z
-last_modified_at: 2022-12-19T20:59:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Usando o Notion como gerenciador de conteúdo em Jekyll
-tags:
-  - blog
-  - jekyll
-  - notion
-  - github
-  - docker
-  - docker hub
+date: 2022-05-26 23:28:00-03:00
 image: https://luizsouza.com/assets/notion-gerenciador.png
+last_modified_at: 2023-10-15 01:01:20.314527-03:00
+layout: post
+published: true
+tags:
+- blog
+- jekyll
+- notion
+- github
+- docker
+- docker-hub
+title: Usando o Notion como gerenciador de conteúdo em Jekyll
 ---
 
 Desde o momento que [migrei meu blog do Wordpress para Jekyll](https://luizsouza.com/2018/10/11/larguei-o-wordpress/), eu vi a beleza que era poder ter um blog muito mais leve, pois o Jekyll usa o conceito de páginas estáticas, geradas por um servidor antes de colocar no ar, ou trocando em miúdos, o visitante acessa uma página estática, imutável, sem o pré-processamento do PHP ou queries sendo rodadas em um MySQL da vida.
@@ -53,4 +49,3 @@ Simples não? Bem, mais ou menos! Além disso temos os dois mundos para fazer co
 <span class="caption">Exemplo das propriedades no meu Notion que se transformam no FrontMatter no Jekyll.</span>
 
 Mais uma coisa deste projeto que eu queria que ele fizesse era ser [uma imagem no Docker](https://hub.docker.com/r/lpsouza/jekyll-notion-sync) para uso em automações. E aí está! Inclusive inaugurado com este post! Se você gosta de conteúdos em Jekyll, vale a pena conhecer (e porque não contribuir) com esse projeto!
-

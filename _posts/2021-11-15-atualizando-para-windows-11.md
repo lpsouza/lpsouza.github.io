@@ -1,23 +1,19 @@
 ---
-notion_id: 31be013b-af7d-464b-94f2-dc1a3dfbbe2a
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2021-11-15T14:26:00.000Z
-last_modified_at: 2022-12-19T20:49:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Atualizando para Windows 11
-tags:
-  - windows
-  - windows 10
-  - windows 11
-  - upgrade
-  - atualização
-  - microsoft
+date: 2021-11-15 11:26:00-03:00
 image: https://luizsouza.com/assets/windows-11-system.png
+last_modified_at: 2023-10-15 01:01:20.313971-03:00
+layout: post
+published: true
+tags:
+- windows
+- windows-10
+- windows-11
+- upgrade
+- atualização
+- microsoft
+title: Atualizando para Windows 11
 ---
 
 E lá vamos nós para mais uma atualização do Windows... Possuo um Dell G7 que veio com Windows 10 Professional de fábrica instalado e por tanto, com todos os suportes por parte da fabricante, para que mantenha o pleno funcionamento. Outra questão a salientar no inicio deste post é que sou técnico na área de informática e posso dar um spoiler violento aqui dizendo que, como sempre, o processo de upgrade da Microsoft é sempre um processo sofrido!
@@ -49,4 +45,3 @@ Esta opção é uma mescla dos dois métodos anteriores, pois temos o Windows 10
 Como já comentei anteriormente, não sou eu que vou ditar o teu gosto, mas posso dar a minha singela opinião sobre o Windows 11: Um sistema operacional que pensou em arredondar as bordas de tudo (o que achei bem bonito), integrou muito melhor o Windows Terminal e o WSL (coisas que uso no meu dia a dia), a barra de tarefas centralizada realmente fica muito bom quando usamos uma tela grande (no meu caso uma ultrawide) e ainda tenho que rever como ficou a parte gaming da coisa, pois até o final deste post não havia instalado nenhum jogo para testar, mas o que posso dizer é que no método 2 eu tinha instalado alguns jogos e estava com sérios problemas com a comunicação bluetooth (uso controle de Xbox One sem fio e fones de ouvido sem fio) quando estava em jogo (basicamente ficava "surdo" do nada ou ficava sem o controle por alguns instantes).
 
 Mas novamente, essas são minhas opiniões e impressões de atualizar o Windows 10 para o novo Windows 11. Alguem teve uma experiência "menos traumatica" quando a minha? Comentem aí!
-

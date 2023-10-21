@@ -1,23 +1,19 @@
 ---
-notion_id: 761a76a1-cced-4c2d-9595-a304cbf5c5bb
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-09-14T20:35:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Google solar e a teoria do Exterminador do Futuro
-tags:
-  - controle
-  - energia solar
-  - google
-  - humanidade
-  - solar
-  - sustentável
+date: 2009-09-14 17:35:00-03:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.222439-03:00
+layout: post
+published: true
+tags:
+- controle
+- energia-solar
+- google
+- humanidade
+- solar
+- sustentável
+title: Google solar e a teoria do Exterminador do Futuro
 ---
 
 Quando eu digo que os filmes de ficção são na verdade possíveis analises do nosso futuro de forma muito introspectiva, pensam que sou doido das ideias.
@@ -37,4 +33,3 @@ Dou, claro, meus parabéns ao google por sua iniciativa (como sempre), mas meu j
 E você? O que pensa?
 
 A reportagem que gerou este post: [Vivo Verde » Google solar](http://vivoverde.com.br/?p=1076)
-

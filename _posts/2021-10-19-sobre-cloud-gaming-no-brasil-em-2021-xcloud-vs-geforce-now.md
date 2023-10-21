@@ -1,26 +1,22 @@
 ---
-notion_id: 554f39cf-54e7-44dd-86da-b7f00e75b584
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2021-10-19T20:30:00.000Z
-last_modified_at: 2022-12-19T20:49:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Games
-published: true
-title: Sobre cloud gaming no Brasil em 2021 (XCloud vs Geforce Now)
-tags:
-  - xcloud
-  - geforce now
-  - gaming cloud
-  - jogos em nuvem
-  - jogos
-  - games
-  - microsoft
-  - nvidia
-  - streaming
+date: 2021-10-19 17:30:00-03:00
 image: https://luizsouza.com/assets/IMG_20211019_131330436.jpg
+last_modified_at: 2023-10-15 01:01:20.313414-03:00
+layout: post
+published: true
+tags:
+- xcloud
+- geforce-now
+- gaming-cloud
+- jogos-em-nuvem
+- jogos
+- games
+- microsoft
+- nvidia
+- streaming
+title: Sobre cloud gaming no Brasil em 2021 (XCloud vs Geforce Now)
 ---
 
 No dia 30 de setembro [a Microsoft anunciou a chegada oficial do serviço de games na nuvem (conhecido como XCloud ou como XBox Gaming Cloud)](https://www.tecmundo.com.br/voxel/225871-xcloud-chega-oficialmente-brasil-30-100-jogos.htm "xCloud chega oficialmente ao Brasil hoje (30) com mais de 100 jogos") e agora mais recente, a NVidia anuncia em 14 de outubro [a chegada do GeForce Now, seu também serviço de games na nuvem](https://www.techtudo.com.br/noticias/2021/10/geforce-now-chega-ao-brasil-veja-jogos-requisitos-e-precos-do-servico.ghtml "GeForce Now chega ao Brasil: veja jogos, requisitos e preços do serviço"). Eu testei os dois serviços e como um gamer casual (jogo em média duas vezes por semana apenas) que sempre correu atras de jogar seus jogos com placas de vídeo mais modestas (só hoje que posso dizer que tenho um notebook com placa de vídeo "ok" pra jogos), resolvi trazer minhas opiniões sobre os serviços.
@@ -98,4 +94,3 @@ Com isso vamos aos prós (se é que tem) e os contras:
 Já se fala de jogos por streaming de diversas formas e propostas, desde o quase falecido Stadia ao sumido do PS Now e passando pelos XCloud e GeForce Now que finalmente apostaram no mercado brasileiro. Nitidamente a Microsoft se saiu muito bem nessa e se estruturou de forma exemplar! Muito se deve, acredito eu, a eles terem literalmente a faca e o queijo na mão, isto é, eles tem a infraestrutura (Microsoft Azure, um dos maiores serviços de nuvem do planeta) e o console (sim, por de baixo dos panos você está rodando um jogo no XBox Series S/X). Embora a NVidia tenha também know-how sobre jogos, eles erraram valendo em montar uma estrutura que não foi pensada no mercado que eles querem atender, alias posso dizer que o mesmo erro operacional que o Google fez ao trazer o Stadia a público!
 
 E era isso! Novamente, essas são minhas opiniões e impressões até o momento sobre os serviços de Cloud Gaming que sairam recentemente aqui no Brasil! Tô quase tendido a assinar de vez o Game Pass Ultimate e seguir nesse novo mundo do XBox na nuvem! 😅 E você?
-

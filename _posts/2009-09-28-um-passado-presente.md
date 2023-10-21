@@ -1,26 +1,22 @@
 ---
-notion_id: 0179f7ee-4ed0-4bf2-851a-605979a6fff8
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-09-28T20:18:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Etc
-published: true
-title: Um passado presente..
-tags:
-  - fica a dica
-  - futuro
-  - games
-  - natureza
-  - passado
-  - playstation 3
-  - presente
-  - ps3
-  - video-game
+date: 2009-09-28 17:18:00-03:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.226609-03:00
+layout: post
+published: true
+tags:
+- fica-a-dica
+- futuro
+- games
+- natureza
+- passado
+- playstation-3
+- presente
+- ps3
+- video-game
+title: Um passado presente..
 ---
 
 Hoje comecei a pensar numa questão interessante da vida.. Como em minha vida eu via a parada de um modo de vida ascensão de outro.. Decadência e retorno de um antigo modo de vida..
@@ -34,4 +30,3 @@ Acredito que no quesito "alugar jogos de videogame" deve valer o mesmo para os f
 Então deixo a pergunta.. Tu conheces mais alguma coisa que do passado, agora se faz presente?
 
 Publicado pelo Wordmobi
-

@@ -1,31 +1,27 @@
 ---
-notion_id: 7a6cd34b-204c-4237-b00d-4968d41e738b
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2014-01-08T02:13:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Virtualbox e Windows 8 com Hyper-V!
-tags:
-  - bcdedit
-  - boot
-  - desktop
-  - dual boot
-  - hardware
-  - hipervisor
-  - hyper-v
-  - hypervisor
-  - informática
-  - prompt de comando
-  - virtualbox
-  - windows
-  - windows 8
-  - windows 8.1
+date: 2014-01-08 00:13:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
+last_modified_at: 2023-10-15 01:01:20.291477-03:00
+layout: post
+published: true
+tags:
+- bcdedit
+- boot
+- desktop
+- dual-boot
+- hardware
+- hipervisor
+- hyper-v
+- hypervisor
+- informática
+- prompt-de-comando
+- virtualbox
+- windows
+- windows-8
+- windows-8.1
+title: Virtualbox e Windows 8 com Hyper-V!
 ---
 
 Sou usuário do [Virtualbox](http://virtualbox.org), quase de carteirinha, quando falamos de virtualizar ambientes em desktop. Agora, desde que instalei o Windows 8, comecei a ter problemas com ele, sem saber o porque. Hoje, descobri e sinceramente fiquei um pouco pasmo de como não havia pensado nisso antes! Alem do Virtualbox, eu uso direto o Hyper-V, e depois que li um post do [Igor Abade](http://twitter.com/igorabade) (MVP), [Fazendo VirtualBox e Hyper-V coexistirem no Windows 8](http://blog.lambda3.com.br/2013/01/fazendo-virtualbox-e-hyper-v-coexistirem-no-windows-8/), fui entender (ou lembrar) de uns conceitos básicos da virtualização como um todo!
@@ -77,4 +73,3 @@ Pronto! Dois boots ao mesmo sistema operacional, um com Hyper-V e outro não! �
 Fonte: Blog do Lambda3
 
 O legal, pelo menos comigo, é que não fico quieto, e já estou estudando esse boot manager do Windows 8 para outras personalizações! Agradeço ao Igor pelo post no Blog do Lambda3! Até a próxima!
-

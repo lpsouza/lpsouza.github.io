@@ -1,26 +1,22 @@
 ---
-notion_id: 9a6536b9-38ff-44f3-afc2-3cbb20c4a71a
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-09-18T04:34:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Etc
-published: true
-title: Tô virando um ser noturno..
-tags:
-  - blog
-  - e71
-  - mobilidade
-  - nokia
-  - s60
-  - smartphone
-  - symbian
-  - trabalho
-  - wordpress
+date: 2009-09-18 01:34:00-03:00
 image: null
+last_modified_at: 2022-12-19 17:44:00-03:00
+layout: post
+published: true
+tags:
+- blog
+- e71
+- mobilidade
+- nokia
+- s60
+- smartphone
+- symbian
+- trabalho
+- wordpress
+title: Tô virando um ser noturno..
 ---
 
 ..mas infelizmente não é por festas..
@@ -38,4 +34,3 @@ Viva a mobilidade!!!
 Agora vou é tentar dormir que tá muito tarde!!
 
 Publicado pelo Wordmobi
-

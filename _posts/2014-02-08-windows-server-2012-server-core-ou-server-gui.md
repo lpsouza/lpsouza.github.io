@@ -1,27 +1,23 @@
 ---
-notion_id: 657efba8-a72a-4858-937a-cfdbf7207ecc
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2014-02-08T20:39:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: "Windows Server 2012: Server Core ou Server GUI?"
-tags:
-  - computadores
-  - fica a dica
-  - informática
-  - powershell
-  - server
-  - server core
-  - server gui
-  - windows
-  - windows server
-  - windows server 2012
+date: 2014-02-08 18:39:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2014/02/IC2357571.png
+last_modified_at: 2023-10-15 01:01:20.292696-03:00
+layout: post
+published: true
+tags:
+- computadores
+- fica-a-dica
+- informática
+- powershell
+- server
+- server-core
+- server-gui
+- windows
+- windows-server
+- windows-server-2012
+title: 'Windows Server 2012: Server Core ou Server GUI?'
 ---
 
 Estou configurando um servidor no meu notebook (máquina virtual no Hyper-V) e me deparei com a questão de qual tipo de instalação deveria escolher, a _Server Core_ ou a _Server GUI_? Primeiro, vamos entender o que cada uma impacta na instalação:
@@ -55,4 +51,3 @@ Então, os comandos ficam:
 E está aí, agora podemos usar o modo Server GUI para instalar tudo que precisa e depois mudar para o modo Server Core! Microsoft a cada atualização está melhorando mais! (Daí é eu postar isso, uma atualização do Windows Update me detona a instalação! - Brincadeira!) 😛
 
 via [Opções de Instalação do Windows Server](http://technet.microsoft.com/pt-br/library/hh831786.aspx)
-

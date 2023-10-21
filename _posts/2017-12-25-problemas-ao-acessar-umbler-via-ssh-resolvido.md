@@ -1,28 +1,24 @@
 ---
-notion_id: d496c759-bb4c-44d2-af8a-dad10228942e
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2017-12-25T20:42:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Problemas ao acessar a Umbler via SSH [Resolvido]
-tags:
-  - desenvolvimento
-  - fica a dica
-  - hospedagem
-  - hospedagem de sites
-  - linux
-  - mac
-  - ssh
-  - ubuntu
-  - ubuntu on windows
-  - umbler
-  - windows
+date: 2017-12-25 18:42:00-02:00
 image: https://luizsouza.com/wp-content/uploads/2017/12/Capturar.png
+last_modified_at: 2023-10-15 01:01:20.307103-03:00
+layout: post
+published: true
+tags:
+- desenvolvimento
+- fica-a-dica
+- hospedagem
+- hospedagem-de-sites
+- linux
+- mac
+- ssh
+- ubuntu
+- ubuntu-on-windows
+- umbler
+- windows
+title: Problemas ao acessar a Umbler via SSH [Resolvido]
 ---
 
 Faz alguns meses que estou usando a [Umbler](https://app.umbler.com/u/0jrm3d6k) como meu provedor de hospedagem de sites (ué? Tu não tinha um provedor próprio? a [IHCenter](https://ihcenter.com.br/)? - É, tinha... Essa fica para outro post!) e uma coisa muito legal que esta equipe do coala fornecesse é o acesso via SSH, tornando muito mais prática a vida do desenvolvedor de raiz! Pois muito bem, para configurar é extremamente simples, indo apenas pelo painel de controle deles (chamado carinhosamente de APP) e com alguns clicks, tanto em Windows, quanto Linux ou até mesmo MAC, vocês configuram este tipo de acesso. Ah sim! Sugiro configurar com uso de chave pública, porque permite configurações de publicação com uso de GIT (Próprio, Github ou Bitbucket)!
@@ -52,4 +48,3 @@ Salve e tente o acesso novamente!
 Vale lembrar que este problema, pelo descrito, ocorre nas versões de Ubuntu 16.04 ou superior! E no caso, no Ubuntu on Windows que a Canonical fez para o Windows 10! Bom, sinceramente eu não sei se ocorre em MAC ou usando no Windows o bom e velho PuTTY, uma vez que não uso Apple e desde que a Microsoft e a Canonical criaram essa maravilha de Ubuntu on Windows, eu nunca mais penso no mister PuTTY! E era isso!
 
 :wq
-

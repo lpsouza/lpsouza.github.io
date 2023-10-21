@@ -1,25 +1,21 @@
 ---
-notion_id: 65330f02-8059-4d97-b653-893b02a7690c
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-08-26T19:54:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Apagar arquivos de backup do gEdit [resolvido]
-tags:
-  - acesso
-  - backup
-  - fica a dica
-  - gedit
-  - limpeza
-  - linha de comando
-  - linux
-  - x
+date: 2012-08-26 16:54:00-03:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.283284-03:00
+layout: post
+published: true
+tags:
+- acesso
+- backup
+- fica-a-dica
+- gedit
+- limpeza
+- linha-de-comando
+- linux
+- x
+title: Apagar arquivos de backup do gEdit [resolvido]
 ---
 
 Quem usa Linux e usa interface gráfica, já deve ter dado graças aos backups do  gEdit, mas em um momento ou outro acabam também virando dor de cabeça.
@@ -37,4 +33,3 @@ Eu mudei um pouco o script, porque gosto de ver o que está acontecendo durante 
 E era isso!
 
 via [delete all gedit backup files « Different.In a good way](https://paragasu.wordpress.com/2008/11/18/delete-all-gedit-backup-files/)
-

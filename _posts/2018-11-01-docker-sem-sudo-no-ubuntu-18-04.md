@@ -1,23 +1,19 @@
 ---
-notion_id: 5d553d82-ef13-448c-9881-18aae0e3a0ad
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2018-11-02T00:18:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Linux
-published: true
-title: Docker sem sudo no Ubuntu 18.04
-tags:
-  - docker
-  - nosudo
-  - sudo
-  - ubuntu
-  - linux
-  - permissions
+date: 2018-11-01 21:18:00-03:00
 image: null
+last_modified_at: 2022-12-19 17:48:00-03:00
+layout: post
+published: true
+tags:
+- docker
+- nosudo
+- sudo
+- ubuntu
+- linux
+- permissions
+title: Docker sem sudo no Ubuntu 18.04
 ---
 
 Tenho o costume de usar o docker para algo mais inusitado que o normal: Criar comandos para coisas que não quero instalar no computador. Como assim? Um exemplo foi o `dotnet` que queria não ter instalado, mas queria o comando para criar meus projetos em .NET Core. E então eu crio um shell script chamado dotnet, coloco em um diretório `/bin` e não preciso mais me preocupar se esta instalado ou não! Veja o exemplo do script abaixo:
@@ -63,4 +59,3 @@ sudo setfacl -m user:$USER:rw /var/run/docker.sock
 ```
 
 Agora sim! Tudo funcional! :-D
-

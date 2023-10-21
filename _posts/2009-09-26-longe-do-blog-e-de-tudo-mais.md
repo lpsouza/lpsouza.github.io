@@ -1,39 +1,35 @@
 ---
-notion_id: 9d84dc83-6483-4a73-82a4-d9b561cbbe75
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-09-26T21:00:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Etc
-published: true
-title: Longe do blog.. E de tudo mais..
-tags:
-  - 3g
-  - blog
-  - claro
-  - computadores
-  - e71
-  - hardware
-  - informática
-  - linux
-  - mobilidade
-  - nerd
-  - networking
-  - nokia
-  - notebook
-  - problemas
-  - redes de computadores
-  - s60
-  - shellscript
-  - smartphone
-  - software
-  - symbian
-  - ti
-  - trabalho
+date: 2009-09-26 18:00:00-03:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.226007-03:00
+layout: post
+published: true
+tags:
+- 3g
+- blog
+- claro
+- computadores
+- e71
+- hardware
+- informática
+- linux
+- mobilidade
+- nerd
+- networking
+- nokia
+- notebook
+- problemas
+- redes-de-computadores
+- s60
+- shellscript
+- smartphone
+- software
+- symbian
+- ti
+- trabalho
+title: Longe do blog.. E de tudo mais..
 ---
 
 Olá pessoal.. Andei distante do blog e de quase tudo, porque já sabem né? Murphy é o padroeiro de todo o técnico em TI, e então ele me fez uma visita de quase 2 semanas!!
@@ -55,4 +51,3 @@ No mais.. Comentários sobre a instalação do Ubuntu, fica pra outro post..
 See ya!
 
 Publicado pelo Wordmobi
-

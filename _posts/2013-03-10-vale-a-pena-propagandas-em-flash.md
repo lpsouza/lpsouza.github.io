@@ -1,27 +1,23 @@
 ---
-notion_id: 15ce06ea-8128-41a1-9461-3cd8ed6f07c5
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2013-03-10T12:10:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Vale a pena propagandas em Flash?
-tags:
-  - css
-  - fica a dica
-  - flash
-  - html
-  - html5
-  - javascript
-  - jquery
-  - js
-  - marketing
-  - publicidade
+date: 2013-03-10 09:10:00-03:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.289305-03:00
+layout: post
+published: true
+tags:
+- css
+- fica-a-dica
+- flash
+- html
+- html5
+- javascript
+- jquery
+- js
+- marketing
+- publicidade
+title: Vale a pena propagandas em Flash?
 ---
 
 Hoje de manhã, depois de ler uma reportagem em meu tablet, percebi que uma das páginas de propaganda não abriu corretamente, outras sim, e logo pensei: “Algum anunciante acabou de perder meu view.”
@@ -77,4 +73,3 @@ Deixo pr vocês a definição da Adobe, sobre o que é o Flash:
 Trecho extraído de [http://www.adobe.com/br/products/flash.html](http://www.adobe.com/br/products/flash.html) (acesso em 10 de março de 2013).
 
 Sempre fui da frase: “Cada macaco no seu galho” e acho que essa ainda é uma boa frase, quando falamos de desenvolvimento WEB.
-

@@ -1,30 +1,26 @@
 ---
-notion_id: c7cf1bf9-df43-4216-8068-0688bceb247c
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2009-10-12T08:07:00.000Z
-last_modified_at: 2022-12-19T20:44:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Problema de leitura em HD externo USB [Resolvido!]
-tags:
-  - chkdsk
-  - databack
-  - disco rígido
-  - fica a dica
-  - format
-  - getdataback
-  - hardware
-  - hd externo
-  - ms-dos
-  - raw
-  - recuperar dados
-  - recuperar formato
-  - usb
+date: 2009-10-12 05:07:00-03:00
 image: https://luizsouza.com/wp-content/uploads/2009/10/tela-chkdsk.png
+last_modified_at: 2023-10-15 01:01:20.227798-03:00
+layout: post
+published: true
+tags:
+- chkdsk
+- databack
+- disco-rígido
+- fica-a-dica
+- format
+- getdataback
+- hardware
+- hd-externo
+- ms-dos
+- raw
+- recuperar-dados
+- recuperar-formato
+- usb
+title: Problema de leitura em HD externo USB [Resolvido!]
 ---
 
 Ontem de noite me deparei com um problema que me deixou com frio na espinha: Meu HD externo USB de 250 Gb simplesmente "perdeu a formatação". Este era simplesmente meu disco de dados, onde tinha tudo.. Fotos, vídeos, softwares, etc..
@@ -68,4 +64,3 @@ Problemas encontrados pelos leitores (e possíveis soluções):
   * Informação adicional: Olha, o link comenta em Windows XP, o qual nem tem mais suporte pela Microsoft. Se não for este o seu caso, e tiver um windows mais recente, tente iniciar o prompt de comando como administrador.
 
 **Editado em 01/03/2016:** Conforme dica do **Pedro Romero**, alterei a letra da unidade pra _g:_ ao invés do _f:_. Obrigado pela dica! 🙂
-

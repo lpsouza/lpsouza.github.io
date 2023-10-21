@@ -1,26 +1,22 @@
 ---
-notion_id: da2cb5a4-0e1c-42ee-b554-1943bf5245e4
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2015-10-10T19:51:00.000Z
-last_modified_at: 2022-12-19T20:48:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Magento e seu top menu!
-tags:
-  - custom
-  - e-commerce
-  - fica a dica
-  - magento
-  - menu
-  - personalizado
-  - php
-  - programação
-  - topmenu
+date: 2015-10-10 16:51:00-03:00
 image: null
+last_modified_at: 2023-10-15 01:01:20.300655-03:00
+layout: post
+published: true
+tags:
+- custom
+- e-commerce
+- fica-a-dica
+- magento
+- menu
+- personalizado
+- php
+- programação
+- topmenu
+title: Magento e seu top menu!
 ---
 
 Estive trabalhando em um projeto de personalização de menu do Magento e percebi uma questão muito chata dele: A documentação oficial é muito fraca! 🙁
@@ -90,4 +86,3 @@ foreach ($storeCategories as $_category) {
 ```
 
 Depois foi só personalizar a realidade do cliente! 😀
-

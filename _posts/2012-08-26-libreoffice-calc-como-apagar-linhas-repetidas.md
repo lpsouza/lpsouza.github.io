@@ -1,17 +1,13 @@
 ---
-notion_id: cac1542a-f46f-42d5-bd36-bcd62fd0b20f
-layout: post
-author:
-  id: 3fa6445d-a13d-40cc-8901-4a9f6f654d3d
-  name: Luiz Pereira de Souza Filho
-  avatarUrl: https://lh3.googleusercontent.com/a-/AOh14GhpwZVI-JevyaNgTdlrOT6YN20cI6V9Kxtq38Ij8AQ=s100
-date: 2012-08-26T18:56:00.000Z
-last_modified_at: 2022-12-19T20:47:00.000Z
+author: Luiz Pereira de Souza Filho
 category: Tech
-published: true
-title: Libreoffice Calc - Como apagar linhas repetidas
-tags: []
+date: 2012-08-26 15:56:00-03:00
 image: null
+last_modified_at: 2022-12-19 17:47:00-03:00
+layout: post
+published: true
+tags: []
+title: Libreoffice Calc - Como apagar linhas repetidas
 ---
 
 Estava me batendo para fazer isso no Calc, quase apelando pro uniq no terminal... E eis que encontrei a solução na internet!
@@ -33,4 +29,3 @@ Estava me batendo para fazer isso no Calc, quase apelando pro uniq no terminal..
 via [vivaotux: Calc - como apagar linhas repetidas](http://vivaotux.blogspot.com.br/2010/04/calc-como-apagar-linhas-repetidas.html)
 
 **Edit 05/03/2017:** Provavelmente alterou algo nas traduções, então no item 4, onde lê-se _"Mais"_ é _**"Opções"**_ e onde lê-se _"Sem duplicação"_ é **"Sem duplicatas"**.
-
