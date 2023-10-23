@@ -31,6 +31,6 @@ E por fim, o comando `csvlook` que é uma ferramenta útil para visualizar e for
 
 Tá bom, falei que o `jq` é para manipular JSON e que o `csvlook` manipula os resultados em CSV e transforma em um resultado em uma tabela organizada, mas o que JSON e CSV tem em comum pra isso acontecer? Bom, uma manipulação do `jq` ajusta exatamente a saída em formato CSV, sacou onde a mágica acontece? Aqui um exemplo pegando dados da SWAPI (Star Wars API):
 
-<script async id="asciicast-9AzN9fY1oNHO1b8xaEYKOhUA4" src="https://asciinema.org/a/9AzN9fY1oNHO1b8xaEYKOhUA4.js"></script>
+[![asciicast](https://asciinema.org/a/9AzN9fY1oNHO1b8xaEYKOhUA4.svg)](https://asciinema.org/a/9AzN9fY1oNHO1b8xaEYKOhUA4)
 
 E é assim que a mágica acontece! Com a combinação do **`curl`**, **`jq`** e **`csvlook`**, você pode obter resultados incríveis ao acessar APIs e manipular dados. De um simples script shell, você pode transformar informações em JSON em tabelas organizadas e legíveis. Então, da próxima vez que precisar visualizar ou analisar dados, lembre-se dessas ferramentas poderosas. Agora é com você, desvende os segredos dos dados com o seu novo arsenal de comandos e deixe a criatividade fluir. Que a força esteja com você, no mundo dos shells e além! 😉
