@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # This is a script to manage my jekyll blog using docker.
 
 export JEKYLL_VERSION=4.0
