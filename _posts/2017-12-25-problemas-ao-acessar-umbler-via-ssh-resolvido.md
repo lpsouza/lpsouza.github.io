@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2017-12-25 18:42:00-02:00
-image: /assets/2017-12-25-problemas-ao-acessar-umbler-via-ssh-resolvido/Capturar.png
+image: https://luizsouza.com/assets/2017-12-25-problemas-ao-acessar-umbler-via-ssh-resolvido/Capturar.png
 last_modified_at: 2023-10-15 01:01:20.307103-03:00
 layout: post
 published: true

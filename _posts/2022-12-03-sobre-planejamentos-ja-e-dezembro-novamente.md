@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Etc
 date: 2022-12-03 08:03:00-03:00
-image: /assets/2022-12-03-sobre-planejamentos-ja-e-dezembro-novamente/xmas-2022.jpg
+image: https://luizsouza.com/assets/2022-12-03-sobre-planejamentos-ja-e-dezembro-novamente/xmas-2022.jpg
 last_modified_at: 2023-10-15 01:01:20.315575-03:00
 layout: post
 published: true

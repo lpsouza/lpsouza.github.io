@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2023-03-26 21:19:00-03:00
-image: /assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/tmux-command.png
+image: https://luizsouza.com/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/tmux-command.png
 last_modified_at: 2023-10-15 01:01:20.316112-03:00
 layout: post
 published: true

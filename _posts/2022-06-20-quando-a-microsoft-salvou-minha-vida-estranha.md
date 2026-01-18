@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2022-06-19 23:45:00-03:00
-image: /assets/2022-06-20-quando-a-microsoft-salvou-minha-vida-estranha/onedrive-true-colors.png
+image: https://luizsouza.com/assets/2022-06-20-quando-a-microsoft-salvou-minha-vida-estranha/onedrive-true-colors.png
 last_modified_at: 2023-10-15 01:01:20.315044-03:00
 layout: post
 published: true

@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Games
 date: 2021-10-19 17:30:00-03:00
-image: /assets/2021-10-19-sobre-cloud-gaming-no-brasil-em-2021-xcloud-vs-geforce-now/IMG_20211019_131330436.jpg
+image: https://luizsouza.com/assets/2021-10-19-sobre-cloud-gaming-no-brasil-em-2021-xcloud-vs-geforce-now/IMG_20211019_131330436.jpg
 last_modified_at: 2023-10-15 01:01:20.313414-03:00
 layout: post
 published: true

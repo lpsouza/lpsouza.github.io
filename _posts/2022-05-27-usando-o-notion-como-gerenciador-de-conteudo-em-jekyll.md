@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2022-05-26 23:28:00-03:00
-image: /assets/2022-05-27-usando-o-notion-como-gerenciador-de-conteudo-em-jekyll/notion-gerenciador.png
+image: https://luizsouza.com/assets/2022-05-27-usando-o-notion-como-gerenciador-de-conteudo-em-jekyll/notion-gerenciador.png
 last_modified_at: 2023-10-15 01:01:20.314527-03:00
 layout: post
 published: true

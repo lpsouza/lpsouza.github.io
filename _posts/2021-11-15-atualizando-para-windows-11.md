@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2021-11-15 11:26:00-03:00
-image: /assets/2021-11-15-atualizando-para-windows-11/windows-11-system.png
+image: https://luizsouza.com/assets/2021-11-15-atualizando-para-windows-11/windows-11-system.png
 last_modified_at: 2023-10-15 01:01:20.313971-03:00
 layout: post
 published: true

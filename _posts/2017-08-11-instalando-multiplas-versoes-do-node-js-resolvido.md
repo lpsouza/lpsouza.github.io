@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2017-08-11 17:37:00-03:00
-image: /assets/2017-08-11-instalando-multiplas-versoes-do-node-js-resolvido/Capturar2.png
+image: https://luizsouza.com/assets/2017-08-11-instalando-multiplas-versoes-do-node-js-resolvido/Capturar2.png
 last_modified_at: 2023-10-15 01:01:20.306002-03:00
 layout: post
 published: true
