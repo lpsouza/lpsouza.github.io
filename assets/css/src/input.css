@@ -1,0 +1,255 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply text-light text-[14px];
+  }
+  a {
+    color: #a685e1;
+    @apply no-underline;
+  }
+  a:hover {
+    color: #b79ced;
+  }
+  @media (max-width: 576px) {
+    * {
+      @apply text-[16px];
+    }
+  }
+
+  html, body {
+    @apply bg-dark;
+  }
+
+  h1 {
+    @apply text-4xl;
+  }
+  h1 * {
+    @apply text-4xl;
+  }
+  h2 {
+    @apply text-3xl;
+  }
+  h2 * {
+    @apply text-3xl;
+  }
+  h3 {
+    @apply text-2xl;
+  }
+  h3 * {
+    @apply text-2xl;
+  }
+}
+
+@layer components {
+  /* Ported from style.scss */
+  #disqus_thread iframe * {
+    @apply text-light;
+  }
+
+  .left-menu {
+    @apply pt-[50px] text-center;
+  }
+  .left-menu .photo {
+    @apply rounded-full w-[60%] mx-auto;
+  }
+  .left-menu .title a {
+    @apply text-[2.0rem] no-underline text-light;
+  }
+  .left-menu .social {
+    @apply p-0;
+  }
+  .left-menu .social li {
+    @apply inline list-none px-[5px];
+  }
+  .left-menu #search-box {
+    @apply w-[180px] inline-block mt-2 bg-light text-dark border-0 p-2 rounded;
+  }
+  .left-menu .copyright {
+    @apply pt-[15px];
+  }
+
+  .site-info {
+    @apply w-[300px];
+  }
+  @media (max-width: 576px) {
+    .site-info {
+      @apply w-[250px];
+    }
+  }
+  .site-info div h1, .site-info div p {
+    @apply p-0;
+  }
+  .site-info div h1 {
+    @apply -mt-[5px] ml-[7px];
+  }
+  .site-info div p {
+    @apply ml-[7px];
+  }
+  .site-info div img {
+    @apply rounded-full w-[64px];
+  }
+
+  /* Post Styles */
+  .post {
+    @apply pt-[10px] pb-[15px];
+  }
+  .post .meta {
+    @apply py-[7px];
+  }
+  .post .meta .date a, .post .meta .category a, .post .meta .comments a {
+    @apply text-light no-underline;
+  }
+  .post .meta .date a:hover, .post .meta .category a:hover, .post .meta .comments a:hover {
+    @apply text-gray-500;
+  }
+  .post .meta .category {
+    @apply pl-[5px];
+  }
+  .post .meta .reading-time, .post .meta .comments {
+    @apply pl-[5px];
+  }
+  @media (max-width: 576px) {
+    .post .meta .reading-time, .post .meta .comments {
+      @apply pl-0;
+    }
+    .post .meta .reading-time {
+      @apply block;
+    }
+  }
+
+  .post .tags {
+    @apply pb-[12px];
+  }
+
+  .post .content {
+    @apply text-justify;
+  }
+  .post .content p img {
+    @apply block mx-auto max-w-[850px];
+  }
+  @media (max-width: 576px) {
+    .post .content p img {
+      @apply max-w-none w-full;
+    }
+  }
+  .post .content .caption {
+    @apply text-center;
+  }
+  .post .content iframe {
+    @apply block mx-auto;
+  }
+  @media (max-width: 576px) {
+    .post .content iframe {
+      @apply w-full;
+    }
+  }
+  .post .content pre.highlight {
+    @apply p-[10px];
+  }
+  .post .content .social {
+    @apply p-0;
+  }
+  .post .content .social li {
+    @apply inline list-none px-[5px];
+  }
+
+  .home .post .title, .search .post .title {
+    @apply py-[7px];
+  }
+  .home .post .title a, .search .post .title a {
+    @apply text-light no-underline;
+  }
+
+  .home .pagination, .search .pagination {
+    @apply flex justify-between;
+  }
+  .home .pagination .previous .page-link, 
+  .home .pagination .next .page-link,
+  .search .pagination .previous .page-link,
+  .search .pagination .next .page-link {
+    @apply rounded p-2 bg-gray-700 text-light;
+  }
+}
+
+/* Vim Highlight Styles */
+.highlight .hll { background-color: #222222 }
+.highlight  { background: #000000; color: #cccccc }
+.highlight .c { color: #000080 } 
+.highlight .err { color: #cccccc; border: 1px solid #FF0000 } 
+.highlight .esc { color: #cccccc } 
+.highlight .g { color: #cccccc } 
+.highlight .k { color: #cdcd00 } 
+.highlight .l { color: #cccccc } 
+.highlight .n { color: #cccccc } 
+.highlight .o { color: #3399cc } 
+.highlight .x { color: #cccccc } 
+.highlight .p { color: #cccccc } 
+.highlight .ch { color: #000080 } 
+.highlight .cm { color: #000080 } 
+.highlight .cp { color: #000080 } 
+.highlight .cpf { color: #000080 } 
+.highlight .c1 { color: #000080 } 
+.highlight .cs { color: #cd0000; font-weight: bold } 
+.highlight .gd { color: #cd0000 } 
+.highlight .ge { color: #cccccc; font-style: italic } 
+.highlight .gr { color: #FF0000 } 
+.highlight .gh { color: #000080; font-weight: bold } 
+.highlight .gi { color: #00cd00 } 
+.highlight .go { color: #888888 } 
+.highlight .gp { color: #000080; font-weight: bold } 
+.highlight .gs { color: #cccccc; font-weight: bold } 
+.highlight .gu { color: #800080; font-weight: bold } 
+.highlight .gt { color: #0044DD } 
+.highlight .kc { color: #cdcd00 } 
+.highlight .kd { color: #00cd00 } 
+.highlight .kn { color: #cd00cd } 
+.highlight .kp { color: #cdcd00 } 
+.highlight .kr { color: #cdcd00 } 
+.highlight .kt { color: #00cd00 } 
+.highlight .ld { color: #cccccc } 
+.highlight .m { color: #cd00cd } 
+.highlight .s { color: #cd0000 } 
+.highlight .na { color: #cccccc } 
+.highlight .nb { color: #cd00cd } 
+.highlight .nc { color: #00cdcd } 
+.highlight .no { color: #cccccc } 
+.highlight .nd { color: #cccccc } 
+.highlight .ni { color: #cccccc } 
+.highlight .ne { color: #666699; font-weight: bold } 
+.highlight .nf { color: #cccccc } 
+.highlight .nl { color: #cccccc } 
+.highlight .nn { color: #cccccc } 
+.highlight .nx { color: #cccccc } 
+.highlight .py { color: #cccccc } 
+.highlight .nt { color: #cccccc } 
+.highlight .nv { color: #00cdcd } 
+.highlight .ow { color: #cdcd00 } 
+.highlight .w { color: #cccccc } 
+.highlight .mb { color: #cd00cd } 
+.highlight .mf { color: #cd00cd } 
+.highlight .mh { color: #cd00cd } 
+.highlight .mi { color: #cd00cd } 
+.highlight .mo { color: #cd00cd } 
+.highlight .sa { color: #cd0000 } 
+.highlight .sb { color: #cd0000 } 
+.highlight .sc { color: #cd0000 } 
+.highlight .dl { color: #cd0000 } 
+.highlight .sd { color: #cd0000 } 
+.highlight .s2 { color: #cd0000 } 
+.highlight .se { color: #cd0000 } 
+.highlight .sh { color: #cd0000 } 
+.highlight .si { color: #cd0000 } 
+.highlight .sx { color: #cd0000 } 
+.highlight .sr { color: #cd0000 } 
+.highlight .s1 { color: #cd0000 } 
+.highlight .ss { color: #cd0000 } 
+.highlight .bp { color: #cd00cd } 
+.highlight .fm { color: #cccccc } 
+.highlight .vc { color: #00cdcd } 
+.highlight .vg { color: #00cdcd } 
+.highlight .vi { color: #00cdcd } 
+.highlight .vm { color: #00cdcd } 
+.highlight .il { color: #cd00cd }

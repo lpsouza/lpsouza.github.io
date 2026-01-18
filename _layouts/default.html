@@ -18,74 +18,70 @@
     <title>{{ site.title }}</title>
     {% endif %}
 
+    <!-- Link to Tailwind Generated CSS -->
     <link rel="stylesheet" href="/assets/css/style.css">
 
     <script src="https://kit.fontawesome.com/720e927f0e.js" crossorigin="anonymous"></script>
 </head>
 
-<body>
-    <div class="container">
-        <nav class="navbar navbar-expand-lg navbar-dark d-lg-none">
-            <div class="container-fluid">
-                <div class="site-info">
-                    <div class="float-start">
-                        <img src="{{ site.author.photo }}">
+<body class="bg-dark text-light">
+    <div class="container mx-auto px-4">
+        <!-- Mobile Navbar (Visible < LG) -->
+        <nav class="lg:hidden py-4 border-b border-gray-700 mb-4">
+            <div class="flex items-center justify-between">
+                <div class="site-info flex items-center">
+                    <div class="flex-shrink-0">
+                        <img src="{{ site.author.photo }}" class="rounded-full w-12 h-12">
                     </div>
-                    <div class="float-start">
-                        <h1><a href="/" class="navbar-brand">{{ site.title }}</a></h1>
-                        <p>{{ site.description }}</p>
+                    <div class="ml-3">
+                        <h1 class="text-xl font-bold m-0 leading-tight">
+                            <a href="/" class="text-light no-underline hover:text-gray-300">{{ site.title }}</a>
+                        </h1>
+                        <p class="text-sm text-gray-400 m-0">{{ site.description }}</p>
                     </div>
                 </div>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-                    aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    {%- comment -%} <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Sobre</a>
-                        </li>
-                    </ul> {%- endcomment -%}
-                    <form action="/search/" method="get" class="d-flex">
-                        <input type="text" name="s" id="search-box text-primary" class="form-control" placeholder="Busca">
-                    </form>
-                </div>
+
+                <!-- Checkbox Hack for Mobile Menu -->
+                <label for="nav-toggle" class="cursor-pointer p-2 border border-gray-600 rounded text-gray-400 hover:text-white hover:border-white">
+                    <i class="fas fa-bars fa-lg"></i>
+                </label>
+            </div>
+            
+            <input type="checkbox" id="nav-toggle" class="hidden peer">
+            
+            <div class="hidden peer-checked:block mt-4 w-full" id="navbarSupportedContent">
+                <form action="/search/" method="get" class="flex w-full">
+                    <input type="text" name="s" class="form-control w-full bg-light text-dark border-0 p-2 rounded" placeholder="Busca">
+                </form>
             </div>
         </nav>
-        <div class="row">
-            <div class="left-menu col-md-3 d-none d-lg-block">
-                <img class="photo" src="{{ site.author.photo }}">
-                <h1 class="title"><a href="/">{{ site.title }}</a></h1>
-                <p class="description">{{ site.description }}</p>
+
+        <div class="flex flex-wrap">
+            <!-- Sidebar (Visible >= LG) -->
+            <div class="left-menu hidden lg:block w-full lg:w-3/12 pr-8">
+                <img class="photo mx-auto" src="{{ site.author.photo }}">
+                <h1 class="title mt-4"><a href="/">{{ site.title }}</a></h1>
+                <p class="description text-gray-400 mb-4">{{ site.description }}</p>
                 {% include social.html %}
-                <form action="/search/" method="get">
-                    <input type="text" name="s" id="search-box" class="form-control text-primary" placeholder="Buscar no site">
-                </form>
-                {%- comment -%} <ul class="nav flex-column">
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#">Active</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Link</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-                    </li>
-                </ul> {%- endcomment -%}
-                <p class="copyright">© 2009 - {{ "now" | date: "%Y" }}</p>
+                <div class="mt-4">
+                    <form action="/search/" method="get">
+                        <input type="text" name="s" id="search-box" class="w-full bg-light text-dark border-0 p-2 rounded" placeholder="Buscar no site">
+                    </form>
+                </div>
+                <!-- 
+                <ul class="nav flex-column mt-4">
+                    <li class="nav-item"><a class="nav-link" href="#">Link</a></li>
+                </ul> 
+                -->
+                <p class="copyright text-gray-500 text-sm mt-8">© 2009 - {{ "now" | date: "%Y" }}</p>
             </div>
-            <div class="col-md">
+
+            <!-- Main Content -->
+            <div class="w-full lg:w-9/12">
                 {{ content }}
             </div>
-        <div>
-
+        </div>
     </div>
-
-    <script src="/assets/js/bootstrap.bundle.min.js"></script>
 
     <script id="dsq-count-scr" src="https://{{ site.disqus.shortname }}.disqus.com/count.js" async></script>
 </body>
