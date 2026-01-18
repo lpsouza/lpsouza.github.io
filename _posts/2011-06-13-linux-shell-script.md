@@ -29,17 +29,11 @@ Como é uma linguagem de scripts para interpretadores de comandos, eles precisam
 Um exemplo de script:
 
 ```bash
-
 if [ $1 -lt 10 ]; then
-
     echo "Número menor que 10"
-
 else
-
     echo "Número igual ou maior que 10"
-
 fi
-
 ```
 
 Se quiserem aprender mais, eu deixo uma página interessante que li hoje sobre isso:

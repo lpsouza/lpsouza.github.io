@@ -33,13 +33,9 @@ Siga os 5 passos abaixo:
 
 2. Crie um “par de chaves X.509”:
 
-  
-
     `openssl req -new -x509 -newkey rsa:2048 -keyout vboxdrv.priv -outform DER -out vboxdrv.der -nodes -days 36500 -subj "/CN=MySelf/"`
 
 3. Assine o módulo do virtualbox:
-
-  
 
     `sudo /usr/src/linux-headers-$(uname -r)/scripts/sign-file sha256 ./vboxdrv.priv ./vboxdrv.der $(modinfo -n vboxdrv)`
 
@@ -52,15 +48,10 @@ Siga os 5 passos abaixo:
 Como o kernel pode ser atualizado constantemente (principalmente na versão desktop), eu recomento criar o seguinte script:
 
 ```bash
-
 #!/bin/bash
-
 CERTDIR="/path/to/certs"
-
 /usr/src/linux-headers-$(uname -r)/scripts/sign-file sha256 $CERTDIR/vboxdrv.priv $CERTDIR/vboxdrv.der $(modinfo -n vboxdrv)
-
 /sbin/modprobe vboxdrv
-
 ```
 
 Salve com um nome como **update-vboxdrv.sh** e use sempre que sua versão de kernel for atualizada! 😉

@@ -50,11 +50,7 @@ Hoje eu estive no Colégio Cenecista aqui da cidade de Novo Hamburgo - RS, dando
 
 Uma pena que são tantos assuntos para pouco tempo. Mas acredito que os alunos devem ter entendido o recado:  **Não importa a sua profissão, a vida móvel só ajuda a sua vida! Não importa se és um técnico em TI, uma pessoa que trabalha com fotos, um repórter, uma empresa de transportes.**
 
-  
-
 Em muito pouco tempo (aposto em alguns meses) a realidade dos smartphones vai ser uma coisa comum e banal.
-
-  
 
 Antes que percebam, bem vindos a mobilidade total!
 
@@ -64,11 +60,7 @@ Video, demonstração (no momento) ao vivo no Qik e no YouTube [aqui](http://www
 
 Deixo aqui meu muito obrigado ao Sandro, professor do Colégio e meu amigo. E agradeço também ao [@FranckBeck](http://twitter.com/franckbeck) pelo post no blog dele sobre QRCodes.
 
-  
-
 E deixo aqui o meu agradecimento a meus amigos, em especial a [@Clarini](http://twitter.com/Clarini) por me motivar a fazer esta palestra.
-
-  
 
 E a todos os alunos por terem assistido, é claro! 🙂
 

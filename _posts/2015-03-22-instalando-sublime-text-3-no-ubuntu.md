@@ -27,13 +27,9 @@ Para quem desenvolve, acabam descobrindo que um dos melhores editores para códi
 Então encontrei no [Launchpad](https://launchpad.net/~webupd8team/+archive/ubuntu/sublime-text-3) um repositório APT para o Sublime Text!
 
 ```bash
-
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
-
 sudo apt-get update
-
 sudo apt-get install sublime-text-installer
-
 ```
 
 Pronto! Sublime Text instalado em seu Ubuntu! 😀

@@ -13,65 +13,35 @@ title: Falha no MySQL permite acesso mesmo com senha incorreta
 Caso sério sobre segurança em banco de dados. Lendo no site do Tecnoblog, peguei o exemplo do script e estou colando aqui no meu blog para facilitar a vida dos DBA em MySQL ou MariaDB.
 
 ```c
-
 /*
-
  * CVE-2012-2122 checker
-
  *
-
  * You may get differing results with/without -m32
-
  *
-
  * Joshua J. Drake
-
  */
-
 #include &lt;stdio.h&gt;
-
 #include &lt;stdlib.h&gt;
-
 int main(void) {
-
     int one, two, ret;
-
     time_t start = time(0);
-
     time_t now;
-
     srand(getpid()*start);
-
     while (1) {
-
             one = rand();
-
             two = rand();
-
             ret = memcmp(&one, &two, sizeof(int));
-
             if (ret &lt; -128 || ret &gt; 127)
-
                     break;
-
             time(&now);
-
             if (now - start &gt; 10) {
-
                     printf("Not triggered in 10 seconds, *probably* not vulnerable..n");
-
                     return 1;
-
             }
-
     }
-
     printf("Vulnerable! memcmp returned: %dn", ret);
-
     return 0;
-
 }
-
 ```
 
 Autoria do Script é do desenvolvedor Joshua Drake da Accuvant Labs.

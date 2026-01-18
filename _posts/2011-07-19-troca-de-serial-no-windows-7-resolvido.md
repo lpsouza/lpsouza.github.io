@@ -27,7 +27,7 @@ Ok, mas o que esse tal de slmgr tem de tão especial? Simples, no colégio que t
 
 Para remover a chave e ativação da imagem.
 
-`slmgr -upk`  
+`slmgr -upk`
 
 Para instalar a chave original do computador que clonamos.
 
@@ -35,7 +35,7 @@ Para instalar a chave original do computador que clonamos.
 
 Para re-ativar a chave, e por fim,
 
-`slmgr -ato`  
+`slmgr -ato`
 
 Apenas para ver se tudo está nos conformes
 

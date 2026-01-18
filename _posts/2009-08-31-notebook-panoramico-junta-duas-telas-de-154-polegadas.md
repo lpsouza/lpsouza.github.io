@@ -19,6 +19,4 @@ To precisando de um desses, só que poderia der de 14,1"...
 
 > _A promessa da fabricante gScreen é que seu notebook com duas telas de 15,4 polegadas chegue ao mercado norte-americano em dezembro deste ano. Por conta da característica inovadora, no entanto, o produto já vem ganhando atenção dos fãs de tecnologia. O notebook com telas deslizantes (na hora de transportá-lo, uma fica atrás da outra) deve ser lançado no site Amazon.com por cerca de R$ 5,4 mil nos EUA, segundo o “Daily Mail”._
 
-  
-
 via [Notebook 'panorâmico' junta duas telas de 15,4 polegadas](http://g1.globo.com/Noticias/Tecnologia/0,,MUL1287081-6174,00.html).

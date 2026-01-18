@@ -32,13 +32,9 @@ Ok, chega de explicação e me dê esse comando maravilhoso, diria o pessoal que
 Depois que fizer isso, não terá mais interface gráfica instalada, para remover as dependências rode ainda:
 
 ```sh
-
 sudo apt-get autoremove
-
 sudo apt-get purge `deborphan`
-
 sudo dpkg --purge `dpkg -l | egrep "^rc" | cut -d' ' -f3`
-
 ```
 
 E agora, instale sua inteface preferida! 🙂

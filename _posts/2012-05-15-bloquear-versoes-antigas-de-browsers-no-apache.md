@@ -23,45 +23,25 @@ Aqui vai uma config bem legal para melhorar a segurança no acesso ao servidor W
 O código aqui (você pode colocar no apache.conf ou similar, dependendo da distribuição de linux usada):
 
 ```apache
-
 <IfModule mod_setenvif.c>
-
 # Mozilla prior to 4.0
-
 BrowserMatchNoCase ^Mozilla/[0-3] legacy=mozilla
-
 # malignant Mozilla versions
-
 BrowserMatchNoCase ^.?mozilla(?:$|/(?:(?:[^45]|[45].(?:[^0]|0S))|(?:(?:[45].0s(compatible;?)|5.0(?:s((?:en(?:-US)?)?))?)$))) legacy=mozilla
-
 # MSIE prior to 7.0
-
 BrowserMatchNoCase MSIED+[0-6].[d.]* legacy=msie
-
 # Firefox prior to 4.0
-
 BrowserMatchNoCase FirefoxD+[0-3].[d.]* legacy=firefox
-
 # Chrome prior to 9.0
-
 BrowserMatchNoCase ChromeD+[0-9].[d.]* legacy=chrome
-
 # Safari (inc Mobile) prior to 534
-
 BrowserMatchNoCase SafariD+(?:[0-4]+|d?53[0-3].[d.]*) legacy=safari
-
 # Opera prior to 9.80
-
 BrowserMatchNoCase OperaD+(?:[0-8][d.]*|9.[0-7]) legacy=opera
-
 # Seamonkey prior to 2.6
-
 BrowserMatchNoCase SeaMonkeyD+(?:[01]|2.[0-5]) legacy=seamonkey
-
 Deny from env=legacy
-
 </IfModule>
-
 ```
 
 Enfrentei alguns problemas ao usar essas configurações e vou relatar aqui pra vocês (até para ver se vai mesmo valer a pena para você o uso dela):

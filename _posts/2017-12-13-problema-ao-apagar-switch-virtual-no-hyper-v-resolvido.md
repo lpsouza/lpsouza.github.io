@@ -33,11 +33,8 @@ Ok, um deles não posso apagar por isso, mas e este "nat"?!?? Vou deletar... Eis
 A solução consiste em remover o switch virtual "na marra" do registro, uma vez que ele realmente é um lixo apenas. Se quiserem podem usar o famoso _regedit_ para resolver a questão, mas como eu adoro uma tela de console, vou mostrar como resolver isso não mão mesmo, via PowerShell! Para isso abra então a console do PowerShell e digite os seguintes comandos:
 
 ```powershell
-
 Set-Location HKLM:\SYSTEM\CurrentControlSet\Services\VMSMP\Parameters\SwitchList
-
 Get-ChildItem`
-
 ```
 
 Aqui você verá algo como esta tela aqui:
@@ -47,9 +44,7 @@ Aqui você verá algo como esta tela aqui:
 Identifique qual o nome da chave que se encontra o "lixo", isto é o nome "nat". No meu caso foi este: E42053F4-A8F7-4062-97DF-F7EAB1156438. Então agora é só deletar a chave!
 
 ```powershell
-
 Remove-Item .\E42053F4-A8F7-4062-97DF-F7EAB1156438\
-
 ```
 
 Escolha a opção [S] e resolvido! Não existe mais este switch virtual!

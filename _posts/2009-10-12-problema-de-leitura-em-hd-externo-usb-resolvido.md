@@ -35,14 +35,10 @@ Entrei no DOS e fiz um comando que havia testado no Windows sem sucesso: chkdsk.
 
 **Receita de bolo:**
 
-  
-
 Para quem tiver um problema parecido, entre no MS-DOS (ou CMD) e digite:
 
 ```cmd
-
 chkdsk g: /f
-
 ```
 
 Lembrando que "g:" é a unidade que estava o meu HD externo.. Ajuste para a sua unidade..

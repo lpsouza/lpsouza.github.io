@@ -22,27 +22,18 @@ Então uma forma de ter servidores Windows mais "enxutos" é usar a instalação
 Segue a ideia:
 
 ```Powershell
-
 Add-Type -AssemblyName System.IO.Compression.FileSystem
-
 function Unzip
-
 {
-
     param([string]$zipfile, [string]$outpath)
-
     [System.IO.Compression.ZipFile]::ExtractToDirectory($zipfile, $outpath)
-
 }
-
 ```
 
 Uma vez rodado isso é só usar o seguinte comando:
 
 ```Powershell
-
 Unzip "C:\a.zip" "C:\a"
-
 ```
 
 Essa dica eu achei aqui no post: [How to unzip a file in Powershell?](https://stackoverflow.com/a/27768628).

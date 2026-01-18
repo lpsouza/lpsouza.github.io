@@ -23,13 +23,9 @@ Depois da recente noticia do novo modo gráfico padrão do Ubuntu, tratei de pro
 Quer saber mais? Clique no link do post do pessoal da Tux Mind! 😉
 
 > O Unity ainda está em desenvolvimento, por isso você vai notar alguma instabilidade. Outro observação importante, é que ele não funciona se você estiver utilizando o Ubuntu no Virtualbox mesmo que instale o guest additions (parece ser uma incompatibilidade entre o Virtualbox e o Compiz que também é utilizado pelo Unity).
-
 >
-
 > Também já foi reportado algumas incompatibilidades com as gráficas da AMD (ATI).
-
 >
-
 > O Unity também tem requisitos mínimos para ser utilizado. Máquinas mais antigas poderão ter "dificuldades" com o Unity. (O Unity utiliza alguns efeitos do Compiz)
 
 via [Tux Mind: Instalar o Unity no Ubuntu 10.10](http://tuxmind.blogspot.com/2010/10/instalar-unity-no-ubuntu-1010.html)

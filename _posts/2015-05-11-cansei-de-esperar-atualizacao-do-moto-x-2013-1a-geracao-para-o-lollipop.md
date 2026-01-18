@@ -28,8 +28,6 @@ title: 'Cansei de esperar: Atualização do Moto X (2013 - 1ª Geração) para o
 
 E então, até hoje não vi atualizações em meu celular, o Moto X de primeira geração, para o Lolipop. Faz um tempo que foi liberado o 5.0.1 para atualizar e nada do meu telefone avisar que esta disponível. 🙁 Agora foi liberado em abril uma atualização nova, que leva o 5.1 aos Moto X e novamente, nada de aviso! Então, cansado de esperar a boa vontade da Motorola em liberar as atualizações para a minha versão, corri atras de onde encontrar!
 
-  
-
 Pesquisando na internet, achei um forum de usuários da Motorola onde tem um post chamado [[OTA] Android 5.1 Lollipop | Moto X 2013](http://www.motoforum.com.br/topic/33-ota-android-51-lollipop-moto-x-2013/) e ele mostra como, usando a atualização OTA, como devemos proceder.
 
 ###   Atualizando

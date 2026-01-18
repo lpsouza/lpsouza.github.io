@@ -44,19 +44,12 @@ Ok, vamos a **receita de bolo**:
 Deixo um conjunto de comandos que podem ser facilmente colocados em um script de inicialização.
 
 ```bash
-
 fallocate -l 512m /tmp/swapfile
-
 chown root:root /tmp/swapfile
-
 chmod 600 /tmp/swapfile
-
 mkswap /tmp/swapfile
-
 chmod 600 /tmp/swapfile
-
 swapon /tmp/swapfile
-
 ```
 
 Lembro aqui que estou criando um arquivo `swapfile` em um diretório `/tmp/`, isso não deve ser feito em ambientes de produção (use o espaço que você tem para dados).

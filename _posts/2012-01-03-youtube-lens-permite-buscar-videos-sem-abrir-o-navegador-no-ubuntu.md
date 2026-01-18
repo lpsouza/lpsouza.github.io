@@ -23,11 +23,8 @@ Bah, quer algo mais prático do que navegar no youtube sem abrir o navegador?
 Então nem vamos perder mais tempo:
 
 ```bash
-
 sudo add-apt-repository ppa:atareao/lenses
-
 sudo apt-get update && sudo apt-get install lens-video scope-youtube
-
 ```
 
 Depois disso saia e entre novamente no Unity e lá tá!

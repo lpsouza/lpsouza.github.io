@@ -32,13 +32,13 @@ Em um ambiente virtualizado com uso de Hypervisor pode ocorrer de dois tipos:
 
 **Hypervisor tipo 1**: É quando ele fica gerenciando o hardware diretamente, isto é, ele carrega e trabalha antes do sistema operacional da maquina host. Por sua vez, este sistema operacional é carregado como um sistema operacional virtualizado e primário para as ações do hypervisor. O Hyper-V é um ótimo exemplo deste tipo de sistema!
 
-![Exemplo de Hypervisor tipo 1](https://upload.wikimedia.org/wikipedia/commons/b/b3/Hipervisor_-_Primer_nivel.svg)  
+![Exemplo de Hypervisor tipo 1](https://upload.wikimedia.org/wikipedia/commons/b/b3/Hipervisor_-_Primer_nivel.svg)
 
 Fonte: Wikipédia
 
 **Hypervisor tipo 2**: É quando a virtualização passa usando o sistema operacional host para acessar o hardware. Assim, tanto o sistema de virtualização, nunca acessa diretamente o hardware. E um exemplo deste sistema é o Virtualbox!
 
-![Exemplo de Hypervisor do tipo 2](https://upload.wikimedia.org/wikipedia/commons/9/91/Hipervisor_-_Segundo_nivel.svg)  
+![Exemplo de Hypervisor do tipo 2](https://upload.wikimedia.org/wikipedia/commons/9/91/Hipervisor_-_Segundo_nivel.svg)
 
 Fonte: Wikipédia
 
@@ -49,9 +49,7 @@ Ok, então foi exatamente isso que vivi com meu Windows 8 e não havia compreend
 No blog, o Igor comenta na solução em prompt, que eu até então desconhecia, chamda bcdedit. Acessando o Prompt de Comando com elevação (acessando como Administrador), e vendo o help do comando, temos a explicação dele:
 
 > BCDEDIT - Editor de Repositório de Dados de Configuração da Inicialização
-
 >
-
 > A ferramenta de linha de comando Bcdedit.exe modifica o repositório de dados de configuração da inicialização. Este repositório contém parâmetros de configuração da inicialização e controla o modo como o sistema operacional é inicializado. Esses parâmetros estavam anteriormente no arquivo Boot.ini (nos sistemas operacionais baseados em BIOS) ou nas entradas de RAM não voláteis (nos sistemas operacionais baseados em EFI). Você pode usar o Bcdedit.exe para adicionar, excluir, editar e anexar entradas no repositório de dados de configuração da inicialização.
 
 Vou ser sincero com vocês que preciso urgente aprender mais sobre comandos em prompt desde o Windows 7 para frente, tem muita coisa boa e ainda por cima tem o Powershell, que aí é só maravilha!
@@ -68,7 +66,7 @@ e
 
 Pronto! Dois boots ao mesmo sistema operacional, um com Hyper-V e outro não! 😉
 
-![Dual boot depois de alterado](https://www.lambda3.com.br/wp-content/uploads/2013/01/image32.png)  
+![Dual boot depois de alterado](https://www.lambda3.com.br/wp-content/uploads/2013/01/image32.png)
 
 Fonte: Blog do Lambda3
 

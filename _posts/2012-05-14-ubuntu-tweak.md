@@ -48,10 +48,10 @@ Lembro que peguei essas informações no site oficial: [http://ubuntu-tweak.com]
 
 Sendo assim, vamos a receita de bolo:
 
-  1. Vá no terminal e digite:  
+  1. Vá no terminal e digite:
 
   `sudo add-apt-repository ppa:tualatrix/ppa && sudo apt-get update`
 
-  2. Depois instalar:  
+  2. Depois instalar:
 
   `sudo apt-get install ubuntu-tweak`

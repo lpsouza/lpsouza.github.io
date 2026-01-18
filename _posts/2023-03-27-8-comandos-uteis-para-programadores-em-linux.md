@@ -73,11 +73,8 @@ O `git` é um sistema de controle de versão distribuído usado para rastrear al
 **Por que eu uso?** Embora a resposta que vocês possam esperar seja “porque eu desenvolvo em NodeJS”, a ideia vai um pouco mais além. Eu uso muito o `npm` para instalar pacotes globais de outros comandos úteis, como por exemplo o `http-server` que me permite levantar rapidamente um servidor web em qualquer diretório que eu esteja usando. Vale a pena dar uma conhecida no repositório do `npm` mesmo que você não programe em NodeJS!
 
 ```bash
-
 # Exemplo da instalação global do comando http-server
-
 npm -g install http-server
-
 ```
 
 ### nano

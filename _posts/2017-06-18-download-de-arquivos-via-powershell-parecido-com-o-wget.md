@@ -26,8 +26,6 @@ Receita do bolo:
 
     $output = "10meg.test"
 
-    
-
     $wc = New-Object System.Net.WebClient
 
     $wc.DownloadFile($url, $output)

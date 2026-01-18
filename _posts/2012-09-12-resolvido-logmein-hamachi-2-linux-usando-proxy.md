@@ -27,21 +27,13 @@ Ok! Mas hoje isso muda! Li na internet, para ser mais exato um artigo sobre hama
 Sou usuário Linux, ok, então tenho como configurar um proxy em poucos minutos na minha maquina (usei Squid3). E foi o que aconteceu, configurei meu Squid3, e nas configs do meu hamachi (/var/lib/logmein-hamachi/h2-engine-override.cfg) e ficou:
 
 ```ini
-
 Conn.PxyAddr        127.0.0.1
-
 Conn.PxyPort        3128
-
 Conn.PxySave        1
-
 Conn.Mask           4
-
 Conn.DisableUpnp    1
-
 Core.AutoLogin      1
-
 Login.OnLaunch      1
-
 ```
 
 Eis que estou acessando meu servidor muito tranquilamente! #ficaadica

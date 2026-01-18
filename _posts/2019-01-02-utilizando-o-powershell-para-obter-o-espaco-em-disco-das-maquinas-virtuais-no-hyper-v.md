@@ -24,29 +24,17 @@ Quando falamos de universo "Windows", acredito que para os usuários avançados 
 O script basicamente obtém as VMs e, passando por um filtro, obtém os discos e faz uma soma deles por VM. Ao final o retorno do script é uma lista das VMs com seu respectivo tamanho total de disco. Fácil não?
 
 ```powershell
-
 Get-VM | Where-Object { $_.Name -like "VM*" } | ForEach-Object {
-
     $VHDSize = 0;
-
     $VMName = $_.Name;
-
     Get-VMHardDiskDrive -VMName $_.Name | ForEach-Object {
-
         Get-VHD -Path $_.Path | ForEach-Object {
-
             $VHDSize += $_.Size
-
         }
-
     };
-
     $VHDSizeMB = $VHDSize / (1024 * 1024);
-
     Write-Host $VMName $VHDSizeMB
-
 }
-
 ```
 
 Temos variantes do resultado podem ser obtidas alterando a linha `$VHDSize += $_.Size`. Esta linha trás o tamanho total do VHDX selecionado. Para obter, por exemplo, o uso real do disco, podemos alterar a linha para `$VHDSize += $_.FileSize`.

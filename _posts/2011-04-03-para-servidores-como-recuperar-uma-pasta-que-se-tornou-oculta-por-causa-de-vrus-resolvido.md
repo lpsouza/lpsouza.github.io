@@ -28,17 +28,11 @@ Enfim, tentei de tudo quanto foi maneira recuperar a pasta em seu estado origina
 Ok, isso até hoje, quando achei um artigo interessante que descrevia como resolver o problema, e então compartilho com vocês agora! 🙂
 
 > hey try this. i am sure your problem will be solved. I too have tried this.........
-
 >
-
 > start->Run->cmd
-
 >
-
 > `attrib -h -r -s /s /d h:\*.\*`
-
 >
-
 > best of luck
 
 Onde o “h:\*.\*” é o caminho onde a pasta se encontra. No meu caso, como eram pastas internas, eu dei um “cd *caminho*” e depois apenas coloquei no comando do *attrib* o “\*.\*”.
