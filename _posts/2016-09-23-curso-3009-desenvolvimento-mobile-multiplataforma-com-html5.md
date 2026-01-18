@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Etc
 date: 2016-09-23 05:38:00-03:00
-image: https://luizsouza.com/wp-content/uploads/2016/09/site-html-5-3-edicao.jpg
+image: https://luizsouza.com/assets/2016-09-23-curso-3009-desenvolvimento-mobile-multiplataforma-com-html5/site-html-5-3-edicao.jpg
 last_modified_at: 2023-10-15 01:01:20.303941-03:00
 layout: post
 published: true

@@ -40,7 +40,7 @@ Nas primeiras versões dele, o peso do arquivo era um problema claro. Mas nas ú
 
 Vamos analisar a imagem a baixo:
 
-![Exemplo](/wp-content/uploads/2013/03/1362831418416.jpg)
+![Exemplo](/assets/2013-03-10-vale-a-pena-propagandas-em-flash/1362831418416.jpg)
 
 É uma screenshot do meu tablet, onde estava lendo uma reportagem, e para existir o site de notícias em questão, eles trabalham com publicidade, certo? Ok, então reparem que existia propagandas que conseguiu abrir em meu tablet e outra não.
 
@@ -48,7 +48,7 @@ Imagina se eu fosse o anunciante, que pagou para ter minha propaganda (que pelo 
 
 ###   Pare de reclamar, me fale de soluções
 
-![No flash inside](/wp-content/uploads/2013/03/html5_no_flash_inside.jpg)
+![No flash inside](/assets/2013-03-10-vale-a-pena-propagandas-em-flash/html5_no_flash_inside.jpg)
 
 A melhor solução é trabalhar com as novas plataformas da web 2.0, o HTML5, unido ao CSS3 e frameworks de JavaScript, como [jQuery](http://www.jquery.com).
 

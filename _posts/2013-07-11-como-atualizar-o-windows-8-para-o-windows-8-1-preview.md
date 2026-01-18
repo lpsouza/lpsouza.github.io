@@ -15,7 +15,7 @@ tags:
 title: Como atualizar o Windows 8 para o Windows 8.1 Preview
 ---
 
-[Windows 8.1](/wp-content/uploads/2013/07/windows-8_1.jpg)
+[Windows 8.1](/assets/2013-07-11-como-atualizar-o-windows-8-para-o-windows-8-1-preview/windows-8_1.jpg)
 
 Eu estava bem curioso para atualizar o meu Windows 8 para o Windows 8.1, mas como parece que só para o final do ano iria liberar a atualização, resolvi fuçar na internet para achar uma forma mais rápida (desde que fosse "oficial").
 

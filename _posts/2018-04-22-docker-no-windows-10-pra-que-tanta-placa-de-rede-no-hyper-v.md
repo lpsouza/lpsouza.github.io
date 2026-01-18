@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2018-04-22 06:30:00-03:00
-image: https://luizsouza.com/wp-content/uploads/2018/04/Capturar.png
+image: https://luizsouza.com/assets/2018-04-22-docker-no-windows-10-pra-que-tanta-placa-de-rede-no-hyper-v/Capturar.png
 last_modified_at: 2023-10-15 01:01:20.307735-03:00
 layout: post
 published: true

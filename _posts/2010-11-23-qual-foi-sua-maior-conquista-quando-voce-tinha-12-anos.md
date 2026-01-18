@@ -23,7 +23,7 @@ title: Qual foi sua maior conquista quando você tinha 12 anos?
 
 >
 
-> ![Alex Muler](/wp-content/uploads/2010/11/alexmiller.jpg)
+> ![Alex Muler](/assets/2010-11-23-qual-foi-sua-maior-conquista-quando-voce-tinha-12-anos/alexmiller.jpg)
 
 >
 

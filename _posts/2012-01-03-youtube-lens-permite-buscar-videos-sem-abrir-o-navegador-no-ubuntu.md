@@ -18,7 +18,7 @@ title: YouTube Lens permite buscar vídeos sem abrir o navegador no Ubuntu
 
 Bah, quer algo mais prático do que navegar no youtube sem abrir o navegador?
 
-![YouTube](/wp-content/uploads/2012/01/Screenshot-at-2012-01-02-155617-600x387.png)
+![YouTube](/assets/2012-01-03-youtube-lens-permite-buscar-videos-sem-abrir-o-navegador-no-ubuntu/Screenshot-at-2012-01-02-155617-600x387.png)
 
 Então nem vamos perder mais tempo:
 

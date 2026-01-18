@@ -34,4 +34,4 @@ Então como tive recentemente problemas ao sincronizar um git que fiz entre serv
 
 * Pronto! 🙂
 
-![Putty](/wp-content/uploads/2015/01/putty.png)
+![Putty](/assets/2015-01-31-problema-net-virtua-e-o-ssh-resolvido/putty.png)

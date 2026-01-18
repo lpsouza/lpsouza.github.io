@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2016-06-18 22:39:00-03:00
-image: https://luizsouza.com/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450-1200x675.png
+image: https://luizsouza.com/assets/2016-06-19-erro-no-desligar-do-unity-quando-usando-o-cairo-dock-resolvido/Captura-de-tela-de-2016-06-19-012450-1200x675.png
 last_modified_at: 2023-10-15 01:01:20.302315-03:00
 layout: post
 published: true
@@ -22,7 +22,7 @@ title: Erro no desligar do Unity quando usando o Cairo Dock [Resolvido]
 
 Faz uns meses que resolvi dar uma cara de "Mac OS" para o meu Ubuntu. Como chamei, o meu [Mac OSX Pobre Edition](https://www.instagram.com/p/BFZ-GcKMGDo/), hehehe. Para fazer isso eu instalei o Cairo Dock no meu Ubuntu 14.04, com a interface padrão do Unity. Ok, até que ficou legal! Olha esse screenshot:
 
-![Fala sério, tu nem reparou que era um Linux né?](/wp-content/uploads/2016/06/Captura-de-tela-de-2016-06-19-012450.png)
+![Fala sério, tu nem reparou que era um Linux né?](/assets/2016-06-19-erro-no-desligar-do-unity-quando-usando-o-cairo-dock-resolvido/Captura-de-tela-de-2016-06-19-012450.png)
 
 Mas desde que fiz essa solução, tive um outro problema: Ir no desligar do Unity não fazia mais o meu note desligar, e sim voltar para o login! 🙁
 

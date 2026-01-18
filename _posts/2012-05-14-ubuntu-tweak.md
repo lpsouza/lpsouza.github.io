@@ -44,7 +44,7 @@ Bom, na realidade dá pra fazer muito mais coisas do que alem do login. Citando 
 
 Lembro que peguei essas informações no site oficial: [http://ubuntu-tweak.com](http://ubuntu-tweak.com)
 
-![Ubuntu](/wp-content/uploads/2012/05/JpVyu.png)
+![Ubuntu](/assets/2012-05-14-ubuntu-tweak/JpVyu.png)
 
 Sendo assim, vamos a receita de bolo:
 

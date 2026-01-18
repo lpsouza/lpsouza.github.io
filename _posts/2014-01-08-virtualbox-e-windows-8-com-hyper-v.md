@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2014-01-08 00:13:00-02:00
-image: https://luizsouza.com/wp-content/uploads/2014/01/hyper-v-virtualbox.jpg
+image: https://luizsouza.com/assets/2014-01-08-virtualbox-e-windows-8-com-hyper-v/hyper-v-virtualbox.jpg
 last_modified_at: 2023-10-15 01:01:20.291477-03:00
 layout: post
 published: true

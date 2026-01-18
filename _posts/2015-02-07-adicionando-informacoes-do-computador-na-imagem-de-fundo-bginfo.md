@@ -27,7 +27,7 @@ Achava curioso e sempre pensei em fazer isso nos meus servidores virtualizados n
 
 Eis que acabei esbarrando em um site da Microsoft que mostra como fazer! Tudo que é necessário é do aplicativo <a title="BGInfo" href="https://technet.microsoft.com/en-us/sysinternals/bb897557.aspx" target="_blank">BGInfo</a>, aplicativo do Windows Sysinternals.
 
-![BGInfo](/wp-content/uploads/2015/02/bginfo2.png)
+![BGInfo](/assets/2015-02-07-adicionando-informacoes-do-computador-na-imagem-de-fundo-bginfo/bginfo2.png)
 
 Executando ele pela primeira vez, será apresentado a tela acima, basta escolher o que quer que apareça e clique em Apply para aplicar no computador ou ir em File > Save As... para salvar em arquivo a configuração.
 
@@ -37,6 +37,6 @@ BGInfo.exe Arquivo.bgi /TIMER:0
 
 Pronto! Servidores e até estações de trabalho atualizadas para quando você fizer acesso remoto, poder verificar as suas configurações de maneira bem praticas!
 
-[Desktop com BGInfo](/wp-content/uploads/2015/02/bginfo1.png)
+[Desktop com BGInfo](/assets/2015-02-07-adicionando-informacoes-do-computador-na-imagem-de-fundo-bginfo/bginfo1.png)
 
 Meu desktop com as informações do BGInfo! 🙂

@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2017-12-13 21:52:00-02:00
-image: https://luizsouza.com/wp-content/uploads/2017/12/erro-deletando-vmswitch.png
+image: https://luizsouza.com/assets/2017-12-13-problema-ao-apagar-switch-virtual-no-hyper-v-resolvido/erro-deletando-vmswitch.png
 last_modified_at: 2023-10-15 01:01:20.306553-03:00
 layout: post
 published: true
@@ -26,7 +26,7 @@ title: Problema ao apagar switch virtual no Hyper-V [Resolvido]
 
 Após instalada a versão 1709 do Windows 10, também conhecida como _Fall Creators Update_, comecei a ter problemas com os switchs virtuais do Hyper-V. Bom, como não costumo ser um usuário "padrão", eu havia um diferêncial: Alem do Hyper-V, já estava instalado antes da atualização, havia também o Docker instalado em sua versão 17.09. Então o que antes havia apenas o switch "DockerNAT", agora surgiu mais dois! Um tal de "Opção Padrão" e um "nat" e logo pensei: Ué? Quem mandou ter mais de um vSwitch aqui (Sim, tenho uns ticks)? Eis que me deparei com uma surpresa "agradável".
 
-![Surprise](/wp-content/uploads/2017/12/aviso-opcao-padrao.png)
+![Surprise](/assets/2017-12-13-problema-ao-apagar-switch-virtual-no-hyper-v-resolvido/aviso-opcao-padrao.png)
 
 Ok, um deles não posso apagar por isso, mas e este "nat"?!?? Vou deletar... Eis que aparece a mensagem de acesso negado e nada de remover! E é um switch virtual do tipo "rede privada" que não consigo remover!?!! Enfim, depois de pesquisar na internet, descobri que esta placa é um "lixo" que ficou provavelmente pela mistura de Docker com essa atualização do Windows 10! Bom, parece que não é só uma exclusividade da atualização, porque encontrei a resposta em um post do SuperUser de Março deste ano chamado _[How to remove a Hyper-V virtual Ethernet](https://superuser.com/a/1192507)_.
 
@@ -42,7 +42,7 @@ Get-ChildItem`
 
 Aqui você verá algo como esta tela aqui:
 
-![Powershell](/wp-content/uploads/2017/12/powershell1.png)
+![Powershell](/assets/2017-12-13-problema-ao-apagar-switch-virtual-no-hyper-v-resolvido/powershell1.png)
 
 Identifique qual o nome da chave que se encontra o "lixo", isto é o nome "nat". No meu caso foi este: E42053F4-A8F7-4062-97DF-F7EAB1156438. Então agora é só deletar a chave!
 

@@ -29,7 +29,7 @@ Feliz Ano Novo pessoal! 🙂
 
 >
 
-> ![David Scherer](/wp-content/uploads/2010/01/033535633-FMM00.jpg)
+> ![David Scherer](/assets/2010-01-04-por-recorde-jovem-vai-jogar-roba-carro-por-72-horas/033535633-FMM00.jpg)
 
 >
 

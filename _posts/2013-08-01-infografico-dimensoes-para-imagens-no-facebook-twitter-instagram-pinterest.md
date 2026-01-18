@@ -26,4 +26,4 @@ Ok, mas me esbarrei neste infográfico muito legal, por uma razão simples: Quer
 
 Abaixo essa super solução:
 
-![Blueprint](/wp-content/uploads/2013/08/social-media-design-blueprint.png)
+![Blueprint](/assets/2013-08-01-infografico-dimensoes-para-imagens-no-facebook-twitter-instagram-pinterest/social-media-design-blueprint.png)

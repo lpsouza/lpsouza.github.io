@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2014-01-15 10:04:00-02:00
-image: https://luizsouza.com/wp-content/uploads/2014/01/repair.jpg
+image: https://luizsouza.com/assets/2014-01-15-falha-no-boot-do-windows-server-2008-r2-o-que-fazer/repair.jpg
 last_modified_at: 2023-10-15 01:01:20.292131-03:00
 layout: post
 published: true
