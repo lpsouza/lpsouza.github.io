@@ -7,6 +7,14 @@ last_modified_at: 2026-01-18 01:22:00-03:00
 layout: post
 published: true
 tags:
+    - IA
+    - nAItmare
+    - Antigravity
+    - Tailwind CSS
+    - Jekyll
+    - GitHub Pages
+    - Bootstrap
+    - Wordpress
 title: 'Meu novo estagIArio'
 ---
 
