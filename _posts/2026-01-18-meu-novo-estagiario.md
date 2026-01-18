@@ -1,6 +1,6 @@
 ---
 author: Luiz Pereira de Souza Filho
-category: Linux
+category: Tecnologia
 date: 2026-01-18 00:40:00-03:00
 image: https://luizsouza.com/assets/2026-01-18-meu-novo-estagiario/meu-novo-estagiario.png
 last_modified_at: 2026-01-18 01:22:00-03:00
