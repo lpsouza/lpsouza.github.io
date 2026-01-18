@@ -52,5 +52,4 @@ Após terminar, execute o Netflix Desktop e logue na conta! Seja feliz!
 Fontes:
 
 * [Netflix no Linux Mint, Ubuntu, Fedora e CentOS](http://www.vivaolinux.com.br/dica/Netflix-no-Linux-Mint-Ubuntu-Fedora-e-CentOS)
-
 * [How can I accept the Microsoft EULA agreement for ttf-mscorefonts-installer?](http://askubuntu.com/questions/16225/how-can-i-accept-the-microsoft-eula-agreement-for-ttf-mscorefonts-installer)

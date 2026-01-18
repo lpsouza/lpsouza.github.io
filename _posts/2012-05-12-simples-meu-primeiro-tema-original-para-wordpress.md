@@ -28,9 +28,7 @@ Mas o que esse Simples-UI tem de especial? Simples! 😛 Fazer sites de forma ma
 Hoje o core do Simples-UI possui:
 
 * [Bootstrap](http://twitter.github.com/bootstrap/) 2.0
-
 * [jQuery](http://jquery.com) 1.7.1
-
 * [jQuery-UI](http://jquery-ui.com) 1.8.16
 
 O legal é que o tema usado com o jQuery-UI é baseado no jQuery UI Bootstrap, projeto do [Addy Osmani](http://twitter.com/addyosmani).

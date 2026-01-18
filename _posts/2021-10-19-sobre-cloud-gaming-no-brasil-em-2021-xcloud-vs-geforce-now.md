@@ -26,7 +26,6 @@ Disclaimer: Antes que venham dizer que "isso ou aquilo" sobre os serviços, gost
 Vamos lá, do princípio... Deixa colocar aqui as propostas de cada serviço, pois elas embora tenham a mesma entrega final (jogar onde quiser, sem se preocupar com o poder do dispositivo para rodar jogos), eles tem pequenas diferenças que pode fazer você adorar o serviço ou já sair torcendo o nariz.
 
 - **XCloud**: Este serviço da Microsoft promete que a partir da assinatura do XBox Game Pass Ultimate, você tenha um catalogo de jogos disponíveis para jogar, sem serviços ou configurações adicionais. Apenas ter o cliente deles ou rodar pelo navegador e já tens acesso aos mais de 100 jogos do catálogo! Imaginem uma assinatura do Netflix, só que de jogos. Isto quer dizer que pode e deve ocorrer revezamento de jogos no catálogo, isto é, podem sair títulos enquanto outros entram! Quem nunca queria ver um filme que estava no catálogo da Netflix e do nada ele não estava mais lá? Ou descobrir que um filme apareceu novamente? A ideia é essa!
-
 - **GeForce Now**: Este serviço da NVidia tem uma proposta diferente do XCloud, neles tu pode assinar o serviço (que pode começar de graça) e este de dá o direito de jogar remotamente nos servidores de jogos licenciados pela NVidia. Tu não tem jogos neste plano, apenas o direito de uso dos servidores. Para jogar, é necessário o jogador ter um conta na Steam (e outros como Epic Games, UPlay, etc.) que o catalogo de jogos comprados fica disponível para jogar nos servidores licenciados pela NVidia. Confuso? Imagina que alem de pagar pela Netflix, tu terias que também desembolsar grana para os filmes que tu quer ver lá.
 
 Ok, devidamente explicada as propostas, vou agora dar um "zoom" em cada uma delas e comentar minhas impressões e o que achei de pró e contra em cada plataforma.
@@ -50,17 +49,13 @@ Em todas as opções a performance foi muito boa para um serviço em beta e tive
 ###  # Prós
 
 - Estabilidade do serviço (levando em conta que é beta);
-
 - Facilidade em qualquer dispositivo;
-
 - Possibilidade de substituir a compra de um console ou um "PC gamer".
 
 ###  # Contras
 
 - Rotatividade de títulos (uma hora tu não terá mais o jogo que você quer);
-
 - Para os mais críticos de gráficos e performance vão sentir diferenças;
-
 - Filas para jogar (meu tempo máximo em filas foi em média 10 minutos).
 
 ###   GeForce Now
@@ -84,9 +79,7 @@ Com isso vamos aos prós (se é que tem) e os contras:
 ###  # Contras
 
 - Nitidamente não foi um serviço planejado para entrar no mercado;
-
 - Para vender a ideia que sua biblioteca da Steam pode ser acessível e liberarem cerca de 25% dela foi de matar;
-
 - Instabilidade total do serviço desde o uso com multiplos dispositivos a no PC (que deveria ser o domínio da empresa).
 
 ###   Conclusões

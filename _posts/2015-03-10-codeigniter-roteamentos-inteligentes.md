@@ -20,7 +20,6 @@ title: 'CodeIgniter: Roteamentos Inteligentes'
 O roteamento inteligente permite criar URLs personalizadas. Com isso, a URL padrão do Codeigniter pode ser customizada. O cuidado extra é no _default controller_ onde deve ter um método para implementar o erro de _not found_ (404). No exemplo dos arquivos, ele simula as URLs encontradas em um blog:
 
 * [http://{blog}/{ano}/{mes}/{dia}/{slug-noticia}](http://{blog}/{ano}/{mes}/{dia}/{slug-noticia})
-
 * [http://{blog}/{página}](http://{blog}/{página})
 
 ###   Código fonte do arquivo `[project-root]/application/controller/defaultController.php`

@@ -30,9 +30,7 @@ Voltando a falar deste site aqui, vou mudar ele, quero deixar ele mais "adulto".
 Deixo aqui algumas delas:
 
 * Alteração no layout (sim, abandonei de vez a ideia do "Simples", o tema que havia feito para WordPress, mas porque agora melhorei esse conhecimento de temas e não quero reinventar a roda para um site que é querendo ou não um blog);
-
 * Alteração nas categorias (pois é, essa é a parte que penso quando disse que estou mais "adulto". Eu tinha uma ideia de categorias, mas como hoje, este site tem um foco mais Nerd-o-IT, pense em um site nerd, mas que foca em tecnologia da informação e segurança em boa parte dos posts, então vamos repaginar isso!)
-
 * Análise de TAGs (e com isso tirar alguns lixos que tem ali)
 
 Acredito que seria isso! Vamos trabalhar! 😀

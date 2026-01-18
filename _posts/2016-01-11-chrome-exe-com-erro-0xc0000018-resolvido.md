@@ -35,11 +35,8 @@ Então via smartphone, achei esta solução: [Fixing "the application was unable
 A solução para mim foi um pouco diferente do que ele comenta no post, mas foi o caminho da solução:
 
   1. Abra o executar e digite: regedit (e clique em OK).
-
   2. Confirme que você quer executar o Regedit.
-
   3. Navegue nas pastas até HKEY\_LOCAL\_MACHINE\SOFTWARE\Wow6432Node\­Microsoft\WindowsNT\CurrentVersion\Windo­­ws
-
   4. Localize a chave "APPINIT_DLLS", ~~dê um duplo clique e delete todos os caracteres~~ delete esta chave.
 
 Reiniciando o computador, consegui acesso a todos os executáveis que estavam dando erro de acesso!

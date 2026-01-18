@@ -32,15 +32,10 @@ A partir deste final de semana, muitas funcionalidades novas do site da IHCenter
 Quais serviços vão ser colocados no site novo?
 
 * Hospedagem de sites
-
 * Revenda de hospedagem de sites
-
 * Consultoria linux
-
 * Hospedagem de aplicações
-
 * Sistema hoteleiro de acesso / controle a internet (WiFi / LAN)
-
 * Painel de controle unificado (serviços / financeiro)
 
 Legal né? Vai ter mais projetos de minha autoria acontecendo aí... Brainstorming pegando!!! Hehehe...

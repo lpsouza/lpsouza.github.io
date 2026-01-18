@@ -40,11 +40,8 @@ Ao final do diagnostico, ele informou que ainda tinha arquivos que estavam corro
 Após pesquisar um pouco, achei no site de suporte da Microsoft um artigo que caiu como uma luva: <a title="0x113 de erro de parada se você usar adaptadores de gráficos Intel e AMD em um computador baseado em Windows 8.1" href="http://support.microsoft.com/kb/2990029" target="_blank">0x113 de erro de parada se você usar adaptadores de gráficos Intel e AMD em um computador baseado em Windows 8.1</a>. Este é exatamente o universo do meu note:
 
 * Windows 8.1
-
 * Duas placas de vídeo
-
   * Intel HD Graphics
-
   * AMD Radeon HD 8670M
 
 No artigo, pede para rodar um hotfix lançado pela Microsoft. Para quem quiser, deixou ele abaixo.

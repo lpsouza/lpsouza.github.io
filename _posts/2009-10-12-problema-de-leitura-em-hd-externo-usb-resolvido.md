@@ -52,11 +52,8 @@ Alguns estão encontrando dificuldades ao executar a "receita de bolo", como: Un
 Problemas encontrados pelos leitores (e possíveis soluções):
 
 * [How To Fix: External Disk Drive Suddenly Became RAW](http://html5.litten.com/updated-how-to-fix-external-disk-drive-suddenly-became-raw/) (em Inglês, leiam com cuidado)
-
 * [Não há suporte para o pedido. (0x80070032)](http://answers.microsoft.com/pt-br/windows/forum/windows_7-security/n%C3%A3o-h%C3%A1-suporte-para-o-pedido-0x80070032/45719cf0-1c83-4b06-ad71-c10f0e90c769?auth=1) (Microsoft Community)
-
 * [Mensagem de erro "Não é possível abrir o volume para acesso direto" quando o Chkdsk é executado na inicialização](https://support.microsoft.com/pt-br/kb/823439)
-
   * Informação adicional: Olha, o link comenta em Windows XP, o qual nem tem mais suporte pela Microsoft. Se não for este o seu caso, e tiver um windows mais recente, tente iniciar o prompt de comando como administrador.
 
 **Editado em 01/03/2016:** Conforme dica do **Pedro Romero**, alterei a letra da unidade pra _g:_ ao invés do _f:_. Obrigado pela dica! 🙂

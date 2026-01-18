@@ -39,11 +39,8 @@ Para atualizar, é necessário que o seu Moto X esteja usando a versão **KitKat
 Vejam que para atualizar da **4.4.4** para a **5.1**, vamos executar uma série de atualizações:
 
 * [Lolipop 5.0.2](https://mega.co.nz/#!z8ox0K7J!OqhFEXdDA-6IT40wZXhpKOEoEpuxrTZb7KvBUg8JQiA)
-
 * [Patch Lolipop 5.0.2](https://mega.co.nz/#!XloAkA5Y!vCkyo1gFScGKR96NI79_DBUhe126mY6DJGGdgS2g-vY)
-
 * [Lolipop 5.1](https://mega.co.nz/#!f4hzmSbY!pkIlLi2dAxZAcu7OlVwWydyKwrPRZiHnaLmCEU2gmnQ)
-
 * [Patch Lolipop 5.1](https://mega.co.nz/#!zkACFbZR!f8xYXpGncN710OEnCJE1LR_Uj1DaoQM2Vabax7Zgcos)
 
 ###  # Procedimentos de atualização
@@ -51,11 +48,8 @@ Vejam que para atualizar da **4.4.4** para a **5.1**, vamos executar uma série 
 Estes procedimentos devem ser seguidos para cada um dos arquivos que estão acima citados, e claro, tenha paciência, porque cada atualização deve um tempo considerado: Algumas horas!
 
   1. Copie o arquivo da atualização para a raiz do armazenamento do seu celular (Exatamente com o nome do arquivo como esta, não altere!)
-
   2. Vá em **Configurações** > **Sobre o telefone** > **Atualizações de sistema**
-
   3. Ele irá anunciar a atualização disponível, aceite e aguarde, mas aguarde mesmo! 😛
-
   4. Repita o procedimento até o Lolipop 5.1
 
 Finalmente meu Moto X de primeira geração está atualizado! Esperamos que as próximas atualizações venham normalmente pelo OTA! 😀

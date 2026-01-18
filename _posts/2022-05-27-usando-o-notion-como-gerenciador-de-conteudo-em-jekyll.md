@@ -35,7 +35,6 @@ Tudo começou quando em minhas pesquisas eu encontrei [esse projeto](https://git
 Este projeto tem a premissa de:
 
 - Pegar os posts no Jekyll e criar eles no Notion
-
 - Pegar os posts no Notion e criar ou atualizar ele no Jekyll
 
 ![Projeto jekyll-notion-sync rodando em modo de desenvoldimento.](/assets/2022-05-27-usando-o-notion-como-gerenciador-de-conteudo-em-jekyll/jekyll-notion-sync.png)

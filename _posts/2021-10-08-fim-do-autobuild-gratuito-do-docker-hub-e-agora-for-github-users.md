@@ -56,7 +56,6 @@ jobs:
 Lembrando umas questões importantes aqui:
 
 1. Tanto a variável **$\{\{ secrets.DOCKER_USERNAME \}\}** quanto a variável **$\{\{ secrets.DOCKER_PASSWORD \}\}** pegam essas informações da [área de secrets do teu repositório](https://docs.github.com/pt/actions/security-guides/encrypted-secrets "Segredos criptografados").
-
 2. Na chave **tags** onde aparece `<docker-username>` devemos alterar pelo usuário do Docker Hub e na `<image-name>` colocar o nome da nossa imagem.
 
 Fazendo estes ajustes é só subir este novo arquivo para o repositório do Github e sair para o abraço!

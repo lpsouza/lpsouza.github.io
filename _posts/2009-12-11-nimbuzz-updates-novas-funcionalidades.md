@@ -32,11 +32,8 @@ Eu sou uma pessoa que vive conectada por diversos meios com a internet. Isso faz
 Ontem a tarde, fui abrir meu Nimbuzz e me deparei com uma atualização. Mandei efetuar e me deparei com um verdadeiro presente de final de ano:
 
 * Suporte total ao Twitter;
-
 * Histórico de chat que não se perde;
-
 * Melhorias visuais (chat com fotos, detalhamentos mais sutis, inversão da foto com o ícone do mensageiro e status do mesmo);
-
 * Melhoria do download das fotos dos Avatares dos outros usuários.
 
 De todas essas mudanças as mais gritantes e talvez solicitadas pelos usuários, fossem o Twitter e não perder o chat. Eu sou um que agradeço a todos do Nimbuzz por isso!! Hehe..

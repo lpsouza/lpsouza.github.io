@@ -27,7 +27,6 @@ Isso tem a causa principal o PHP, linguagem de programação amplamente usada na
 Então me peguei pensando: Poxa, este é apenas um blog e uma forma das pessoas me conhecerem melhor. Porque precisa ser "tão pesado"? Lembro que antes do Wordpress e antes destas linguagens tudo que comentei acima (sim, sou anterior a isso), a internet era "mais textual", resumidamente um HTML aqui e ali e uma pitadinha de CSS para dar uma cor aqui e ali. E com isso veio a pergunta: Porque não voltar as origens? O blog ficaria extremamente rápido! E com essa questão, eu resolvi mudar para o [Jekyll](https://jekyllrb.com/). Resumidamente, é um gerador de sites estático. E o que é um site estático?!?? Um site onde o conteúdo não é alterado por linguagens de programação e armazenados em banco de dados. Uma página estática é infinitamente mais rápida do que uma página gerada de "na hora" com a dupla que comentei acima. Houve mais duas coisas que me chamaram a atenção quanto ao Jekyll:
 
 1. Ele usa [Markdown](https://www.markdownguide.org/getting-started), uma linguagem de marcação (como o HTML) muito leve e simples de usar.
-
 1. Podemos criar um repositório com os arquivos do Jekyll no site do [GitHub](https://github.com/) e ele cria um site estático de graça! E com direito a usar o domínio pessoal e SSL (https)!
 
 Faz poucos dias que migrei o site que tinha hospedado na [Umbler](https://app.umbler.com/u/0jrm3d6k) para o GitHub. Estou curtindo muito a mudança!

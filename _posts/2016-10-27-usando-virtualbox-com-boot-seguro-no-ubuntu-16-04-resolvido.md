@@ -30,7 +30,6 @@ Ok, lá vamos nós para a internet e o que mais lia por aí era: Desabilite o _
 Siga os 5 passos abaixo:
 
 1. Abra o terminal e instale o virtualbox com `apt-get install virtualbox` (ignore os avisos e pedidos para desativar o boot seguro do UEFI)
-
 2. Crie um “par de chaves X.509”:
 
     `openssl req -new -x509 -newkey rsa:2048 -keyout vboxdrv.priv -outform DER -out vboxdrv.der -nodes -days 36500 -subj "/CN=MySelf/"`
@@ -40,7 +39,6 @@ Siga os 5 passos abaixo:
     `sudo /usr/src/linux-headers-$(uname -r)/scripts/sign-file sha256 ./vboxdrv.priv ./vboxdrv.der $(modinfo -n vboxdrv)`
 
 4. Importe a chave pública gerada com: sudo mokutil -import vboxdrv.der
-
 5. Reinicie e siga as telas que aparecerem durante o boot do UEFI para registrar a nova chave. Este procedimento é permanente, então deve ser feito somente uma vez.
 
 ###   Dica adicional

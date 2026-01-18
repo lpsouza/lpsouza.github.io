@@ -27,11 +27,8 @@ Este é um problema que estava se tornando recorrente desde que troquei da GVT p
 Então como tive recentemente problemas ao sincronizar um git que fiz entre servidores, resolvi verificar se alguém mais teve este problema, e achei! Neste post ["Problema NET Virtua tranca SSH"](http://www.delete.com.br/problema-net-virtua-tranca-ssh/) ele explica que o problema está na NET que derruba conexões que ficam "ociosas" (Idle) e temos que enviar um "pacote de vida" (Keep Alive). Ele explica em Linux, mas veremos no mundo Windows como fazer:
 
 * Coloque o seu host de acesso ou dê load em um salvo
-
 * Vá em "connection" e lá veja a opção "Seconds between keepalives (0 to turn off)" e coloque 60
-
 * Clique em "Open"
-
 * Pronto! 🙂
 
 ![Putty](/assets/2015-01-31-problema-net-virtua-e-o-ssh-resolvido/putty.png)

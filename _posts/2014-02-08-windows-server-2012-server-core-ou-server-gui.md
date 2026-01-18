@@ -37,15 +37,12 @@ Como faz isso? PowerShell!
 Para fazer essas mudanças, podemos usar os comandos Install-WindowsFeature e Uninstall-WindowsFeature, junto com as features abaixo:
 
 * _Server-Gui-Mgmt-Infra_: Interface Mínima do Servidor
-
 * _Server-Gui-Shell_: Interface básica desktop
-
 * _Desktop-Experience_: Interface com experiência do usuário (fica quase como um Windows 8)
 
 Então, os comandos ficam:
 
 * Server Core: _Uninstall-WindowsFeature Server-Gui-Mgmt-Infra -Restart_
-
 * Server GUI: _Install-WindowsFeature Server-Gui-Mgmt-Infra,Server-Gui-Shell -Restart_
 
 E está aí, agora podemos usar o modo Server GUI para instalar tudo que precisa e depois mudar para o modo Server Core! Microsoft a cada atualização está melhorando mais! (Daí é eu postar isso, uma atualização do Windows Update me detona a instalação! - Brincadeira!) 😛

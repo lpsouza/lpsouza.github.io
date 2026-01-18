@@ -31,11 +31,8 @@ Outro fato que vi, foi quando acompanhei um cliente de hospedagem colocando seu 
 Trocando para WordPress, eu ganho muita facilidade no gerenciamento do conteúdo. Veja uma pequena lista:
 
 * Fácil criação: Clica em página e coloca uma página nova no menu, automaticamente;
-
 * Widgets: Muito mais simples de mexer do que com os blocos do Joomla;
-
 * Plugins: Mais simples e mais diretos;
-
 * Mobilidade: Tanto no acesso (plugins próprios e bem melhores) quanto na publicação (clientes até para smartphone).
 
 Essas são as mais marcantes para mim. Vou começar os testes de uma versão WordPress da IHCenter para logo!

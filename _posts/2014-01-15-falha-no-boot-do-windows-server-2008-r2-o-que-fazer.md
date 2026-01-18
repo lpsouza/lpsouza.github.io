@@ -26,13 +26,9 @@ Olha uma coisa que eu estou sofrendo de ontem pra cá é isso - Problema de boot
 Desde ontem as 21hs até agora, estou lendo diversos blogs, tutoriais de ajuda e fóruns sobre o assunto e vi que existem algumas diversas ferramentas para a correção de problemas de boot em sistemas operacionais da linha server e client. Deixo abaixo algumas das mais importantes que achei:
 
 * Bootrec /FixMbr = Corrige o MBR (Master Boot Record).
-
 * Bootrec /FixBoot = Corrige os arquivos de boot.
-
 * Bootsect /nt60 all /force = Força a criação do setor de boot em todos os discos.
-
 * Bootrec /RebuildBcd = Recria todos os arquivos de boot.
-
 * StartRep = Inicia um wizard que faz diversas analises no sistema de boot, desde os arquivos até chamadas no registro do computador.
 
 Lembro que como você não consegue inicializar o disco, deve usar o DVD de instalação do sistema operacional, usando a opção de reparação e a opção de prompt.

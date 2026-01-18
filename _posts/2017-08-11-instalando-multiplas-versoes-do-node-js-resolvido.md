@@ -28,21 +28,13 @@ Ok, mas será que não existe um meio mais fácil?!?? Para usuários Linux e Mac
 Como instalar:
 
   1. Remova qualquer versão do Node previamente instalada no seu computador;
-
   2. Instale o NVM:
-
       * Windows: instale [esta versão](https://github.com/coreybutler/nvm-windows/releases);
-
       * Linux:
-
           1. Instale o build-essential: `sudo apt-get update; sudo apt-get install build-essential`
-
           2. Instale o NVM via wget: `wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash`
-
       * MAC:
-
           1. Instale o NVM via brew: `brew update; brew install nvm`
-
   3. É só usar! 😉
 
 Agora é hora de instalar as versões, para isso use o comando: `nvm install <versao-do-node>` e para usar: `nvm use <versao-do-node>.`
@@ -52,5 +44,4 @@ E era isso!
 Esta solução foi baseada neste dois links abaixo:
 
 * <https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/>
-
 * <http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/>

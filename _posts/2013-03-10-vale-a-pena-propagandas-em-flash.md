@@ -33,7 +33,6 @@ Se observarmos na internet, o Flash é usado direto em campanhas de marketing, e
 Nas primeiras versões dele, o peso do arquivo era um problema claro. Mas nas últimas versões, isso não é mais uma realidade. Mas a questão de não usar vai mais alem, duas razões:
 
   1. Ele normalmente não é indexado no Google;
-
   2. Dependendo do dispositivo, ele não abre (porque precisa de plugin, ou porque não tem suporte).
 
 ###   Um estudo de caso (o que me levou a este post)
@@ -59,7 +58,6 @@ Mas e os navegadores que usam versões anteriores? Aí entra todo um trabalho de
 Alguns scripts de configuração de publicidade com jQuery:
 
 * [Loading Banner Advertisements with Jquery](http://www.9lessons.info/2010/04/load-banner-advertisement-with-jquery.html)
-
 * [15 jQuery slideshow/gallery plugins](http://www.webanddesigners.com/15-jquery-slideshow-and-plugins/) (Slideshows são legais para passar diversos clientes ou diversos produtos)
 
 E por aí vai! Faça uma busca no [Google](http://www.google.com)!

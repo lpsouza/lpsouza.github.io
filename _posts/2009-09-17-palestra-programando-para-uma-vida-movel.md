@@ -41,11 +41,8 @@ title: 'Palestra: Programando para uma vida móvel'
 Hoje eu estive no Colégio Cenecista aqui da cidade de Novo Hamburgo - RS, dando uma palestra sobre mobilidade e alguns conceitos interessantes foram comentados:
 
 * O caminho da evolução móvel
-
 * Tecnologias de hoje e um pouco do amanhã
-
 * Facilidades da rede móvel: JoikuSpot, Twibble, Qik, [Google Mobile](http://m.google.com) e [QRCodes](http://qrcode.kaywa.com/)
-
 * Programação em PHP para celulares usando o PAMP
 
 Uma pena que são tantos assuntos para pouco tempo. Mas acredito que os alunos devem ter entendido o recado:  **Não importa a sua profissão, a vida móvel só ajuda a sua vida! Não importa se és um técnico em TI, uma pessoa que trabalha com fotos, um repórter, uma empresa de transportes.**

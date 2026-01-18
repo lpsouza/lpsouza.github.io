@@ -25,9 +25,7 @@ Bom, aqui estou para novamente falar sobre Hyper-V e sua placas que surgem "magi
 Mas como não sou de ficar parado quanto aos "porquês" da infra ou do desenvolvimento... Hoje, brincando com o meu Docker, resolvi ir a fundo e descobrir porque quando temos Docker e Hyper-V, ele sai configurando tanta placa de rede! Para começar, temos basicamente 3 placas de rede virtuais criadas quando falamos da dupla Docker e Hyper-V:
 
 * **vEthernet (Opção Padrão)** ou **vEthernet (Default Switch)**: Placa de rede virtual criada pelo Hyper-V quando habilitado no [Windows 10 Fall Creators Update (versão 1709)](https://blogs.technet.microsoft.com/virtualization/2017/11/13/whats-new-in-hyper-v-for-windows-10-fall-creators-update/) que serve basicamente para facilitar o uso do NAT em VMs criadas no Hyper-V. Não pode ser apagada ou renomeada!
-
 * **vEthernet (nat)**: Aí começa as confusões... Esta placa é criada pelo Docker, quando usamos na opção **Windows Containers**, para uso dos containers.
-
 * **vEthernet (DockerNAT)**: Esta também é uma placa criada pelo Docker, mas agora quando usamos a opção **Linux Containers**, para uso dos containers.
 
 Para finalizar, vale comentar que quando alternamos entre **Linux Containers** e **Windows Containers**, a placa de rede vEthernet (DockerNAT) pode ser criada ou deletada de forma dinâmica (junto com a VM Linux), enquanto a vEthernet (nat) uma vez criada, permaneces no computador e não adianta deletar! Enquanto usar Docker, ela sempre volta! 😛

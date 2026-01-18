@@ -25,9 +25,7 @@ Mas vamos lá, quando lemos um livro (físico ou no kindle), estamos acostumados
 Com isso apresento o meu novo tema, criado por mim e então até o momento sem nome ainda. Aceito sugestões! 😅 Este tema pensou em basicamente três coisas:
 
 1. Ser fácil de eu administrar
-
 2. Ser em "dark mode"
-
 3. Ser "gostoso de ler" em qualquer dispositivo
 
 Com isso as escolhas foram usar o [Bootstrap](https://getbootstrap.com/) e um CSS personalizado para criar o "dark mode" (na realidade um SCSS). Todos os códigos são visiveis no meu projeto do GitHub, o [lpsouza.github.io](https://github.com/lpsouza/lpsouza.github.io).

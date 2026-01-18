@@ -21,25 +21,15 @@ Desde a atualização do meu Ubuntu para o 12.04 eu perdi a barbada de mexer na 
 Bom, na realidade dá pra fazer muito mais coisas do que alem do login. Citando algumas:
 
 * Ver as informações básicas
-
 * Controle de sessão
-
 * Controle dos programas que inicializam automaticamente
-
 * Instalação fácil das aplicações populares
-
 * Limpeza de pacotes não necessários ou cache para liberar espaço em disco
-
 * Mostrar/Esconder e Mudar a Splash screen
-
 * Mostrar/Esconder icones do desktop ou volumes montados
-
 * Mostrar/Esconder/Renomear icones do Computador, Home, Lixeira ou Rede
-
 * Diversos efeitos no Compiz
-
 * Configurações do Nautilus
-
 * etc...
 
 Lembro que peguei essas informações no site oficial: [http://ubuntu-tweak.com](http://ubuntu-tweak.com)

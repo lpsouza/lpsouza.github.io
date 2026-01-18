@@ -24,9 +24,7 @@ Notei que 2022 foi um ano um tanto [sabático](https://www.dicio.com.br/sabatico
 Se eu analisar o meu ano acredito que passei batido por algumas conquistas que queria ter alcançado, vide por exemplo:
 
 - Queria ter dado mais atenção ao meu blog (escrever mais);
-
 - Começado a fazer vídeos (para o YouTube) com tutoriais e dicas na área de TI;
-
 - Focar em fazer alguns cursos e certificações.
 
 Mas claro que se analisar no geral o meu ano foi bom, obtive conquistas principalmente pessoais muito legais e tive acredito que um tempo considerável para estar mais com a família e com os amigos, e isso é muito bom também. Acho que se posso colocar o meu ano como produtivo, posso dizer que foi no sentido pessoal. Mas sabe quando mesmo “tudo dando certo” tu ainda poderias ter feito mais?

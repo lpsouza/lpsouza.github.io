@@ -47,7 +47,6 @@ Deny from env=legacy
 Enfrentei alguns problemas ao usar essas configurações e vou relatar aqui pra vocês (até para ver se vai mesmo valer a pena para você o uso dela):
 
 * Aconteceu um falso-positivo com browsers móveis (no meu caso aconteceu basicamente com Androids). Depois de analisar o log do servidor, vi que o problema era na linha do Safari (é, do Safari olha só) e ajustei mudando de `BrowserMatchNoCase SafariD+(?:[0-4]+|d?53[0-3].[d.]*) legacy=safari` para `BrowserMatchNoCase SafariD+(?:[0-4]+|d?53[0-2].[d.]*) legacy=safari`.
-
 * Outro problema que aconteceu, e esse realmente não obtive muito resultado, foi quando o browser (acontece principalmente com o Internet Explorer) está com algum malware ou programa de terceiros que modificam o User-Agent do browser para outra versão. Muitas vezes nem reinstalando a versão mais recente resolve. Neste caso eu arrumava trocando o browser com problema por outro (ex: de Internet Explorer para Chrome ou Firefox).
 
 Para meu caso que recebia muito DOS provindo de sistemas que usavam User-Agent mais antigo, resolveu bem direitinho!

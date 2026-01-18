@@ -35,11 +35,8 @@ Se acessarem neste momento, somente o site [https://luizsouza.com](https://luizs
 O que vai ter de mais nele?
 
 * Hospedagem personalizada (porque a internet anda muito "padrão" e deixando clientes especiais na mão);
-
 * softwares desenvolvidos por minha pessoa (adoro desenvolver programas voltados a web e para realidades especificas);
-
 * Educação na informática (EAD, cursos, palestras e etc.)
-
 * E mais algumas coisas...
 
 Bom pessoal, o papo tá bom, mas vou curtir mais um pouco do meu feriado aqui em Brasília! Pra que fica, uma feliz páscoa! 🙂

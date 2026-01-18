@@ -27,7 +27,6 @@ Depois de uns minutos “na fossa” devido a isso, me ocorreu uma nova ideia: o
 Sim, parece que andei até aqui para nada não? Pois não foi não, o OneDrive tem duas opções de recuperação de arquivos alterados ou deletados bem legais:
 
 - [Versionamento do arquivo](https://support.microsoft.com/pt-br/office/restaurar-uma-vers%c3%a3o-anterior-de-um-arquivo-armazenado-no-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893?ui=pt-br&rs=pt-br&ad=br): ele faz um backup das versões anteriores dos arquivos, conforme são alterados
-
 - [Lixeira](https://support.microsoft.com/pt-br/office/restaurar-arquivos-ou-pastas-exclu%C3%ADdos-no-onedrive-949ada80-0026-4db3-a953-c99083e6a84f): Sim, qualquer arquivo na nuvem do OneDrive deletado fica por um tempo em uma lixeira.
 
 E graças a essas duas opções consegui não apenas achar o arquivo que havia sido substituído e gerado isso, mas voltar a uma versão onde apenas havia terminado a campanha principal e nunca iniciado a história adicional!
