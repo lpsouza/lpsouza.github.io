@@ -45,8 +45,8 @@
 
 @layer components {
   /* Ported from style.scss */
-  #disqus_thread iframe * {
-    @apply text-light;
+  .disqus-placeholder {
+    @apply py-8 text-center text-gray-400 italic border-y border-dashed border-gray-700 mt-8;
   }
 
   .left-menu {

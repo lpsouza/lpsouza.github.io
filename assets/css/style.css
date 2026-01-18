@@ -636,9 +636,15 @@ h3 * {
 
 /* Ported from style.scss */
 
-#disqus_thread iframe * {
-  --tw-text-opacity: 1;
-  color: rgb(248 249 250 / var(--tw-text-opacity));
+/* Ported from style.scss */
+.disqus-placeholder {
+  padding: 2rem 0;
+  text-align: center;
+  color: #9ca3af;
+  font-style: italic;
+  border-top: 1px dashed #374151;
+  border-bottom: 1px dashed #374151;
+  margin-top: 2rem;
 }
 
 .left-menu {
