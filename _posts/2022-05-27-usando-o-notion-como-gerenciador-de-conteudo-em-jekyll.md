@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2022-05-26 23:28:00-03:00
-image: https://luizsouza.com/assets/notion-gerenciador.png
+image: https://luizsouza.com/assets/2022-05-27-usando-o-notion-como-gerenciador-de-conteudo-em-jekyll/notion-gerenciador.png
 last_modified_at: 2023-10-15 01:01:20.314527-03:00
 layout: post
 published: true
@@ -20,7 +20,7 @@ Desde o momento que [migrei meu blog do Wordpress para Jekyll](https://luizsouza
 
 Mas ao mesmo tempo que vi esta beleza, eu sabia dos desafios, pois a página se resume a um [repositório no GitHub e com um monte de arquivos em formato markdown](https://github.com/lpsouza/lpsouza.github.io/tree/main/_posts) que tem a vantagem de ser um “arquivo texto” que se transforma em HTML graças ao poder do Jekyll. Isto quer dizer que não tenho um bom editor WYSIWYG (What You See Is What You Get, ou O que você vê é o que você tem), ou para leigos, o editor que o Wordpress te fornece.
 
-![Editor WYSIWYG clássico do Wordpress.](https://luizsouza.com/assets/wordpress-editor.png)
+![Editor WYSIWYG clássico do Wordpress.](https://luizsouza.com/assets/2022-05-27-usando-o-notion-como-gerenciador-de-conteudo-em-jekyll/wordpress-editor.png)
 
 <span class="caption">Editor WYSIWYG clássico do Wordpress.</span>
 
@@ -38,13 +38,13 @@ Este projeto tem a premissa de:
 
 - Pegar os posts no Notion e criar ou atualizar ele no Jekyll
 
-![Projeto jekyll-notion-sync rodando em modo de desenvoldimento.](https://luizsouza.com/assets/jekyll-notion-sync.png)
+![Projeto jekyll-notion-sync rodando em modo de desenvoldimento.](https://luizsouza.com/assets/2022-05-27-usando-o-notion-como-gerenciador-de-conteudo-em-jekyll/jekyll-notion-sync.png)
 
 <span class="caption">Projeto jekyll-notion-sync rodando em modo de desenvolvimento.</span>
 
 Simples não? Bem, mais ou menos! Além disso temos os dois mundos para fazer conversar, isto é um texto em RichText (como o Notion usa para ser WYSIWYG) precisa converter e virar um arquivo markdown no repositório do Jekyll e vice e versa! Outra questão era o FrontMatter do Jekyll, que precisaria ser atualizado entre ele e o Notion! Quanto a primeira questão foi um trabalhão, mas nada que muito estudo e paciência (famoso tentativas e erros) não ajudem. Fora que tanto a [API do Github](https://docs.github.com/en/rest), quanto a [API do Notion](https://developers.notion.com/) são super bem documentadas e possuem client para NodeJS! A segunda questão foi uma questão de analisar a ideia do Notion sobre o que seriam as propriedades do banco de dados e fazer isso ser os valores do FrontMatter!
 
-![Exemplo das propriedades no meu Notion que se transformam no FrontMatter no Jekyll.](https://luizsouza.com/assets/propriedades-notion.png)
+![Exemplo das propriedades no meu Notion que se transformam no FrontMatter no Jekyll.](https://luizsouza.com/assets/2022-05-27-usando-o-notion-como-gerenciador-de-conteudo-em-jekyll/propriedades-notion.png)
 
 <span class="caption">Exemplo das propriedades no meu Notion que se transformam no FrontMatter no Jekyll.</span>
 
