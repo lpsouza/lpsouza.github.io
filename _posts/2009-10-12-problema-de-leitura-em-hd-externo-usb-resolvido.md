@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2009-10-12 05:07:00-03:00
-image: https://luizsouza.com/assets/2009-10-12-problema-de-leitura-em-hd-externo-usb-resolvido/tela-chkdsk.png
+image: /assets/2009-10-12-problema-de-leitura-em-hd-externo-usb-resolvido/tela-chkdsk.png
 last_modified_at: 2023-10-15 01:01:20.227798-03:00
 layout: post
 published: true

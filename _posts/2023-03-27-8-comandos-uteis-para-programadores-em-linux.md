@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2023-03-26 21:19:00-03:00
-image: https://luizsouza.com/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/tmux-command.png
+image: /assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/tmux-command.png
 last_modified_at: 2023-10-15 01:01:20.316112-03:00
 layout: post
 published: true
@@ -26,7 +26,7 @@ Eu uso diversos comandos / programas para me auxiliar no dia a dia, então puxei
 
 **Por que eu uso?** Facilitar meu uso do prompt de comando e porque não usar algo que me permite olhar arquivos compactados (como fazemos normalmente nas interfaces gráficas) ou simplesmente acessando arquivos remotos usando FTP? Uso essa ferramenta desde meu início com Linux e simplesmente adoro a praticidade dela!
 
-![Este é o comando `mc` mostrando na esquerda meu diretório `/` e a direita a conexão ao site da minha esposa via FTP.](https://luizsouza.com/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/mc-command.png)
+![Este é o comando `mc` mostrando na esquerda meu diretório `/` e a direita a conexão ao site da minha esposa via FTP.](/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/mc-command.png)
 
 Este é o comando `mc` mostrando na esquerda meu diretório `/` e a direita a conexão ao site da minha esposa via FTP.
 
@@ -36,7 +36,7 @@ Este é o comando `mc` mostrando na esquerda meu diretório `/` e a direita a co
 
 **Por que eu uso?** Vai de encontro com o mesmo princípio que uso o `mc`: é muito prático visualizar de forma “gráfica” informações do computador. Entender se o que estou rodando em testes o que afeta no uso do computador e ainda tenho o controle de inclusive matar alguma aplicação, em caso de algo que tenha travado no computador!
 
-![Muito mais prático entender como o computador está funcionando em tempo real com o comando `htop`.](https://luizsouza.com/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/htop-command.png)
+![Muito mais prático entender como o computador está funcionando em tempo real com o comando `htop`.](/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/htop-command.png)
 
 Muito mais prático entender como o computador está funcionando em tempo real com o comando `htop`.
 
@@ -46,7 +46,7 @@ Muito mais prático entender como o computador está funcionando em tempo real c
 
 **Por que eu uso?** Esse é um dos comandos mais usados por mim, desde coisa simples como download de arquivos a testes de chamadas a APIs e chegando a uso com diversos scripts para algumas automações!
 
-![Comando `curl` obtendo informações da SWAPI.](https://luizsouza.com/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/curl-command.png)
+![Comando `curl` obtendo informações da SWAPI.](/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/curl-command.png)
 
 Comando `curl` obtendo informações da SWAPI.
 
@@ -56,7 +56,7 @@ Comando `curl` obtendo informações da SWAPI.
 
 **Por que eu uso?** Esse comando é parceiro direto do comando anterior, o `curl`, isso porque como ele faz o parser do JSON para o terminal, uso direto para fazer alguma automação ou obter o resultado para um teste. É simplesmente lindo!
 
-![Comparando com a tela anterior (do `curl`), olha como ficou mais simples de obter uma informação do JSON de resposta com o uso do `jq`.](https://luizsouza.com/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/jq-command.png)
+![Comparando com a tela anterior (do `curl`), olha como ficou mais simples de obter uma informação do JSON de resposta com o uso do `jq`.](/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/jq-command.png)
 
 Comparando com a tela anterior (do `curl`), olha como ficou mais simples de obter uma informação do JSON de resposta com o uso do `jq`.
 
@@ -86,7 +86,7 @@ O `nano` é um editor de texto simples e fácil de usar no terminal do Linux. El
 
 **Por que eu uso?** Agora começa a polêmica (ou não). Digo isso mais porque vocês vão ouvir falar muito de outro editor famoso que é o `vim`. Sinceramente eu concordo que entre `nano` e `vim` o segundo é bem mais poderoso (plugins, configurações, etc.), mas o `nano` não perde no quesito “fácil e funcional”. Por que digo isso? Porque quando preciso de um editor para rapidamente olhar ou modificar um arquivo, ele, sem plugins ou configurações especiais, entrega uma interface clean, mas completamente funcional para qualquer usuário que queira usar. Deixemos a briga de lado, tem editor em terminal para todos os gostos! 😅
 
-![Reparem que se compararmos com o `vim`, o `nano` possui uma interface mais amigável e fácil de entender (e caso não tenha entendido de primeira, o `^` é a abreviação da tecla `Ctrl`).](https://luizsouza.com/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/nano-command.png)
+![Reparem que se compararmos com o `vim`, o `nano` possui uma interface mais amigável e fácil de entender (e caso não tenha entendido de primeira, o `^` é a abreviação da tecla `Ctrl`).](/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/nano-command.png)
 
 Reparem que se compararmos com o `vim`, o `nano` possui uma interface mais amigável e fácil de entender (e caso não tenha entendido de primeira, o `^` é a abreviação da tecla `Ctrl`).
 
@@ -96,7 +96,7 @@ Reparem que se compararmos com o `vim`, o `nano` possui uma interface mais amig�
 
 **Por que eu uso?** Esse é o meu melhor amigo quando preciso trabalhar com uma tela de terminal e preciso ser multi tarefa. Facilmente podemos inclusive configurar o uso do mouse para termos coisas como menu suspenso com o botão direito ou rolagem com o scroll do mouse. Simplesmente muito prático!
 
-![Aqui temos o `tmux` rodando com duas telas (rodando o `htop` de um lado e o `mc` do outro.](https://luizsouza.com/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/tmux-command.png)
+![Aqui temos o `tmux` rodando com duas telas (rodando o `htop` de um lado e o `mc` do outro.](/assets/2023-03-27-8-comandos-uteis-para-programadores-em-linux/tmux-command.png)
 
 Aqui temos o `tmux` rodando com duas telas (rodando o `htop` de um lado e o `mc` do outro.
 

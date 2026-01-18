@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2014-02-08 18:39:00-02:00
-image: https://luizsouza.com/assets/2014-02-08-windows-server-2012-server-core-ou-server-gui/IC2357571.png
+image: /assets/2014-02-08-windows-server-2012-server-core-ou-server-gui/IC2357571.png
 last_modified_at: 2023-10-15 01:01:20.292696-03:00
 layout: post
 published: true

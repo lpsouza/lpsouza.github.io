@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2014-09-03 08:54:00-03:00
-image: https://luizsouza.com/assets/2014-09-03-ics-internet-connection-sharing-alteracao-dos-ips-padrao/enabling-ics-windows-7.png
+image: /assets/2014-09-03-ics-internet-connection-sharing-alteracao-dos-ips-padrao/enabling-ics-windows-7.png
 last_modified_at: 2023-10-15 01:01:20.295576-03:00
 layout: post
 published: true

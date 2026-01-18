@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2016-01-11 21:53:00-02:00
-image: https://luizsouza.com/assets/2016-01-11-chrome-exe-com-erro-0xc0000018-resolvido/chrome-error1.jpg
+image: /assets/2016-01-11-chrome-exe-com-erro-0xc0000018-resolvido/chrome-error1.jpg
 last_modified_at: 2023-10-15 01:01:20.301784-03:00
 layout: post
 published: true

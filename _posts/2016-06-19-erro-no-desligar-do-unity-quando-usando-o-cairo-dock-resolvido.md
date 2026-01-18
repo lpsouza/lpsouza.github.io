@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2016-06-18 22:39:00-03:00
-image: https://luizsouza.com/assets/2016-06-19-erro-no-desligar-do-unity-quando-usando-o-cairo-dock-resolvido/Captura-de-tela-de-2016-06-19-012450-1200x675.png
+image: /assets/2016-06-19-erro-no-desligar-do-unity-quando-usando-o-cairo-dock-resolvido/Captura-de-tela-de-2016-06-19-012450-1200x675.png
 last_modified_at: 2023-10-15 01:01:20.302315-03:00
 layout: post
 published: true

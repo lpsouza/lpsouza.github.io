@@ -2,7 +2,7 @@
 author: Luiz Pereira de Souza Filho
 category: Tech
 date: 2017-12-13 21:52:00-02:00
-image: https://luizsouza.com/assets/2017-12-13-problema-ao-apagar-switch-virtual-no-hyper-v-resolvido/erro-deletando-vmswitch.png
+image: /assets/2017-12-13-problema-ao-apagar-switch-virtual-no-hyper-v-resolvido/erro-deletando-vmswitch.png
 last_modified_at: 2023-10-15 01:01:20.306553-03:00
 layout: post
 published: true
