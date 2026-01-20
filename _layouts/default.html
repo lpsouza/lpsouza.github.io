@@ -7,10 +7,10 @@
     {% endif %}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
-    {% if page.layout == "post" %}
     {% include og.html %}
-    {% endif %}
 
     {% if page.layout == "post" %}
     <title>{{ page.title }} - {{ site.title }}</title>
@@ -24,66 +24,82 @@
     <script src="https://kit.fontawesome.com/720e927f0e.js" crossorigin="anonymous"></script>
 </head>
 
-<body class="bg-dark text-light">
-    <div class="container mx-auto px-4">
-        <!-- Mobile Navbar (Visible < LG) -->
-        <nav class="lg:hidden py-4 border-b border-gray-700 mb-4">
-            <div class="flex items-center justify-between">
-                <div class="site-info flex items-center">
-                    <div class="flex-shrink-0">
-                        <img src="{{ site.author.photo }}" class="rounded-full w-12 h-12">
-                    </div>
-                    <div class="ml-3">
-                        <h1 class="text-xl font-bold m-0 leading-tight">
-                            <a href="/" class="text-light no-underline hover:text-gray-300">{{ site.title }}</a>
-                        </h1>
-                        <p class="text-sm text-gray-400 m-0">{{ site.description }}</p>
-                    </div>
-                </div>
+<body class="bg-dark text-light font-sans leading-normal tracking-normal flex flex-col min-h-screen">
 
-                <!-- Checkbox Hack for Mobile Menu -->
-                <label for="nav-toggle" class="cursor-pointer p-2 border border-gray-600 rounded text-gray-400 hover:text-white hover:border-white">
-                    <i class="fas fa-bars fa-lg"></i>
-                </label>
+    <!-- Top Navigation Bar -->
+    <nav class="bg-dark/60 backdrop-blur-md border-b border-white/10 text-white p-4 shadow-md sticky top-0 z-50">
+        <div class="container mx-auto flex flex-wrap items-center justify-between">
+            <div class="flex items-center">
+                <a class="text-white no-underline hover:text-white hover:no-underline" href="/">
+                    <span class="text-2xl font-bold uppercase tracking-wider {% if page.layout == 'home' %}hidden{% endif %}">{{ site.title }}</span>
+                </a>
             </div>
-            
-            <input type="checkbox" id="nav-toggle" class="hidden peer">
-            
-            <div class="hidden peer-checked:block mt-4 w-full" id="navbarSupportedContent">
-                <form action="/search/" method="get" class="flex w-full">
-                    <input type="text" name="s" class="form-control w-full bg-light text-dark border-0 p-2 rounded" placeholder="Busca">
-                </form>
-            </div>
-        </nav>
 
-        <div class="flex flex-wrap">
-            <!-- Sidebar (Visible >= LG) -->
-            <div class="left-menu hidden lg:block w-full lg:w-3/12 pr-8">
-                <img class="photo mx-auto" src="{{ site.author.photo }}">
-                <h1 class="title mt-4"><a href="/">{{ site.title }}</a></h1>
-                <p class="description text-gray-400 mb-4">{{ site.description }}</p>
-                {% include social.html %}
-                <div class="mt-4">
-                    <form action="/search/" method="get">
-                        <input type="text" name="s" id="search-box" class="w-full bg-light text-dark border-0 p-2 rounded" placeholder="Buscar no site">
+            <!-- Mobile Menu Button -->
+            <div class="block lg:hidden">
+                <button id="nav-toggle" class="flex items-center px-3 py-2 border rounded text-gray-500 border-gray-600 hover:text-white hover:border-white">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+
+            <!-- Navbar Links (Search + Links) -->
+            <div class="w-full flex-grow lg:flex lg:items-center lg:w-auto hidden pt-6 lg:pt-0" id="nav-content">
+                <div class="lg:flex-grow"></div>
+                <div class="flex items-center justify-center lg:justify-end w-full lg:w-auto">
+                    <form action="/search/" method="get" class="w-full lg:w-auto mr-0 lg:mr-4">
+                        <input type="text" name="s" class="w-full lg:w-64 bg-gray-800 text-white border border-gray-700 rounded-full px-4 py-3 lg:py-2 text-base lg:text-sm focus:outline-none focus:border-primary" placeholder="Buscar...">
                     </form>
+                    <!-- Add additional links here if needed in the future -->
                 </div>
-                <!-- 
-                <ul class="nav flex-column mt-4">
-                    <li class="nav-item"><a class="nav-link" href="#">Link</a></li>
-                </ul> 
-                -->
-                <p class="copyright text-gray-500 text-sm mt-8">© 2009 - {{ "now" | date: "%Y" }}</p>
             </div>
+        </div>
+    </nav>
 
-            <!-- Main Content -->
-            <div class="w-full lg:w-9/12">
-                {{ content }}
+    <!-- Hero Section (Visible only on Home) -->
+    {% if page.layout == "home" %}
+    <div class="w-full bg-primary text-white border-b border-gray-200">
+        <div class="container mx-auto px-4 py-6 md:py-8 flex flex-col md:flex-row items-center">
+            <!-- Image -->
+            <div class="md:w-1/3 flex justify-center mb-4 md:mb-0">
+                 <img src="{{ site.author.photo }}" class="w-32 h-32 md:w-48 md:h-48 rounded-full border-4 border-white shadow-xl object-cover hover:scale-105 transition-transform duration-300">
+            </div>
+            <!-- Content -->
+            <div class="md:w-2/3 text-center md:text-left md:pl-10">
+                <span class="block text-lg md:text-2xl font-light text-gray-200 mb-1">Olá, eu sou</span>
+                <h1 class="text-3xl md:text-6xl font-bold mb-2 md:mb-4 tracking-tight leading-tight">{{ site.author.name}}</h1>
+                <p class="text-base md:text-2xl font-light opacity-90 mb-4 md:mb-6 leading-relaxed max-w-2xl mx-auto md:mx-0">
+                   {{ site.description }}
+                </p>
+                <div class="flex justify-center md:justify-start">
+                    {% include social.html %}
+                </div>
             </div>
         </div>
     </div>
+    {% endif %}
+
+    <!-- Main Content Container -->
+    <div class="container mx-auto px-4 py-8 flex-grow max-w-5xl">
+        {{ content }}
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-dark text-gray-400 py-6 mt-8">
+        <div class="container mx-auto px-4 text-center">
+            <p class="mb-2">© 2009 - {{ "now" | date: "%Y" }} {{ site.title }}</p>
+            <p class="text-sm">{{ site.description }}</p>
+            <div class="mt-4 flex justify-center">
+               {% include social.html %}
+            </div>
+        </div>
+    </footer>
 
     <script id="dsq-count-scr" src="https://{{ site.disqus.shortname }}.disqus.com/count.js" async></script>
+    <script>
+        document.getElementById('nav-toggle').onclick = function() {
+            document.getElementById('nav-content').classList.toggle('hidden');
+        }
+    </script>
 </body>
 
 </html>

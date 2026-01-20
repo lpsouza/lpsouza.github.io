@@ -20,6 +20,8 @@ layout: default
             {{ page.content }}
         </div>
     </div>
+    
+    {% include author-box.html %}
 
     {% if site.disqus.shortname %}
     {% include disqus_comments.html %}
