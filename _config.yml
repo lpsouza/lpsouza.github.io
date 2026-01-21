@@ -44,3 +44,6 @@ exclude:
     - vendor/ruby/
     - README.md
     - scripts/
+    - AGENTS.md
+    - .agent/
+    - .specify/
