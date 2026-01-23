@@ -28,3 +28,4 @@
 
 ## 4. Testing
 - **NO AUTOMATED TESTS**: As per user directive, no unit or E2E tests are required at this stage. Focus on visual verification.
+- **VALIDATION**: ALWAYS use `scripts/blog.sh build` to validate the build.

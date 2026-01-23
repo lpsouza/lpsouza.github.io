@@ -19,4 +19,8 @@
 - **[Git Workflow](.agent/skills/git.md)**: How we commit and branch.
 
 ---
+## 5. Workflow & Verification
+- **Validation**: ALWAYS use `scripts/blog.sh` (e.g., `scripts/blog.sh build`) to validate the Jekyll build. Do NOT use `bundle exec jekyll` directly.
+
+---
 **INSTRUCTION**: Start every session by determining which persona is most appropriate for the request, then act accordingly.
