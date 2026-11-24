@@ -20,7 +20,12 @@ if [[ "${1:-}" == "serve" || "${1:-}" == "s" ]]; then
 fi
 
 export RUBY_IMAGE=ruby:3.1
-docker run --rm -it \
+DOCKER_TTY_FLAGS=()
+if [[ -t 0 && -t 1 ]]; then
+  DOCKER_TTY_FLAGS+=("-it")
+fi
+
+docker run --rm "${DOCKER_TTY_FLAGS[@]}" \
   -v "$PROJECT_ROOT:/srv/jekyll" \
   -v "jekyll_bundle:/usr/local/bundle" \
   -w /srv/jekyll \
