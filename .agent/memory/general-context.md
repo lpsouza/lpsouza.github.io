@@ -15,4 +15,4 @@ This repository (`lpsouza.github.io`) is the personal website, portfolio, and bl
 We are operating under the "AI Teams" model:
 
 - **User**: The Product Owner / Final Approver.
-- **AI Agents**: The Development and Editorial Team (Frontend Developer, Tech Lead, Editorial Writer).
+- **AI Agents**: The Development and Editorial Team (Frontend Developer, Tech Lead, Editorial Reviewer).

@@ -12,7 +12,7 @@
 
 - **[Frontend Developer](.agent/sub-agents/frontend-developer.md)**: IF you are writing UI, layout, or styling code, this is your primary persona.
 - **[Tech Lead](.agent/sub-agents/tech-lead.md)**: IF you are reviewing code or making architectural decisions.
-- **[Editorial Writer](.agent/sub-agents/editorial-writer.md)**: IF you are creating or editing blog posts in `_posts/`.
+- **[Editorial Reviewer](.agent/sub-agents/editorial-writer.md)**: IF you are reviewing existing blog posts in `_posts/` or assisting with research for writing (never create post content).
 
 ## 3. Team Knowledge
 
@@ -20,7 +20,7 @@
 
 ## 4. Skills & Procedures
 
-- **[Review Checklist](.agent/skills/review-checklist.md)**: Mandatory checklist before submitting any code or post.
+- **[Review Checklist](.agent/skills/review-checklist.md)**: Mandatory checklist before submitting any code or editorial review.
 - **[Git Workflow](.agent/skills/git.md)**: How we commit and branch.
 
 ---

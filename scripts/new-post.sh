@@ -50,13 +50,22 @@ EOF
 
 echo "✅ Created new post: $filename"
 
-# Open in VS Code
-if [[ -n "$VSCODE_PID" ]] || [[ "$TERM_PROGRAM" == "vscode" ]]; then
-    # Running inside VS Code terminal - open in same window
-    code "$filename"
-else
-    # Running outside VS Code - open new window
-    code --new-window "$filename"
+# Open in default terminal editor
+editor="${EDITOR:-${VISUAL:-}}"
+if [[ -z "$editor" ]]; then
+    if command -v nvim >/dev/null 2>&1; then
+        editor="nvim"
+    elif command -v vi >/dev/null 2>&1; then
+        editor="vi"
+    elif command -v nano >/dev/null 2>&1; then
+        editor="nano"
+    else
+        echo "❌ Error: No terminal editor found. Set \$EDITOR and open $filename manually."
+        exit 1
+    fi
 fi
 
-echo "🚀 Opened $filename in VS Code"
+read -ra editor_cmd <<< "$editor"
+"${editor_cmd[@]}" "$filename"
+
+echo "🚀 Opened $filename in $editor"

@@ -16,5 +16,5 @@
 
 - [ ] Are `_includes` used for repeated components?
 - [ ] Does the Liquid syntax look correct?
-- [ ] Do modified or new posts follow `.markdownlint.json` and the standard front matter schema?
+- [ ] Do reviewed or modified posts follow `.markdownlint.json` and the standard front matter schema?
 - [ ] Does `./scripts/blog.sh build` pass without errors?
