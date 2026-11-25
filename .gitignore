@@ -4,3 +4,4 @@ _site
 .jekyll-metadata
 .agent/sub-agents/me.md
 scripts/tailwindcss
+tmp/
